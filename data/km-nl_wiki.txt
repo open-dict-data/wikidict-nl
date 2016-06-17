@@ -1,0 +1,1961 @@
+អាហ្វ្រិក	Afrika
+ជប៉ុន	Japan
+អង់គ្លេស	Engeland
+ស្កុតឡែន	Schotland
+វ៉ែល	Wales
+អៀរឡង់ខាងជើង	Noord-Ierland
+សាធារណរដ្ឋអៀរឡង់	Ierland (land)
+ប្រទេសហុងគ្រី	Hongarije
+អេស្ប៉ាញ	Spanje
+សហរដ្ឋអាមេរិក	Verenigde Staten
+ផែនដី	Aarde (planeet)
+ប៊ឺណឺស លី	Tim Berners-Lee
+ស៊ុយអែត	Zweden
+ប្រទេសប៉ូឡូញ	Polen
+អ៊ីតាលី	Italië
+ព័រទុយហ្គាល់	Portugal
+អឺរ៉ុប	Europa (werelddeel)
+អាស៊ី	Azië
+វិគីភីឌា	Wikipedia
+ភីអេចភី	PHP
+ទីក្រុងញូវយ៉ក	New York City
+កុំព្យូទ័រ	Computer
+អ៊ីនធើណេត	Internet
+បារ៉ាក់ អូបាម៉ា	Barack Obama
+ប៉ារីស	Parijs
+អាប្រាហាម លីនខូន	Abraham Lincoln
+ប្រព័ន្ធប្រតិបត្តការ Android	Android (besturingssysteem)
+Google ស្វែងរក	Google Inc.
+ម៉ិកស៊ិក	Mexico (land)
+មហាសមុទ្រអាត្លង់ទិក	Atlantische Oceaan
+មហាសមុទ្រប៉ាស៊ីហ្វិក	Grote Oceaan
+ថ្ងៃច័ន្ទ	Maandag
+ខែមករា	Januari
+ខែកុម្ភៈ	Februari
+ខែមីនា	Maart
+ភពអង្គារ	Mars (planeet)
+ខែមេសា	April
+ខែឧសភា	Mei
+ខែមិថុនា	Juni
+ខែកក្កដា	Juli
+ខែសីហា	Augustus (maand)
+ខែកញ្ញា	September
+ខែតុលា	Oktober
+ខែវិច្ឆិកា	November
+ខែធ្នូ	December
+អង្គារ	Dinsdag
+ថ្ងៃពុធ	Woensdag
+ថ្ងៃព្រហស្បតិ៍	Donderdag
+ថ្ងៃសុក្រ	Vrijdag
+ថ្ងៃសៅរ៍	Zaterdag
+ថ្ងៃអាទិត្យ	Zondag
+សេះ (​អុក​)	Paard (schaken)
+បារាំង	Frankrijk
+សត្វឆ្កែ	Hond
+រាជាណាចក្ររួម	Verenigd Koninkrijk
+ឆ្មា	Kat (dier)
+ភាសាបារាំង	Frans
+ប្រេស៊ីល	Brazilië
+រុស្ស៊ី	Rusland
+ការ៉េ	Vierkant (meetkunde)
+សមុទ្រ	Zee
+អាល្លឺម៉ង់	Duitsland
+ភាសាអាល្លឺម៉ង់	Duits
+ប្រទេសអាយឡែន	IJsland
+ភពសៅរ៍	Saturnus (planeet)
+១ (លេខ)	1 (getal)
+២ (លេខ)	2 (getal)
+៣ (លេខ)	3 (getal)
+៥	5 (getal)
+ចតុកោណកែង	Rechthoek
+មុំកែង	Rechte hoek
+អ៊ុយក្រែន	Oekraïne
+ទីក្រុងរ៉ូម	Rome (stad)
+អាល់បានី	Albanië
+អាស៊ែបៃហ្សង់	Azerbeidzjan
+អង់ដូរ៉ា	Andorra
+សាធារណរដ្ឋកាហ្សាក់ស្ថាន	Kazachstan
+បុរីវ៉ាទីកង់	Vaticaanstad
+គុយបា	Cuba (land)
+ឥណ្ឌូនេស៊ី	Indonesië
+អាហ្វ្រិកខាងត្បូង	Zuid-Afrika
+ប្រវត្តិសង្ខេប ក្រុមតន្រ្តី រ៉ុក linkin park	Linkin Park
+ប្រទេសអាល់ហ្សេរី	Algerije
+ស្រា	Wijn
+ទឹក	Water
+ទូរទស្សន៏	Televisie
+ភាសាអាយឡែន	IJslands
+ឈីលី	Chili
+ព្រះយេស៊ូវ គ្រីស្ទ	Jezus (traditioneel-christelijk)
+ភពពុធ	Mercurius (planeet)
+ប្រវត្តិសាស្ត្រ	Geschiedenis
+ភពសុក្រ	Venus (planeet)
+ភាសា	Taal
+ភពព្រហស្បតិ៍	Jupiter (planeet)
+ភពអ៊ុយរ៉ានុស	Uranus (planeet)
+វិគីភីឌាភាសាអង់គ្លេស	Engelstalige Wikipedia
+ភពណិបទូន	Neptunus (planeet)
+សិង្ហបុរី	Singapore
+ភ្លុយតុង	Pluto (dwergplaneet)
+ហ្វេសប៊ុក	Facebook
+សង្គ្រាមលោកលើកទីមួយ	Eerste Wereldoorlog
+សង្គ្រាមលោកលើកទី២	Tweede Wereldoorlog
+ទំព័រគំរូ:Corruption	Corruptie
+Ubuntu	Ubuntu (Linuxdistributie)
+លីនុច	Linux
+គណិតវិទ្យា	Wiskunde
+បារ៉ែន	Bahrein
+ព្រះចន្ទ	Maan
+អូស្ត្រាលី	Australië (land)
+រូបវិទ្យា	Natuurkunde
+ជីវវិទ្យា	Biologie
+កូរ៉េខាងជើង	Noord-Korea
+ព្រះរាជាណាចក្រកម្ពុជា	Cambodja
+ឌីណូស័រ	Dinosauriërs
+សាសនាឥស្លាម	Islam
+សេរីភាព	Vrede
+សហភាពអឺរ៉ុប	Europese Unie
+ចេក	Banaan (vrucht)
+ណាប៉ូលេអុងបូណាប៉ារត៍	Napoleon Bonaparte
+ព្រះអាទិត្យ	Zon
+ឆ្នាំពន្លឺ	Lichtjaar
+អូសេអានី	Oceanië
+ប្រព័ន្ធព្រះអាទិត្យ	Zonnestelsel
+អុីដ្រូសែន	Waterstof (element)
+ទីម័រខាងកើត	Oost-Timor
+ម៉ុង ប្លុង	Mont Blanc
+សឺរេស	Ceres (dwergplaneet)
+អៀរីស	Eris (dwergplaneet)
+ភព	Planeet
+តន្ត្រី	Muziek
+ភាសាអ៊ីតាលី	Italiaans (taal)
+អាលុយមីញ៉ូម	Aluminium
+នូវែលសេឡង់	Nieuw-Zeeland
+ឥណ្ឌា	India
+អង់ដ្រេ ម៉ារី អំពែរ	André-Marie Ampère
+វីលីម ហ្សេកស្ពែរ	William Shakespeare
+ប៉ាឡាវ	Palau (land)
+ម៉ុងហ្គោលី	Mongolië
+ជេនហ្គិស ខាន់	Dzjengis Khan
+កូឡុំប៊ី	Colombia
+ព្រះពុទ្ធសាសនា	Boeddhisme
+ហ្គាតេម៉ាឡា	Guatemala
+មហាសមុទ្រអាកទិក	Noordelijke IJszee
+អ៊ីរ៉ង់	Iran
+ភាសាប៉ូឡូញ	Pools
+ហ្សកដង់	Jordanië
+កៀហ៊្សីស៊ីស្ថាន	Kirgizië
+គុយវ៉ែត	Koeweit
+ឡាវ	Laos
+លីបង់	Libanon
+ទ្វីបអាមេរិក	Amerika (continent)
+ម៉ាឡេស៊ី	Maleisië
+មីយ៉ាន់ម៉ា	Myanmar
+នេប៉ាល់	Nepal
+ប៉ាគីស្ថាន	Pakistan
+MySQL	MySQL
+អារ៉ាប៊ីសាអូឌីត	Saoedi-Arabië
+ស្រីលង្កា	Sri Lanka
+ផ្លាតូ	Plato
+តាជីគីស្ថាន	Tadzjikistan
+YouTube	YouTube
+អារីស្តូត	Aristoteles
+ថៃ	Thailand
+វិទ្យុ	Radio
+តួរមិនីស្ថាន	Turkmenistan
+វៀតណាម	Vietnam
+កូរ៉េខាងត្បូង	Zuid-Korea
+សាធារណរដ្ឋឥស្លាមអាហ្វហ្កានីស្ថាន	Afghanistan
+ព្រែកជីកស៊ុយអែស	Suezkanaal
+បង់ក្លាដែស្ស	Bangladesh
+សូក្រាត	Socrates (filosoof)
+ធ្វិតថឺរ	Twitter
+ប៊្រុយណេ	Brunei
+ហ្វីលីពីន	Filipijnen
+អ៊ីសាក់ ញូតុន	Isaac Newton
+OpenStreetMap	OpenStreetMap
+អាល់បឺត អែងស្តែង	Albert Einstein
+ប្រទេសហ្សំប៊ី	Zambia
+ប៉េកាំង	Peking
+មហាត្មះគន្ធី	Mohandas Karamchand Gandhi
+ឆាលែស ដាវីន	Charles Darwin
+ជូលីស៍ សេសារ	Julius Caesar
+ឥន្ទធនូ	Regenboog (optica)
+អង្គការសហប្រជាជាតិ	Verenigde Naties
+ភូមិវិទ្យា	Aardrijkskunde
+ទីក្រុងប្រាក	Praag
+បន្ទុកអគ្គីសនី	Elektrische lading
+ខេត្តជើងភ្នំ (ប្រទេសអ៊ីតាលី)	Piëmont
+មហាសមុទ្រឥណ្ឌា	Indische Oceaan
+អូសាម៉ា ប៊ីន ឡាឌែន	Osama bin Laden
+ភាសាអេស្ប៉ាញ	Spaans
+ភីឡាដេលផ្យា	Philadelphia (Pennsylvania)
+ញូវយ៉ក	New York (staat)
+វ្លាឌីមៀរ អ៊ីលីច លេនីន	Vladimir Lenin
+អូហ្គុសទុស	Imperator Caesar Augustus
+លោកកៃយុសសេសារ	Caligula
+ត្រាហ្សាន	Trajanus
+Kde	KDE
+កូរ៉ាស៊ូន អាគីណូ	Corazon Aquino
+ទីក្រុងតូខ្យូ	Tokio
+ហ្វឺឌីណាន់ដ៏ ម៉ាហ្សេឡង់	Ferdinand Magellaan
+ស៊ីសេរ៉ូ	Marcus Tullius Cicero
+ភ្នំពេញ	Phnom Penh
+ទីក្រុងព្រៃនគរ	Ho Chi Minhstad
+ទីក្រុងហានូយ	Hanoi
+គ្រិស្តសាសនា	Ware Jezuskerk
+ភាសាអង់គ្លេស	Engels
+គូឡាឡាំពួ	Kuala Lumpur
+២០០១	2001
+JavaScript	JavaScript
+HTML5	HTML5
+ល្បឿនពន្លឺ	Lichtsnelheid
+JPEG	JPEG
+អេឡិចត្រុង	Elektron
+ចក្រភព រ៉ូម	Romeinse Keizerrijk
+Microsoft	Microsoft
+គីមីវិទ្យា	Scheikunde
+ស៊ីទ្រុងជ្រូក	C♯
+បេណេឌីកទី១៦	Paus Benedictus XVI
+៧ កក្កដា	7 juli
+បាល់ទាត់	Voetbal
+ទីក្រុងបូកូតា	Bogota (stad)
+ថ្ងៃទី៣១ខែធ្នូ	31 december
+រិសថា	Vesta (planetoïde)
+ស៊ីដនីយ៏	Sydney
+ភ្លើង	Vuur
+ខ្យល់	Aardatmosfeer
+កោះស៊ូម៉ាត្រា	Sumatra
+ចាការតា	Jakarta
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia templates	Categorie:Wikipedia:Sjablonen
+កោះជ្វា	Java (eiland)
+ចំណាត់ថ្នាក់ក្រុម:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូវិគីភីឌា	Categorie:Wikipedia:Sjablonen op onderwerp
+កាលីម៉ាន់តាន់	Kalimantan
+ខេត្តបន្ទាយមានជ័យ	Banteay Mean Cheay
+វិគីភីឌា:ប្រអប់ខ្សាច់	Wikipedia:Zandbak
+អាកាសយានដ្ឋាន ដុង ហ៊យ	Luchthaven Đồng Hới
+អាន់ ហ្វ្រែង	Anne Frank
+ខុង ជឺ	Confucius
+ម៉ារីលីន ម៉ុនរ៉ូ	Marilyn Monroe
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទ្យា	Categorie:Wiskunde
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្ត្រខ្មែរ	Categorie:Geschiedenis van Cambodja
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្រ្តសិង្ហបុរី	Categorie:Geschiedenis van Singapore
+សមុទ្រ មេឌីទែរ៉ានេ	Middellandse Zee
+វីនដូអេច	Windows 8
+ទំព័រគំរូ:ប្រទេសនៅទ្វីបអាស៊ី	Sjabloon:Navigatie landen Azië
+ទំព័រគំរូ:Agree	Sjabloon:Voor
+ទន្លេហ្គារ៉ូន	Garonne
+ស៊ីតថល	Seattle
+ជញ្ជាំង ប៊ែរឡាំង	Berlijnse Muur
+ស្រូវ	Rijst
+ទំព័រគំរូ:ផតថល	Sjabloon:Link portaal
+ប៊ីល ហ្គេត	Bill Gates
+ភាសាជប៉ុន	Japans
+ប្រជុំវីជ្ជា	Encyclopedie
+ឌីវីឌី	Dvd
+ទំព័រដើម	Hoofdpagina
+Central processing unit	Processor (computer)
+រេស៊ីស្ទ័រ	Weerstand (component)
+កីឡាអូឡាំពិក	Olympische Spelen
+សមុទ្រ កាសព្យែន	Kaspische Zee
+ឈី ហ្គីវ៉ារ៉ា	Che Guevara
+ទីក្រុងកាបូល	Kabul (stad)
+ហ្គ្រាប្រីអ៊ែល ហ្រ្គារ៉ាស្សៀ ម៉ារ៉ាហ្គេស	Gabriel García Márquez
+ទស្សនវិជ្ជា	Filosofie
+ចំណាត់ថ្នាក់ក្រុម:លុប	Categorie:Wikipedia:Nuweg
+លិទ្ធិកុម្មុយនិស្ត	Communisme
+ហ៊ីលឡារី រូដហេម គ្លីនតុន	Hillary Clinton
+Boeing 737	Boeing 737
+អាហារនៅប្រទេសបារំាង និង របៀបធ្វើ	Franse keuken
+មណ្ឌលម៉ាញេតូ	Magnetosfeer
+UTC+7	UTC+7
+ភាសាកាតាឡាន	Catalaans (taal)
+បណ្ណាល័យ	Bibliotheek (algemeen)
+នីល ហេនរីក ដេវីដ ប៊័រ	Niels Bohr
+និវេសនវិទ្យា	Ecologie
+ក្លឹបបាល់ទាត់បារសេឡូណា	FC Barcelona
+នយោបាយ	Politiek
+ធនាគារពិភពលោក	Wereldbank
+ប្រជាធិបតេយ្យ	Democratie
+អង្គការសន្ធិសញ្ញាអាត្លង់ទិកខាងជើង	Noord-Atlantische Verdragsorganisatie
+ម៉ារី ស្កូដូស្កា គុយរី	Marie Curie
+រង្វាន់ណូបែល	Nobelprijs
+មជ្ឈិមបូព៌ា	Midden-Oosten
+រាជវង្សហាន	Han-dynastie
+ប្រទេស	Staat
+គ្រឹស្តុបផើ កូឡំបូស (Christopher Columbus)	Christoffel Columbus
+ព្រែកជីកប៉ាណាម៉ា	Panamakanaal
+មហាសមុទ្រខាងត្បូង	Zuidelijke Oceaan
+ក្មេង	Kind (leeftijdsgroep)
+លេអុនហាដ អយល័រ	Leonhard Euler
+ណាប៉ូលេអុងទី៣	Napoleon III
+ភាសារុស្ស៊ី	Russisch
+ល្វី ដ៏អស្ចារ្យ	Lodewijk XIV van Frankrijk
+សមាគមប្រជាជាតិអាស៊ីអាគ្នេយ៍	ASEAN
+ប្រវត្តិសាស្ត្របារាំង	Geschiedenis van Frankrijk
+តុលាការយុត្តិធម៌អន្តរជាតិ	Internationaal Gerechtshof
+យូណេស្កូ	UNESCO
+អង្គការសុខភាពពិភពលោក	Wereldgezondheidsorganisatie
+អង្គការពាណិជ្ជកម្មពិភពលោក	Wereldhandelsorganisatie
+ភាសាចិន	Chinese talen
+ធម្មជាតិ	Natuur (kosmos)
+ឈាម	Bloed
+រញ្ជួយផែនដី	Aardbeving
+សមុទ្រឡាប់តែវ	Laptevzee
+ភ្លើងចរាចរ	Verkeerslicht
+ម៉ាទីន ឡូតធឺរ ឃីង	Martin Luther King
+ត្រីកោណមាត្រ	Goniometrie
+ធរណីមាត្រ	Meetkunde
+វេយ្យាករណ៍	Grammatica
+សេដ្ឋកិច្ច	Economie
+អក្សរក្រិច	Grieks alfabet
+អក្សរឡាតាំង	Latijns alfabet
+រឿងមហាភារតយុទ្ធ	Mahabharata
+ការិយាល័យសហព័ន្ធស៊ើបអង្កេត	Federal Bureau of Investigation
+វីយោឡុង	Viool
+ឃឹម	Cimbalom
+អេឡិចសាន់ដឺ ដឹ ហ្គារ៉ែត	Alexander de Grote
+សង្គម	Maatschappij (wereld)
+ការអប់រំ	Onderwijs
+មនុស្សប្រុស	Man (geslacht)
+វិគីភីឌាភាសាអេស៉្បាញ	Spaanstalige Wikipedia
+សិទ្ធិមនុស្ស	Rechten van de mens
+ទាសភាព	Slavernij
+សង្គ្រាមស៊ីវិល	Burgeroorlog
+ភ្នំ	Berg (landvorm)
+ហុងកុង	Hongkong
+សង្គ្រាមត្រជាក់	Koude Oorlog
+សេអ៊ូល	Seoel
+សង្គ្រាមវៀតណាម	Vietnamoorlog
+ម៉ៃឃើល ហ្វារ៉ាដេយ	Michael Faraday
+អង់រីកូ ហ្វែរមី	Enrico Fermi
+ភាសាអ៊ុយក្រែន	Oekraïens
+HTML	HyperText Markup Language
+ច្យូហានេស គូទេនបឺគ	Johannes Gutenberg
+ភាសាដាណឺម៉ាក	Deens
+ភាសាអេស្តូនី	Estisch
+ហិណ្ឌូសាសនា	Hindoeïsme
+ភាសាពែក	Perzisch
+សាសនា	Religie
+ភាសាកូរ៉េ	Koreaans
+ភាសាខ្មែរ	Khmer (taal)
+ហ្រ្គេតស៊ីងមួន	Sigmund Freud
+ភាសាថៃ	Thai (taal)
+ភាសាម៉ាឡេ	Maleis
+ភាសាឥណ្ឌូនេស៊ី	Indonesisch
+ភាសាហេប្រ៊ូ	Hebreeuws
+ចន ឡុក	John Locke (filosoof)
+ថ្លើម	Lever
+ចិត្តវិទ្យា	Psychologie
+មហាសមុទ្រ	Oceaan
+ពុទ្ធប្រវត្តិសង្ខេប	Gautama Boeddha
+ចរិយាមារយាទ	Ethiek
+សារជីវកម្មផ្សព្វផ្សាយព័ត៌មានរបស់ចក្រភពអង់គ្លេស(BBC)	British Broadcasting Corporation
+ក្លិបបាល់ទាត់ឆេលស៊ី	Chelsea FC
+គ្រោងឆ្អឹងមនុស្ស	Menselijk skelet
+ក (អវយវៈ)	Nek (anatomie)
+រាជវង្សថាង	Tang-dynastie
+John F. Kennedy	John F. Kennedy
+LibreOffice	LibreOffice
+ផ្លូវរូងដីក្រោមសមុទ្រ	Kanaaltunnel
+តារាងខួបនៃធាតុគីមី	Periodiek systeem
+ប្រូម៉ាស	Kaas
+ទំពាំងបាយជូរ	Druif
+បន្លែ	Groente
+បច្ចេកវិទ្យា	Technologie
+វិស្វកម្ម	Engineering
+ទំនាក់ទំនង	Communicatie
+វិជ្ជាជីវៈខាងសារព័ត៌មាន	Journalistiek
+កាសែត	Krant
+ទូរស័ព្ទ	Telefoontoestel
+វប្បធម៌	Cultuur
+សំស្ក្រឹត	Sanskriet
+ប្រដាប់របត់ឈាម	Hart en vaatstelsel
+The Guardian	The Guardian (krant)
+សមីការឌីផេរ៉ង់ស្យែល	Differentiaalvergelijking
+មៃក្រូសូហ្វអ៊ិសេល	Microsoft Excel
+មុំ	Hoek (meetkunde)
+សំទុះ	Versnelling (natuurkunde)
+ព្រះសិវៈ	Shiva
+ព្រះវិស្ណុ	Vishnoe
+Local Area Network	Local area network
+Wide Area Network	Wide area network
+ព្រះព្រហ្ម	Brahma (hindoeïsme)
+កម្លាំង	Kracht
+អេឡិចត្រូម៉ាញ៉េទិច	Elektromagnetisme
+កសិកម្ម	Landbouw
+សំលៀកបំពាក់	Kleding
+ល្បឿន	Snelheid
+ក្រដាស	Papier
+សុញ្ញកាស	Vacuüm
+ស៊ីនេម៉ាទិច	Kinematica
+ក្រលាផ្ទៃ	Oppervlakte
+ទ្រឹស្តីបទពីតាករ	Stelling van Pythagoras
+ចំនួនកុំផ្លិច	Complex getal
+Cristiano Ronaldo	Cristiano Ronaldo
+អ្នកថតរូប	Fotografie
+ល្ខោន	Theater (kunstvorm)
+គ្រឿងអេឡិចត្រូនិច	Elektronische component
+ព័ត៌មានវិទ្យា	Informatietechnologie
+អាស៊ីអាគ្នេយ៍	Zuidoost-Azië
+ក្រុងសៀមរាប	Siem Reap (stad)
+បញ្ជីរាយនាម ប្រទេស	Lijst van landen in 2015
+វិគីភីឌាភាសាព័រទុយហ្គាល់	Portugeestalige Wikipedia
+ប្រដាប់រំលាយអាហារ	Spijsvertering
+កីឡាចាក់សាប	Schermen
+រោគផ្ដាសាយធម្មតា	Verkoudheid
+រោគសរសៃប្រសាទ	Psychische aandoening
+ប្រតិទិន ក្រេកូរី	Gregoriaanse kalender
+សុខភាព	Gezondheid
+ជម្ងឺរលាកទងសួត	Longontsteking
+ជំងឺអេដស៍	Aids
+កូដ QR	QR-code
+ជំងឺទឹកនោមផ្អែម	Diabetes mellitus
+ទំព័រគំរូ:Location map Belgium	Sjabloon:Positiekaart België
+ទំព័រគំរូ:Location map Croatia	Sjabloon:Positiekaart Kroatië
+ទំព័រគំរូ:Location map Ukraine	Sjabloon:Positiekaart Oekraïne
+ទំព័រគំរូ:Location map Burma	Sjabloon:Positiekaart Myanmar
+ទំព័រគំរូ:Location map Philippines	Sjabloon:Positiekaart Filipijnen
+ទំព័រគំរូ:Location map Vietnam	Sjabloon:Positiekaart Vietnam
+ទំព័រគំរូ:Location map Cambodia	Sjabloon:Positiekaart Cambodja
+ទំព័រគំរូ:Location map Thailand	Sjabloon:Positiekaart Thailand
+ទំព័រគំរូ:Location map Indonesia	Sjabloon:Positiekaart Indonesië
+ទំព័រគំរូ:Location map Australia	Sjabloon:Positiekaart Australië
+ញូតុន	Newton (eenheid)
+ចក្រភព អូតូម៉ង់	Ottomaanse Rijk
+ម៉ាស៊ីនចំហេះក្នុង	Verbrandingsmotor
+ក្បាច់គិតលេខ	Abacus (rekentuig)
+វឺតប្រែស	WordPress
+Joomla!	Joomla!
+ដើមដូង	Kokospalm
+ភាសាណាវ៉ាថ្ល៍	Nahuatl
+ភាសាម៉ាយ៉ាយូកាតិក	Yucateeks Maya
+អែនជេលីណា ចូលី	Angelina Jolie
+អ៊ីលដឺហ្រ្វែន	Île-de-France
+ភាសាអារ៉ាប់	Arabisch
+Thanksgiving	Thanksgiving Day
+តំបន់ឃ្ជឺស្សឺ	Kyushu
+តំបន់ស៊ីកុគឹ	Shikoku (eiland)
+ទង់ជាតិ	Vlag
+ខ្មៅដៃ	Potlood
+សហភាពសូវៀត	Sovjet-Unie
+ចំណុចរលាយ	Smeltpunt
+កាមេរ៉ា	Fotocamera
+កម្មវិធីទូរទស្សន៍	Televisieprogramma
+ខេត្តខាហ្គុស៊ីម៉ា	Kagoshima (prefectuur)
+ភាសាស៊ី	C (programmeertaal)
+ម៉ង់តេរីយើ	Charles de Secondat, baron de La Brède et de Montesquieu
+វិគីភីឌា:អត្ថបទពិសេស	Wikipedia:Etalage
+ទំព័រគំរូ:Link FA	Sjabloon:Link FA
+ពិភពលោក	Wereld (Aarde)
+ឈូក	Heilige lotus
+ឡងប៊ិច (កាលីផ្វនញ៉ា)	Long Beach (Californië)
+រង្វង់	Cirkel
+ប្លង់	Vlak (meetkunde)
+វិគីភីឌាភាសាកូរ៉េ	Koreaanse Wikipedia
+ទៀបកោះម៉ាឡេ	Malakka (schiereiland)
+អេប៉ុងហ្ស៍ (ពពុះទឹក)	Sponsdieren
+មធ្យមនព្វន្ធ	Rekenkundig gemiddelde
+World Cup	Wereldkampioenschap voetbal
+សម្ដេចប៉ាប	Paus
+IATA	International Air Transport Association
+បុណ្យណូអែល	Kerstmis
+ត្រីកោណ	Driehoek (meetkunde)
+លោកអេលីសេ រីខ្លាស	Élisée Reclus
+អ្នកប្រើប្រាស់:អេង ឡុង/សង្គមវិទ្យាមូលដ្ឋាន	Sociologie
+សញ្ញាសំលេងអន្តរជាតិ	Internationaal Fonetisch Alfabet
+Friedrich Schiller	Friedrich von Schiller
+ជំនឿបាហៃ	Bahai
+១	1
+អាប្រាហាម ម៉ាស្លូ	Abraham Maslow
+ខ្ទឹមស	Knoflook
+អ៊ូលេនបាធរ	Ulaanbaatar
+កោះ	Eiland
+ភាសាផ្លូវការ	Officiële taal
+ខ្សែអេក្វាទ័រ	Evenaar
+ទិស	Windstreek
+លេខអាតូម	Atoomnummer
+អាល់ហ្វ្រិដ ណូបែល	Alfred Nobel
+សម្ដេចប៉ាប យូហាន ទី២៣	Paus Johannes XXIII
+កិរិយាសព្ទ	Werkwoord
+ទីតានិច	Titanic (schip, 1912)
+សត្វឆ្អឹងកង	Gewervelden
+បាគូ	Hop (vogel)
+អំពែរ	Ampère (eenheid)
+ISO 3166-1	ISO 3166-1
+១ មុនគ.ស	1 v.Chr.
+ម៉ែត្រការ៉េ	Vierkante meter
+ជំនួយ:Interlanguage links	Plankton
+សហស្សវត្សរ៍ទី២	2e millennium
+ខេត្តកំពង់គោ	Long An (provincie)
+ទ្រឹស្តីបទទ្វេធា	Binomium van Newton
+សមុទ្រជប៉ុន	Japanse Zee
+អាស៊ីខាងកើត	Oost-Azië
+អាមេរិក កណ្ដាល	Centraal-Amerika
+គ្រីស្ទអឌែលហ្វៀន	Broeders in Christus
+បរិមាត្រ	Omtrek
+ចក្រភព អូទ្រីស-ហុងគ្រី	Oostenrijk-Hongarije
+បណ្ណាល័យជាតិ	Openbare bibliotheek
+ផាយថុន	Python (programmeertaal)
+អានន្ទ	Ananda
+អាស៊ីហ្គេមឆ្នាំ១៩៥១	Aziatische Spelen 1951
+បាកាន	Pagan (stad)
+ចិន	China
+សំទុះទំនាញដី	Valversnelling
+ច្បាប់ធម្មតា	Common law
+អ្នកម្តាយ តេរេសា​ (Mother Teresa)	Moeder Teresa
+ប្លូក	Weblog
+រោគគ្រុនចាញ់	Dengue
+ដុល្លារហុងកុង	Hongkongse dollar
+ខ្សែបណ្ដោយ	Meridiaan (geografie)
+ខេត្តឃ្លាំង	Sóc Trăng (provincie)
+ខេត្តទឹកខ្មៅ	Cà Mau (provincie)
+សមុទ្រខារ៉ា	Karazee
+ផ្លេតបន្ទោរ	Bliksem
+កំរងកោះ	Archipel
+តួប្រុស	Acteur
+អំបូរភាសាយូតូអាហ្សតិក	Uto-Azteekse talen
+ចាស្ទីន ពីពេ្រ	Justin Bieber
+ក្រុម​ភាសា​ថៃកៈដៃ	Tai-Kadaitalen
+ចក្រភព រុស្ស៊ី	Keizerrijk Rusland
+មឞវជ	Mošovce
+បេណាហ្សៀរ ប៊ូតូ	Benazir Bhutto
+ស៊ីឌី	Compact disc
+ឧទ្ធម្ភាគចក្រ	Helikopter
+គុណនាម	Bijvoeglijk naamwoord
+វីតាមីន	Vitamine
+វែបសាយ	Website
+តំបន់ហុកកៃដូ	Hokkaido (Japan)
+រូបមន្តសមមូលម៉ាស់-ថាមពល	Massa-energierelatie
+សមុទ្រ អារ៉ាល់	Aralmeer
+ហូ ជីមិញ	Hồ Chí Minh
+ម៉ាក ហ្សុកឃឺបឺក	Mark Zuckerberg
+ប្រតិកម្មគីមី	Chemische reactie
+ខេត្តក្រមួនស	Kiên Giang
+ខេត្តមាត់ជ្រូក	An Giang (provincie)
+ខេត្តរោងដំរី	Tây Ninh (provincie)
+ខេត្តព្រះត្រពាំង	Trà Vinh (provincie)
+Binomial nomenclature	Binominale nomenclatuur
+ខេត្តពលលាវ	Bạc Liêu (provincie)
+ខេត្តផ្សារដែក	Đồng Tháp
+វ៉ែសបែង	Westelijke Jordaanoever
+ភាសាបាលី	Pali (taal)
+គេហទំព័រ	Webpagina
+ចតុកោណ	Vierhoek
+ឈិន ឡុង	Jackie Chan
+ទិវាកុមារអន្តរជាតិ	Kinderdag
+Yahoo!	Yahoo!
+បន្ទាត់	Lijn (meetkunde)
+ហ្មរិឩពឡ	Marioepol
+G8	Groep van Acht
+អង្កត់ផ្ចិត	Diameter
+គ្រូបង្រៀន	Onderwijzer
+ស្នាដៃនៃបុព្វបុរសខ្មែរ	Schrijven
+ស្ដេចប៉ាប យ៉ូហាន ប៉ូលទី១	Paus Johannes Paulus I
+ណៃពិដោ	Naypyidaw
+ISO 4217	ISO 4217
+ព្យែរ គុយរី	Pierre Curie
+ក្រុមប្រឹក្សាសន្តិសុខ អង្គការសហប្រជាជាតិ	Veiligheidsraad van de Verenigde Naties
+ពហុកោណ	Veelhoek
+ទិវានៃក្ដីស្រលាញ់	Valentijnsdag
+ហ្គូហ្គល	Markt (economie)
+សមុទ្រចិនខាងត្បូង	Zuid-Chinese Zee
+និវេសនប្រព័ន្ធ	Ecosysteem
+សមុទ្រលឿង	Gele Zee
+យ៉ាំងហ្គូន	Rangoon (stad)
+សូរព្យញ្ជនៈ	Medeklinker
+ច្បាប់ចលនារបស់ញូតុន	Wetten van Newton
+ឈូងសមុទ្របេងហ្គាល់	Golf van Bengalen
+ទិវានារីអន្តរជាតិ	Internationale Vrouwendag
+.jp	.jp
+ភ្នំហ្វឹជី	Fuji (vulkaan)
+ប៉ុលពត	Pol Pot
+Chengdu J-7	Chengdu J-7
+Shenyang J-8	Shenyang J-8
+ភ្នំភ្លើង អ៊ីស៊ាឡឺក	Eyjafjallajökull
+ម៉ាក្រូសេដ្ឋកិច្ច	Macro-economie
+ដីជ្រោយហ្គាស្សា	Gazastrook
+​វិទ្យុ​ស្ទូឌីយោ 54 បណ្តាញ	Radio Studio 54 Network
+អេលីប	Ellips (wiskunde)
+វិទ្យុអាស៊ីសេរី	Radio Free Asia
+សមាគមន៍សារព័ត៌មាន	Associated Press
+អធិដ្ឋាន	Gebed
+គណៈកម្មាធិការអូឡាំពិកអន្តរជាតិ	Internationaal Olympisch Comité
+Skype	Skype
+.kh	.kh
+ចតុកោណស្មើ	Ruit (meetkunde)
+ទន្លេមេគង្គ	Mekong
+មេកានិច	Mechanica
+វិចិត្រសាលវលញ្ឆករប្រទេស	Lijst van nationale heraldische wapens
+ហែងរីហ ហឺត	Heinrich Hertz
+អង់រី បិកកឺរ៉ែល	Antoine Henri Becquerel
+ទស្សនាវដ្ដី	Tijdschrift
+សមីការដឺក្រេទី២	Vierkantsvergelijking
+រូពីឥណ្ឌូនេស៊ី	Indonesische roepia
+សមុទ្រអុកហុតស្គ៍	Zee van Ochotsk
+ចិត្តវិភាគ	Psychoanalyse
+ខ្មែរម៉ាស្ទើ	Webmaster
+.kr	.kr
+URL	Uniform Resource Locator
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អេស្ប៉ាញ	Spaans voetbalelftal
+Google Earth	Google Earth
+ប៊ែនហាដ រីម៉ាន	Bernhard Riemann
+កោន	Kegel (ruimtelijke figuur)
+អាតុល	Atol (geologie)
+ទិន្នន័យ	Gegeven
+ខ្លែង	Vliegeren
+ស្ថាបត្យករ	Architect
+មហាអំណាច អាប់ស៊ីស	Asmogendheden
+វិគីភីឌា:FAQ	Help:Veelgestelde vragen
+.th	.th
+ចក្រភព អាល្លឺម៉ង់	Duitse Keizerrijk
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាល្លឺម៉ង់	Duits voetbalelftal
+ហេរី ផោតធ័រ និង សិលាទេព	Harry Potter en de Steen der Wijzen (boek)
+អង្គការ Creative Commons	Creative Commons
+ឥណ្ឌូចិន	Indochina
+ប្រាសាទអង្គរវត្ត	Angkor Wat (tempel)
+ទ្រឹស្ដីរ៉ឺឡាទីវីតេ	Relativiteitstheorie
+ប្រុស	Mannelijk (biologie)
+Toulon	Toulon
+ប៉ាស្កាល់	Pascal (eenheid)
+ទ្រឹស្ដីល្បែង	Speltheorie
+នីតិរដ្ឋ	Rule of law
+សមុទ្រចិនខាងកើត	Oost-Chinese Zee
+ខ្នុរ	Nangka
+ប្រលេឡូក្រាម	Parallellogram
+ប្រាសាទព្រះវិហារ	Preah Vihear (tempel)
+ចតុកោណព្នាយ	Trapezium
+ស៊ូស៊ី	Sushi
+រូប៊ិក ខ្យូប	Rubiks kubus
+កាល	Titus Maccius Plautus
+ចង្រិត	Krekels
+ទិវាពលកម្មអន្ដរជាតិ	Dag van de Arbeid
+ស្ទឹង	Beek (watergang)
+សមុទ្រអង់ដាម៉ង់	Andamanse Zee
+ប៉ិបស៊ី	Pepsi
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អង់គ្លេស	Engels voetbalelftal
+ក្រុមបាល់ទាត់ជម្រើសជាតិ បារាំង	Frans voetbalelftal
+ទំព័រគំរូ:Commonscat	Sjabloon:Commonscat
+វិគីភីឌាភាសាអាល្លឺម៉ង់	Duitstalige Wikipedia
+អាស៊ីខាងលិច	Nabije Oosten
+អង្គការសហភាពអន្តរជាតិដើម្បីអភិរក្សធម្មជាតិ	International Union for Conservation of Nature and Natural Resources
+ទីក្រុងមេឌេយីណ	Medellín (Colombia)
+ប៉ារ៉ាបូល	Parabool (wiskunde)
+ខេត្តអ៊ីវ៉ាតិ	Iwate (prefectuur)
+ទ្វារសមុទ្រមលក្កា	Straat Malakka
+មហាយាន	Mahayana
+ប្រព័ន្ធប្រតិបត្តការ iOS	IOS (Apple)
+ចំនួនបឋម	Priemgetal
+សង្គ្រាម ប្រាំមួយ ថ្ងៃ	Zesdaagse Oorlog
+ក្រុងឡូវែល រដ្ឋម៉ាស្សាឈូស៊ែត	Lowell (Massachusetts)
+សមុទ្រជ្វា	Javazee
+សិប្បកម្មខ្ញុំ	Minecraft
+ច្រកសមុទ្រធ្ងន់ធ្ងរ	Dire Straits
+អនុគមន៍ដឺក្រេទី២	Kwadratische functie
+ច្បាប់អំពែរ	Wet van Ampère
+ជំងឺអ៊ីបូឡា	Ebola
+ច្រកកូរ៉េ	Straat Korea
+ឆកសមុទ្រកូរ៉េ	Koreabaai
+កង្កែប	Kikkers
+ខ្សែទឹកឃឹរ៉ុស៊ីអុ	Kuroshio
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រ	Categorie:Monarch
+ចំណាត់ថ្នាក់ក្រុម:រដ្ឋាភិបាល	Categorie:Overheid
+ទំព័រគំរូ:Infobox legislature	Sjabloon:Infobox legislatuur
+ទន្លេយ៉ាលូ	Yalu
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រចិន	Sjabloon:Zijbalk geschiedenis China
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រអាស៊ី	Sjabloon:Navigatie geschiedenis Azië
+មីហ្គេល អ៊ីដាលហ្គោ អ៊ី កុស្ទីយ៉ា	Miguel Hidalgo
+នរោត្តម សីហមុនី	Norodom Sihamoni
+ហ៊ុន សែន	Hun Sen
+តូក្យូស្កាយទ្រី	Tokyo Skytree
+ភាសាប៉ាស្តូ	Pasjtoe
+កំណែទម្រង់រូបិយវត្ថុ	Geldhervorming
+ធនាគារកណ្ដាល	Centrale bank
+Pidgin	Pidgin (software)
+​វិលហែម វុឌ	Wilhelm Wundt
+យិដា តាដូ	Gerda Taro
+មនុស្សពីងពាង	Spider-Man (stripfiguur)
+សារធាតុគីមី	Stof (scheikunde)
+ចលនានៅក្នុងរូបវិទ្យា	Beweging (natuurkunde)
+ជម្ងឺកញ្ជ្រឹល	Mazelen
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាហ្សង់ទីន	Argentijns voetbalelftal
+ខ្យល់ព្រះអាទិត្យ	Zonnewind
+បាល់ទាត់ពិភពលោក ២០១៤	Wereldkampioenschap voetbal 2014
+ម៉ូបាល (អាល់ឡាបាម៉ា)	Mobile (Alabama)
+កុំព្យូទ័រផ្រូក្រាមមីង(Computer programming)	Programmeren (computer)
+ខេត្តឈីបា	Chiba (prefectuur)
+ខេត្តអៃឈិ	Aichi (prefectuur)
+វិបត្តិសេដ្ឋកិច្ចឆ្នាំ ១៩៩៧	Aziatische financiële crisis
+ខ្មែរ	Volwassene
+សិល្បៈប្រើវោហារបង្ហូរគំនិត	Retorica
+ឃីមីហ្គាយ៉ុ	Kimigayo
+សាល អូហ្គុស្ទីន ដឺ គូឡុំ	Charles-Augustin de Coulomb
+ខេត្តអាគីតា	Akita (prefectuur)
+ថ្នាក់ពាក្យ	Woordsoort
+ស្ថានភាពអភិរក្ស	Beschermingsstatus
+កាន់ជិ	Kanji
+នាម	Naam
+ប្រវត្តិសាស្ត្រចិន	Geschiedenis van China
+អវតារ	Avatar (hindoeïsme)
+ច្បាប់គូឡុំ	Wet van Coulomb
+រឿង រ៉ូមេអូ និង ហ្ស៊ុយលីយេ	Romeo and Juliet (toneelstuk)
+សាលីណា កូមាស់	Selena Gomez
+ក្រុម (តារាងខួបនៃធាតុគីមី)	Groep (periodiek systeem)
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ប្រេស៊ីល	Braziliaans voetbalelftal
+កាល ឡែមស្ដែនណឺ	Karl Landsteiner
+ឯកសារភាពយន្ត	Documentaire
+អនុគមន៍ត្រីកោណមាត្រ	Goniometrische functie
+ហ្រាន្ដកូស ហ្វីឡុន	François Fillon
+ខួប (តារាងខួបនៃធាតុគីមី)	Periode (scheikunde)
+ល្បែងទាញព្រ័ត្រ	Touwtrekken
+Article (grammar)	Lidwoord
+មេដ្យានទ័រ	Passer (gereedschap)
+Rfid	Radio-frequency identification
+អ៊ីប៉ូតេនុស	Hypotenusa
+ហិចហ្វាន់	Hedgefonds
+ISO 3166	ISO 3166
+សញ្ញាជាតិកូរ៉េខាងជើង	Embleem van Noord-Korea
+មេហ្គា	Mega (voorvoegsel)
+គីឡូ	Kilo (SI-prefix)
+ការតាំងសមាធិ	Meditatie
+ប៉េតា	Peta (SI-prefix)
+យ៉ុតតា	Yotta
+សង់ទី	Centi
+ហ្គីហ្គា	Giga
+តេរ៉ា	Tera
+ហ្វង់តូ	Femto
+ហ្សិតតា	Zetta
+ច្រកតារតារី	Tatarensont
+ហ្សិបតូ	Zepto
+កាតែត	Rechthoekszijde
+អាត់តូ	Atto
+យ៉ុកតូ	Yocto
+ដេស៊ី	Deci
+ម៉ាស៊ីនស្វែងរក	Metazoekmachine
+អាំងតេក្រាលមិនកំនត់	Primitieve functie
+ខេត្តក្យូតុ	Kioto (prefectuur)
+តំលៃដាច់ខាត	Absolute waarde
+ហេដ្ឋារចនាសម្ព័ន្ធ	Infrastructuur
+សាស្ត្រាចារ្យ	Professor
+តេគីឡា	Tequila (drank)
+សន្ធិសញ្ញាប្រេស្ត-លីតូវស្ក	Vrede van Brest-Litovsk
+William Thomson, 1st Baron Kelvin	William Thomson (natuurkundige)
+អាណាខេត្តអូសាកា	Osaka (prefectuur)
+ខេត្តអិហ៊ីមិ	Ehime
+វាំងននដែក	IJzeren Gordijn
+វីលៀម ជែម	William James
+ខេត្តយ៉ាម៉ាកាតា	Yamagata (prefectuur)
+ច្រកតៃវ៉ាន់	Straat van Taiwan
+គំរោងម៉ាន់ហាត់ថាន់	Manhattanproject (operatie)
+ខេត្តយ៉ាម៉ាហ្គឹឈិ	Yamaguchi (prefectuur)
+ខេត្តខាន់ណាហ្គាវ៉ា	Kanagawa (prefectuur)
+បញ្ចកោណ	Regelmatige vijfhoek
+តំបន់ជឺហ្គុកឹ	Chugoku
+ខេត្តណាហ្គាណុ	Nagano (prefectuur)
+ខេត្តសៃតាម៉ា	Saitama (prefectuur)
+ខេត្តមីអិ	Mie (prefectuur)
+ណុត	Knoop (snelheid)
+តំបន់តុហុកកឹ	Tohoku (regio)
+ខេត្តហ្គឺនម៉ា	Gunma (prefectuur)
+ជ្រូកទឹក	Doejong
+ខ្សែទឹកមហាសមុទ្រ	Zeestroom
+ខេត្តមីយ៉ាសាគី	Miyazaki (prefectuur)
+ខេត្តឃឹម៉ាម៉ុតុ	Kumamoto (prefectuur)
+Mikoyan MiG-29	Mikojan-Goerevitsj MiG-29
+សប្ដាហ៏ពិសិដ្ឋ	Goede Week
+ឈូងសមុទ្រថៃ	Golf van Thailand
+អ៊ីមម៉ាជីន និងផូស៊ី	Immagine & Poesia
+លី ក្វាន់យូ	Lee Kuan Yew
+កម្មសិទ្ធិបញ្ញា	Intellectuele eigendom
+អាណាខេត្តណារ៉ា	Nara (prefectuur)
+បុព្វបទនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	SI-voorvoegsel
+យន្តហោះប៉ូឡូញកំទេចឆ្នាំ២០១០	Vliegramp bij Smolensk
+ជនភៀសខ្លួន	Vluchteling
+ហង់រី កាវិនឌីស	Henry Cavendish
+បុណ្យចូលឆ្នាំចិន	Chinees nieuwjaar
+ថេរវាទ	Theravada (boeddhisme)
+តំបន់ខាន់តូ	Kanto (regio)
+ខេត្តនីហ្គាតាក់	Niigata (prefectuur)
+ខេត្តយ៉ាម៉ាណាស៊ី	Yamanashi (prefectuur)
+ខេត្តស៊ីម៉ាណិ	Shimane (prefectuur)
+ខេត្តតុយ៉ាម៉ា	Toyama (prefectuur)
+ខេត្តអូកាយ៉ាម៉ា	Okayama (prefectuur)
+ISO 3166-2	ISO 3166-2
+ខេត្តអយតាក់	Oita (prefectuur)
+ខេត្តខូឈិ	Kochi (prefectuur)
+អង្គការអន្តរជាតិនៃនយោបាយរបស់បារាំង	Francophonie
+ភ្នំមេរ៉ាពី	Merapi
+ព្រះធម៌	Dharma
+តំបន់ឈឺប៊ឹ	Chubu
+វ៉ាក់សាំង	Vaccin
+រោគក្អកមាន់	Kinkhoest
+កម្ពុជា នៅកីឡាអូឡាំពិករដូវក្ដៅ ២០០៨	Cambodja op de Olympische Zomerspelen 2008
+គីមឈី	Kimchi
+ខេត្តកំពង់ចាម	Kampong Cham (provincie)
+ខ្សែទឹកហ្គ្រីនលែនខាងកើត	Oost-Groenlandstroom
+ខ្សែទឹកប៉ាស៊ីហ្វិកខាងជើង	Noordpacifische stroom
+ខ្សែទឹកហាំបុល	Humboldtstroom
+ខ្សែទឹកអូស្ត្រាលីខាងកើត	Oost-Australische stroom
+ជ័រទឹក	Hars
+ដុនបូស្កូ	Giovanni Bosco
+ធ្នូរង្វង់	Boog (meetkunde)
+ស្រុក	District
+រាជវង្សចោឡា	Chola's
+ខ្លារខិន ២ (រថក្រោះ)	Leopard 2
+មហាអំណាច កណ្ដាល	Centrale mogendheden
+អិចសា	Exa
+ហិកតូ	Hecto
+ដេកា	Deca (prefix)
+រ៉ូបឺតកាប៉ា	Robert Capa
+មីល្លី	Milli
+មីក្រូ	Micro (SI)
+ពីកូ	Pico (SI-prefix)
+ណាណូ	Nano
+លីប៉ូល ស៊ីដាស៊ាងហ័រ	Léopold Senghor
+វិគីភីឌាភាសាឥណ្ឌូនេស៊ី	Indonesische Wikipedia
+ទន្ដគោម	Agave (geslacht)
+ប្រវតិ្តBoney M	Boney M.
+វីមេអូ	Vimeo
+អំពើអនិត្យានុកូល	Huiselijk geweld
+ហង់រី ការចេរ ប្រេស្សុង	Henri Cartier-Bresson
+ត្រីកោណសម័ង្ស	Gelijkzijdige driehoek
+ម៉ាក់ណូលា	Magnolia (geslacht)
+ចូសេហ្វ ហិនរី	Joseph Henry
+មន ស	Witte moerbei
+ពិធីបញ្ជាប់ពាក្យ	Verloving
+ត្រីកោណកែង	Rechthoekige driehoek
+សមុទ្រហ្វីលីពីន	Filipijnenzee
+ប្រព័ន្ធកូអ័រដោណេភូមិសាស្ត្រ	Geopolitiek
+Eurocopter Tiger	Eurocopter Tiger
+តេត្រាអែត	Viervlak
+ម៉ោងផែនដី	Het Uur der Aarde
+នរោត្ដម សីហនុ	Norodom Sihanouk
+ទន្លេរីយ៉ូហ្គ្រែនដេ	Rio Grande (Río Bravo)
+សំព័រ	Artocarpus
+កម្មវិធីអភិវឌ្ឍន៍សហប្រជាជាតិ	VN-Ontwikkelingsprogramma
+ម៉ាស៊ីនថត លេកា	Leica
+មេគុណជីនី	Gini-coëfficiënt
+នីត្រូគ្លីសេរីន	Nitroglycerine
+វណ្ណយុត្តិ	Diakritisch teken
+ទង់ជាតិកម្ពុជា	Vlag van Cambodja
+ក្រុងអង្គរ	Angkor (stad)
+ក្រពេញទីមុស	Thymus (orgaan)
+ទ្រឹស្តីបទកូស៊ីនុស	Cosinusregel
+ទក្សិណ ជិនវ័ត្រ	Thaksin Shinawatra
+ប្រធាន	Onderwerp (taalkunde)
+ហិនរី រ៉េម៉ុន	Henry J. Raymond
+អ៊ែង​ហ្គ្រី បឺដ	Angry Birds (computerspelserie)
+អ៊ីពែបូល	Hyperbool (meetkunde)
+វិសមភាពស្វ័យគុណ	Ongelijkheid (wiskunde)
+ប៊ិច	Pen
+ចេក​	Bakbanaan
+XHTML	Extensible HyperText Markup Language
+គ្រោះទុរ្ភិក្ស	Hongersnood
+អរិយសច្ច៤	Vier nobele waarheden
+ស្តាទិច	Statica
+ខេត្តណាហ្គាសាគី	Nagasaki (prefectuur)
+វិគីភីឌាភាសាស្វីស	Zweedse Wikipedia
+ភ្លើងឆេះព្រៃ	Natuurbrand
+ទ្រឹស្តីបទស៊ីនុស	Sinusregel
+ច្បាប់ហ៊ូក	Wet van Hooke
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ជប៉ុន	Japans voetbalelftal
+រោគឈឺចាប់ក្នុងសន្លាក់ឆ្អឹង	Artritis
+ប្លុកហ្គឺ (Blogger)	Blogger (website)
+ធម្មនុញ្ញនៃអង្គការសហប្រជាជាតិ	Handvest van de Verenigde Naties
+Boeing AH-64 Apache	AH-64 Apache
+រោគហើមសួត	Bronchitis
+អេមីល្យូ ហ្គីណូ សេហ្គ្រែ	Emilio Segrè
+Sukhoi Su-27	Soechoj Soe-27
+ម៉ាស៊ីនត្រជាក់	Airconditioning
+កាំ	Straal (wiskunde)
+អភិសិទ្ធិ វេជ្ជាជីវៈ	Abhisit Vejjajiva
+លីមីត	Limiet
+អ៊ីដ្រូស្តាទិច	Hydrostatica
+វិគីភីឌាភាសាជប៉ុន	Japanse Wikipedia
+គោលនយោបាយរូបិយវត្ថុ	Monetair beleid
+យានដឹកជញ្ជូនសាធារណៈ	Openbaar vervoer
+ការសំភាសន៏	Interview
+ពាណិជ្ជកម្មអន្តរជាតិ	Internationale handel
+ចក្រភពអាណានិគមបារាំង	Franse koloniale rijk
+ពន្ធលើប្រាក់ចំណូល	Inkomstenbelasting
+HTML tag	Lijst van HTML-elementen
+រូបចំលាក់	Standbeeld
+នាឡិកាខ្សាច់	Zandloper
+ពុយមីស	Puimsteen
+FM	Frequentiemodulatie
+សង្គមស៊ីវិល	Burgermaatschappij
+សមុទ្របូហៃ	Bohaizee
+ការិយាល័យ	Kantoor
+ការបង្រៀនដែនដីបរិសុទ្ធ	E-learning
+ម៉ែត្រក្នុងមួយវិនាទី	Meter per seconde
+រូបមន្តហេរុង	Formule van Heron
+ទន្សោង	Banteng
+វីតាមីន B	Vitamine B
+គណៈកម្មាធិការជាតិអូឡាំពិក	Nationaal Olympisch Comité
+ប៉មតូក្យូ	Tokiotoren
+ទិវាទឹកអន្តរជាតិ	Wereldwaterdag
+រូបមន្តអយល័រ	Formule van Euler
+ស៊ីយ៉ាញួរ	Cyanide
+អរិយដ្ឋង្គិកមគ្គ	Het Achtvoudige Pad
+សហភាពឥណ្ឌូចិន	Unie van Indochina
+ចន្ទគតិ	Maankalender
+សំទុះមុំ	Hoekversnelling
+អាស៊ីហ្គេមឆ្នាំ១៩៧០	Aziatische Spelen 1970
+កាលប្បវត្តិព្រះពុទ្ធសាសនា	Kroniek van het boeddhisme
+គោលនយោបាយសារពើពន្ធ	Fiscaal beleid
+ឡាហ្គូន	Lagune
+Mathew Brady	Mathew Brady
+អប់សិន (ហិរញ្ញវត្ថុ)	Optie
+អង្កត់ធ្នូ	Koorde
+អាយុសង្ឃឹម	Levensverwachting
+ខុទ្ទកាល័យ	Raad van bestuur
+សីដក់	Sepak takraw
+ធនាគារអភិវឌ្ឍន៍អាស៊ី	Asian Development Bank
+បញ្ជីរដ្ឋមានអាវុធនុយក្លេអ៊ែរ	Kernmacht
+ទីផ្សារអ៊ីធើណែត	Internetmarketing
+សៀវភៅ	Het jungleboek
+បារីអេឡិចត្រូនិច	E-sigaret
+Eagles (ក្រុមភ្លេង)	Eagles
+កំណើនសេដ្ឋកិច្ច	Economische groei
+យន្តសាស្រ្តរថយន្ត	Auto-industrie
+អាឌាម លេមបឺត	Adam Lambert
+រូបមន្តដឺម័រ	Stelling van De Moivre
+អនុគមន៍ហ្គាំម៉ា	Gammafunctie
+ផ្សារធំថ្មី	Centrale Markt in Phnom Penh
+ច្បាប់ប៉ាស្កាល់	Wet van Pascal
+សញ្ញាជាតិបង់ក្លាដែស្ស	Wapen van Bangladesh
+នាង​សីតា	Sita (godin)
+សូរ (​ភាសាសាស្ត្រ​)	Toontaal
+ខ្មែរក្រហម	Rode Khmer
+ម៉ូឌុល​យ៉ាំង	Elasticiteitsmodulus
+កែវម៉ាស៊ីនថត	Objectief (fotografie)
+ទីភ្នាក់ងារសារព័ត៌មាន	Persbureau
+វិគីភីឌាភាសាស្លូវ៉ាគី	Slowaakse Wikipedia
+ថេរហ្វារ៉ាដេយ	Faradayconstante
+ប្រវត្តិអ៊ីនធើណេត	Geschiedenis van het internet
+សមភាពគួរកត់សំគាល់	Tweeterm
+ខូប្រា	Kopra
+ទ្រឹស្តីបទមេនេឡូស	Stelling van Menelaos
+អត្ថបទ(ប្រើបា្រស់ភាសា)	Context (taal)
+ជូគ័រលាង	Zhuge Liang
+បំលែងឡាប្លាស	Laplacetransformatie
+សញ្ញាជាតិតួរគី	Embleem van Turkije
+បឹងទន្លេសាប	Tonlé Sapmeer
+Dassault Mirage 2000	Dassault Mirage 2000
+ចំនួនអវិជ្ជមាន	Negatief getal
+សញ្ញាជាតិវៀតណាម	Embleem van Vietnam
+ខ្មែរ (ជនជាតិ)	Khmer (volk)
+សញ្ញាជាតិកូរ៉េខាងត្បូង	Wapen van Zuid-Korea
+សញ្ញាជាតិឡាវ	Wapen van Laos
+សញ្ញាជាតិប៉ាគីស្ថាន	Wapen van Pakistan
+Tigranes the Great	Tigranes II
+អាណាចក្រខ្មែរ	Khmer-rijk
+ត្រីពណ៌	Driekleur
+សញ្ញាជាតិប៊្រុយណេ	Wapen van Brunei
+រង្វង់ត្រីកោណមាត្រ	Eenheidscirkel
+ចំរៀករង្វង់	Cirkelsector
+អនុគមន៍ដឺក្រេទី៣	Derdegraadsvergelijking
+អនុគមន៍អ៊ីពែបូលីក	Hyperbolische functie
+ឆាវ ឆាវ	Cao Cao
+Sukhoi Su-30	Soechoj Su-30
+កម្មវិធីស្បៀងអាហារពិភពលោក	Wereldvoedselprogramma
+រៀល	Cambodjaanse riel
+សមុទ្រស្ទើរបិទ	Binnenzee
+ច្រកសិង្ហបុរី	Straat Singapore
+វិគីភីឌាភាសារុស្ស៊ី	Russische Wikipedia
+សញ្ញាជាតិអូម៉ង់	Embleem van Oman
+ភាសាកម្មវិធី Lua	Lua (programmeertaal)
+សញ្ញាជាតិប៊ូតាន	Embleem van Bhutan
+ភ្លេងជាតិថៃ	Phleng Chat
+ព្រះរតនត្រ័យ	Drie Juwelen (boeddhisme)
+អាហារនៅប្រទេសម៉ិចស៊ិក	Mexicaanse keuken
+ច្រកឡាប៉េរូស	Straat La Pérouse
+ខ្នាតកំលាយនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	Afgeleide eenheden
+ផ្សារហិរញ្ញវត្ថុ	Financiële markt
+ញ៉ែ	Flirten
+ព្រះឆាយាល័ក្ខកម្ពុជា	Wapen van Cambodja
+ខ្សែទឹកអាត្លង់ទិកខាងជើង	Noordatlantische stroom
+ប្រវត្តិសាស្ត្រវៀតណាម	Geschiedenis van Vietnam
+ខ្សែទឹកខាណារី	Canarische stroom
+ទ្រឹស្តីបទឆិវ៉ា	Stelling van Ceva
+LinkedIn	LinkedIn
+ព្រះត្រៃបិដក	Pali-canon
+បុណ្យវិសាខបូជា	Vesakha Puja
+ទីក្រុងព្រែកឫស្សី	Cần Thơ (stad)
+ជនជាតិចាម	Koninkrijk Champa
+រីស្ស៉ាត កាពុសស៊ីនស្គី	Ryszard Kapuściński
+ស៊ាន ឃីងស្តន	Sean Kingston
+កងទ័ពជើងទឹកបារាំង	Franse marine
+ចំប៉ី	Plumeria
+ពហុកីឡាដ្ឋានសុផាចាឡាសៃ	Suphachalasaistadion
+អនុគមន៍បេសែ្សល	Besselfunctie
+លោក អាប់ឌូ ឌីអោហ្វ	Abdou Diouf
+វិធីហ្វៃណៃថ៍អ៊េលម៉ិន	Eindige-elementenmethode
+ច្បាប់អគ្គីសនីវិភាគរបស់ហ្វារ៉ាដេយ	Elektrolysewet van Faraday
+ខេត្តព្រះសីហនុ	Sihanoukville
+មានប្រ	Anggun
+និកាយនៃព្រះពុទ្ធសាសនា	Boeddhistische stromingen
+ដុនបូស្កូសាឡេស៊ាន្ត	Salesianen van Don Bosco
+ខ្នាតគោលនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	SI-basiseenheid
+អង្គរធំ	Angkor Thom
+Kara	Kara
+១៤១	141 (getal)
+ប្រទេសនៅអឺរ៉ុប	Lijst van Europese landen
+វិទ្យុសម្លេងសហរដ្ឋអាមេរិក	Voice of America
+ជេឃ្វីរី	JQuery
+ទិវាពិភពលោកគ្មានថ្នាំជក់	Werelddag zonder tabak
+គម្ពីរបញ្ចតន្ត្រ	Pañcatantra
+មេដ្យាន	Zwaartelijn
+ផ្លាយ អាស់	Vliegas
+T-80	T-80
+សញ្ញាជាតិកាតារ	Wapen van Qatar
+សញ្ញាយ៉ាកូប៊ី	Jacobi-symbool
+មីហ៊្គោ	MeeGo
+វិភាគចិត្តវិទ្យា	Jungiaanse psychoanalyse
+លីវ ប៉ី	Liu Bei
+កិច្ចព្រមព្រៀងពាណិជ្ជកម្ម	Handelsverdrag
+សង្គ្រាមគ្រីមៀ	Krimoorlog
+ក្ងោកបៃតង	Groene pauw
+នាវាចរណ៏	Stuurman (rang)
+Pinterest	Pinterest
+អាស៊ីហ្គេមឆ្នាំ១៩៦២	Aziatische Spelen 1962
+ភ្នំសេមេរូ	Semeru
+កោះសមុយ	Ko Samui
+អាំងតេក្រាលដោយផ្នែក	Partiële integratie
+ផ្សោតក្បាលត្រឡោក	Irrawaddydolfijn
+Near Field Communication	Near field communication
+ហិរញ្ញវត្ថុសាធារណៈ	Openbare financiën
+កប៉ាល់ ជួង	Scheepsbel
+សាលាសំណាក់	Paviljoen (bouwkunst)
+ខ្សែទឹកកាលីហ្វរនៀ	Californische stroom
+រូបមន្តអយល័រ-ម៉ាក្លូរីន	Formule van Euler-Maclaurin
+AIDC F-CK-1 Ching-kuo	AIDC F-CK-1 Ching-kuo
+OSM	OSM
+ប្រមោញ	Aziatisch kwaststaartstekelvarken
+ខេត្តសាឡៈវ៉ាន់	Salavan (khwaeng)
+ទិន្នន័យបើកចំហ	Open data
+ទិន ហ្វី	Stephen Chow
+ព្រះបាទសូរ្យវរ្ម័នទី២	Suryavarman II
+ហិនរី វីលសុន	Henry Wilson (politicus)
+ហុងដា សូអ៊ិជិរ៉ូ	Soichiro Honda
+ស៊ុន ឈាន	Sun Quan
+ឆាវ ភី	Cao Pi
+ម៉ាស៊ីនថតវីឌីអូ	Videocamera
+សមុទ្រកូរ៉ូ	Korozee
+ពិម្ពិសារ	Bimbisara
+ដូមីនិក សាវីយ៉ូ	Domenico Savio
+ក្រុមបាល់ទាត់ជម្រើសជាតិកម្ពុជា	Cambodjaans voetbalelftal
+ព្រះសារីបុត្រ	Sariputta
+ទ្រឹស្តីបទគ្រីន	Stelling van Green
+ប្រាសាទអូសាកា	Kasteel Osaka
+ការប្រើប្រាស់ភាសា	Toegepaste taalkunde (wetenschap)
+គោព្រៃ	Kouprey
+VCD	Video-cd
+ថ្ងៃបាស់ស្ទីល	Franse nationale feestdag
+កម្ពុជាប្រជាធិបតេយ្យ	Democratisch Kampuchea
+សាលាក្ដីខ្មែរក្រហម	Cambodja-tribunaal
+ណាសសែរ អាល់ មូហាមមេដ អាល់ អាហ៍មេដ អាល់ អាបាហ៍	Nasser Muhammad Al Ahmad Al Sabah
+ខេត្តផុងសាលី	Phongsali (khwaeng)
+ខេត្តបកែវ	Bokeo
+ខេត្តចំប៉ាសក្តិ	Champassak (khwaeng)
+ព្រះបាទជ័យវរ្ម័នទី៧	Jayavarman VII
+កស្សបៈ	Mahakasyapa
+កាំង ហ្កិច អ៊ាវ	Kaing Guek Eav
+កំពស់ត្រីកោណ	Hoogtelijn (driehoek)
+វិសមភាពរវាងមធ្យម	Ongelijkheid
+ស៊ឺ ម៉ាអ៉ី	Sima Yi
+ចំនុចហ្គែរហ្គោន	Ingeschreven cirkel
+ក្រុមហ៊ុនអាកាសចរណ៍ជាតិ កម្ពុជាអង្គរអ៊ែរ	Cambodia Angkor Air
+ទ្រឹស្តីបទមេអំបៅ	Vlinderstelling
+កន្ថឹក	Belangers toepaja
+ជេកខប រីស	Jacob A. Riis
+ព្យែរ វ៉ារីញ៉ុង	Pierre Varignon
+នួន ជា	Nuon Chea
+អៀង សារី	Ieng Sary
+ជយវម៌្មទី៣	Jayavarman II
+បន្ទាត់អយល័រ	Rechte van Euler
+ប្រវត្តិសាស្ត្រថៃ	Geschiedenis van Thailand
+បុណ្យសែនព្រះខែ	Midherfstfestival
+មហាមោគ្គលាន	Maudgalyayana
+គុណកិរិយា	Bijwoord
+ឌីណាមិក HTML	Dynamic HTML
+កុំផ្លិចឆ្លាស់	Complex geconjugeerde
+ការកើនឡើងនៃចំនួនប្រជាជននៅលើពិភពលោក	Bevolkingsgroei
+គោលនយោបាយកសិកម្ម	Landbouwpolitiek
+តារាងអាំងតេក្រាល	Lijst van integralen
+បន្ទាត់សេកង់	Snijlijn
+សម្ដេចប៉ាបហ្វ្រង់សូ័រ	Paus Franciscus
+ទ្រឹស្តីបទតូលេមី	Stelling van Ptolemaeus
+Regional Internet registry	Regional Internet Registry
+ខ្វែងជ័យបុរី	Sainyabuli
+ខ្វែងជើងខ្វែង	Xieng Khuang
+ខេត្តឧត្តមជ័យ	Udomxai
+ខេត្តកោះកុង	Koh Kong (provincie)
+ខេត្តកណ្ដាល	Kandal
+ម៉ារី ដូមីនិក ម៉ាសារីលូ	Maria Mazzarello
+អនុគមន៍បែតា	Bètafunctie
+ទ្រឹស្តីបទតង់សង់	Tangensregel
+លិង្គ	Lingam
+ឌិត ប្រន	Dith Pran
+កូម៌ៈ	Koerma
+អាស៊ីហ្គេមឆ្នាំ១៩៧៤	Aziatische Spelen 1974
+អាកាសយានដ្ឋានអន្តរជាតិតានសូនណាត្ត	Internationale Luchthaven Tân Sơn Nhất
+ឧបទ្វីបកូរ៉េ	Koreaans Schiereiland
+វីគីប្រជុំ	Wikimania
+អាស៊ីហ្គេម	Aziatische Spelen
+ទង់ជាតិសិង្ហបុរី	Vlag van Singapore
+បង្អួចឆ្នាំ 2000	Windows 2000
+តារាងអាំងតេក្រាលនៃអនុគមន៍សនិទាន	Lijst van integralen van rationale functies
+តារាងអាំងតេក្រាលនៃអនុគមន៍អ៊ីពែបូលីក	Lijst van integralen van hyperbolische functies
+សមីការដឺក្រេទី១	Lineaire vergelijking
+តារាងអាំងតេក្រាលនៃអនុគមន៍ច្រាស់អ៊ីពែបូលីក	Lijst van integralen van inverse hyperbolische functies
+សញ្ញាជាតិអាហ្វហ្គានីស្ថាន	Embleem van Afghanistan
+E-commerce	Electronic commerce
+Sukhoi Superjet 100	Soechoj Superjet 100
+អ្នក​មាន​ជាង​គេ​លើ​ពិភពលោក	Lijst van rijkste mensen ter wereld
+អាស៊ីហ្គេមឆ្នាំ២០០២	Aziatische Spelen 2002
+អាស៊ីហ្គេមឆ្នាំ១៩៨៦	Aziatische Spelen 1986
+អាណាស្រុកម៉ូបាល (អាល់ឡាបាម៉ា)	Mobile County
+ម្កាក់	Ambarella
+ខេត្តកំពង់ធំ	Kampong Thum (provincie)
+ខេត្តព្រះវិហារ	Preah Vihear (provincie)
+ខេត្ត ហួ ផាន់	Hua Phan
+ខ្វែងអាចម៍ក្រពើ	Attapeu (khwaeng)
+ខេត្តខាំមួន	Khammuan
+ខេត្តប៉ៃលិន	Pailin
+បារីសង់	Zwaartepunt
+ក្រុមបាល់ទាត់ជម្រើសជាតិ កូរ៉េខាងត្បូង	Zuid-Koreaans voetbalelftal
+សុញ្ញតា	Sunyata
+ឆកសមុទ្រចាការតា	Baai van Jakarta
+Xian MA60	Xian MA60
+ប្រមា	Maleis stekelvarken
+ម៉ាសែលលីន ចាមប៉ាញេត	Marcellinus Champagnat
+អេដូអារដូ អាម៉ាល់ឌី	Edoardo Amaldi
+Chengdu J-20	Chengdu J-20
+ស៊ីឡាត	Pencak silat
+តារាងអាំងតេក្រាលនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល	Lijst van integralen van exponentiële functies
+តារាងអាំងតេក្រាលនៃអនុគមន៍អសនិទាន	Lijst van integralen van irrationale functies
+តារាងអាំងតេក្រាលនៃអនុគមន៍លោការីត	Lijst van integralen van logaritmische functies
+អាំងតេក្រាលហ្វ្រេនែល	Fresnelintegraal
+គោលនយោបាយសេដ្ឋកិច្ច	Economische politiek
+Baskin​-Robbins បាន	Baskin-Robbins
+ទិវាសេរីភាពសារព័ត៌មានពិភពលោក	Internationale Dag van de Persvrijheid
+អាជ្ញាធរអន្តរកាលសហប្រជាជាតិនៅកម្ពុជា	UNTAC
+អាំងតេក្រាលផ្ទៃ	Oppervlakte-integraal
+ប្រាសាទបន្ទាយក្តី	Banteay Kdei
+ក្រុងសំរោង	Phumi Samraong
+ខេត្តតាកែវ	Takev (provincie)
+ខេត្តហ៊ីរ៉ូស៊ីម៉ា	Hiroshima (prefectuur)
+បន្ទប់រៀន	Klaslokaal
+ជំរំជនភៀសខ្លួន	Vluchtelingenkamp
+ខេត្តឧត្ដរមានជ័យ	Oddar Meancheay
+ប្រភេទស្រាទំពាំងបាយជូរពីប្រទេសបារាំង	Wijnbouw in Frankrijk
+បទនគររាជ	Nokoreach
+នគររាជសីមា	Nakhon Ratchasima (stad)
+ចំនួនអាកស៊ីម៉ែដ	Getal van Archimedes
+អនុគមន៍អ៊ីពែបូលីកច្រាស់	Areaalfunctie
+ស្ទឹងស៊ីលីវូង	Ciliwung
+ISO 3166-2:KH	ISO 3166-2:KH
+ទ្រឹស្តីបទពីក	Formule van Pick
+ខេត្តសៀមរាប	Siem Reap (provincie)
+ខេត្តមណ្ឌលគិរី	Mondol Kiri
+ខេត្តកំពង់ស្ពឺ	Kampong Spoe (provincie)
+ប្រាសាទបាយ័ន	Bayon (tempel)
+អុនសេន	Onsen
+ត្រីតុកកែជ្រូក	Panterbaars
+ជាតក	Jataka
+អនុគមន៍ត្រីកោណមាត្រច្រាស់	Cyclometrische functie
+ម៉ាជូ ពីជូ	Machu Picchu
+ខ្សែទឹកប្រេស៊ីល	Braziliëstroom
+ក្រុមអសនិក (អាកាសចរណ៍)	Squadron
+Pilatus PC-7	Pilatus PC-7
+អម្ពបាលី	Ambapali
+ត្រកៀតប៉ោង	Waterhyacint
+ចតុកោណចារឹកក្នុងរង្វង់	Koordenvierhoek
+១៣៨	138 (getal)
+គីឡូម៉ែត្រការ៉េ	Vierkante kilometer
+ពហុកោណនិយ័ត	Regelmatige veelhoek
+១៤៤	144 (getal)
+១៤០	140 (getal)
+១៤៧	147 (getal)
+១៣៩	139 (getal)
+ត្រកៀត	Pontederiafamilie
+បណ្តាញផ្លូវហាយវេអាស៊ី	Aziatische weg
+អាស៊ីហ្គេមឆ្នាំ១៩៥៤	Aziatische Spelen 1954
+អាស៊ីហ្គេមឆ្នាំ១៩៥៨	Aziatische Spelen 1958
+អាស៊ីហ្គេមឆ្នាំ១៩៦៦	Aziatische Spelen 1966
+អាស៊ីហ្គេមឆ្នាំ១៩៧៨	Aziatische Spelen 1978
+អាស៊ីហ្គេមឆ្នាំ១៩៨២	Aziatische Spelen 1982
+អាស៊ីហ្គេមឆ្នាំ១៩៩០	Aziatische Spelen 1990
+អាស៊ីហ្គេមឆ្នាំ១៩៩៤	Aziatische Spelen 1994
+អាស៊ីហ្គេមឆ្នាំ១៩៩៨	Aziatische Spelen 1998
+Hongdu JL-8	Hongdu JL-8
+ច្រកចូហរ	Straat Johore
+ព្រះសង្ឃ	Monnik
+នគរលូ	Lu (staat)
+ត្រីរាជ	Pangasianodon gigas
+ទ្រឹស្តីបទស្តេអាត	Formule van Stewart
+ខេត្តរតនគិរី	Ratanakiri
+បញ្ចក្ខន្ធ	Vijf khandhas
+Gloomy Sunday	Gloomy Sunday
+ខេត្តហ្លួងព្រះបាង	Luang Prabang (khwaeng)
+ខេត្តកំពត	Kampot (provincie)
+សង្គ្រាមឥណ្ឌូចិនលើកទី១	Eerste Indochinese Oorlog
+ខេត្តស្វាយរៀង	Svay Rieng (provincie)
+ISO 9362	Business Identifier Code
+ប៉ាកាយ៉ា	Pacaya
+ខ្លែងប្រម៉ង់	Roodbroekdwergvalk
+ទ្រឹស្ដីបទការ៉េទាំង៤របស់ឡាហ្គ្រង់	Vier-kwadratenstelling van Lagrange
+សុត្តន្តបិដក	Suttapitaka
+ខេត្តអូគីណាវ៉ា	Okinawa (prefectuur)
+ទន្លេបាទី	Tonle Bati
+អាស៊ីខាងត្បូង	Zuid-Azië
+កំណាត់រង្វង់	Cirkelsegment
+ខេត្តក្រចេះ	Kracheh (provincie)
+ខេត្តបាត់ដំបង	Battambang (provincie)
+តំបន់ត្រីកោណមាស	Gouden Driehoek (gebied)
+សង្គ្រាមផ្ទៃក្នុងកម្ពុជា	Cambodjaanse Burgeroorlog
+ESET	ESET
+អាស៊ីហ្គេមរដូវរងារ	Aziatische Winterspelen
+ក្រុងយ៉ាណៃ	Yanai
+កុសិនារា	Kushinagara
+KM	Kilometer
+BRIC	BRIC
+បញ្ជីព្រះមហាក្សត្រកម្ពុជា	Koningen van Cambodja
+ផ្លូវកណ្ដាល	Middenweg (boeddhisme)
+ខេត្តពោធិ៍សាត់	Pouthisat (provincie)
+ខេត្តស្ទឹងត្រែង	Stoeng Treng (provincie)
+ប្រព័ន្ធគោល	Grondtal
+តារាងអាំងតេក្រាលនៃអនុគមន៍ត្រីកោណមាត្រ	Lijst van integralen van goniometrische functies
+ច្រកកាលីម៉ាតា	Straat Karimata
+សារមន្ទីរទួលស្លែង	Tuol Sleng-museum
+ខេត្តកែប	Keb
+ទ្រឹស្តីបទវីវីអានី	Stelling van Viviani
+VietJet Air	VietJet Air
+ក្រុងសិរីសោភ័ណ	Sisophon
+ក្រុងកំពង់ចាម	Kampong Cham
+សាកលវិទ្យាល័យ ចុឡាលុងករណ៍	Chulalongkorn-universiteit
+Gallery of dependent territory flags	Vlaggen van afhankelijke territoria
+អនុគមន៍ស៊ីនុសកាឌីណាល់	Sinc-functie
+ខេត្តព្រៃវែង	Prey Veng (provincie)
+បញ្ជីរាយនាម សេដ្ឋវិទូ	Lijst van bekende economen
+កប្ប	Eon (boeddhisme)
+សាធារណរដ្ឋប្រជាមានិតកម្ពុជា	Volksrepubliek Kampuchea
+នគរវ្នំ	Funan
+ក្រុងកំពត	Kampot (plaats)
+ខេត្តកំពង់ឆ្នាំង	Kampong Chhnang (provincie)
+ស៊ីហ្គេម	Zuidoost-Aziatische Spelen
+ទ្រឹស្តីបទមេដ្យាន	Stelling van Apollonius
+ISO 3166-3	ISO 3166-3
+ព្រហ្មវិហារធម៌	Brahmaviharā
+បាល់ទាត់កញ្ចុំផ្កាយ	Galactik Football
+ការ​បញ្ចាំង​ស្លាយ	Diaporama
+វីគីភីឌាភាសាខ្មែរ	Vluchtige organische stof
+ចំប៉ីសៀម	Adenium
+ជំនួយ:មាតិកា	Portaal:Hulp en beheer
+ច្បាប់ប្រលេឡូក្រាម	Parallellogramwet
+ចំនុចប៊្រូការ	Punten van Brocard
+ទ្រឹស្តីបទកន្លះបន្ទាត់ពុះមុំ	Stelling van de bissectricehoek
+ភ្នំភ្លើងអ៊ីស៊ាឡឺកធ្វើអោយខកខានការហោះហើរនៅអឺរ៉ុប	Luchtvaartverstoringen door vulkaanuitbarsting onder de Eyjafjallajökull 2010
+ព្រៃវែង	Prey Veng
+ខ្សែទឹកអៀមីងហ្គើរ	Irmingerstroom
+ជួរភ្នំដងរែក	Dongrekbergen
+រូបមន្តញូតុន-កូត្ស	Formule van Newton-Cotes
+ស្វាកន្ទុយស	Zwartscheendoek
+Nanchang Q-5	Nanchang Q-5
+ពិធីបុណ្យមាឃបូជា	Magha Puja
+គណកម្មាធិការអូឡាំពិកជប៉ុន	Japans Olympisch Comité
+ចំនួនតេត្រាអែក	Tetraëdergetal
+ក្រុងកំពង់ធំ	Kampong Thum
+ព្រះពុទ្ធសាសនា​នៅ​ស្រីលង្កា	Boeddhisme in Sri Lanka
+ចំណុចរំពុះ	Kookpunt
+វិសមភាពភីដូ	Ongelijkheid van Pedoe
+វិសមភាព អឺមីត-អាដាម៉ា	Ongelijkheid van Hermite-Hadamard
+ក្រុងកំពង់ឆ្នាំង	Kampong Chhnang
+តារាងអាំងតេក្រាលនៃអនុគមន៍ច្រាស់ត្រីកោណមាត្រ	Lijst van integralen van inverse goniometrische functies
+ត្រៃលក្ខណ៍	Drie karakteristieken
+អាកាសយានដ្ឋានអន្តរជាតិភ្នំពេញ	Luchthaven Phnom Penh
+ព្រះនិព្វាន៤ថ្នាក់	Vier Graden van Verlichting
+សាធារណរដ្ឋខ្មែរ	Khmerrepubliek
+ក្មេងទំនើង	Jeugdstrafrecht (Nederland)
+ចេនឡា	Chenla
+ស្ដេចចក្រពត្តិ	Chakravartin
+អាំងតេក្រាលប្តូរអថេរ	Integratie door substitutie
+កម្មវីធីសូនីវីហ្គាស	Sony Vegas
+ស៊ីហ្គេមលើកទី២៥	Zuidoost-Aziatische Spelen 2009
+ខ្សែទឹកអេក្វាទ័រខាងត្បូង	Zuidequatoriale stroom
+សិក្ខាបទ៥	Vijf Voorschriften
+ការប្រកួតកីឡាជើងឯកចុងបូព៌ា	Spelen van het Verre Oosten
+តារាងដេរីវេ	Lijst van afgeleiden
+ការប្រកួតកីឡា កម្ពុជា	Cambodjaanse voetbalcompetitie
+អាំងតេក្រាលត្រីកោណមាត្រ	Cosinusintegraal
+សមីការឌីផេរ៉ងស្យែលក្លែរ៉ូ	Vergelijking van Clairaut
+សាសនា សកល	Lijst van religieuze symbolen
+តំបន់អឌ្ឍច័ន្ទមាស	Gouden Sikkel
+សហរដ្ឋ	Politieke unie
+បណ្ឌិត្យ​សភា​នីតិ​អន្តរជាតិ​នៃ​ទីក្រុង​ឡាអេ	Haagsche Academie voor Internationaal Recht
+សម្រែកនៃដុលោរ៉េស៏	Grito de Dolores
+ប្រពលវប្បកម្ម	Intensieve landbouw
+សមភាពការ៉េទាំង៤របស់អឺលែរ	Vier-kwadratenidentiteit van Euler
+រូបមន្តប្រាម៉ាហ្គឹបតា	Formule van Brahmagupta
+មហាភូតរូប	Vier Elementen (boeddhisme)
+ផ្នែកពិត	Reële deel
+សមភាពការ៉េទាំង៨របស់ដេហ្គេន	Acht-kwadratenidentiteit van Degen
+ក្រុមមិត្តភក្តិ (Peer group)	Peergroup (psychologie)
+ក្រុងតាកែវ	Takev
+ស្ពានខាន់ម៉ុងក្យូ	Kammonbrug
+វិគីភីឌា:ស្ថានទូតខ្មែរ	Wikipedia:Ambassade
+Bottleneck	Bottleneck (bedrijfskunde)
+ហ្វ្រង់កូ រ៉ាសិតទី	Franco Rasetti
+ខ្សែទឹករង្វល់របស់មហាសមុទ្រ	Gyre
+វិទ្យុតាមអ៊ីនធើណែត	Digitale radio
+អនុគមន៍ហ្គុឌែរម៉ាន់	Gudermannfunctie
+វិធីសាស្រ្តហ្រ្វូបេនៀស	Methode van Frobenius
+ផ្នែកនិម្មិត	Imaginair deel
+ឃុនបរម	Khun Borom
+មួយម៉ូនីកា	Agnes Monica
+Candies	Candies
+ខ្មែរក្រោម	Khmer Krom
+ទ្រឹស្តីបទកាសី	Stelling van Casey
+ESET NOD32 Antivirus	NOD32
+វិគីភីឌា:Glossary	Help:Terminologie op Wikipedia
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសជប៉ុន	Categorie:Japan
+ចំណាត់ថ្នាក់ក្រុម:ម៉ិកសិច	Categorie:Mexico
+ចេមនិងផ្លែប៉ែសយក្ស	De reuzenperzik
+ស្ងោរជ្រក់សាច់មាន់	Kippensoep
+ចំណាត់ថ្នាក់ក្រុម:ឥណ្ឌូនេស៊ី	Categorie:Indonesië
+ចំណាត់ថ្នាក់ក្រុម:សិង្ហបុរី	Categorie:Singapore
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទ្យា	Categorie:Natuurkunde
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្រ្តធម្មជាតិ	Categorie:Natuurwetenschappen
+ចំណាត់ថ្នាក់ក្រុម:ជីវវិទ្យា	Categorie:Biologie
+ចំណាត់ថ្នាក់ក្រុម:សាសនា	Categorie:Religie
+ចំណាត់ថ្នាក់ក្រុម:កីឡា	Categorie:Sport
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្ត្រ	Categorie:Wetenschap
+ប្រជាមតិទាក់ទងនឹងឯករាជភាពរបស់ស្កុតឡែនឆ្នំា២០១៤	Referendum over de onafhankelijkheid van Schotland
+សំយោជនៈ	Wedergeboorte (boeddhisme)
+G8+5	G8+5
+ចំនួនហ្គាលីលេ	Getal van Galilei
+ត្រីគល់រាំង	Catlocarpio siamensis
+Honda HA-420 HondaJet	Honda HA-420 HondaJet
+ស្ករត្នោត	Palmsuiker
+ស្ដង់ដា	Standard
+ទំព័រគំរូ:Dts	Sjabloon:DTS
+បុណ្យកឋិន	Kathina
+ទីក្រុងរ៉ូមបុរាណ	Oude Rome
+កន្ថឹកក្បាលឆ្នូត	Noordelijke zachtstaarttoepaja
+រឹសគូប	Derdemachtswortel
+នរោត្ដម សុរាម្រិត	Norodom Suramarit
+អាស៊ីហ្គេមអ៊ីនដរ	Aziatische Indoorspelen
+Airbus A318	Airbus A318
+ការវាយប្រហារដែនអាកាសនៅទីក្រុងបេកដាត ថ្ងៃទី ១២ កក្តដា ២០០៧	Collateral Murder
+ក្លឹបបាល់ទាត់ ភ្នំពេញក្រោន	Phnom Penh Crown
+វត្តភ្នំ	Wat Phnom
+កោះត្រឡាច	Côn Lôn
+ក្រុមហ៊ុនអាកាសចរណ៏រ៉ូយ៉ាល់ខ្មែរអ៊ែរឡាញ	Royal Khmer Airlines
+អាគីតា	Akita
+ទ្រឹស្ដីបទវ៉ារីញ៉ុង	Parallellogram van Varignon
+កូវែស៊ីនុស	Cosinus versus
+ចំណាយរដ្ឋាភិបាល	Overheidsuitgaven
+សារមន្ទីរជាតិ	Nationaal Museum van Cambodja
+អ្នកសារពត័មាន	Journalist
+រង្វង់ប៊្រូការ	Cirkel van Brocard
+ក្រុងតាខ្មៅ	Ta Khmau
+ចំណាត់ថ្នាក់ក្រុម:អូឡាំពិក	Categorie:Olympische Spelen
+ចំណាត់ថ្នាក់ក្រុម:ព្រះពុទ្ធសាសនា	Categorie:Boeddhisme
+ប្រអប់ខ្សាច់	Sandbox
+ទ្រឹស្តីបទទែរគេម	Ceva-cirkel-verwantschap
+ពហុកីឡដ្ឋានជាតិអូឡាំពិក	Phnom Penh National Olympic Stadium
+ជំងឺរលាកបំពង់ក	Keelontsteking
+ការដឹងគ្រប់គ្រាន់នៃវិធីដកដង្ហើម១៦យ៉ាង	Anapanasati
+សញ្ញាណត្រីកោណខុនវេ	Conway-driehoeknotatie
+ស្រុកលំផាត់	Lumphat
+យ៉ាបា	Yabaa
+ចំនួនអូតូម៉ហ្វីស	Automorf getal
+អូរកែវ	Óc Eo (historische stad)
+ខេត្តបលិខាំសៃ	Bolikhamsai
+ទ្រឹស្តីបទមីកេល	Pivoteerpuntstelling van Miquel
+អភិញ្ញា៦	Drievoudige Kennis
+បណ្ណាល័យជាតិកម្ពុជា	Nationale Bibliotheek van Cambodja
+វត្តព្រះកែវមរកត	Zilveren Pagode
+អង្គការរៃយំ	Reyum
+ស៊ីនុសអាំងតេក្រាល	Sinusintegraal
+កត្តាអាំងតេក្រាល	Integrerende factor
+រដ្ឋាភិបាលចម្រុះកម្ពុជាប្រជាធិបតេយ្យ	Coalitieregering van Democratisch Kampuchea
+ក្លឹបបាល់ទាត់ បៀលប្រាយយូណាយធីត	Build Bright United FC
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ	Categorie:Wikipedia:Beginnetje
+ចំណាត់ថ្នាក់ក្រុម:ទ្វីប	Categorie:Continent
+ចំណាត់ថ្នាក់ក្រុម:ភូមិវិទ្យា	Categorie:Geologie
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះ	Categorie:Luchtvaartuig
+វត្តឧណ្ណាលោម	Wat Ounalom
+ទំព័រគំរូ:ប្រព័ន្ធព្រះអាទិត្យ	Sjabloon:Navigatie zonnestelsel
+អនុរុទ្ធ	Anuruddha
+ពីរ៉ាមីត	Piramide (ruimtelijke figuur)
+ជំនួយ:ការកត់ឈ្មោះចូល	Help:Aanmelden
+គ្រោះមហន្តរាយ	Ramp
+ទំព័រគំរូ:Quote	Sjabloon:Citaat
+ទំព័រគំរូ:Wikipedia languages	Sjabloon:Hoofdpagina - andere talen
+ទំព័រគំរូ:Location map Scotland	Sjabloon:Positiekaart Schotland
+ទំព័រគំរូ:Location map England	Sjabloon:Positiekaart Engeland
+ចំណាត់ថ្នាក់ក្រុម:សេដ្ឋកិច្ច	Categorie:Economie
+វិគីភីឌា:សុំប្តូរអត្តនាម	Wikipedia:Verzoek voor hernoeming van account
+វិគីភីឌា:Oversight	Wikipedia:Oversight
+វិគីភីឌា:រូបយន្ត	Wikipedia:Bots
+ចំណាត់ថ្នាក់ក្រុម:Hidden categories	Categorie:Wikipedia:Verborgen categorie
+អេហ៊្សីប	Egypte (land)
+ជំនួយ:ទំព័រគំរូ	Help:Gebruik van sjablonen
+វិគីភីឌា:វិគីគម្រោង	Wikipedia:Wikiproject
+ទំព័រគំរូ:Bot	Sjabloon:Bot
+វិគីភីឌា:អ្វីៗដែលវិគីភីឌាមិនអនុញ្ញាត	Wikipedia:Wat Wikipedia niet is
+កាណាដា	Canada
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសអាយឡែន	Categorie:IJsland
+ចំណាត់ថ្នាក់ក្រុម:ខ្នាតក្រលាផ្ទៃ	Categorie:Oppervlaktemaat
+ទំព័រគំរូ:Flagicon	Sjabloon:Vlagland
+ចំណាត់ថ្នាក់ក្រុម:អឺរ៉ុប	Categorie:Europa
+ចំណាត់ថ្នាក់ក្រុម:ជំនួយក្នុងវិគីភីឌា	Categorie:Wikipedia:Help
+វិគីភីឌា:ទំព័រអ្នកប្រើប្រាស់	Wikipedia:Gebruikerspagina
+វិគីភីឌា:ព្រឹត្តិការណ៍​ថ្មីៗ	Portaal:In het nieuws
+ទំព័រគំរូ:Documentation	Sjabloon:Sjabdoc
+វិគីភីឌា:អ្នកប្រើប្រាស់	Help:Overzicht van soorten Wikipediagebruikers
+វិគីភីឌា:Protection policy	Help:Beveiligde pagina's
+វិគីភីឌា:Userboxes	Wikipedia:Gebruikersboxen
+វិគីភីឌា:ហត្ថលេខា	Wikipedia:Ondertekening
+វិគីភីឌា:អត្ថបទខ្លីមិនពេញលេញ	Wikipedia:Beginnetje
+វិគីភីឌា:Most wanted articles	Wikipedia:Gewenste artikelen
+ខេត្តមេគង្គ	Cửu Long
+ស្រាបៀរ អង្គរ	Angkor Beer
+វិគីភីឌា:Huggle	Wikipedia:Huggle
+ទំព័រគំរូ:Softredirect	Sjabloon:Softredirect
+ទំព័រគំរូ:លុបជាបន្ទាន់	Sjabloon:Nuweg
+ក្លោងទ្វារ:ចិន	Portaal:China
+ទំព័រគំរូ:Succession	Sjabloon:Opvolging
+ម៉ាទ្រីសប្រាម៉ាហ្គឹបតា	Brahmaguptamatrix
+កូក្លេអូអ៊ីត	Cochleoïde
+ចំណាត់ថ្នាក់ក្រុម:ភាសា	Categorie:Taal
+ចំណាត់ថ្នាក់ក្រុម:វេយ្យាករណ៍	Categorie:Grammatica
+ចំណាត់ថ្នាក់ក្រុម:វិគីភីឌា	Categorie:Encyclopedie Wikipedia
+វិគីភីឌា:ការបដិសេធ ទូទៅ	Wikipedia:Vrijwaringsclausule
+ជំនួយ:ចំណាត់ថ្នាក់ក្រុម	Help:Gebruik van categorieën
+វិគីភីឌា:សារទំព័រគំរូ	Wikipedia:Sjablonen voor artikelboodschappen
+វិគីភីឌា:អសង្ស័យកម្ម	Wikipedia:Conventies
+Portal:Contents/Portals	Portaal:Portalenoverzicht
+ទំព័រគំរូ:Navbox	Sjabloon:Navigatie
+ជំនួយ:រូបមន្ត	Help:TeX in Wikipedia
+ជំនួយ:តំណភ្ជាប់	Help:Gebruik van links
+ទំព័រគំរូ:Citation needed	Sjabloon:Bron?
+តំបន់ពាណិជ្ជកម្មសេរី	Vrijhandelszone
+ចំណាត់ថ្នាក់ក្រុម:Flag templates	Categorie:Wikipedia:Sjablonen vlag
+ទំព័រគំរូ:=	Sjabloon:=
+ទំព័រគំរូ:Navbar	Sjabloon:Tnavbar
+ទំព័រគំរូ:Loop	Sjabloon:Loop
+ទំព័រគំរូ:Key press	Sjabloon:Toets
+ទំព័រគំរូ:Okina	Sjabloon:Okina
+ទំព័រគំរូ:Sc	Sjabloon:Sc
+ទំព័រគំរូ:Clear	Sjabloon:Clearboth
+ទំព័រគំរូ:Color	Sjabloon:Tekstkleur
+ទំព័រគំរូ:Nowrap	Sjabloon:Nowrap
+ទំព័រគំរូ:Bots	Sjabloon:Bots
+ទំព័រគំរូ:Abbr	Sjabloon:Afkorting
+ចំណាត់ថ្នាក់ក្រុម:ខ្សែកោង	Categorie:Wiskundige kromme
+ទំព័រគំរូ:Babel	Sjabloon:Babel
+ទំព័រគំរូ:Commons	Sjabloon:Commons
+ទំព័រគំរូ:Link GA	Sjabloon:Link GA
+ទំព័រគំរូ:Reflist	Sjabloon:References
+វិគីភីឌា:Citing sources	Wikipedia:Bronvermelding
+ទំព័រគំរូ:អត្ថបទខ្លីមិនពេញលេញ	Sjabloon:Beginnetje
+ទំព័រគំរូ:User af-1	Sjabloon:Gebruiker af-1
+ទំព័រគំរូ:User als-1	Sjabloon:Gebruiker als-1
+ទំព័រគំរូ:User az	Sjabloon:Gebruiker az
+ទំព័រគំរូ:User bar-1	Sjabloon:Gebruiker bar-1
+ទំព័រគំរូ:See also	Sjabloon:Zie ook
+ទំព័រគំរូ:User de	Sjabloon:Gebruiker de
+ទំព័រគំរូ:User de-1	Sjabloon:Gebruiker de-1
+ទំព័រគំរូ:User et-1	Sjabloon:Gebruiker et-1
+ទំព័រគំរូ:User el	Sjabloon:Gebruiker el
+ទំព័រគំរូ:User es	Sjabloon:Gebruiker es
+ទំព័រគំរូ:User de-3	Sjabloon:Gebruiker de-3
+ទំព័រគំរូ:User en-3	Sjabloon:Gebruiker en-3
+ទំព័រគំរូ:User en-1	Sjabloon:Gebruiker en-1
+ទំព័រគំរូ:User en-2	Sjabloon:Gebruiker en-2
+ទំព័រគំរូ:User en-4	Sjabloon:Gebruiker en-4
+ទំព័រគំរូ:User fi	Sjabloon:Gebruiker fi
+ទំព័រគំរូ:User es-4	Sjabloon:Gebruiker es-4
+ទំព័រគំរូ:User en	Sjabloon:Gebruiker en
+ទំព័រគំរូ:User de-2	Sjabloon:Gebruiker de-2
+ទំព័រគំរូ:User es-1	Sjabloon:Gebruiker es-1
+ទំព័រគំរូ:User fa	Sjabloon:Gebruiker fa
+ទំព័រគំរូ:User fr-1	Sjabloon:Gebruiker fr-1
+ទំព័រគំរូ:User id-3	Sjabloon:Gebruiker id-3
+ទំព័រគំរូ:User it-3	Sjabloon:Gebruiker it-3
+ទំព័រគំរូ:User tr-2	Sjabloon:Gebruiker tr-2
+ទំព័រគំរូ:User fr-2	Sjabloon:Gebruiker fr-2
+ទំព័រគំរូ:User tr	Sjabloon:Gebruiker tr
+ទំព័រគំរូ:User ja	Sjabloon:Gebruiker ja
+ទំព័រគំរូ:User ja-1	Sjabloon:Gebruiker ja-1
+ទំព័រគំរូ:User it-1	Sjabloon:Gebruiker it-1
+ទំព័រគំរូ:User fr	Sjabloon:Gebruiker fr
+ទំព័រគំរូ:Location map/Info	Sjabloon:Positiekaart/info
+ចំណាត់ថ្នាក់ក្រុម:Navigational boxes	Categorie:Wikipedia:Sjablonen navigatie
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ី	Categorie:Azië
+ចំណាត់ថ្នាក់ក្រុម:User uk-N	Categorie:Wikipedia:Gebruiker uk-M
+ទំព័រគំរូ:Football squad player	Sjabloon:Voetbalselectie speler
+ទំព័រគំរូ:Mod	Sjabloon:Modulo
+ទំព័រគំរូ:User it	Sjabloon:Gebruiker it
+ទំព័រគំរូ:User uk	Sjabloon:Gebruiker uk
+ទំព័រគំរូ:User es-2	Sjabloon:Gebruiker es-2
+ទំព័រគំរូ:ស្វាគមន៍	Sjabloon:Hola
+ទំព័រគំរូ:គម្រោងវិគីជាបងប្អូន	Sjabloon:Hoofdpagina/Projecten
+ចំណាត់ថ្នាក់ក្រុម:External link templates	Categorie:Wikipedia:Sjablonen externe link
+ទំព័រគំរូ:Month header	Sjabloon:Navigatie maanden
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូសំរាប់កូអរដោនេ	Categorie:Wikipedia:Sjablonen coördinaten
+ទំព័រគំរូ:USA	Sjabloon:US
+ចំណាត់ថ្នាក់ក្រុម:User ms	Categorie:Wikipedia:Gebruiker ms
+ទំព័រគំរូ:Football kit	Sjabloon:Tenue voetbal
+ចំណាត់ថ្នាក់ក្រុម:User fr-1	Categorie:Wikipedia:Gebruiker fr-1
+ទំព័រគំរូ:Wikiquote	Sjabloon:Wikiquote
+ទំព័រគំរូ:Image label	Sjabloon:Afbeelding label
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អ្នកនិពន្ធ	Sjabloon:Infobox auteur
+ទំព័រគំរូ:Ja icon	Sjabloon:Jpn
+ទំព័រគំរូ:Infobox television	Sjabloon:Infobox televisieprogramma
+ទំព័រគំរូ:Geographic location	Sjabloon:Tabel windroos
+ទំព័រគំរូ:Infobox musical artist	Sjabloon:Infobox artiest
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាឡេស្ទីន	Sjabloon:PS
+ទំព័រគំរូ:Sidebar	Sjabloon:Zijbalk generiek
+ទំព័រគំរូ:Es icon	Sjabloon:Es
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ទស្សនាវដ្ដី	Sjabloon:Infobox tijdschrift
+ទំព័រគំរូ:Image requested	Sjabloon:Verzoek om afbeelding
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភ្លេងជាតិ	Sjabloon:Infobox volkslied
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសគាហ្គីស្ថាន	Sjabloon:KG
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សាលារៀន	Sjabloon:Infobox school
+ទំព័រគំរូ:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូ	Sjabloon:Hoofding categorie sjablonen
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ប្រទេស	Sjabloon:Infobox land
+ទំព័រគំរូ:Max	Sjabloon:Max
+ទំព័រគំរូ:Infobox software	Sjabloon:Infobox software
+ទំព័រគំរូ:Infobox airline	Sjabloon:Infobox luchtvaartmaatschappij
+ទំព័រគំរូ:Wide image	Sjabloon:Panorama
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ជម្លោះយោធា	Sjabloon:Infobox militair conflict
+ទំព័រគំរូ:Resolved	Sjabloon:Uitgevoerd
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្វីលីពីន	Sjabloon:PH
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន គណបក្សនយោបាយ	Sjabloon:Infobox politieke partij
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ល្បែងវីដេអូ	Sjabloon:Infobox computerspel
+ទំព័រគំរូ:IsLeapYear	Sjabloon:Schrikkeljaar
+ទំព័រគំរូ:Age in years and days	Sjabloon:Leeftijd in jaren en dagen
+ទំព័រគំរូ:Nom	Sjabloon:Tabelcel genomineerd
+ទំព័រគំរូ:Cleanup	Sjabloon:Wiu
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សាកលវិទ្យាល័យ	Sjabloon:Infobox universiteit
+ទំព័រគំរូ:Cite journal	Sjabloon:Citeer journal
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប្រ៊ុយណេ	Sjabloon:BN
+ទំព័រគំរូ:វិគីសៀវភៅ	Sjabloon:Wikibooks
+ទំព័រគំរូ:Xpd	Sjabloon:Xpd
+ទំព័រគំរូ:Familytree	Sjabloon:Stamboom
+ទំព័រគំរូ:Featured article	Sjabloon:Etalage
+ទំព័រគំរូ:Infobox monarch	Sjabloon:Infobox monarch
+ចំណាត់ថ្នាក់ក្រុម:User en-4	Categorie:Wikipedia:Gebruiker en-4
+ចំណាត់ថ្នាក់ក្រុម:User en	Categorie:Wikipedia:Gebruiker en
+ចំណាត់ថ្នាក់ក្រុម:User zh	Categorie:Wikipedia:Gebruiker zh
+ចំណាត់ថ្នាក់ក្រុម:User zh-N	Categorie:Wikipedia:Gebruiker zh-M
+ចំណាត់ថ្នាក់ក្រុម:User en-2	Categorie:Wikipedia:Gebruiker en-2
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន	Sjabloon:Infobox generiek
+ទំព័រគំរូ:Infobox instrument	Sjabloon:Infobox muziekinstrument
+ទំព័រគំរូ:TOC right	Sjabloon:Inhoud rechts
+ទំព័រគំរូ:RankedMedalTable	Sjabloon:Tabelkop Olympisch medailleklassement
+ទំព័រគំរូ:User zh	Sjabloon:Gebruiker zh
+ទំព័រគំរូ:Legend	Sjabloon:Legenda
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន បណ្ណាល័យ	Sjabloon:Infobox bibliotheek
+ទំព័រគំរូ:Cite web	Sjabloon:Citeer web
+ទំព័រគំរូ:YouTube	Sjabloon:Link YouTube
+ទំព័រគំរូ:Current	Sjabloon:Nieuws
+ទំព័រគំរូ:Won	Sjabloon:Tabelcel gewonnen
+ទំព័រគំរូ:Coor URL	Sjabloon:MapsServer
+ទំព័រគំរូ:Min	Sjabloon:Min
+ទំព័រគំរូ:Wiktionary	Sjabloon:Wikt
+ទំព័រគំរូ:Multi-listen start	Sjabloon:Multi-listen start
+ទំព័រគំរូ:Language icon	Sjabloon:Taalaanduiding
+ទំព័រគំរូ:Infobox settlement	Sjabloon:Infobox plaats
+ទំព័រគំរូ:User ru	Sjabloon:Gebruiker ru
+ទំព័រគំរូ:Admin	Sjabloon:Link moderator
+ទំព័រគំរូ:IPA	Sjabloon:IPA
+ទំព័រគំរូ:អត្ថន័យដទៃទៀត	Sjabloon:Zie dp
+ទំព័រគំរូ:List of African capitals	Sjabloon:Navigatie hoofdsteden Afrika
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ក្រុមជនជាតិ	Sjabloon:Infobox volk
+ទំព័រគំរូ:Archive box	Sjabloon:Archief
+ទំព័រគំរូ:MONTHNAME	Sjabloon:MONTHNAME
+វិគីភីឌា:Text of GNU Free Documentation License	Wikipedia:GNU Free Documentation License
+ទំព័រគំរូ:រង្វាន់ណូបែល	Sjabloon:Navigatie Nobelprijs
+ទំព័រគំរូ:Sisterlinks	Sjabloon:Zusterproject klein
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន តំបន់ការពារ	Sjabloon:Infobox beschermd gebied
+ទំព័រគំរូ:Border	Sjabloon:Border
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា	Categorie:Winnaar van de Nobelprijs voor de Natuurkunde
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែកគីមីវិទ្យា	Categorie:Winnaar van de Nobelprijs voor de Scheikunde
+ទំព័រគំរូ:Wikify	Sjabloon:Wikify
+ទំព័រគំរូ:ParmPart	Sjabloon:ParmPart
+ទំព័រគំរូ:Infobox OS	Sjabloon:Infobox besturingssysteem
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សៀវភៅ	Sjabloon:Infobox boek
+ទំព័រគំរូ:ICD10	Sjabloon:ICD10
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាឡេស៊ី	Sjabloon:MY
+ទំព័រគំរូ:Infobox website	Sjabloon:Infobox website
+ទំព័រគំរូ:Globalize	Sjabloon:Wereldwijd
+ទំព័រគំរូ:Image label end	Sjabloon:Afbeelding label eind
+ទំព័រគំរូ:Documentation subpage	Sjabloon:Sjabdoc direct
+ទំព័រគំរូ:Uncategorized	Sjabloon:Nocat
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌូនេស៊ី	Sjabloon:ID
+ទំព័រគំរូ:Quote box	Sjabloon:Citatiebox
+ទំព័រគំរូ:CcTLD	Sjabloon:Navigatie landelijke topleveldomeinen
+ទំព័រគំរូ:List of Asian capitals by region	Sjabloon:Navigatie hoofdsteden Azië
+ទំព័រគំរូ:ប្រអប់ព័ត៌មានទីកន្លែងកេរដំណែលពិភពលោក	Sjabloon:Infobox werelderfgoed
+ទំព័រគំរូ:Purge	Sjabloon:Purge
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អាគារ	Sjabloon:Infobox gebouw
+ទំព័រគំរូ:Location map USA	Sjabloon:Positiekaart Verenigde Staten
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអារ៉ាប៊ីសាអូឌីត	Sjabloon:SA
+ទំព័រគំរូ:User page	Sjabloon:Gebruikerspagina
+ទំព័រគំរូ:DE	Sjabloon:DE
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ព្រះវិហារគ្រិស្ដសាសនា	Sjabloon:Infobox kerk
+ទំព័រគំរូ:ផ្នែក និងទឹកដីនាយសមុទ្ររបស់បារាំង	Sjabloon:Navigatie overzeese gebiedsdelen Frankrijk
+ទំព័រគំរូ:Infobox Christian leader	Sjabloon:Infobox paus
+ទំព័រគំរូ:User	Sjabloon:Gebruikerlinks
+ទំព័រគំរូ:Spoken Wikipedia	Sjabloon:Gesproken Wikipedia
+ទំព័រគំរូ:Lorem ipsum	Sjabloon:Lorem ipsum
+ទំព័រគំរូ:ស្នើសុំប្ដូរឈ្មោះ	Sjabloon:HernoemGebruiker
+ទំព័រគំរូ:Image label small	Sjabloon:Afbeelding label klein
+ទំព័រគំរូ:Featured article candidates	Sjabloon:Etalagenominatie
+ទំព័រគំរូ:Nihongo	Sjabloon:Nihongo
+ទំព័រគំរូ:User fr-3	Sjabloon:Gebruiker fr-3
+ទំព័រគំរូ:PD-because	Sjabloon:Sjabloon verwijderd
+ទំព័រគំរូ:Th icon	Sjabloon:Th
+ទំព័រគំរូ:Infobox former country	Sjabloon:Infobox historisch land
+ទំព័រគំរូ:JPN	Sjabloon:JP
+ទំព័រគំរូ:ភូមិភាគទាំង៩របស់ជប៉ុន	Sjabloon:Navigatie bestuurlijke indeling Japan
+ទំព័រគំរូ:Merge from	Sjabloon:Samenvoegenvan
+ជំនួយ:តារាង	Help:Gebruik van tabellen
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាគីស្ថាន	Sjabloon:PK
+ទំព័រគំរូ:Age in days nts	Sjabloon:Aantal dagen
+ទំព័រគំរូ:Nations at the 2008 Summer Olympics	Sjabloon:Navigatie landen op de Olympische Zomerspelen 2008
+ទំព័រគំរូ:Guideline	Sjabloon:Richtlijn
+ទំព័រគំរូ:Disagree	Sjabloon:Tegen
+ទំព័រគំរូ:Lt	Sjabloon:Lt
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ីរ៉ង់	Sjabloon:IR
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្សកដង់	Sjabloon:JO
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហុងកុង	Sjabloon:HK
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងជើង	Sjabloon:KP
+ទំព័រគំរូ:BHU	Sjabloon:BT
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសសិង្ហបុរី	Sjabloon:SG
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌា	Sjabloon:IN
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាកាវ	Sjabloon:MO
+ទំព័រគំរូ:សបា្ដហ៍	Sjabloon:Zijbalk weekdagen
+ចំណាត់ថ្នាក់ក្រុម:User ja-N	Categorie:Wikipedia:Gebruiker ja-M
+ទំព័រគំរូ:Multicol-break	Sjabloon:NieuweKolom
+ទំព័រគំរូ:PDFlink	Sjabloon:Pdf
+ទំព័រគំរូ:Ca icon	Sjabloon:Ca
+ទំព័រគំរូ:Infobox saint	Sjabloon:Infobox heilige
+ទំព័រគំរូ:ណែនាំ	Sjabloon:Dp
+ទំព័រគំរូ:Copy to Wiktionary	Sjabloon:Wb
+ទំព័រគំរូ:No	Sjabloon:Nietuitgevoerd
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូ ប្រអប់ព័ត៌មាន	Categorie:Wikipedia:Sjablonen infobox
+ចំណាត់ថ្នាក់ក្រុម:Lists of flags	Categorie:Lijsten van vlaggen
+ចំណាត់ថ្នាក់ក្រុម:អ្នកថតរូប	Categorie:Fotografie
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះយោធា	Categorie:Militair luchtvaartuig
+ទំព័រគំរូ:LAO	Sjabloon:LA
+ទំព័រគំរូ:GRC	Sjabloon:GR
+ទំព័រគំរូ:PRT	Sjabloon:PT
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសបង់ក្លាដែស្ស	Sjabloon:BD
+ទំព័រគំរូ:States of Austria	Sjabloon:Navigatie deelstaten Oostenrijk
+ចំណាត់ថ្នាក់ក្រុម:អង្គការមិនរកប្រាក់កំរៃ	Categorie:Non-profitorganisatie
+ទំព័រគំរូ:KHM	Sjabloon:KH
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អង្គការ	Sjabloon:Infobox organisatie
+ទំព័រគំរូ:MNE	Sjabloon:ME
+ទំព័រគំរូ:Category TOC	Sjabloon:Hoofding categorieindex
+ទំព័រគំរូ:Thumbs up	Sjabloon:Prima
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសមីយ៉ាន់ម៉ា	Sjabloon:MM
+ទំព័រគំរូ:GSE	Sjabloon:Link Grote Sovjetencyclopedie
+ទំព័រគំរូ:MONTHDAYS	Sjabloon:MaandDagen
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងត្បូង	Sjabloon:KR
+ទំព័រគំរូ:User it-2	Sjabloon:Gebruiker it-2
+ទំព័រគំរូ:Superimpose	Sjabloon:Superimpose
+ទំព័រគំរូ:FRA	Sjabloon:FR
+ទំព័រគំរូ:Infobox person	Sjabloon:Infobox persoon
+ទំព័រគំរូ:List of European capitals by region	Sjabloon:Navigatie hoofdsteden Europa
+ទំព័រគំរូ:Legend-line	Sjabloon:Legenda-lijn
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រខ្មែរ	Categorie:Koning van Cambodja
+ទំព័រគំរូ:Coord	Sjabloon:Coördinaten
+ទំព័រគំរូ:POV	Sjabloon:NPOV
+ទំព័រគំរូ:Dmoz	Sjabloon:Link DMOZ
+ចំណាត់ថ្នាក់ក្រុម:ពហុកោណ	Categorie:Veelhoek
+ទំព័រគំរូ:User lb-1	Sjabloon:Gebruiker lb-1
+ទំព័រគំរូ:User fr-4	Sjabloon:Gebruiker fr-4
+ទំព័រគំរូ:អាស៊ីហ្គេម	Sjabloon:Navigatie Aziatische Spelen
+ទំព័រគំរូ:User la-1	Sjabloon:Gebruiker la-1
+ទំព័រគំរូ:ព្រះពុទ្ធសាសនា	Sjabloon:Zijbalk boeddhisme
+ទំព័រគំរូ:អេឡិចត្រូម៉ាញ៉េទិច	Sjabloon:Zijbalk elektromagnetisme
+ចំណាត់ថ្នាក់ក្រុម:ឯកសារអំពី ទំព័រគំរូ	Categorie:Wikipedia:Sjablonen sjabloondocumentatie
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ អំពីកម្ពុជា	Categorie:Wikipedia:Beginnetje Cambodja
+ចំណាត់ថ្នាក់ក្រុម:User pdc	Categorie:Wikipedia:Gebruiker pdc
+ចំណាត់ថ្នាក់ក្រុម:User et	Categorie:Wikipedia:Gebruiker et
+ចំណាត់ថ្នាក់ក្រុម:User fr	Categorie:Wikipedia:Gebruiker fr
+ចំណាត់ថ្នាក់ក្រុម:User id	Categorie:Wikipedia:Gebruiker id
+ចំណាត់ថ្នាក់ក្រុម:User ja	Categorie:Wikipedia:Gebruiker ja
+ចំណាត់ថ្នាក់ក្រុម:User la	Categorie:Wikipedia:Gebruiker la
+ចំណាត់ថ្នាក់ក្រុម:User li	Categorie:Wikipedia:Gebruiker li
+ចំណាត់ថ្នាក់ក្រុម:User sv	Categorie:Wikipedia:Gebruiker sv
+ចំណាត់ថ្នាក់ក្រុម:User th	Categorie:Wikipedia:Gebruiker th
+ចំណាត់ថ្នាក់ក្រុម:User fr-3	Categorie:Wikipedia:Gebruiker fr-3
+ចំណាត់ថ្នាក់ក្រុម:User it-3	Categorie:Wikipedia:Gebruiker it-3
+ចំណាត់ថ្នាក់ក្រុម:User ja-3	Categorie:Wikipedia:Gebruiker ja-3
+ចំណាត់ថ្នាក់ក្រុម:User tr-3	Categorie:Wikipedia:Gebruiker tr-3
+ចំណាត់ថ្នាក់ក្រុម:User pdc-1	Categorie:Wikipedia:Gebruiker pdc-1
+ចំណាត់ថ្នាក់ក្រុម:User et-1	Categorie:Wikipedia:Gebruiker et-1
+ចំណាត់ថ្នាក់ក្រុម:User li-1	Categorie:Wikipedia:Gebruiker li-1
+ចំណាត់ថ្នាក់ក្រុម:User nl-1	Categorie:Wikipedia:Gebruiker nl-1
+ចំណាត់ថ្នាក់ក្រុម:User tr-1	Categorie:Wikipedia:Gebruiker tr-1
+ចំណាត់ថ្នាក់ក្រុម:User fr-4	Categorie:Wikipedia:Gebruiker fr-4
+ចំណាត់ថ្នាក់ក្រុម:User it-4	Categorie:Wikipedia:Gebruiker it-4
+ចំណាត់ថ្នាក់ក្រុម:User fr-2	Categorie:Wikipedia:Gebruiker fr-2
+ចំណាត់ថ្នាក់ក្រុម:User it-2	Categorie:Wikipedia:Gebruiker it-2
+ចំណាត់ថ្នាក់ក្រុម:User ja-2	Categorie:Wikipedia:Gebruiker ja-2
+ចំណាត់ថ្នាក់ក្រុម:User la-2	Categorie:Wikipedia:Gebruiker la-2
+ចំណាត់ថ្នាក់ក្រុម:User tr-2	Categorie:Wikipedia:Gebruiker tr-2
+ចំណាត់ថ្នាក់ក្រុម:User fr-N	Categorie:Wikipedia:Gebruiker fr-M
+ចំណាត់ថ្នាក់ក្រុម:User it-N	Categorie:Wikipedia:Gebruiker it-M
+ចំណាត់ថ្នាក់ក្រុម:User nl-N	Categorie:Wikipedia:Gebruiker nl-M
+ចំណាត់ថ្នាក់ក្រុម:User ru-N	Categorie:Wikipedia:Gebruiker ru-M
+ចំណាត់ថ្នាក់ក្រុម:កំសាន្ត	Categorie:Amusement
+ចំណាត់ថ្នាក់ក្រុម:User af	Categorie:Wikipedia:Gebruiker af
+ចំណាត់ថ្នាក់ក្រុម:User af-1	Categorie:Wikipedia:Gebruiker af-1
+ចំណាត់ថ្នាក់ក្រុម:User bar	Categorie:Wikipedia:Gebruiker bar
+ចំណាត់ថ្នាក់ក្រុម:User bar-1	Categorie:Wikipedia:Gebruiker bar-1
+ចំណាត់ថ្នាក់ក្រុម:កោះ	Categorie:Eiland
+ចំណាត់ថ្នាក់ក្រុម:User de	Categorie:Wikipedia:Gebruiker de
+ចំណាត់ថ្នាក់ក្រុម:User de-2	Categorie:Wikipedia:Gebruiker de-2
+ចំណាត់ថ្នាក់ក្រុម:User de-3	Categorie:Wikipedia:Gebruiker de-3
+ចំណាត់ថ្នាក់ក្រុម:User de-4	Categorie:Wikipedia:Gebruiker de-4
+ចំណាត់ថ្នាក់ក្រុម:User de-N	Categorie:Wikipedia:Gebruiker de-M
+ចំណាត់ថ្នាក់ក្រុម:User el	Categorie:Wikipedia:Gebruiker el
+ចំណាត់ថ្នាក់ក្រុម:User en-3	Categorie:Wikipedia:Gebruiker en-3
+ចំណាត់ថ្នាក់ក្រុម:User en-N	Categorie:Wikipedia:Gebruiker en-M
+ចំណាត់ថ្នាក់ក្រុម:User es	Categorie:Wikipedia:Gebruiker es
+ចំណាត់ថ្នាក់ក្រុម:User es-1	Categorie:Wikipedia:Gebruiker es-1
+ចំណាត់ថ្នាក់ក្រុម:User es-2	Categorie:Wikipedia:Gebruiker es-2
+ចំណាត់ថ្នាក់ក្រុម:User es-4	Categorie:Wikipedia:Gebruiker es-4
+ចំណាត់ថ្នាក់ក្រុម:User es-N	Categorie:Wikipedia:Gebruiker es-M
+ចំណាត់ថ្នាក់ក្រុម:User fi	Categorie:Wikipedia:Gebruiker fi
+ចំណាត់ថ្នាក់ក្រុម:User fi-N	Categorie:Wikipedia:Gebruiker fi-M
+ចំណាត់ថ្នាក់ក្រុម:User id-1	Categorie:Wikipedia:Gebruiker id-1
+ចំណាត់ថ្នាក់ក្រុម:User id-2	Categorie:Wikipedia:Gebruiker id-2
+ចំណាត់ថ្នាក់ក្រុម:User id-3	Categorie:Wikipedia:Gebruiker id-3
+ទំព័រគំរូ:Beijing	Sjabloon:Navigatie stadsprovincie Peking
+ទំព័រគំរូ:Multiple image	Sjabloon:Afbeelding combi
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រ	Categorie:Meetkunde
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រោគ-ជំងឺ	Sjabloon:Infobox aandoening
+ទំព័រគំរូ:Weather box	Sjabloon:Tabel weergemiddelden
+វិគីភីឌា:អត្ថបទ​ប្រចាំ​ថ្ងៃ	Wikipedia:Uitgelicht
+ចំណាត់ថ្នាក់ក្រុម:User it	Categorie:Wikipedia:Gebruiker it
+ចំណាត់ថ្នាក់ក្រុម:User it-1	Categorie:Wikipedia:Gebruiker it-1
+ចំណាត់ថ្នាក់ក្រុម:User ja-1	Categorie:Wikipedia:Gebruiker ja-1
+ចំណាត់ថ្នាក់ក្រុម:User ko	Categorie:Wikipedia:Gebruiker ko
+ចំណាត់ថ្នាក់ក្រុម:User ko-1	Categorie:Wikipedia:Gebruiker ko-1
+ចំណាត់ថ្នាក់ក្រុម:User ko-2	Categorie:Wikipedia:Gebruiker ko-2
+ចំណាត់ថ្នាក់ក្រុម:User ko-3	Categorie:Wikipedia:Gebruiker ko-3
+ចំណាត់ថ្នាក់ក្រុម:User ksh	Categorie:Wikipedia:Gebruiker ksh
+ចំណាត់ថ្នាក់ក្រុម:User ksh-N	Categorie:Wikipedia:Gebruiker ksh-M
+ចំណាត់ថ្នាក់ក្រុម:User la-1	Categorie:Wikipedia:Gebruiker la-1
+ចំណាត់ថ្នាក់ក្រុម:User lb	Categorie:Wikipedia:Gebruiker lb
+ចំណាត់ថ្នាក់ក្រុម:User lb-1	Categorie:Wikipedia:Gebruiker lb-1
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រូបិយវត្ថុ	Sjabloon:Infobox munteenheid
+ទំព័រគំរូ:Sup	Sjabloon:Sup
+ទំព័រគំរូ:Current U.S. Senators	Sjabloon:Navigatie senatoren Verenigde Staten
+ទំព័រគំរូ:Infobox programming language	Sjabloon:Infobox programmeertaal
+ទំព័រគំរូ:He icon	Sjabloon:He
+ទំព័រគំរូ:Information	Sjabloon:Information
+ទំព័រគំរូ:Pp-protected	Sjabloon:Beveiligd
+ចំណាត់ថ្នាក់ក្រុម:User ru-1	Categorie:Wikipedia:Gebruiker ru-1
+ទំព័រគំរូ:TOC limit	Sjabloon:Inhoud beperkt
+វិគីភីឌា:បាបេល	Wikipedia:Babel
+ទំព័រគំរូ:Expand list	Sjabloon:Lijstbeg
+ទំព័រគំរូ:Tdeprecated	Sjabloon:Sjabloon verouderd
+ចំណាត់ថ្នាក់ក្រុម:User ms-2	Categorie:Wikipedia:Gebruiker ms-2
+ចំណាត់ថ្នាក់ក្រុម:សមុទ្រ	Categorie:Zee
+ទំព័រគំរូ:FishBase genus	Sjabloon:Link FishBase genus
+ទំព័រគំរូ:FishBase family	Sjabloon:Link FishBase family
+ចំណាត់ថ្នាក់ក្រុម:User nds	Categorie:Wikipedia:Gebruiker nds
+ទំព័រគំរូ:Sect1911	Sjabloon:Bronvermelding Encyclopædia Britannica 1911
+ចំណាត់ថ្នាក់ក្រុម:User nds-1	Categorie:Wikipedia:Gebruiker nds-1
+ជំនួយ:Archiving a talk page	Wikipedia:Archiveren
+ចំណាត់ថ្នាក់ក្រុម:អង្គការអន្តរជាតិ	Categorie:Internationale organisatie
+ទំព័រគំរូ:មេកានិចកង់ទិច	Sjabloon:Zijbalk kwantummechanica
+ជំនួយ:សៀវភៅ	Help:Boeken
+ចំណាត់ថ្នាក់ក្រុម:សមីការឌីផេរ៉ង់ស្យែល	Categorie:Differentiaalvergelijking
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តក្រុងខ្មែរ	Categorie:Provincie van Cambodja
+ទំព័រគំរូ:Ms icon	Sjabloon:Ms
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្ធម្ភាគចក្រ	Categorie:Helikopter
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្ត្រសង្គម	Categorie:Sociale wetenschap
+ឈាន	Dhyana
+ទំព័រគំរូ:Zh icon	Sjabloon:Zh
+ទំព័រគំរូ:Infobox government agency	Sjabloon:Infobox overheidsinstelling
+វិគីភីឌា:Tools	Help:Hulpmiddelen
+ទំព័រគំរូ:User ru-2	Sjabloon:Gebruiker ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru	Categorie:Wikipedia:Gebruiker ru
+ចំណាត់ថ្នាក់ក្រុម:User ru-2	Categorie:Wikipedia:Gebruiker ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru-3	Categorie:Wikipedia:Gebruiker ru-3
+ចំណាត់ថ្នាក់ក្រុម:វត្តអារាមព្រះពុទ្ធសាសនា	Categorie:Boeddhistische tempel
+ចំណាត់ថ្នាក់ក្រុម:User sxu	Categorie:Wikipedia:Gebruiker sxu
+ចំណាត់ថ្នាក់ក្រុម:User sxu-1	Categorie:Wikipedia:Gebruiker sxu-1
+ចំណាត់ថ្នាក់ក្រុម:User th-1	Categorie:Wikipedia:Gebruiker th-1
+ចំណាត់ថ្នាក់ក្រុម:User th-N	Categorie:Wikipedia:Gebruiker th-M
+ចំណាត់ថ្នាក់ក្រុម:User tr	Categorie:Wikipedia:Gebruiker tr
+ចំណាត់ថ្នាក់ក្រុម:User tr-4	Categorie:Wikipedia:Gebruiker tr-4
+ចំណាត់ថ្នាក់ក្រុម:User tr-N	Categorie:Wikipedia:Gebruiker tr-M
+ចំណាត់ថ្នាក់ក្រុម:User vls	Categorie:Wikipedia:Gebruiker vls
+ចំណាត់ថ្នាក់ក្រុម:User vls-1	Categorie:Wikipedia:Gebruiker vls-1
+ទំព័រគំរូ:En icon	Sjabloon:En
+ទំព័រគំរូ:Nay	Sjabloon:Nee
+ទំព័រគំរូ:ប្រអប់ភាសា	Sjabloon:Lang
+ទំព័រគំរូ:FishBase species alt	Sjabloon:Link FishBase species
+ទំព័រគំរូ:Infobox Olympics Cambodia	Sjabloon:Infobox Cambodja op Olympische Spelen
+ទំព័រគំរូ:Self	Sjabloon:Self
+ទំព័រគំរូ:ខេត្តអានយ៉ាង	Sjabloon:Navigatie provincie An Giang
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រត្រីកោណ	Categorie:Driehoeksmeetkunde
+ទំព័រគំរូ:Fr icon	Sjabloon:Fr
+ទំព័រគំរូ:Ko icon	Sjabloon:Ko
+ទំព័រគំរូ:EST	Sjabloon:EE
+ទំព័រគំរូ:Football squad end	Sjabloon:Voetbalselectie end
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសរុស្ស៊ី	Sjabloon:RU
+ទំព័រគំរូ:ICD9	Sjabloon:ICD9
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្របារាំង	Sjabloon:Zijbalk geschiedenis Frankrijk
+ទំព័រគំរូ:CHL	Sjabloon:CL
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសស៊ីរី	Sjabloon:SY
+ទំព័រគំរូ:ENG	Sjabloon:EN
+ទំព័រគំរូ:Tfd	Sjabloon:Sjabloonweg
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសជាកោះ	Categorie:Eilandnatie
+ទំព័រគំរូ:User la-2	Sjabloon:Gebruiker la-2
+ទំព័រគំរូ:User ru-1	Sjabloon:Gebruiker ru-1
+ទំព័រគំរូ:User tr-1	Sjabloon:Gebruiker tr-1
+ទំព័រគំរូ:User zh-1	Sjabloon:Gebruiker zh-1
+ទំព័រគំរូ:User zh-2	Sjabloon:Gebruiker zh-2
+ទំព័រគំរូ:User zh-3	Sjabloon:Gebruiker zh-3
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូ	Categorie:Natuurkundige naar nationaliteit
+ទំព័រគំរូ:User zh-4	Sjabloon:Gebruiker zh-4
+ចំណាត់ថ្នាក់ក្រុម:គមនាគមន៍នៅប្រទេសជប៉ុន	Categorie:Verkeer en vervoer in Japan
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសហ្សំប៊ី	Categorie:Zambia
+ទំព័រគំរូ:Cuisine	Sjabloon:Zijbalk kookkunst
+ទំព័រគំរូ:Multi-listen end	Sjabloon:Multi-listen end
+ចំណាត់ថ្នាក់ក្រុម:ការអប់រំនៅប្រទេសជប៉ុន	Categorie:Onderwijs in Japan
+ចំណាត់ថ្នាក់ក្រុម:User nl	Categorie:Wikipedia:Gebruiker nl
+ចំណាត់ថ្នាក់ក្រុម:User zh-1	Categorie:Wikipedia:Gebruiker zh-1
+ចំណាត់ថ្នាក់ក្រុម:User zh-4	Categorie:Wikipedia:Gebruiker zh-4
+ចំណាត់ថ្នាក់ក្រុម:User zh-3	Categorie:Wikipedia:Gebruiker zh-3
+ចំណាត់ថ្នាក់ក្រុម:User zh-2	Categorie:Wikipedia:Gebruiker zh-2
+ចំណាត់ថ្នាក់ក្រុម:មេកានិច	Categorie:Mechanica
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាល្លឺម៉ង់	Categorie:Duits natuurkundige
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអ៊ីតាលី	Categorie:Italiaans natuurkundige
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូបារាំង	Categorie:Frans natuurkundige
+ចំណាត់ថ្នាក់ក្រុម:ព្រឹត្តិការណ៍កីឡាចំរុះ	Categorie:Multisportevenement
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទូអាល្លឺម៉ង់	Categorie:Duits wiskundige
+ចំណាត់ថ្នាក់ក្រុម:ចំនួនគត់រឺឡាទីប	Categorie:Natuurlijk getal
+ចំណាត់ថ្នាក់ក្រុម:ស៊ីហ្គេម	Categorie:Zuidoost-Aziatische Spelen
+ចំណាត់ថ្នាក់ក្រុម:ត្រីកោណមាត្រ	Categorie:Goniometrie
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទគណិតវិទ្យា	Categorie:Wiskundige stelling
+ចំណាត់ថ្នាក់ក្រុម:អាកាសយានដ្ឋាន	Categorie:Vliegveld
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាមេរិក	Categorie:Amerikaans natuurkundige
+ចំណាត់ថ្នាក់ក្រុម:នាយករដ្ឋមន្ត្រីសិង្ហបុរី	Categorie:Premier van Singapore
+ចំណាត់ថ្នាក់ក្រុម:រង្វាន់ណូបែល	Categorie:Nobelprijs
+ទំព័រគំរូ:User pfl-1	Sjabloon:Gebruiker pfl-1
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសកម្ពុជា	Categorie:Cambodja
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយប៉ាគីស្ថាន	Categorie:Pakistaans politicus
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយខ្មែរ	Categorie:Cambodjaans politicus
+ចំណាត់ថ្នាក់ក្រុម:អ្នករុករកជនជាតិបារាំង	Categorie:Frans ontdekkingsreiziger
+ចំណាត់ថ្នាក់ក្រុម:ស្រីលង្កា	Categorie:Sri Lanka
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូក្នុងរូបវិទ្យា	Categorie:Wikipedia:Sjablonen natuurkunde
+វិគីភីឌា:ត្រូវការអំណះអំណាង	Help:Referentie gewenst
+ចំណាត់ថ្នាក់ក្រុម:ពហុធា	Categorie:Veelterm
+ចំណាត់ថ្នាក់ក្រុម:អនុគមន៍	Categorie:Wiskundige functie
+ចំណាត់ថ្នាក់ក្រុម:ភាសាជប៉ុន	Categorie:Japans
+ចំណាត់ថ្នាក់ក្រុម:មធ្យម	Categorie:Liggingsmaat
+ចំណាត់ថ្នាក់ក្រុម:សំភារៈ​សំណង់	Categorie:Bouwmateriaal
+ចំណាត់ថ្នាក់ក្រុម:សមីការ	Categorie:Wiskundige vergelijking
+ពន្ធលើប្រាក់បៀវត្ស	Loonbelasting
+ចំណាត់ថ្នាក់ក្រុម:ស្ពាននៅប្រទេសជប៉ុន	Categorie:Brug in Japan
+ចំណាត់ថ្នាក់ក្រុម:User pfl-1	Categorie:Wikipedia:Gebruiker pfl-1
+ចំណាត់ថ្នាក់ក្រុម:វិភាគគណិតវិទ្យា	Categorie:Wiskundige analyse
+ចំណាត់ថ្នាក់ក្រុម:វិសមភាព	Categorie:Ongelijkheid
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្យានជាតិ	Categorie:Nationaal park
+ចំណាត់ថ្នាក់ក្រុម:កោះស៊ូម៉ាត្រា	Categorie:Sumatra
+ចំណាត់ថ្នាក់ក្រុម:មីក្រូសេដ្ឋកិច្ច	Categorie:Micro-economie
+ចំណាត់ថ្នាក់ក្រុម:HTML	Categorie:HTML
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ីហ្គេម	Categorie:Aziatische Spelen
+ចំណាត់ថ្នាក់ក្រុម:អ៊ីសាក់ ញូតុន	Categorie:Isaac Newton
+ចំណាត់ថ្នាក់ក្រុម:អាកាសចរណ៍	Categorie:Vervoer
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទលេខ	Categorie:Getaltheorie
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភាសា	Sjabloon:Infobox taal
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអ៊ីតាលី	Categorie:Italiaans
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអេស្ប៉ាញ	Categorie:Spaans
+ចំណាត់ថ្នាក់ក្រុម:រថក្រោះ	Categorie:Tank
+ខេត្តនៃកម្ពុជា	Provincies van Cambodja
+ចំណាត់ថ្នាក់ក្រុម:កោះរបស់ឥណ្ឌូនេស៊ី	Categorie:Indonesisch eiland
+ខេត្តលង់ហោរ	Vĩnh Long (provincie)
+ចំណាត់ថ្នាក់ក្រុម:ភ្នំពេញ	Categorie:Phnom-Penh
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ូបេគីស្ថាន	Sjabloon:UZ
+ទំព័រគំរូ:ខេត្ត-រាជធានីកម្ពុជា	Sjabloon:Navigatie provincies Cambodja
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រវៀតណាម	Sjabloon:Zijbalk geschiedenis Vietnam
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអង់គ្លេស	Categorie:Engels
+ទំព័រគំរូ:G8	Sjabloon:Navigatie G8
+ទំព័រគំរូ:Diatomicelements	Sjabloon:Navigatie diatomische elementen
+ទំព័រគំរូ:ឋានន្តរសក្ដិរាជវង្សនិងអភិជន	Sjabloon:Zijbalk rangen adelstand
+ទំព័រគំរូ:Infobox country Olympics	Sjabloon:Infobox land op Olympische Spelen
+ទំព័រគំរូ:Number of portals	Sjabloon:NUMBEROFPORTALS
+ទំព័រគំរូ:User vi-2	Sjabloon:Gebruiker vi-2
+ទំព័រគំរូ:User vi-1	Sjabloon:Gebruiker vi-1
+ទំព័រគំរូ:User id-2	Sjabloon:Gebruiker id-2
+ទំព័រគំរូ:ISO 3166	Sjabloon:Navigatie ISO 3166
+ចំណាត់ថ្នាក់ក្រុម:នាមត្រូលជនជាតិជប៉ុន	Categorie:Japanse achternaam
+ចំណាត់ថ្នាក់ក្រុម:ពិជគណិត	Categorie:Algebra
+ចំណាត់ថ្នាក់ក្រុម:នព្វន្ធ	Categorie:Rekenen
+ទំព័រគំរូ:Multicol	Sjabloon:BeginKolommen
+ចំណាត់ថ្នាក់ក្រុម:អេឡិចត្រូម៉ាញ៉េទិច	Categorie:Elektromagnetisme
+វិគីភីឌា:វិគីគម្រោងប្រវត្តិសាស្ត្រ	Wikipedia:Wikiproject/Geschiedenis
+ចំណាត់ថ្នាក់ក្រុម:បណ្ណាល័យ	Categorie:Bibliotheek
+ជំនួយ:Books/Frequently Asked Questions	Help:Boeken/Veelgestelde vragen
+ជំនួយ:Books/for experts	Help:Boeken/Geavanceerde functies
+ជំនួយ:អសង្ស័យកម្ម	Help:Doorverwijspagina
+ជំនួយ:មាតិកា/សេចក្តីផ្តើម	Portaal:Hulp en beheer/Om te beginnen
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ុងហ្គោល	Sjabloon:MN
+ចំណាត់ថ្នាក់ក្រុម:ចំនួនកុំផ្លិច	Categorie:Complex getal
+ចំណាត់ថ្នាក់ក្រុម:User pfl	Categorie:Wikipedia:Gebruiker pfl
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូTOC	Categorie:Wikipedia:Sjablonen inhoudsopgave
+ទំព័រគំរូ:Image label begin	Sjabloon:Afbeelding label begin
+ទំព័រគំរូ:Bg icon	Sjabloon:Bg
+វិគីភីឌា:Requests	Wikipedia:Verzoekpagina
+ចំណាត់ថ្នាក់ក្រុម:កងកម្លាំងអាកាស	Categorie:Luchtmacht
+ចំណាត់ថ្នាក់ក្រុម:សាកលវិទ្យាល័យនៅប្រទេសជប៉ុន	Categorie:Japanse universiteit
+ចំណាត់ថ្នាក់ក្រុម:វប្បធម៌ខ្មែរ	Categorie:Cultuur in Cambodja
+ចំណាត់ថ្នាក់ក្រុម:User en-1	Categorie:Wikipedia:Gebruiker en-1
+ចំណាត់ថ្នាក់ក្រុម:User de-1	Categorie:Wikipedia:Gebruiker de-1
+ទំព័រគំរូ:ែដលកំពុងរឺកចំេរីន	Sjabloon:Meebezig
+ទំព័រគំរូ:Philippine Presidents	Sjabloon:Navigatie presidenten Filipijnen
+វិគីភីឌា:WikiProject Council/Guide	Wikipedia:Wikiproject/Projectgroep/Gids
+វិគីភីឌា:Tutorial/Keep in mind	Wikipedia:Snelcursus (Onthoud)
+ទំព័រគំរូ:Organisation of Islamic Cooperation	Sjabloon:Navigatie Organisatie van de Islamitische Samenwerking
+ចំណាត់ថ្នាក់ក្រុម:កោះជ្វា	Categorie:Java
+ទំព័រគំរូ:Frac	Sjabloon:Breuk
+វិគីភីឌា:Contributing to Wikipedia	Wikipedia:Bijdragen aan Wikipedia
+ចំណាត់ថ្នាក់ក្រុម:ការធ្វើសេចក្ដីរាយការណ៏ពត៌មាន	Rapport (verslag)
+ទំព័រគំរូ:Tim	Sjabloon:Tim
+វិគីភីឌា:Tutorial/Wrap-up and more info	Wikipedia:Snelcursus/Tot slot
+ទំព័រគំរូ:Month3	Sjabloon:Zijbalk maandkalender
+ទំព័រគំរូ:Infobox file format	Sjabloon:Infobox bestandsformaat
+វិគីភីឌា:Birthday Committee	Wikipedia:Wikipedianen naar verjaardag
+ទំព័រគំរូ:ប្រធានបទរាជវង្សចូវ	Sjabloon:Navigatie Strijdende Staten China
+ទំព័រគំរូ:User id-1	Sjabloon:Gebruiker id-1
+វិគីភីឌា:WikiProject Council	Wikipedia:Wikiproject/Projectgroep
+វិគីភីឌា:Infobox colours	Wikipedia:Kleuren van infoboxsjablonen
+ទំព័រគំរូ:Worldcat id	Sjabloon:Worldcat id
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះប្រដេញ	Categorie:Jachtvliegtuig
+ទំព័រគំរូ:Lists of flags	Sjabloon:Navigatie vlaggenlijsten
+ទំព័រគំរូ:Multi-listen item	Sjabloon:Multi-listen item
+ទំព័រគំរូ:Earth's landforms	Sjabloon:Navigatie landvormen
+កំប្រុកព័ណ៌	Prevosts klapperrat
+ជំនួយ:ការប្តូរទីតាំងទំព័រ	Help:Redirect
+ទំព័រគំរូ:Style/IPA	Sjabloon:Style/IPA
+ទំព័រគំរូ:Style/yid	Sjabloon:Style/yid
+ព្យុះហៃយ៉ាន	Tyfoon Haiyan
+ពិសេស:បំលាស់ប្ដូរថ្មីៗ	Speciaal:RecenteWijzigingen
+វិគីភីឌា:សារ ទំព័រគំរូ/លំហឈ្មោះ ឯកសារ	Wikipedia:Sjablonen voor het aangeven van de licentiestatus van media/Visueel
+Call of Duty: Advanced Warfare	Call of Duty: Advanced Warfare
+បញ្ជីនៃទង់ជាតិអង្គភាពរដ្ឋបាលរាជវង្សង្វៀនរបស់	Lijst van vlaggen van de administratieve eenheden van de Nguyen-dynastie

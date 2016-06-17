@@ -1,0 +1,1600 @@
+Africa	Afrika
+Japan	Japan
+South America	Zuid-Amerika
+Norway	Noorwegen
+Scotland	Schotland
+Wales	Wales
+Ireland	Ierland (land)
+Hungary	Hongarije
+Spain	Spanje
+United States of America	Verenigde Staten
+Belgium	België
+Luxembourg	Luxemburg (land)
+Rudunhumwe	Heelal
+Rinopasi	Aarde (planeet)
+Finland	Finland
+Sweden	Zweden
+Denmark	Denemarken
+Poland	Polen
+Lithuania	Litouwen
+Italy	Italië
+Switzerland	Zwitserland
+Austria	Oostenrijk
+Greece	Griekenland
+Turkey	Turkije
+Doro	Bier
+Portugal	Portugal
+Europe	Europa (werelddeel)
+Asia	Azië
+North America	Noord-Amerika
+Netherlands	Nederland
+Mboro	Penis
+Washington, DC	Washington D.C.
+Bern	Bern (stad)
+Uruguay	Uruguay
+London	Londen
+Cairo	Caïro (stad)
+Alexandria	Alexandrië
+Paris	Parijs
+Mexico	Mexico (land)
+Gungwa reAtlantic	Atlantische Oceaan
+Gungwa rePacific	Grote Oceaan
+Muvhuro	Maandag
+Kenya	Kenia
+Ethiopia	Ethiopië
+Ghana	Ghana
+Gunyana	September
+Chipiri	Dinsdag
+Chitatu	Woensdag
+China (Musi)	Donderdag
+Chishanu (musi)	Vrijdag
+Mugovera	Zaterdag
+Svondo (musi)	Zondag
+Shumba	Leeuw (dier)
+France	Frankrijk
+Imbwa	Hond
+United Kingdom	Verenigd Koninkrijk
+Katsi	Kat (dier)
+China (nyika)	Volksrepubliek China
+Hove	Vissen (dieren)
+Brazil	Brazilië
+Russian Federation	Rusland
+Skweya	Vierkant (meetkunde)
+Germany	Duitsland
+Belarus	Wit-Rusland
+Iceland	IJsland
+Mwari	God (monotheïsme)
+Estonia	Estland
+Ndege	Vliegtuig
+Hondo	Oorlog
+Motsi	1 (getal)
+Piri	2 (getal)
+Tatu	3 (getal)
+China	4 (getal)
+Shanu	5 (getal)
+Chipasina	0 (getal)
+Ruramamakonyo	Rechthoek
+Rurama (pimanyika)	Rechte hoek
+Latvia	Letland
+Ukraine	Oekraïne
+Czechia	Tsjechië
+Slovakia	Slowakije
+Slovenia	Slovenië
+Vilnius	Vilnius
+Moldova	Moldavië (land)
+Romania	Roemenië
+Bulgaria	Bulgarije
+Rome	Rome (stad)
+Macedonia	Macedonië (land)
+Albania	Albanië
+Croatia	Kroatië
+Bosnia and Herzegovina	Bosnië en Herzegovina
+Azerbaijan	Azerbeidzjan
+Andorra	Andorra
+Cyprus	Cyprus
+Georgia	Georgië
+Kazakhstan	Kazachstan
+Malta	Malta (land)
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican City	Vaticaanstad
+San Marino	San Marino
+Brussels	Brussels Hoofdstedelijk Gewest
+Cuba	Cuba (land)
+Belize	Belize (land)
+Barbados	Barbados
+Indonesia	Indonesië
+South Africa	Zuid-Afrika
+Algeria	Algerije
+Uzbekistan	Oezbekistan
+Tashkent	Tasjkent
+Warsaw	Warschau
+Mvura	Water
+Dehwe	Leer (stof)
+Chile	Chili
+Nhoroondo	Geschiedenis
+Mutauro	Taal
+Zvechadenga	Astronomie
+Singapore	Singapore
+Liechtenstein	Liechtenstein
+Hondo yePasirose yeChiposhi	Eerste Wereldoorlog
+Hondo yePasirose yeChipiri	Tweede Wereldoorlog
+Skopje	Skopje
+Masvomhu	Wiskunde
+Bahrain	Bahrein
+Armenia	Armenië
+Serbia	Servië
+Mwedzi (mutumbi)	Maan
+Australia	Australië (land)
+Fundoyetsimba	Natuurkunde
+Argentina	Argentinië
+Peru	Peru
+Ketaupenyu	Biologie
+North Korea	Noord-Korea
+Cambodia	Cambodja
+Ketamhuka	Zoölogie
+Islam	Islam
+Ljubljana	Ljubljana
+Rugare	Vrede
+Mukadzi	Vrouw
+Sofia	Sofia (stad)
+Milan	Milaan (stad)
+Dhodhi	Ontlasting
+Mukosho	Anus (anatomie)
+Ruva	Bloem (plant)
+Guta	Stad
+Nyenyedzi	Ster (hemellichaam)
+Zuva	Zon
+Dandira reMushana	Zonnestelsel
+Mazino	Tand (mens)
+Bhuku	Boek (document)
+Musi	Dag
+East Timor	Oost-Timor
+Husiku	Nacht
+Gore	Jaar
+Mwaka wechizana	Eeuw
+Oslo	Oslo
+Lisbon	Lissabon
+Nyeredzi	Planeet
+Mimhanzi	Muziek
+Moscow	Moskou
+Chad	Tsjaad
+Maodzanyemba	Noord (windstreek)
+New Zealand	Nieuw-Zeeland
+Chamhembe	Zuid
+India	India
+Tuvalu	Tuvalu
+Tonga	Tonga (land)
+Madokero	West
+Samoa	Samoa
+Mabvazuva	Oost (windstreek)
+Solomon Islands	Salomonseilanden
+Vanuatu	Vanuatu
+Papua New Guinea	Papoea-Nieuw-Guinea
+Palau	Palau (land)
+Nauru	Nauru
+Federated States of Micronesia	Micronesia
+Marshall Islands	Marshalleilanden
+Kiribati	Kiribati
+Mongolia	Mongolië
+Fiji	Fiji
+Venezuela	Venezuela
+Bhiza	Paard (dier)
+Amsterdam	Amsterdam
+Zvombo	Gevechtswapen
+Mhuka	Dierenrijk
+Suriname	Suriname
+Paraguay	Paraguay
+Guyana	Guyana
+Ecuador	Ecuador
+Colombia	Colombia
+Bolivia	Bolivia
+Trinidad and Tobago	Trinidad en Tobago
+Madzinde	Planten
+Saint Vincent and the Grenadines	Saint Vincent en de Grenadines
+Zeng'e	Zink (element)
+Saint Lucia	Saint Lucia
+Saint Kitts and Nevis	Saint Kitts en Nevis
+Jamaica	Jamaica
+Grenada	Grenada
+Guatemala	Guatemala
+The Bahamas	Bahama's
+Huku	Kip (vogel)
+Antigua and Barbuda	Antigua en Barbuda
+Honduras	Honduras
+Dominica	Dominica
+Dominican Republic	Dominicaanse Republiek
+Nguruve	Varken (tam)
+Haiti	Haïti
+El Salvador	El Salvador
+Iran	Iran
+Iraq	Irak
+Costa Rica	Costa Rica
+Israel	Israël
+Panama	Panama (land)
+Yemen	Jemen
+Jordan	Jordanië
+Nicaragua	Nicaragua
+Florida	Florida (staat)
+Kyrgyzstan	Kirgizië
+Kuwait	Koeweit
+Laos	Laos
+Lebanon	Libanon
+Maldives	Maldiven
+America (dzose)	Amerika (continent)
+Malaysia	Maleisië
+Burma	Myanmar
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudi Arabia	Saoedi-Arabië
+Sri Lanka	Sri Lanka
+Syria	Syrië
+Tajikistan	Tadzjikistan
+Taiwan	Taiwan
+Thailand	Thailand
+Chitima	Trein
+Turkmenistan	Turkmenistan
+United Arab Emirates	Verenigde Arabische Emiraten
+Vietnam	Vietnam
+South Korea	Zuid-Korea
+Afghanistan	Afghanistan
+Muronga Suez Canal	Suezkanaal
+Bangladesh	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Tanzania	Tanzania
+Philippines	Filipijnen
+Central African Republic	Centraal-Afrikaanse Republiek
+Isaac Newton	Isaac Newton
+Togo	Togo
+Tunisia	Tunesië
+Zambia (nyika)	Zambia
+Zimbabwe	Zimbabwe
+Beijing	Peking
+South Sudan	Zuid-Soedan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Comoros	Comoren
+Republic of the Congo	Congo-Brazzaville
+Democratic Republic of the Congo	Congo-Kinshasa
+Djibouti	Djibouti (land)
+Equatorial Guinea	Equatoriaal-Guinea
+Eritrea	Eritrea
+New Delhi	New Delhi
+Tbilisi	Tbilisi
+Mucheche	Baby
+Gabon	Gabon
+Gambia	Gambia (land)
+Guinea	Guinee
+Guinea-Bissau	Guinee-Bissau
+Côte d'Ivoire	Ivoorkust
+Cameroon	Kameroen
+Cape Verde	Kaapverdië
+Lesotho	Lesotho
+Liberia	Liberia
+Libya	Libië
+Madagascar	Madagaskar
+Malawi	Malawi
+Mauritania	Mauritanië
+Mauritius	Mauritius (land)
+Morocco	Marokko
+Mozambique	Mozambique
+Namibia	Namibië
+Niger	Niger (land)
+Nigeria	Nigeria
+Uganda	Oeganda
+Rwanda	Rwanda
+Sao Tome and Principe	Sao Tomé en Principe
+Senegal	Senegal
+Seychelles	Seychellen
+Sierra Leone	Sierra Leone
+Somalia	Somalië
+Julius Caesar	Julius Caesar
+Sudan	Soedan
+Swaziland	Swaziland
+Mubatanidzwa weNyika Pasirose	Verenigde Naties
+Ketanyika	Geologie
+Taranyika	Aardrijkskunde
+Moyo	Hart
+Huropi	Hersenen
+Prague	Praag
+Jerusalem	Jeruzalem
+Kosovo	Kosovo
+Chicago	Chicago
+Chirimo	Lente
+Tsazahusiku	Equinox
+Montevideo	Montevideo (stad)
+Dhaka	Dhaka (stad)
+Buwe	Spinnen (dieren)
+Islamabad	Islamabad
+Muchero	Vrucht (plant)
+Mari	Geld
+Zagreb	Zagreb
+Manila	Manilla
+Buenos Aires	Buenos Aires (stad)
+Mexico City	Mexico-Stad
+Tokyo	Tokio
+La Paz	La Paz (stad in Bolivia)
+Dziva rokushambira	Zwembad
+Abu Dhabi	Abu Dhabi (stad)
+Astana	Astana (stad)
+Athens	Athene (stad)
+Baghdad	Bagdad
+Caracas	Caracas
+Guatemala City	Guatemala-Stad
+Havana	Havana
+Fodya	Tabak
+Vienna	Wenen
+Copenhagen	Kopenhagen
+Stockholm	Stockholm
+Helsinki	Helsinki
+Dublin	Dublin
+Reykjavík	Reykjavik
+Tallinn	Tallinn
+Riga	Riga
+Bratislava	Bratislava
+Budapest	Boedapest
+Vaduz	Vaduz
+Bhaibheri	Bijbel (christendom)
+City of San Marino	San Marino (stad)
+Phnom Penh	Phnom Penh
+Guta reHo Chi Minh	Ho Chi Minhstad
+Hanoi	Hanoi
+True Jesus Church	Ware Jezuskerk
+Chirungu	Engels
+Bangkok	Bangkok
+Andorra la Vella	Andorra la Vella
+Kuala Lumpur	Kuala Lumpur
+Taipei	Taipei (stad)
+Dong Hoi	Đồng Hới
+Kyiv	Kiev
+Ottawa	Ottawa (stad)
+Juba	Djoeba
+Yerevan	Jerevan
+Dar es Salaam	Dar es Salaam (stad)
+Khartoum	Khartoem
+Kudya	Voedsel
+Nyoka	Slangen
+Nhanzvi	Orale seks
+Minsk	Minsk
+Chemishonga	Scheikunde
+Mogadishu	Mogadishu
+Nassau	Nassau (Bahama's)
+Sana'a	Sanaa
+Nhabvu	Voetbal
+Rutsvamhumburu	Holocaust
+Madrid	Madrid (stad)
+Bogotá	Bogota (stad)
+Brasília	Brasilia
+Lima	Lima (stad)
+Santiago	Santiago (Chili)
+Quito	Quito
+Asunción	Asuncion (stad)
+Mbudzi	Geit
+Mhuru	Kalf (rund)
+Paramaribo	Paramaribo
+Mukomana	Jongen
+Musikana	Meisje
+Kathmandu	Kathmandu (stad)
+Belmopan	Belmopan
+San José	San José (Costa Rica)
+San Salvador	San Salvador (stad)
+Canberra	Canberra
+Moto	Vuur
+Tegucigalpa	Tegucigalpa
+Managua	Managua (stad)
+Panama City	Panama-Stad
+Rwizi Nile	Nijl
+Rabat	Rabat (Marokko)
+Algiers	Algiers
+Tunis	Tunis
+Tripoli	Tripoli (Libië)
+Djibouti (city)	Djibouti (stad)
+Tehran	Teheran
+Addis Ababa	Addis Abeba
+Jakarta	Jakarta
+Ankara	Ankara
+Asmara	Asmara
+N'Djamena	Ndjamena
+Nouakchott	Nouakchott (stad)
+Riyadh	Riyad (stad)
+Bamako	Bamako
+Belgrade	Belgrado
+Dakar	Dakar
+Banjul	Banjul
+Conakry	Conakry
+Bissau	Bissau (Guinee-Bissau)
+Monrovia	Monrovia (Liberia)
+Praia	Praia
+Accra	Accra
+Damascus	Damascus
+Yamoussoukro	Yamoussoukro
+French Guiana	Frans-Guyana
+Ouagadougou	Ouagadougou
+Freetown	Freetown
+Abuja	Abuja
+Lomé	Lomé
+Porto-Novo	Porto-Novo
+Amman	Amman (stad)
+Yaoundé	Yaoundé
+Malabo	Malabo
+Beirut	Beiroet
+Libreville	Libreville
+Muscat	Masqat
+Bangui	Bangui (Centraal-Afrikaanse Republiek)
+Kinshasa	Kinshasa
+Brazzaville	Brazzaville
+Bujumbura	Bujumbura
+Nicosia	Nicosia (Cyprus)
+Kigali	Kigali (stad)
+Doha	Doha
+Dodoma	Dodoma (stad)
+Nairobi	Nairobi
+Lilongwe	Lilongwe (stad)
+Lusaka	Lusaka (stad)
+Manama	Manama (stad)
+Kudzikatidzwa kwezuva	Zonsverduistering
+Maputo	Maputo (stad)
+Kampala	Kampala
+Luanda	Luanda (stad)
+Moroni	Moroni (Comoren)
+Mbabane	Mbabane
+Maseru	Maseru (stad)
+Muravanembiri	Binair
+Chikoro	School (instelling)
+Antananarivo	Antananarivo (stad)
+Gaborone	Gaborone
+Harare	Harare
+Pretoria	Pretoria
+Port Louis	Port Louis (stad)
+São Tomé	Sao Tomé (stad)
+Windhoek	Windhoek
+Victoria (Seychelles)	Victoria (Seychellen)
+Imba	Huis (woning)
+Rwizi	Rivier
+Boterekwa	Baan (hemellichaam)
+Dong Hoi Airport	Luchthaven Đồng Hới
+Mukaha weChadenga	Ruimte (astronomie)
+Chiringakure	Telescoop (optica)
+Curitiba	Curitiba (gemeente)
+Sango	Bos (vegetatie)
+Category:Masvomhu	Categorie:Wiskunde
+Mbiru	Zuil (bouwkunde)
+Gungwa Mediterranean	Middellandse Zee
+Chitendero chechiKristu	Christendom
+Mupunga	Rijst
+Ziwumbe	Continent
+Shiri	Vogels
+Mwedzi (Mwaka)	Maand
+Peji Rekutanga	Hoofdpagina
+Cape Town	Kaapstad
+Durban	Durban (Zuid-Afrika)
+Bhazi	Autobus
+Kabul	Kabul (stad)
+Gumbeze	Deken (beddengoed)
+Kusvira	Geslachtsgemeenschap
+Mbutu	Vagina
+Category:Candidates for speedy deletion	Categorie:Wikipedia:Nuweg
+Category:Zvechadenga	Categorie:Astronomie
+Mbayo	Materialisme (filosofie)
+Matongerwo eNyika	Politiek
+Kupatsanura zvipenyu	Taxonomie
+Baradzira	Propaganda (communicatie)
+Kilimanjaro	Kilimanjaro (berg)
+Kutsvoda	Zoen
+Rudzi rwaIsrael	Joden
+Nzeve	Oor
+Mhuno	Neus
+Ziso	Oog (anatomie)
+Humhutu	Steekmuggen
+Hwayi	Schaap (dier)
+Nghamera	Kamelen
+Dzinoyamwisa	Zoogdieren
+Nzou	Olifanten
+Nyuchi	Bijen
+Amai (vakakubereka)	Moeder
+Sinowo	Sneeuw
+Baba	Vaderschap
+Vabereki	Ouder
+Vana	Kind (leeftijdsgroep)
+Ngongoni	Gnoes
+Chingwa	Brood
+Sangano reHutano Pasirose	Wereldgezondheidsorganisatie
+Chimbuzi	Toilet
+Sera (rezvinorarama)	Cel (biologie)
+Ropa	Bloed
+Mapapu	Long (orgaan)
+Casablanca	Casablanca (stad)
+Kundengenyeka kwenyika	Aardbeving
+Muchegwa	Mineraal
+Chokwadi	Waarheid
+Mashandiro eZvinhu Zvisingararami	Natuurwetenschap
+Dombo	Gesteente
+Chikwatamabwe	Vulkaan
+Pimagonyonhatu	Goniometrie
+Pimanyika	Meetkunde
+Mhepo	Wind (meteorologie)
+Gute romweya	Atmosfeer (astronomie)
+Muchenga Pfuma	Economie
+Hushangazhi	Industrie
+Misambo paBonde	Sekspositie
+Bonyora	Masturbatie
+Chita	Maatschappij (wereld)
+Mhuri	Familie (verwanten)
+Murume	Man (geslacht)
+Rusaruraganda	Racisme
+Muranda	Slavernij
+Mukaka	Melk (drank)
+Gomo	Berg (landvorm)
+Gwenga	Woestijn
+Lagos	Lagos (Nigeria)
+Seoul	Seoel
+Ruzivo	Kennis
+Zamu	Borst
+Chiedza	Licht
+Chinamato	Religie
+Genesisi	Genesis (boek)
+Eksodo	Exodus (boek)
+Baku	Bakoe
+Thimphu	Thimphu (stad)
+Bandar Seri Begawan	Bandar Seri Begawan
+Dili	Dili (stad)
+Vientiane	Vientiane (stad)
+Malé	Malé
+Bishkek	Bisjkek
+Dushanbe	Doesjanbe
+Chitaka	Lever
+Itsvo	Nier (biologie)
+Jende	Teelbal
+Gungwa	Oceaan
+Tsindi	Eekhoorns
+Kufema	Ademhaling (mens)
+Muzongoza	Ruggenmerg
+Chibereko	Baarmoeder
+Rurimi	Tong (anatomie)
+Dzira (nhengo)	Zenuw
+Makandiro	Eierstok
+Mutsipa	Nek (anatomie)
+Matumbu	Ingewanden
+Tsatsadzi	Klier
+Muronga wechikafu	Maag-darmstelsel
+Huronyo	Sperma
+Nouméa	Nouméa (stad)
+Ronald Reagan	Ronald Reagan
+Cardiff	Cardiff
+Robert Gabriel Mugabe	Robert Mugabe
+Georgetown	Georgetown (Guyana)
+Bununu	Naaktheid
+Dzinokambaira	Reptielen
+Muti	Boom (plant)
+Dzehugaro huviri	Amfibieën
+Huchi	Honing
+Nyama	Vlees
+Mbatatisi	Aardappel
+Shuga	Tafelsuiker
+Muriwo	Groente
+Pepanhau	Krant
+Runhare	Telefoontoestel
+Tsika	Cultuur
+Sarajevo	Sarajevo
+Mhetapawa	Logaritme
+Huwandu	Rekenen
+Zviringani	Coördinatenstelsel
+Munyu	Keukenzout
+Enzane	Vergelijking (wiskunde)
+Munangatire	Functie (wiskunde)
+Gonyo	Hoek (meetkunde)
+Chidenhi	Hormoon
+Rufangu	Versnelling (natuurkunde)
+Simba	Energie
+Manikidzo	Kracht
+Ngoma	Trommel
+Chinyenze	Fluit (muziekinstrument)
+Gunganidzo	Zwaartekracht
+Huremu	Massa (natuurkunde)
+Simbi	Metaal
+Misandu yeSebhe	Aggregatietoestand
+Gasi	Gas (aggregatietoestand)
+Mutuvi	Vloeistof
+Godo	Vaste stof
+Kurima	Landbouw
+Donje	Katoen
+Zvipfeko	Kleding
+Kurima neMombe	Ploeg (werktuig)
+Muchacha	Snelheid
+Hujoto	Temperatuur
+Kukorora Simbi	Metallurgie
+Nguva	Tijd
+Nharaunda	Oppervlakte
+Dudzirazivo raPythagoras	Stelling van Pythagoras
+Nhamba	Getal (wiskunde)
+Chibage	Mais
+Kudzana	Dans
+Rufuvha (magetsi)	Elektrische stroom
+Hwiriro	Frequentie
+Sikarudzi	Voortplanting (biologie)
+Nhumbu	Zwangerschap
+Gorosi	Tarwe
+Mapfunde	Sorgo
+Hutano	Gezondheid
+Kufuta	Obesitas
+Zambuko	Brug (bouwwerk)
+Dhamu	Dam (waterkering)
+Kupimirana	Symmetrie
+Nhamba mhumburu	Geheel getal
+Mburungwa	Bol (lichaam)
+Danhiko	Trap (gebouw)
+Munondo	Zwaard (wapen)
+Zvombo zveShomwe	Kernwapen
+Majuro	Majuro
+Dehenya	Schedel
+Ranjisi	Sinaasappel
+Ruomba	Room
+Bhodhi	Beha
+Penzura	Potlood
+Tafura	Tafel (meubilair)
+Template:Location map Zimbabwe	Sjabloon:Positiekaart Zimbabwe
+Twiza	Giraffe (dier)
+Muromo	Lip
+Tsoka	Voet (anatomie)
+Dzvinyu	Hagedissen
+Pahuro	Keel (anatomie)
+Template:Link FA	Sjabloon:Link FA
+Pasirose	Wereld (Aarde)
+Wikipedia:Community Portal	Wikipedia:De kroeg
+Guam	Guam
+American Samoa	Amerikaans-Samoa
+Northern Mariana Islands	Noordelijke Marianen
+Lolol	Lolol
+Chipatara	Ziekenhuis
+Kereke	Kerkgebouw
+Zai	Ei (dier)
+Denderedzwa	Cirkel
+Mutsendo	Vlak (meetkunde)
+Chizinganhare	Mobiele telefoon
+Mhou (shiri)	Struisvogel
+Dudzirazivo	Theorie
+Pyongyang	Pyongyang
+Pfumbamwe	9 (getal)
+Tirana	Tirana (stad)
+Mbongoro	Ezel (dier)
+Gonyonhatu	Driehoek (meetkunde)
+Cecil John Rhodes	Cecil Rhodes
+Chișinău	Chisinau
+Gumbapamwe reZviringani ZveTaranyika	Geografische coördinaten
+Njanji	Spoorweg
+Shangu	Schoen
+Nomwe	7 (getal)
+Nhuta	Goudmollen
+Sere	8 (getal)
+Vhiki	Week
+Nyanza	Meer (watervlakte)
+Ulaanbaatar	Ulaanbaatar
+Edinburgh	Edinburgh
+Ashgabat	Asjchabad
+Chitsuwa	Eiland
+Tanhatu	6 (getal)
+Madomasi	Tomaat
+Muenzanisi	Evenaar
+Podgorica	Podgorica
+Duramahwi	Woordenboek
+Musoro	Hoofd (anatomie)
+Wellington	Wellington (stad in Nieuw-Zeeland)
+Valletta	Valletta
+Gumi	10 (getal)
+Dindingwe	Jachtluipaard
+Mwaka yepaNyika	Seizoen
+Zizi	Uilen (orde)
+Nguva dzezuva	Uur
+Dzemuzongoza	Gewervelden
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Pristina	Pristina
+Nyundo	Hamer (gereedschap)
+Pichilemu	Pichilemu
+Bete	Kakkerlakken
+Pawa	Vermogen (natuurkunde)
+Shuramurove	Ooievaar
+Mukweso	Elektrische weerstand (eigenschap)
+Haka	Manis
+Mukwava	Knooppunt (wiskunde)
+Cook Islands	Cookeilanden
+Chipo (huwandu)	Benadering van een grootheid
+Vhudzi	Haar (zoogdier)
+Pimamuganhu	Omtrek
+Jira	Textiel
+Chedza	Poging
+Huduma	Dichtheid (natuurkunde)
+Mbiti	Otter (dier)
+Mafuro	Weiland
+Twana	Caracal (dier)
+Alofi	Alofi (plaats)
+Jamestown	Jamestown (Sint-Helena, Ascension en Tristan da Cunha)
+French Polynesia	Frans-Polynesië
+Hagåtña	Hagåtña
+Mata-Utu	Matâ'utu
+Yaren	Yaren
+Tambo	Touw
+Wedzaniso	Optellen
+Tsiva	Boksen
+Banga	Mes (voorwerp)
+Mbizi	Zebra (dier)
+ChiBantu	Bantoetalen
+Muradanuro	Machtsverheffen
+Mheni	Bliksem
+New Caledonia	Nieuw-Caledonië (gebiedsdeel)
+Hugari hwevanhu	Bevolking
+Shizha	Blad
+ChiShona	Shona (taal)
+Niue	Niue
+Rumbariro	Breedtegraad
+Mapopoma	Waterval
+Funafuti	Funafuti
+Humburumbira	Cilinder (meetkunde)
+Port-au-Prince	Port-au-Prince
+Sipo	Zeep (reiniging)
+Mugwagwa	Weg
+Mvuu	Nijlpaard
+Mirairo gumi yaMwari	Tien geboden
+Johannesburg	Johannesburg
+Jecha	Zand
+Kingston	Kingston (Jamaica)
+Mbada	Luipaard
+Chipembere	Neushoorns
+Santo Domingo	Santo Domingo (Dominicaanse Republiek)
+Kuwait City	Koeweit (stad)
+Arab	Arabieren
+Colombo	Colombo (stad)
+Bako	Grot
+Wallis and Futuna	Wallis en Futuna
+Mhakatwa	Materie
+Huni	Brandhout
+Kukotsira	Slaap (rust)
+Kubhabhatidza	Doop (sacrament)
+Igwa	Boot (vaartuig)
+Mushenjere	Bamboe
+Ivhu (Dhaga)	Bodem
+Bridgetown	Bridgetown
+Hurefu	Lengte (meetkunde)
+Apia	Apia
+Saint John's	Saint John's (Antigua en Barbuda)
+Roseau	Roseau (Dominica)
+Chiroto	Droom
+Hunhungo	Lengtegraad
+Port Moresby	Port Moresby
+Kupirimuka kwemishonga	Chemische reactie
+Chipfambi	Prostitutie
+Gonhi	Deur
+Gonyoina	Vierhoek
+Tokelau	Tokelau
+Gumi nembiri	12 (getal)
+Chiso	Gelaat
+Shambadza	Reclame
+Mutsetse	Lijn (meetkunde)
+Gumi neimwe	11 (getal)
+Gumi nenhatu	13 (getal)
+Masaisai	Golf (natuurkunde)
+Gurapakati	Diameter
+Mudzidzisi	Onderwijzer
+Mweya Mutsvene	Heilige Geest
+Nzungu	Pinda
+Naypyidaw	Naypyidaw
+Zana	100 (getal)
+Mabvi	Knie (anatomie)
+Bvungapfunga	Mist
+Gonyozhinji	Veelhoek
+Chivhuramabwe	Hagel (neerslag)
+Musika (Kunotengeswa)	Markt (economie)
+Rwavhi	Kameleons
+Bloemfontein	Bloemfontein
+Mawuto ehondo	Landmacht (algemeen)
+Port Vila	Port Vila
+Firiji	Koelkast
+Mbambaira	Zoete aardappel
+Mitemo yeruhambo yaNewton	Wetten van Newton
+Gumi neina	14 (getal)
+Nwiwa	Watermeloen
+Gumi neshanu	15 (getal)
+Gumi nesere	18 (getal)
+Suva	Suva
+Nukuʻalofa	Nuku'alofa
+Port of Spain	Port of Spain
+Mbeva	Mus (geslacht)
+Mumhu	Inhoud (volume)
+Puresha	Druk (grootheid)
+Chiremba	Arts
+Mupata	Dal (aardrijkskunde)
+Kuverengwa kweVanhu	Volkstelling
+Gumi nepfumbamwe	19 (getal)
+Mudhebhe	Broek (kledingstuk)
+Mwaka wechikumi	Decennium
+Zvidhinha	Baksteen
+Denderende	Ellips (wiskunde)
+Gumi nenomwe	17 (getal)
+Gumi nenhanhatu	16 (getal)
+Kuunga huwandu	Vermenigvuldigen
+Makumi maviri	20 (getal)
+Gweta	Advocaat (beroep)
+Kubvisa	Aftrekken (wiskunde)
+Mbeu	Zaad (plant)
+Mhando	Kata
+Gakanje	Krabben
+Honiara	Honiara
+Mutundo	Urine
+Huma	Voorhoofd
+Mapisarema	Psalmen
+Dova	Dauw
+Gonyoina tsazamativi	Ruit (meetkunde)
+Mburungwagama rekuchamhembe	Zuidelijk halfrond
+Runhanhira	Impuls (natuurkunde)
+Basseterre	Basseterre
+Kingstown	Kingstown (Saint Vincent en de Grenadines)
+St. George's, Grenada	Saint George's
+Castries	Castries (Saint Lucia)
+Rudzi	Etniciteit
+Chisumamunyati	Hypothese
+Zvakazarurwa	Openbaring van Johannes
+Bere	Hyena's
+Magaro	Bil (anatomie)
+Mubhedha	Bed
+Basa	Arbeid (natuurkunde)
+Gwenzi	Struik
+Munyakwe	Klei
+Makumi mana	40 (getal)
+Charaka	Kegel (ruimtelijke figuur)
+Mutsimba	Worstelen
+Nzunza	Serval (katachtige)
+Palikir	Palikir
+Ndebvu	Baard (haargroei)
+Makumi matatu	30 (getal)
+Muduso	Financiën
+Shangwa	Droogte
+Rwizi Zambezi	Zambezi
+Garwe	Krokodillen
+Tsivatsaona	Verzekering
+Gonyeti	Vrachtauto
+Victoria Falls	Victoriawatervallen
+Gunguwo	Corvus (geslacht)
+Nzvari	Vrouwelijk (biologie)
+Ruwoko	Arm (ledemaat)
+Tsime	Waterput
+Cotonou	Cotonou
+Sokisi	Sok (kledingstuk)
+Ngarikuni	Meleagris
+Guvhu	Navel
+Hono	Mannelijk (biologie)
+Injini	Motor
+Kudzikatidzwa kwemwedzi	Maansverduistering
+Cayenne	Cayenne (stad)
+Madziya	Warmte
+Pfumo	Speer
+Chigayo	Molen
+Mugodhi	Mijnbouw
+Poyindi	Punt (wiskunde)
+Gonyoina sambamba	Parallellogram
+Museve	Pijl (wapen)
+Annaba	Annaba (stad)
+Hweru	Aardvarken
+Dandare remagetsi	Elektrisch veld
+Simba reNhekairo	Kinetische energie
+Gonyoina sambambiri	Trapezium
+Uta	Boog (wapen)
+Kamba	Landschildpadden
+Mandundu	Bergketen
+Chindori	Ring (sieraad)
+Saint-Denis	Saint-Denis (Réunion)
+Mugomo	Emmer
+Chiyero chekupimisa	Natuurkundige eenheid
+Bhoni	Gloeilamp
+Chitupa	Legitimatiebewijs
+Template:Commons category	Sjabloon:Commonscat
+Chitunha	Kadaver
+Kennedy Space Center	Kennedy Space Center
+Kuramwa Basa	Staking
+Muchato	Bruiloft
+Gwaro	Document
+Muzasedimbu	Evenredigheid
+Quilicura	Quilicura
+Pago Pago	Pago Pago
+Saipan	Saipan
+Chirwere cheEbola	Ebola
+Hurukuro	Gesprek
+Datya	Kikkers
+Sambamba	Evenwijdig
+Musenerera	Osmose
+Choya	Schaamhaar
+Ndiro (yokudyira)	Bord (maaltijd)
+Morgan Tsvangirai	Morgan Tsvangirai
+Nhare	Fortificatie
+Dandira (zvakarongeka)	Systeem (wetenschap)
+Swakopmund	Swakopmund
+Chivi (kutadza)	Zonde
+Pakati	Center
+Marudzi aShem	Semieten
+Chanduru	Galblaas
+Kugetsenura	Elektrolyse
+Dimbu	Breuk (wiskunde)
+Rutsaudzo rwechiedza	Lichtbreking
+Doworume	Zaadcel
+Duvurwi	Plateau (geografie)
+Misodzi	Traan (oog)
+Alfred Beit	Alfred Beit
+Mushonga	Stof (scheikunde)
+Makumi matanhatu	60 (getal)
+Mukonikoni	Echte libellen
+Bhodhoro	Fles
+Jerenyenje	Mangoesten
+Derere	Okra (plant)
+Fes	Fez (stad)
+Nhevedzwa dzeMvura	Waterkringloop
+Mupurwa	Varanus
+Muravanegumi	Decimaal
+Chikara (mhuka)	Carnivoor
+Kurwadziwa	Pijn
+Nyanga	Hoorn (anatomie)
+Rudzindi	Wrijving
+Dunhu	Regio
+Zita	Naam
+Gonyonhanhatu	Regelmatige zeshoek
+Denga (Remba)	Dak
+Chidembo	Stinkdieren
+Dzingiswa	Circumcisie
+Huchenjeri	Intelligentie
+Honha	Lingot
+Mazita eMhuri	Achternaam
+Dare	Klok (bel)
+Lobamba	Lobamba
+Marrakesh	Marrakesh
+Mhopo	Wrat
+Chitofu (mugodhi)	Erts (mineraal)
+Nyauka	Smelten (faseovergang)
+Kayiti	Vlieger (meetkunde)
+Dendera	Rotatie (natuurkunde)
+Gwamba	Stolling
+Marin County	Marin County
+Kuperekera magetsi	Soortelijke weerstand
+Bumha	Zwerm
+Chinepfu (ruhambo)	Traagheid
+Tsika yekurava nhamba	Talstelsel
+Huyu	Bijenraat
+Zuvaragodza	Zonnewende
+Mhanda (Kurwa)	Geweld
+Chisipiti	Bron (water)
+Chindunduma	Opstand
+Port Elizabeth	Port Elizabeth
+Nhambwe	Afstand
+Tangier	Tanger
+Kurutsa	Braken (lichaamsfunctie)
+Gavakava	Aloë
+Bhomba	Bom (wapen)
+Makunakuna	Incest
+Tsanga (ziso)	Cataract (oogaandoening)
+Mafuta	Vet
+Zvidya	Dij
+Papeetē	Papeete
+Jekanyika	Geodesie
+Badza	Hak (grondbewerking)
+South Tarawa	Zuid-Tarawa
+Chidzayo	Wig (gereedschap)
+2 Johane	Tweede brief van Johannes
+Muprofita Isaya	Jesaja (boek)
+3 Johane	Derde brief van Johannes
+Judi	Brief van Judas
+Nhoo	Schild (bescherming)
+Muprofita Jeremia	Jeremia (boek)
+Menduru	Medaille
+Sandhuru	Sandaal
+Kuverereka	Sublimatie
+Oran	Oran (stad in Algerije)
+Mhara	Impala
+Mamoudzou	Mamoudzou
+Sasauka	Evaporatie
+Mhondi	Moord
+Africa Zasi kweSahara	Sub-Saharisch Afrika
+Haro	Bergpas
+Gumbo	Been (ledemaat)
+Bvurunuro	Diffractie
+Bhande (chipfeko)	Riem (kleding)
+Chikero	Weegschaal (voorwerp)
+Pombi	Pomp (machine)
+Kun'ura	Corrosie
+Nhoro	Grote koedoe
+Tsono (kusona)	Naald (naaigerei)
+Gwaya	Brasem
+Munyungu	Oplosmiddel
+Kisangani	Kisangani
+Dovi	Pindakaas
+Rumanda	Hek (afrastering)
+Mufundisi	Pastor
+Chisuvi chemvura	Waterscheiding
+Dota	As (verbranding)
+Kamba dzenhapwa	Concentratiekamp
+Kamba dzekuuraya	Vernietigingskamp
+Poto	Pan (voorwerp)
+Chidzudzani	Congruentie (meetkunde)
+Simba reChakunga	Potentiële energie
+Gonyonhatu tsazakose	Gelijkzijdige driehoek
+Zenda	Verloving
+Garoua	Garoua
+Ramallah	Ramallah
+Gonyonhatu yakarurama	Rechthoekige driehoek
+Nhokwe	Papyrusriet
+Gonje	Sisal (vezel)
+Chiwundudzi	Beschimmeling
+Gudo	Bavianen
+Mureza weZimbabwe	Vlag van Zimbabwe
+Mumvuri	Schaduw
+Nyati	Kafferbuffel
+Mhene	Vlakte
+Ruchichinuko	Convectie
+Keetmanshoop	Keetmanshoop
+Muchacha pima negonya	Hoeksnelheid
+Munyonga	Kromme
+Hudonongodzwa	List
+Ketamabwe	Petrologie
+Mukoko	Bijenkorf (voorwerp)
+Mhiripiri	Chilipeper
+Nhanga (Muchero)	Pompoen
+Francistown	Francistown
+Nhunzi	Huisvlieg
+Kubundira	Condensatie
+Betafo	Betafo (stad)
+Mhete	Oorring
+Caselle Landi	Caselle Landi
+Hargeisa	Hargeisa
+Hwata	Secretarisvogel
+Nelspruit	Nelspruit
+Matoro	Drasland
+Avarua	Avarua
+Agadir	Agadir
+Maun	Maun (stad)
+Zvombo zvinechefu	Biologische oorlogvoering
+Nhovo	Matras
+Sunflower	Zonnebloem
+Bwato	Kano (vaartuig)
+Tsaona	Ongeval
+Hanga	Parelhoenders
+Rukuvhute	Navelstreng
+Gupuko	Molaliteit
+Fosi yeRutondapakati	Middelpuntzoekende kracht
+Nhoozhinji	Veelvlak
+Hunzwi	Zintuig
+Bantu	Bantoevolken
+Guva	Graf
+Mhumhi	Afrikaanse wilde hond
+Taramunyongo	Straal (wiskunde)
+Bara	Kogel (munitie)
+Chitsitsinho	Hiel
+Mukondo	Gezag
+Ruwa	Platteland
+Kuswedera	Convergentie
+Toamasina	Toamasina (stad)
+Rutsuwa rwemagetsi	Isolator
+Rukwarapakati	Middelpuntvliedende kracht
+Ruzha	Ruis (signaal)
+Shaya	Kaak (anatomie)
+Zhumwi	Prisma (wiskunde)
+Dhuku	Bandana
+Nhanzva	Slee
+Mudungwe	Queue
+Mutemo waPareto	Pareto-principe
+Maungira	Echo (geluid)
+Kano	Kano (stad)
+Njiri	Knobbelzwijn
+Magonga (taranyika)	Geografische pool
+Ibadan	Ibadan
+Shato	Pythons
+Rhekeni	Katapult
+Gwati (muti)	Schors
+Tlemcen	Tlemcen (stad)
+Nyamukuta	Verloskunde
+Gwee	Galago's
+Chirambo (misandu)	Faseovergang
+Pietermaritzburg	Pietermaritzburg
+Donhwe	Druppel
+Mukoti	Verpleegkundige
+Bota	Pap (voedsel)
+Constantine, Algeria	Constantine (stad)
+Lumumbashi	Lubumbashi
+Chikuwo	Modus (statistiek)
+Idi	Feit
+Choto	Open haard
+Rovambira	Zwarte mamba
+Munda	Akker (landbouw)
+Manyene	Zadeljakhals
+Chikwereti	Lening
+Abomey	Abomey
+Guramakonyo	Diagonaal
+Harar	Harar
+Bhutsu	Laars
+Kumhura	Laster
+Mbonga	Zuster (religie)
+Mhute	Nevel (meteorologie)
+Madamvura	Hydrofiel
+Basa (remari)	Arbeid (economie)
+Gambamutengo	Subsidie
+Bulawayo	Bulawayo
+Dire Dawa	Dire Dawa
+Mbabvu	Rib (anatomie)
+Chapupu	Getuige
+Kuvaviwa	Jeuk (prikkel)
+Chikupo	Slinger (wapen)
+Nhamba ndemera	Negatief getal
+Rifa	Nalatenschap
+Hupfumi	Rijkdom
+Rokwe	Jurk
+Rufu	Uitvaart
+Ziguinchor	Ziguinchor (stad)
+Avhareji	Gemiddelde
+Bandiko	Cirkelsector
+Goma	Goma
+Pito	Scheidsrechtersfluit
+Mutwi	Loodrecht (meetkunde)
+Kananga	Kananga (Congo-Kinshasa)
+Dendera pa Mineti	Omwentelingen per minuut
+Tafura yekuunga huwandu	Tafels van vermenigvuldiging
+Vanga	Litteken (lichaam)
+Rudzindi rwemweya	Luchtweerstand
+Ruremekedzo	Eer
+Huswa	Gazon (grasveld)
+Shepi	Vorm (fysiek)
+Masvingo eZimbabwe	Groot-Zimbabwe
+Njiva	Columba (geslacht)
+East London	Oos-Londen
+Mbandaka	Mbandaka
+Matadi	Matadi
+Hudyu	Lies (anatomie)
+Dzinza	Clan (verwanten)
+Kupambadzirwa	Ductiliteit
+Zera (chizvarwa)	Generatie (sociologie)
+Kukohwa (kuunganidza)	Oogst
+Furo	Schuim (structuur)
+Mhofu	Elandantilope
+Bilda	Blida (stad)
+Port Harcourt	Port Harcourt
+Hungwe	Afrikaanse zeearend
+Mahajanga	Mahajanga (stad)
+Gondar	Gondar (Ethiopië)
+Antsiranana	Antsiranana (stad)
+Palestine	Palestina (staat)
+Chikare (bonde)	Missionarishouding
+Matyamvura	Hydrofoob
+Walvis Bay	Walvisbaai
+Chapfunga	Schistosomiasis
+Bukavu	Bukavu
+Hukama	Relatie (personen)
+Boma	Boma (stad)
+Muny'atira	Absorptie
+Gwanza (chivakwa)	Gap
+Musunamiswa	Inversie
+Manhikatika	Variatie
+Mombasa	Mombassa
+Hwendedzo	Medium
+Dungidzira	Alternatief
+Chinangwa	AIM
+Kusuduruka	Divergentie
+Chipakati	Mediaan (statistiek)
+Hwaro (kuvaka)	Foundation
+Kushumira	Paren
+Zvinoshandiswa kuchengetedza	Toegangscontrole
+Vavariro	Target
+Saga	Saga
+Runda	Pees (anatomie)
+Hupombwe	Echtbreuk
+Boka (masvomhu)	Set
+Varungu	Blanken
+Unyanzvi wezvinoitika	Bedieningspaneel
+Makumi mapfumbamwe	90 (getal)
+Ngwarati	Sabelantilope
+Mhakure	Egyptische cobra
+Kumimina	Filtratie
+Kutandauka	Expansie
+Mupfunga	Damp
+Rukweza	Gierst
+Mutupo	Totem
+Kindu	Kindu
+Saint-Louis, Senegal	Saint-Louis (Senegal)
+Mhembwe	Duikers (zoogdieren)
+Kirsty Coventry	Kirsty Coventry
+Chiremera	Menselijke waardigheid
+Mawere	Richtingscoëfficiënt
+Massawa	Massawa
+Makumi mashanu nena	54 (getal)
+Husvinu	Kwaliteit
+Masanga (Panosangana)	Junction
+Hwembwa (bonde)	Hondjeshouding
+Nungu	Stekelvarkens van de Oude Wereld
+Mukunda	Dochter
+Kuronga	Planning
+Madora	Gonimbrasia belina
+Buea	Buéa
+Ian Smith	Ian Smith
+Rwendo	Journey
+Abel Tendekai Muzorewa	Abel Muzorewa
+Mukwende	Vracht
+Mbuji-Mayi	Mbuji-Mayi
+Benin City	Benin City
+Mek'ele	Mek'ele
+Mhiri kweMakungwa	Outremer
+Muchovha Mota	Vervoermiddel
+Makumi masere nesere	88 (getal)
+Donzvo	Objectief
+Rondo	Rondo
+Adama	Adama (stad)
+Hufombwe	Concaaf
+Mhene (mhuka)	Steenbokantilope
+Kugera	Scheren
+Kuchepa	Standaardisatie
+Chiva	Gewone pofadder
+George, Western Cape	George (stad)
+Bonga-musakwani	Gabonadder
+Kunyenga	Balts
+Chibeto	Zeef
+Nyanzvi	Expert
+Mukombe	Trofee
+Jimma	Jimma (stad)
+Dziva	Pool
+Chipandwa	Clue
+Kugura	Sever
+Gweru	Gweru
+Mutare	Mutare
+Laghouat	Laghouat
+America	America
+Kusunda	Push
+Kuyangarara	Float
+Mhango	Caviteit
+Ishe (mutongi)	Chief
+Murandu	Fine
+Kuenzana chikero	Equilibrium
+Kududza	Functionele analyse
+Humba	Boszwijn
+Makumi mapfumbamwe nepfumbamwe	99 (getal)
+Mhetanhamba	Multiplier
+Mashonaland West	Mashonaland West
+Bhuku raMormoni	Boek van Mormon
+Kutapira	Zoet (smaak)
+Bahir Dar	Bahir Dar
+Manicaland	Manicaland
+Mahusekwa	Mashonaland East
+Salé	Salé
+Joshua Nkomo	Joshua Nkomo
+Nyota	Dorst (biologie)
+Chiso (Chiumbwa)	Oppervlak (topologie)
+Hutong'o	Taaiheid
+Chipika	Kraag
+Edinburgh of the Seven Seas	Edinburgh-of-the-Seven-Seas
+Chinyamudzura	Vechtarend
+Ngerulmud	Ngerulmud
+Tôlanaro	Tôlanaro (stad)
+Fianarantsoa	Fianarantsoa (stad)
+Bamenda	Bamenda
+Keren, Eritrea	Keren (Eritrea)
+Kusuma	Inform
+Mongo	Beenmerg
+Ishwa	Termieten
+Waya	IJzerdraad
+Antsirabe	Antsirabe
+Sisi	Zus
+Okahandja	Okahandja
+Thiès	Thiès (stad)
+Mudzi wenhamba	Wortel (wiskunde)
+Chingaira	Wahlbergs arend
+Queenstown, Eastern Cape	Queenstown (Zuid-Afrika)
+Chengu	Hartenbeest
+Ngururu	Klipspringer
+Dhumukwa	Waterbok
+Tsumeb	Tsumeb
+Atafu	Atafu (atol)
+Bunia	Bunia
+Mushandi	Werken (arbeid)
+Touba, Senegal	Touba (Senegal)
+Kuwurutsa	Wanmolen
+Harwe	Buikholte
+Kunatsa	Raffinage
+Makumi mashanu neshanu	55 (getal)
+Parakou	Parakou
+Bhuru	Stier (rund)
+Georgetown (Ascension Island)	Georgetown (Sint-Helena, Ascension en Tristan da Cunha)
+Nyamuragira	Nyamuragira
+Makumi masere	80 (getal)
+Makumi maviri nembiri	22 (getal)
+Makumi manomwe	70 (getal)
+Makumi mashanu	50 (getal)
+Makumi matatu nenhatu	33 (getal)
+Makumi mana nena	44 (getal)
+Makumi matanhatu nenhanhatu	66 (getal)
+Makumi manomwe nenomwe	77 (getal)
+Mazana maviri	200 (getal)
+Zana negumi	110 (getal)
+Madirano eNzizi	Samenvloeiing
+Mabharani	Klerk (beroep)
+Ngaoundéré	Ngaoundéré
+Nhova	Fontanel
+Dessie	Dessie
+Jijiga	Jijiga
+Awasa	Awasa
+Chinhoyi	Chinhoyi
+Bangassou	Bangassou
+SADC	Ontwikkelingsgemeenschap van Zuidelijk Afrika
+Beni	Beni (Congo-Kinshasa)
+Toliara	Toliara
+Chishanu (mhoresa)	Hand geven
+Musasa	Kampeerterrein
+Banda	Brancard
+Calabar	Calabar
+Zvinyanye	Extreme waarde
+Mucheko	Doorsnede (meetkunde)
+Musarirwa	Rest
+Kaolack	Kaolack
+Ouidah	Ouidah
+Ndiro (midziyo)	Eet- en drinkgerei
+Serowe	Serowe
+Kudzinda	Magnetische weerstand
+Chimukuyu	Biltong
+Bindura guta	Bindura
+Morondava	Morondava (stad)
+Rukanda runosarura zvinobvinina	Semipermeabiliteit
+Djougou	Djougou
+Hukoshi	Waarde (economie)
+Gongo	Clitoris
+Ladysmith, KwaZulu-Natal	Ladysmith (KwaZoeloe-Natal)
+Boka	Groep (sociologie)
+Bossangoa	Bossangoa
+Chivhuni	Brosheid
+Maunga huwandu	Product (wiskunde)
+Uvira	Uvira
+Chinokoro	Scoop
+Duwo	Fuik (visserij)
+Mukuwasha	Aanverwantschap
+Rusero	Wan (mand)
+Edgar Tekere	Edgar Tekere
+Oliver Mtukudzi	Oliver Mtukudzi
+Tiburon	Tiburon (Californië)
+Grootfontein	Grootfontein
+Chubhu dzinotakura ropa	Bloedvat
+Otjiwarongo	Otjiwarongo
+Germiston	Germiston
+Natitingou	Natitingou
+Klerksdorp	Klerksdorp
+Rufisque	Rufisque (stad)
+M'Bour	M'bour (stad)
+Marondera	Marondera
+Mthatha	Mthatha
+Worcester, Western Cape	Worcester (West-Kaap)
+Dumbu	Maag
+Bimha	Redunca
+Clement Doke	Clement Martyn Doke
+Bindu	Tuin
+Coloureds	Kleurling
+Njodzi	Bedreiging (risico)
+Muteremuko	Hellingsgraad
+Muururo	Avegaar
+MDC	Beweging voor Democratische Verandering – Tsvangirai
+Gwara (Humaneja)	Beleid
+Nhamba Ndandira	Teken (wiskunde)
+Mukana (Wokuita)	Opportunity
+Ketamukadzi	Gynaecologie
+Govaniso	Delen
+Nhamba svinu	Rationaal getal
+Rwodzi	Bast
+Dowokadzi	Eicel
+Tsiru	Vaars
+Humbowo	Evidentie
+Mutape	Concentraat
+Zvinotarisirwa	Verwachting (sociologie)
+Bvinina	Percoleren
+Chituso	Beloning
+Joseph Msika	Joseph Msika
+Hwabvu	Schaamlippen
+Muchovha Masvomhu	Vector
+Madzudzo	Piekeren
+Mhemberero	Feest- en gedenkdagen
+Category:Vietnam	Categorie:Vietnam
+Category:Madzinde	Categorie:Plant
+Category:Fundoyetsimba	Categorie:Natuurkunde
+Category:Chezvipenyu	Categorie:Biologie
+Category:Chemishonga	Categorie:Scheikunde
+Category:Taranyika	Categorie:Geografie
+Category:Chinamato	Categorie:Religie
+Richards Bay	Richardsbaai
+Mhitsa dzehondo	Supermacht
+Chinyakamwe	Simultaan
+Maturo	Zin (logica)
+Chidzikwe	Standard
+Katahwi	Maagdenvlies
+El Oued	El Oued
+Tsika yezvinzvimbo zvenhamba	Positiestelsel
+Munatsi	Raffinaderij
+Zanu-PF	Zimbabwaanse Afrikaanse Nationale Unie – Patriottisch Front
+Dowera (nyoka)	Pseudaspis cana
+Middelburg, Mpumalanga	Middelburg (Mpumalanga)
+Chanza	Handpalm
+Goronga	Sloot (watergang)
+Gondo	Arend (roofvogel)
+Kudoma	Ontwerpspecificatie
+Rudzivo	Richting
+Belon'i Tsiribihina	Belon'i Tsiribihina (stad)
+Jongwe	Haan (kip)
+Nyamafingu	Cobra (reptiel)
+Kuketa	Sorteren
+Bohicon	Bohicon
+Sabata	Sabbat (christendom)
+Sazita	Naamgenoot
+Tsono (zviridzwa)	Stylus
+Chisuvi	Top (meetkunde)
+Category:Tsika	Categorie:Cultuur
+Category:Ziwumbe	Categorie:Continent
+Hata (chiumbwa)	Spoel
+Bumbiro	Verzameling
+Tsapfu	Kuit (anatomie)
+Hukukutu	Hardheid
+Ganda	Menselijk ras
+Dumba	Piramide (ruimtelijke figuur)
+Rheshiyo	Verhouding (wiskunde)
+Dzihwa	Slijm
+Category:Wikipedia bots	Categorie:Wikipedia:Bots
+Hutapiri	Concentratie (oplossing)
+Chipangidzo	Sein (teken)
+Dhadha	Eenden
+Akiso	Spiegelsymmetrie
+Template:Tl	Sjabloon:Tl
+Category:Muviri	Categorie:Anatomie
+Category:Hurapi	Categorie:Geneeskunde
+Category:Dzidzo	Categorie:Onderwijs
+Egypt	Egypte (land)
+Template:Bot	Sjabloon:Bot
+Canada	Canada
+Nzenda	Dimensie (algemeen)
+Denga (raMwari)	Hemel
+Category:Europe	Categorie:Europa
+Template:Documentation	Sjabloon:Sjabdoc
+Nhengo dzesikarudzi	Geslachtsorgaan
+Category:User languages	Categorie:Wikipedia:Babel
+Template:Softredirect	Sjabloon:Softredirect
+Template:Delete	Sjabloon:Nuweg
+Kugocha	Braden
+Category:Wikipedia	Categorie:Encyclopedie Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Vrijwaringsclausule
+Wikipedia:Statistics	Wikipedia:Statistieken
+Template:Navbox	Sjabloon:Navigatie
+Template:!-	Sjabloon:!-
+Template:Nowrap	Sjabloon:Nowrap
+Template:Bots	Sjabloon:Bots
+Category:Africa	Categorie:Afrika
+Category:Zviperengo Zvehuwandu	Categorie:Getal
+Category:Bhaibheri	Categorie:Bijbel
+Template:Babel	Sjabloon:Babel
+Template:User af-1	Sjabloon:Gebruiker af-1
+Template:User als-1	Sjabloon:Gebruiker als-1
+Template:User ar-1	Sjabloon:Gebruiker ar-1
+Template:User ast-1	Sjabloon:Gebruiker ast-1
+Template:User az	Sjabloon:Gebruiker az
+Template:User bar-1	Sjabloon:Gebruiker bar-1
+Template:User eo-1	Sjabloon:Gebruiker eo-1
+Template:User da-2	Sjabloon:Gebruiker da-2
+Template:User da	Sjabloon:Gebruiker da
+Template:User ca-1	Sjabloon:Gebruiker ca-1
+Template:User be-2	Sjabloon:Gebruiker be-2
+Template:User da-1	Sjabloon:Gebruiker da-1
+Template:User cs-1	Sjabloon:Gebruiker cs-1
+Template:User bg-1	Sjabloon:Gebruiker bg-1
+Template:User eo-3	Sjabloon:Gebruiker eo-3
+Template:User de	Sjabloon:Gebruiker de
+Template:User de-1	Sjabloon:Gebruiker de-1
+Template:User el	Sjabloon:Gebruiker el
+Template:User es	Sjabloon:Gebruiker es
+Template:User de-3	Sjabloon:Gebruiker de-3
+Template:User en-3	Sjabloon:Gebruiker en-3
+Template:User el-1	Sjabloon:Gebruiker el-1
+Template:User en-1	Sjabloon:Gebruiker en-1
+Template:User en-2	Sjabloon:Gebruiker en-2
+Template:User eo-2	Sjabloon:Gebruiker eo-2
+Template:User en-4	Sjabloon:Gebruiker en-4
+Template:User es-4	Sjabloon:Gebruiker es-4
+Template:User en	Sjabloon:Gebruiker en
+Template:User de-2	Sjabloon:Gebruiker de-2
+Template:User es-1	Sjabloon:Gebruiker es-1
+Template:User sk	Sjabloon:Gebruiker sk
+Template:User tr	Sjabloon:Gebruiker tr
+Template:Location map/Info	Sjabloon:Positiekaart/info
+Category:User uk	Categorie:Wikipedia:Gebruiker uk
+Category:User uk-N	Categorie:Wikipedia:Gebruiker uk-M
+Template:Mod	Sjabloon:Modulo
+Template:User uk	Sjabloon:Gebruiker uk
+Template:User es-2	Sjabloon:Gebruiker es-2
+Template:Africa	Sjabloon:Navigatie landen Afrika
+Template:Max	Sjabloon:Max
+Template:Location map	Sjabloon:Positiekaart
+Category:User en-4	Categorie:Wikipedia:Gebruiker en-4
+Category:User en	Categorie:Wikipedia:Gebruiker en
+Category:User en-2	Categorie:Wikipedia:Gebruiker en-2
+Template:Infobox	Sjabloon:Infobox generiek
+Template:GeoTemplate	Sjabloon:GeoTemplate
+Category:Kurima	Categorie:Landbouw
+Template:Infobox settlement	Sjabloon:Infobox plaats
+Template:About	Sjabloon:Zie artikel
+Template:User lt	Sjabloon:Gebruiker lt
+Template:Kujekesa	Sjabloon:Dp
+Category:Gonyazhinji	Categorie:Veelhoek
+Template:Europe	Sjabloon:Navigatie landen Europa
+Category:User az	Categorie:Wikipedia:Gebruiker az
+Category:User be	Categorie:Wikipedia:Gebruiker be
+Category:User sk	Categorie:Wikipedia:Gebruiker sk
+Category:User eo	Categorie:Wikipedia:Gebruiker eo
+Category:User lt	Categorie:Wikipedia:Gebruiker lt
+Category:User cs-1	Categorie:Wikipedia:Gebruiker cs-1
+Category:User da-1	Categorie:Wikipedia:Gebruiker da-1
+Category:User ar-1	Categorie:Wikipedia:Gebruiker ar-1
+Category:User be-2	Categorie:Wikipedia:Gebruiker be-2
+Category:User da-2	Categorie:Wikipedia:Gebruiker da-2
+Category:User lt-N	Categorie:Wikipedia:Gebruiker lt-M
+Category:User af	Categorie:Wikipedia:Gebruiker af
+Category:User af-1	Categorie:Wikipedia:Gebruiker af-1
+Category:User als	Categorie:Wikipedia:Gebruiker als
+Category:User als-1	Categorie:Wikipedia:Gebruiker als-1
+Category:User ar	Categorie:Wikipedia:Gebruiker ar
+Category:User ast	Categorie:Wikipedia:Gebruiker ast
+Category:User ast-1	Categorie:Wikipedia:Gebruiker ast-1
+Category:User az-N	Categorie:Wikipedia:Gebruiker az-M
+Category:User bar	Categorie:Wikipedia:Gebruiker bar
+Category:User bar-1	Categorie:Wikipedia:Gebruiker bar-1
+Category:User bg	Categorie:Wikipedia:Gebruiker bg
+Category:User bg-1	Categorie:Wikipedia:Gebruiker bg-1
+Category:User ca	Categorie:Wikipedia:Gebruiker ca
+Category:User ca-1	Categorie:Wikipedia:Gebruiker ca-1
+Category:User cs	Categorie:Wikipedia:Gebruiker cs
+Category:User da	Categorie:Wikipedia:Gebruiker da
+Category:User sk-N	Categorie:Wikipedia:Gebruiker sk-M
+Category:User de	Categorie:Wikipedia:Gebruiker de
+Category:User de-2	Categorie:Wikipedia:Gebruiker de-2
+Category:User de-3	Categorie:Wikipedia:Gebruiker de-3
+Category:User el	Categorie:Wikipedia:Gebruiker el
+Category:User el-1	Categorie:Wikipedia:Gebruiker el-1
+Category:User el-N	Categorie:Wikipedia:Gebruiker el-M
+Category:User en-3	Categorie:Wikipedia:Gebruiker en-3
+Category:User en-N	Categorie:Wikipedia:Gebruiker en-M
+Category:User eo-1	Categorie:Wikipedia:Gebruiker eo-1
+Category:User eo-2	Categorie:Wikipedia:Gebruiker eo-2
+Category:User eo-3	Categorie:Wikipedia:Gebruiker eo-3
+Category:User es	Categorie:Wikipedia:Gebruiker es
+Category:User es-1	Categorie:Wikipedia:Gebruiker es-1
+Category:User es-2	Categorie:Wikipedia:Gebruiker es-2
+Category:User es-4	Categorie:Wikipedia:Gebruiker es-4
+Category:User es-N	Categorie:Wikipedia:Gebruiker es-M
+Category:Pimanzvimbo	Categorie:Meetkunde
+Template:Weather box	Sjabloon:Tabel weergemiddelden
+Template:Sup	Sjabloon:Sup
+Ruchiva	Onkuisheid
+Category:Hushangazhi	Categorie:Industrie
+Category:User tr	Categorie:Wikipedia:Gebruiker tr
+Category:User tr-N	Categorie:Wikipedia:Gebruiker tr-M
+Chimiro	Structuur
+Category:Rwizi	Categorie:Rivier
+Category:Zimbabwe	Categorie:Zimbabwe
+Category:Musangano	Categorie:Politieke partij
+Category:Mhuka	Categorie:Dierenrijk
+Category:Zvombo	Categorie:Wapen
+Category:Zvipfeko	Categorie:Kleding
+Category:Nyoka	Categorie:Slang
+Category:North America	Categorie:Noord-Amerika
+Category:Huwandu	Categorie:Rekenen
+Category:Bhuku Ramorimoni	Categorie:Boek van Mormon
+Category:Jekanyika	Categorie:Geodesie
+Category:Marudzi aShem	Categorie:Semitisch volk
+Pfugama	Knielen
+Category:User en-1	Categorie:Wikipedia:Gebruiker en-1
+Category:User de-1	Categorie:Wikipedia:Gebruiker de-1
+Category:User da-N	Categorie:Wikipedia:Gebruiker da-M
+Nhutirwa	Ingang (elektronica)
+Mutauro wePasirose	Wereldtaal
+Template:Location map~	Sjabloon:Positiekaart~
+Template:Location map+	Sjabloon:Positiekaart+
+Module:StringReplace	Module:StringReplace
+Bhucha	Slagerij
+Special:RecentChanges	Speciaal:RecenteWijzigingen
+Gusi	Ganzen

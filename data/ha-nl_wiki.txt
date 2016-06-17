@@ -1,0 +1,515 @@
+Afirka	Afrika
+Japan	Japan
+Norway	Noorwegen
+Ireland	Ierland (land)
+Hungariya	Hongarije
+An Spàinn	Spanje
+Amurika	Verenigde Staten
+Beljik	België
+Luksamburg	Luxemburg (land)
+Duniya	Aarde (planeet)
+Yan-adam	Mens
+Finland	Finland
+Sweden	Zweden
+Denmark	Denemarken
+Poland	Polen
+Lithuania	Litouwen
+Italiya	Italië
+Switzerland	Zwitserland
+Austriya	Oostenrijk
+Greek	Griekenland
+Turkiyya	Turkije
+Portugal	Portugal
+Turai	Europa (werelddeel)
+Asiya	Azië
+Amirka ta Arewa	Noord-Amerika
+Wikipedia	Wikipedia
+Berlin	Berlijn
+Airbus	Airbus
+Na'ura	Computer
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Parijs
+Kenya	Kenia
+Ethiopia	Ethiopië
+Zaki	Leeuw (dier)
+Faransa	Frankrijk
+Esperanto	Esperanto
+Kare	Hond
+Birtaniya	Verenigd Koninkrijk
+Kyanwa	Kat (dier)
+Sin	Volksrepubliek China
+Kifi	Vissen (dieren)
+Rasha	Rusland
+Teku	Zee
+São Paulo	São Paulo (stad)
+Jamus	Duitsland
+Iceland	IJsland
+Istoniya	Estland
+Jirgin sama	Vliegtuig
+Ɗaya	1 (getal)
+Biyu	2 (getal)
+Uku	3 (getal)
+Huɗu	4 (getal)
+Biyar	5 (getal)
+Laitfiya	Letland
+Ukraniya	Oekraïne
+Kazech	Tsjechië
+Slofakiya	Slowakije
+Sloveniya	Slovenië
+MOldufiniya	Moldavië (land)
+Romainiya	Roemenië
+Bulgairiya	Bulgarije
+Masadoiniya	Macedonië (land)
+Albaniya	Albanië
+Kroatiya	Kroatië
+Azerbaijan	Azerbeidzjan
+Andorra	Andorra
+Cyprus	Cyprus
+Georgia (country)	Georgië
+Kazakystan	Kazachstan
+Malta	Malta (land)
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican	Vaticaanstad
+San Marino	San Marino
+Indonesiya	Indonesië
+Afirka ta kudu	Zuid-Afrika
+Aljeriya	Algerije
+Uzbekistan	Oezbekistan
+Ruwa	Water
+Chile	Chili
+Isa Almasihu	Jezus (traditioneel-christelijk)
+Singafora	Singapore
+Ilmi	Wetenschap
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrein
+Armeniya	Armenië
+Serbiya	Servië
+Wata	Maan
+Santanbul	Istanboel
+Asturaliya	Australië (land)
+Koriya ta Arewa	Noord-Korea
+Kambodiya	Cambodja
+Musulunci	Islam
+Rana	Zon
+Angela Merkel	Angela Merkel
+Timor-Leste	Oost-Timor
+Duniyoyi	Planeet
+Cadi	Tsjaad
+Indiya	India
+Mangolia	Mongolië
+Dabba	Dierenrijk
+Shuka	Planten
+Kaza	Kip (vogel)
+Jersey	Jersey (eiland)
+Aladu	Varken (tam)
+Iran	Iran
+Irak	Irak
+Isra'ila	Israël
+Yemen	Jemen
+Jordan	Jordanië
+Kyrgystan	Kirgizië
+Kuwait	Koeweit
+Laos	Laos
+Lebanon	Libanon
+Maldives	Maldiven
+Maleziya	Maleisië
+Myanmar	Myanmar
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Saoedi-Arabië
+Sri Lanka	Sri Lanka
+Siriya	Syrië
+Tajikistan	Tadzjikistan
+Thailand	Thailand
+Turkmenistan	Turkmenistan
+Taraiyar larabawa	Verenigde Arabische Emiraten
+Vietnam	Vietnam
+Koriya ta Kudu	Zuid-Korea
+Da Simpsons	The Simpsons
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Filipin	Filipijnen
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	Congo-Kinshasa
+Gine	Guinee
+Kameru	Kameroen
+Libya	Libië
+Muritaniya	Mauritanië
+Nijar	Niger (land)
+Nijeriya	Nigeria
+Uganda	Oeganda
+Senegal	Senegal
+Julius Caesar	Julius Caesar
+Sudan	Soedan
+Majalisar Ɗinkin Duniya	Verenigde Naties
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo (stad)
+Augustus	Imperator Caesar Augustus
+Gibraltar	Gibraltar
+Mota	Auto
+Buenos Aires	Buenos Aires (stad)
+Abarba	Ananas
+Zinedine Yazid Zidane	Zinédine Zidane
+Baibûl	Bijbel (christendom)
+Gaskiyan Cocin Isa	Ware Jezuskerk
+Concepción, Chile	Concepción (Chili)
+Końskowola	Końskowola
+Maciji	Slangen
+Kimiya	Scheikunde
+Lima	Lima (stad)
+Santiago de Chile	Santiago (Chili)
+Osasco	Osasco (Brazilië)
+Dong Hoi Filin	Luchthaven Đồng Hới
+Curitiba	Curitiba (gemeente)
+Confucius	Confucius
+Kiristancìì	Christendom
+Nahiya	Continent
+Tsuntsu	Vogels
+Main Page	Hoofdpagina
+Saratov	Saratov
+Bus	Autobus
+Åland	Åland
+Makkah	Mekka
+Canary Islands	Canarische Eilanden
+Category:Candidates for speedy deletion	Categorie:Wikipedia:Nuweg
+Sahara	Sahara
+Kyautar Nobel	Nobelprijs
+Sauro	Steekmuggen
+Raƙumi	Kamelen
+Giwa	Olifanten
+Ƙudan zuma	Bijen
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Categorie:Frankrijk
+Hakkokin Yan-adam	Rechten van de mens
+Hong Kong	Hongkong
+Rio de Janeiro	Rio de Janeiro (stad)
+Addini	Religie
+Muhammad	Mohammed
+Isle of Man	Man (eiland)
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Boom (plant)
+APACHE	Apache (webserver)
+Lissafi	Getal (wiskunde)
+Masara	Mais
+Ƙasashen Duniya	Lijst van landen in 2015
+Dabbar beya	Beren
+Sankara	Kanker
+Kurãme	Doofheid
+Polio	Poliomyelitis
+Makaman nukiliya	Kernwapen
+Macau	Macau
+Raƙumin dawa	Giraffe (dier)
+Template:Link FA	Sjabloon:Link FA
+Wikipedia:Community Portal	Wikipedia:De kroeg
+Jimina	Struisvogel
+Tara	9 (getal)
+Jaki	Ezel (dier)
+Tuje	Trappen
+Bakwai	7 (getal)
+Takwas	8 (getal)
+Dabbar rendiya	Hertachtigen
+Tafarnuwa	Knoflook
+Shida	6 (getal)
+Moshchena	Mosjtsjena
+Paltoga	Paltoga
+Selena	Selena Quintanilla
+Goma	10 (getal)
+Guernsey	Guernsey
+Kahuhu	Hop (vogel)
+Kyankyaso	Kakkerlakken
+Galantoyi	Ooievaar
+Kada	Krokodilachtigen
+Kurciya	Streptopelia
+Zaƙami	Doornappel
+Hausawa	Hausa (volk)
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	Tien geboden
+Damisa	Luipaard
+Ido	Ido (kunsttaal)
+Larabawa	Arabieren
+Madinah	Medina (Arabië)
+Gyaɗa	Pinda
+Ɗari	100 (getal)
+Hawainiya	Kameleons
+Firinji	Koelkast
+Khomeini	Ruhollah Khomeini
+Ɗaɗɗoya	Basilicum
+Zirin Gaza	Gazastrook
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (getal)
+Arbaʼin	40 (getal)
+Palestin autonomija	Palestijnse Autoriteit
+Talatin	30 (getal)
+Dubu	1000 (getal)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Bermudadriehoek
+Dabgi	Aardvarken
+Kotun Shari'ar Miyagun Laifuka	Internationaal Strafhof
+Template:Commonscat	Sjabloon:Commonscat
+Afirnawan Amirka	Afro-Amerikanen
+Ƙwayoyin cuta na Ebola	Ebola
+Hausa	Hausa (taal)
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Luchthaven Sao Vàng
+Sittin	60 (getal)
+Tsamiya	Tamarinde
+Kuɓewa	Okra (plant)
+Rogo	Cassave
+Karkandan	Zwarte neushoorn
+Cutar murar aladu	Mexicaanse griep
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Tattalin arzikin duniya	Financiële crisis
+Dila	Gewone jakhals
+Balbela	Koereiger
+Rimi	Kapokboom
+Ashuwaki	Salvadora persica
+Zamfara	Zamfara
+Zariya	Zaria
+Zirman	Wonderboom
+Kuka	Afrikaanse baobab
+Ɓauna	Kafferbuffel
+Alkama	Gewone tarwe
+Kwari	Huisvlieg
+Gweba	Guave
+Zabo	Parelhoenders
+Dage	Honingdas
+Herzegovina	Herzegovina
+CFA franc ( sefar yammaci Afirka)	CFA-frank
+Kaduna	Kaduna (stad)
+Gwaggon biri	Groene baviaan
+Boko Haram	Boko Haram
+Jaffna	Jaffna (stad)
+Maiduguri	Maiduguri
+Afifiya	Schildpadden
+Gwaza	Taro
+Soso	Luffa
+Zogale	Moringa oleifera
+Casaʼin	90 (getal)
+Jibda	Afrikaanse civetkat
+Dumya	Spoorwiekgans
+Ƙirƙa	Groene meerkat
+Batsiya	Oribi
+Benik Afobe	Benik Afobe
+43 (adadan)	43 (getal)
+Zawo	Gymnarchus niloticus
+Barewa	Koringazelle
+Shamuwa	Abdims ooievaar
+Baba	Indigofera
+Kanya	Jakhalsbes
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Bonte ijsvogel
+Agadez	Agadez (stad)
+Mazo	Bosbok
+Marek Grechuta	Marek Grechuta
+Jan baki	Roodbekwever
+Gauraka	Zwarte kroonkraan
+Baƙurna	Blauwrugduiker
+Kumurci	Zwarthalscobra
+Matiyu	Evangelie volgens Matteüs
+Kwara	Kwara
+Julia Savicheva	Joelia Savitsjeva
+Gwamki	Roanantilope
+Tan Son Nhat Filin	Internationale Luchthaven Tân Sơn Nhất
+Gaiwa	West-Afrikaanse longvis
+Babba da jaka	Afrikaanse maraboe
+Carki	Ossenpikkers
+Jihar Katsina	Katsina (staat)
+Danya	Marula
+Kano	Kano (staat)
+Ybe	Yobe
+Tamanin	80 (getal)
+Sabaʼin	70 (getal)
+Hamsin	50 (getal)
+Yanyawa	Oostelijke zandvos
+Wushi-wushi	Rosse fluiteend
+Ƙirinjijiya	Witwangfluiteend
+Gada	Gewone duiker
+Da Nang Filin	Internationale Luchthaven Đà Nẵng
+Yankan Allah	Bandvink
+VietJet Air	VietJet Air
+Hazbiya	Gespikkelde duif
+51 (adadan)	51 (getal)
+Ca Mau Filin	Luchthaven Cà Mau
+Help:Contents	Portaal:Hulp en beheer
+Alan A'Court	Alan A'Court
+Katsina	Katsina (stad)
+Zakaran ƙeƙuwa	Zwartkopkievit
+Hankaka	Schildraaf
+Tsanwaka	Sahelscharrelaar
+Kurege	Afrikaanse grondeekhoorn
+Kabarai	Grote textorwever
+Sisita	Blauwfazantje
+Cilakowa	Grijze tok
+Kwango	Kwango
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Knolcyperus
+Suda	Zwartkruintsjagra
+Category:Turkiyya	Categorie:Turkije
+Category:Afirka ta kudu	Categorie:Zuid-Afrika
+Category:Nijeriya	Categorie:Nigeria
+Category:Vietnam	Categorie:Vietnam
+Category:Tsuntsu	Categorie:Vogel
+Category:Shuka	Categorie:Plant
+Category:Addini	Categorie:Religie
+Category:Duniya	Categorie:Aarde
+Hausa Bakwai	Hausastaten
+Gafiya	Gambiahamsterrat
+Karfasa	Tilapia (geslacht)
+Shaho	Arend (roofvogel)
+Tarwaɗa	Clarias anguillaris
+Albert Adomah	Albert Adomah
+Riɗi	Sesam
+Category:Stubs	Categorie:Wikipedia:Beginnetje
+ESB Villeneuve-d'Ascq	ESB Villeneuve-d'Ascq
+Edmond Debeaumarché	Edmond Debeaumarché
+Template:Tl	Sjabloon:Tl
+Template:Userbox	Sjabloon:Gebruikersbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Category:Ƙasā̀shē	Categorie:Land
+Wikipedia:Administrators	Wikipedia:Moderator
+Misra	Egypte (land)
+Template:Bot	Sjabloon:Bot
+Kanada	Canada
+Category:Slovakia	Categorie:Slowakije
+Category:Tūrai	Categorie:Europa
+Template:Documentation	Sjabloon:Sjabdoc
+Wikipedia:Community portal	Portaal:Gebruikersportaal
+Category:User languages	Categorie:Wikipedia:Babel
+Template:Softredirect	Sjabloon:Softredirect
+Template:Delete	Sjabloon:Nuweg
+Category:Wikipedia	Categorie:Encyclopedie Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Vrijwaringsclausule
+Wikipedia:Statistics	Wikipedia:Statistieken
+Template:Navbox	Sjabloon:Navigatie
+Template:=	Sjabloon:=
+Template:Navbar	Sjabloon:Tnavbar
+Template:Unicode	Sjabloon:Unicode
+Wikipedia:Vital articles	Wikipedia:Archief/Wikipedia:Artikelen die elke Wikipedia zou moeten hebben
+Category:Afirka	Categorie:Afrika
+Category:Adadan	Categorie:Getal
+Template:Babel	Sjabloon:Babel
+Template:Reflist	Sjabloon:References
+Template:Stub	Sjabloon:Beginnetje
+Template:User af-1	Sjabloon:Gebruiker af-1
+Template:User als-1	Sjabloon:Gebruiker als-1
+Template:User ar-1	Sjabloon:Gebruiker ar-1
+Template:User ast-1	Sjabloon:Gebruiker ast-1
+Template:User az	Sjabloon:Gebruiker az
+Template:User bar-1	Sjabloon:Gebruiker bar-1
+Template:See also	Sjabloon:Zie ook
+Template:User da-2	Sjabloon:Gebruiker da-2
+Template:User da	Sjabloon:Gebruiker da
+Template:User ca-1	Sjabloon:Gebruiker ca-1
+Template:User be-2	Sjabloon:Gebruiker be-2
+Template:User da-1	Sjabloon:Gebruiker da-1
+Template:User cs-1	Sjabloon:Gebruiker cs-1
+Template:User bg-1	Sjabloon:Gebruiker bg-1
+Template:User de	Sjabloon:Gebruiker de
+Template:User de-1	Sjabloon:Gebruiker de-1
+Template:User el	Sjabloon:Gebruiker el
+Template:User de-3	Sjabloon:Gebruiker de-3
+Template:User en-3	Sjabloon:Gebruiker en-3
+Template:User el-1	Sjabloon:Gebruiker el-1
+Template:User en-1	Sjabloon:Gebruiker en-1
+Template:User en-2	Sjabloon:Gebruiker en-2
+Template:User en-4	Sjabloon:Gebruiker en-4
+Template:User en	Sjabloon:Gebruiker en
+Template:User de-2	Sjabloon:Gebruiker de-2
+Template:User tr-2	Sjabloon:Gebruiker tr-2
+Template:User tr	Sjabloon:Gebruiker tr
+Category:Asiya	Categorie:Azië
+Category:User uk	Categorie:Wikipedia:Gebruiker uk
+Category:User uk-N	Categorie:Wikipedia:Gebruiker uk-M
+Template:Mod	Sjabloon:Modulo
+Template:User uk	Sjabloon:Gebruiker uk
+Template:ITA	Sjabloon:IT
+Template:Wikivar	Sjabloon:Wikivar
+Template:Image label	Sjabloon:Afbeelding label
+Template:Infobox Country	Sjabloon:Infobox land
+Template:Cite journal	Sjabloon:Citeer journal
+Category:User en-4	Categorie:Wikipedia:Gebruiker en-4
+Category:User en	Categorie:Wikipedia:Gebruiker en
+Category:User en-2	Categorie:Wikipedia:Gebruiker en-2
+Template:Infobox	Sjabloon:Infobox generiek
+Template:Cite web	Sjabloon:Citeer web
+Template:IPA	Sjabloon:IPA
+Category:Amurika	Categorie:Amerika
+Template:MONTHNAME	Sjabloon:MONTHNAME
+Template:Image label end	Sjabloon:Afbeelding label eind
+Template:Tlx	Sjabloon:Tlx
+Template:Purge	Sjabloon:Purge
+Template:Sportivo	Sjabloon:Infobox sporter
+Kungiyar Agaji Ta Red Cross Ta Duniya	Internationaal Comité van het Rode Kruis
+Template:Image label small	Sjabloon:Afbeelding label klein
+Template:Disambig	Sjabloon:Dp
+Category:User az	Categorie:Wikipedia:Gebruiker az
+Category:User be	Categorie:Wikipedia:Gebruiker be
+Category:User cs-1	Categorie:Wikipedia:Gebruiker cs-1
+Category:User da-1	Categorie:Wikipedia:Gebruiker da-1
+Category:User ar-1	Categorie:Wikipedia:Gebruiker ar-1
+Category:User be-2	Categorie:Wikipedia:Gebruiker be-2
+Category:User da-2	Categorie:Wikipedia:Gebruiker da-2
+Category:User tr-2	Categorie:Wikipedia:Gebruiker tr-2
+Category:User af	Categorie:Wikipedia:Gebruiker af
+Category:User af-1	Categorie:Wikipedia:Gebruiker af-1
+Category:User als	Categorie:Wikipedia:Gebruiker als
+Category:User als-1	Categorie:Wikipedia:Gebruiker als-1
+Category:User ar	Categorie:Wikipedia:Gebruiker ar
+Category:User ast	Categorie:Wikipedia:Gebruiker ast
+Category:User ast-1	Categorie:Wikipedia:Gebruiker ast-1
+Category:User az-N	Categorie:Wikipedia:Gebruiker az-M
+Category:User bar	Categorie:Wikipedia:Gebruiker bar
+Category:User bar-1	Categorie:Wikipedia:Gebruiker bar-1
+Category:User bg	Categorie:Wikipedia:Gebruiker bg
+Category:User bg-1	Categorie:Wikipedia:Gebruiker bg-1
+Category:User ca	Categorie:Wikipedia:Gebruiker ca
+Category:User ca-1	Categorie:Wikipedia:Gebruiker ca-1
+Category:User cs	Categorie:Wikipedia:Gebruiker cs
+Category:User da	Categorie:Wikipedia:Gebruiker da
+Category:User de	Categorie:Wikipedia:Gebruiker de
+Category:User de-2	Categorie:Wikipedia:Gebruiker de-2
+Category:User de-3	Categorie:Wikipedia:Gebruiker de-3
+Category:User el	Categorie:Wikipedia:Gebruiker el
+Category:User el-1	Categorie:Wikipedia:Gebruiker el-1
+Category:User el-N	Categorie:Wikipedia:Gebruiker el-M
+Category:User en-3	Categorie:Wikipedia:Gebruiker en-3
+Category:User en-N	Categorie:Wikipedia:Gebruiker en-M
+Category:User ha	Categorie:Wikipedia:Gebruiker ha
+Category:User tr	Categorie:Wikipedia:Gebruiker tr
+Category:User tr-N	Categorie:Wikipedia:Gebruiker tr-M
+Category:Bishiya	Categorie:Boom (plant)
+Category:Kudi	Categorie:Munteenheid
+Category:Ingila kwallon kafa players	Categorie:Engels voetballer
+Category:Kifi	Categorie:Vis
+Category:Amfani	Categorie:Fruit
+Category:Dabba	Categorie:Dierenrijk
+Kabewa	Sierpompoen
+Iska	Lucht
+Trojany	Trojany (Mazovië)
+Doya	Yam
+Template:Image label begin	Sjabloon:Afbeelding label begin
+Category:User en-1	Categorie:Wikipedia:Gebruiker en-1
+Category:User de-1	Categorie:Wikipedia:Gebruiker de-1
+Category:User da-N	Categorie:Wikipedia:Gebruiker da-M
+Chuba Akpom	Chuba Akpom
+Special:RecentChanges	Speciaal:RecenteWijzigingen
+Adam Armstrong (footballer)	Adam Armstrong

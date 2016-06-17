@@ -1,0 +1,1482 @@
+Afrig	Afrika
+Sapoŋ	Japan
+Bëj-saalumu Aamerig	Zuid-Amerika
+Noorwees	Noorwegen
+Irlaand	Ierland (land)
+Ongiri	Hongarije
+Ispaañ	Spanje
+Diiwaan yu Bennoo	Verenigde Staten
+Belsik	België
+Luksambuur	Luxemburg (land)
+Suuf	Aarde (planeet)
+Finlaand	Finland
+Suweed	Zweden
+Danmaark	Denemarken
+Poloñ	Polen
+Lituwaani	Litouwen
+Itaali	Italië
+Suwis	Zwitserland
+Otris	Oostenrijk
+Girees	Griekenland
+Tirki	Turkije
+Portugaal	Portugal
+Tugal	Europa (werelddeel)
+Asi	Azië
+Bëj-gànnaaru Aamerig	Noord-Amerika
+Goxub Dottub Bëj-saalum	Antarctica
+Wikipedia	Wikipedia
+Olaand	Nederland
+PHP	PHP
+Berlin	Berlijn
+Nosukaay	Computer
+Bern	Bern (stad)
+Zurich	Zürich (stad)
+Internet	Internet
+Uruguwaay	Uruguay
+Londar	Londen
+Xayra	Caïro (stad)
+Alegsàndiri	Alexandrië
+Pari	Parijs
+Meksik	Mexico (land)
+Mbàmbulaanug Atlas	Atlantische Oceaan
+Mbàmbulaan Gu-Dal	Grote Oceaan
+Altine	Maandag
+Samwie	Januari
+Fewirie	Februari
+Maars (weer)	Maart
+Maas	Mars (planeet)
+Keeñaa	Kenia
+Ecoopi	Ethiopië
+Gana	Ghana
+Awril	April
+Mee	Mei
+Suwe	Juni
+Sulet	Juli
+Waxset	Augustus (maand)
+Satumbar	September
+Oktoobar	Oktober
+Nowembar	November
+Disambar	December
+Talaata	Dinsdag
+Àllarba	Woensdag
+Alxames	Donderdag
+Àjjuma	Vrijdag
+Gaawu	Zaterdag
+Dibéer	Zondag
+Gaynde	Leeuw (dier)
+Faraas	Frankrijk
+Esperanto	Esperanto
+Xaj	Hond
+Nguur-Yu-Bennoo	Verenigd Koninkrijk
+Muus	Kat (dier)
+Réewum Popileer bu Siin	Volksrepubliek China
+Wu-faraas	Frans
+Wikbaatukaay	Wiktionary
+Breesil	Brazilië
+Riisi	Rusland
+Géej	Zee
+São Paulo	São Paulo (stad)
+Almaañ	Duitsland
+Belaarus	Wit-Rusland
+Islaand	IJsland
+Yàlla	God (monotheïsme)
+Estooni	Estland
+Benn	1 (getal)
+Ñaar	2 (getal)
+Ñatt	3 (getal)
+Ñent	4 (getal)
+Juroom	5 (getal)
+Tus	0 (getal)
+Letóoni	Letland
+Ukreen	Oekraïne
+Réewum Cek	Tsjechië
+Eslowaaki	Slowakije
+Esloweeni	Slovenië
+Wilniyus	Vilnius
+Moldaawi	Moldavië (land)
+Romaani	Roemenië
+Bulgaari	Bulgarije
+Rom	Rome (stad)
+Réewum Maseduwaan	Macedonië (land)
+Albaani	Albanië
+Groenlaand	Groenland
+Korwaasi	Kroatië
+Bosni	Bosnië en Herzegovina
+Aserbayjaan	Azerbeidzjan
+Andoor	Andorra
+Ciipër	Cyprus
+Jeoorji	Georgië
+Kasakistaan	Kazachstan
+Malt	Malta (land)
+Monaako	Monaco
+Montenegro	Montenegro
+Watikaa	Vaticaanstad
+San Marino	San Marino
+Burusel	Brussel (stad)
+Kubaa	Cuba (land)
+Beliis	Belize (land)
+Barbados	Barbados
+Endoneesi	Indonesië
+Afrig gu Bëj-saalum	Zuid-Afrika
+Alseeri	Algerije
+Usbekistaan	Oezbekistan
+Warsaw	Warschau
+Ndox	Water
+Sili	Chili
+Yéesu-kristaa	Jezus (traditioneel-christelijk)
+Merkuur	Mercurius (planeet)
+Taariix	Geschiedenis
+Weenus	Venus (planeet)
+Kàllaama	Taal
+Yupiter	Jupiter (planeet)
+Uraanus	Uranus (planeet)
+Neptuun	Neptunus (planeet)
+Saytubiddiw	Astronomie
+Singapoor	Singapore
+Xam-xam	Wetenschap
+Pluton	Pluto (dwergplaneet)
+Liechtenstein	Liechtenstein
+Xareb Àdduna bu Njëkk	Eerste Wereldoorlog
+Ñaareelu Xareb Àdduna	Tweede Wereldoorlog
+Skopje	Skopje
+Linux	Linux
+Xayma	Wiskunde
+Bahrayni	Bahrein
+Armeeni	Armenië
+Seerbi	Servië
+Óstraali	Australië (land)
+Jëmm	Natuurkunde
+Arsantin	Argentinië
+Peru	Peru
+Kore gu Bëj-gànnaar	Noord-Korea
+Kamboodi	Cambodja
+Alxuraan	Koran
+Lislaam	Islam
+Jubaljana	Ljubljana
+Jimbulang bu waa-Brëtaañ	Encyclopædia Britannica
+World Wide Web	Wereldwijd web
+Jigéen	Vrouw
+Sofiya	Sofia (stad)
+Jant	Zon
+Asamaan	Hemelgewelf
+Oseyaani	Oceanië
+Nosteg jant	Zonnestelsel
+Bés	Dag
+Timoor gu Penku	Oost-Timor
+Guddi	Nacht
+At	Jaar
+Oslo	Oslo
+Lisbon	Lissabon
+Way	Muziek
+Mosku	Moskou
+Cadd	Tsjaad
+Seland-Gu-Bees	Nieuw-Zeeland
+End	India
+Tuvalu	Tuvalu
+Tonga	Tonga (land)
+Samowaa	Samoa
+Duni Solomon	Salomonseilanden
+Wanuatu	Vanuatu
+Papuwaasi-Gine-Gu-Bees	Papoea-Nieuw-Guinea
+Palau	Palau (land)
+Nauru	Nauru
+Réew yu Bennoo yu Mikronesi	Micronesia
+Duni Marshall	Marshalleilanden
+Kiribati	Kiribati
+Mongoli	Mongolië
+Fiiji	Fiji
+Benesuwela	Venezuela
+Amsterdam	Amsterdam
+Rab	Dierenrijk
+Surinaam	Suriname
+Paraguwaay	Paraguay
+Guyaana	Guyana
+Fànn	Kunst
+Ekwadoor	Ecuador
+Koloombi	Colombia
+Boliibi	Bolivia
+Tirinidaad ak Tobaago	Trinidad en Tobago
+Gàncax	Planten
+Saint Vincent and the Grenadines	Saint Vincent en de Grenadines
+Saint Lucia	Saint Lucia
+Saint Kitts and Nevis	Saint Kitts en Nevis
+Jamayka	Jamaica
+Grenada	Grenada
+Guwaatemala	Guatemala
+Bahamas	Bahama's
+Ganaar	Kip (vogel)
+Antigua ak Barbuda	Antigua en Barbuda
+Onduras	Honduras
+Dominika	Dominica
+Réewum Dominik	Dominicaanse Republiek
+Mbaam	Varken (tam)
+Mbàmbulaan gu Bëj-gànnaar	Noordelijke IJszee
+Ayiti	Haïti
+Salbadoor	El Salvador
+Iraan	Iran
+Iraak	Irak
+Kosta Riika	Costa Rica
+Israayil	Israël
+Panamaa	Panama (land)
+Yaman	Jemen
+Jordaani	Jordanië
+Nikaraaguwa	Nicaragua
+Kirgistaan	Kirgizië
+Kowet	Koeweit
+Réewum Lawos	Laos
+Libaa	Libanon
+Maldiif	Maldiven
+Aamerig	Amerika (continent)
+Maleesi	Maleisië
+Miyanmaar	Myanmar
+Nepaal	Nepal
+Omaan	Oman
+Pakistaan	Pakistan
+Kataar	Qatar
+Araabi Sawdit	Saoedi-Arabië
+Siri Laanka	Sri Lanka
+Siri	Syrië
+Tajikistaan	Tadzjikistan
+Taaywaan	Taiwan
+Taaylaand	Thailand
+Ceññeer-mbej	Radio
+Turkumenistaan	Turkmenistan
+Imaaraat yu Araab yu Bennoo yi	Verenigde Arabische Emiraten
+Wiyetnaam	Vietnam
+Kore gu Bëj-saalum	Zuid-Korea
+Afganistaan	Afghanistan
+Banglaades	Bangladesh
+Mali	Mali
+Angolaa	Angola
+Butaan	Bhutan
+Tansani	Tanzania
+Filipiin	Filipijnen
+Réewum Diggu Afrig	Centraal-Afrikaanse Republiek
+Dottub Bëj-saalum	Zuidpool
+Dottub Bëj-gànnaar	Noordpool
+Albert Einstein	Albert Einstein
+Mboq	Geel (kleur)
+Togóo	Togo
+Tiniisi	Tunesië
+Saambi	Zambia
+Simbaawee	Zimbabwe
+Bene	Benin
+Botswana	Botswana
+Burkinaa Faaso	Burkina Faso
+Buruundi	Burundi
+Komoor	Comoren
+Kongóo-Brasaawiil	Congo-Brazzaville
+Kongóo-Kinshasa	Congo-Kinshasa
+Jibuti	Djibouti (land)
+Gineg yamoo	Equatoriaal-Guinea
+Eritere	Eritrea
+Tibilisi	Tbilisi
+Gaboŋ	Gabon
+Gàmbi	Gambia (land)
+Gine	Guinee
+Gine Bisaawóo	Guinee-Bissau
+Kodiwaar	Ivoorkust
+Kamerun	Kameroen
+Kap Weert	Kaapverdië
+Lesoto	Lesotho
+Libeeria	Liberia
+Libi	Libië
+Madagaskaar	Madagaskar
+Malawi	Malawi
+Gànnaar	Mauritanië
+Móoris	Mauritius (land)
+Marok	Marokko
+Mosambik	Mozambique
+Namibi	Namibië
+Niseer	Niger (land)
+Charles Darwin	Charles Darwin
+Ugandaa	Oeganda
+Ruwandaa	Rwanda
+Saw Tome ak Preesip	Sao Tomé en Principe
+Senegaal	Senegal
+Seysel	Seychellen
+Siraa Leyoon	Sierra Leone
+Somali	Somalië
+Julius Caesar	Julius Caesar
+Sudaan	Soedan
+Suwaasilaand	Swaziland
+Kureelu Mbootayu Xeet yi	Verenigde Naties
+Melosuuf	Aardrijkskunde
+Melo	Kleur
+Prag	Praag
+Baxa	Blauw (kleur)
+Yanu mbëj	Elektrische lading
+Poortorikoo	Puerto Rico
+Mbàmbulaanug End	Indische Oceaan
+Wàll:Xët wu njëkk	Categorie:Alles
+Koppar	Geld
+Gunóor	Insecten
+Niccolò Machiavelli	Niccolò Machiavelli
+Uetersen	Uetersen
+Jibraltaar	Gibraltar
+Sagreb	Zagreb
+Astana	Astana (stad)
+Aten	Athene (stad)
+Bagdad	Bagdad
+Caracas	Caracas
+Wiyen	Wenen
+Kopenagen	Kopenhagen
+Stokolm	Stockholm
+Elsinki	Helsinki
+Dublin	Dublin
+Reykjawik	Reykjavik
+Talin	Tallinn
+Riga	Riga
+Baratislawa	Bratislava
+Budapest	Boedapest
+Luksambuur (péy)	Luxemburg (stad)
+Wadus	Vaduz
+Biibël	Bijbel (christendom)
+San Marino (péy)	San Marino (stad)
+Ho Chi Minh City	Ho Chi Minhstad
+Jàngu Yéesu bu Dëggu bi	Ware Jezuskerk
+Wu-angalteer	Engels
+Andorra la Vella	Andorra la Vella
+Đồng Hới	Đồng Hới
+Concepción (Ciili)	Concepción (Chili)
+Kiyew	Kiev
+Końskowola	Końskowola
+Xartum	Khartoem
+Sharles Degóol	Charles de Gaulle
+Mbëjfepp	Elektron
+Minsk	Minsk
+Feppsaal	Proton (deeltje)
+Kurów	Kurów (powiat Puławski)
+Feppmaandu	Neutron
+Mogadisu	Mogadishu
+Football	Voetbal
+Madrid	Madrid (stad)
+Wert	Groen (kleur)
+Xonq	Rood (kleur)
+Safara	Vuur
+Lourdes	Lourdes
+Niiruw jant	Zonnenevel
+Rabat	Rabat (Marokko)
+Alse	Algiers
+Dexub Senegaal	Sénégal
+Tunis	Tunis
+Tripoli (Libi)	Tripoli (Libië)
+Jibuti (dëkk)	Djibouti (stad)
+Addis-Abeba	Addis Abeba
+Ankara	Ankara
+Asmara	Asmara
+Njamena	Ndjamena
+Nouakchott	Nouakchott (stad)
+Belgrad	Belgrado
+Ndakaaru	Dakar
+Banjul	Banjul
+Wàll:Royuwaay	Categorie:Wikipedia:Sjablonen
+Praia	Praia
+Guyaana gu Faraas	Frans-Guyana
+Amman	Amman (stad)
+Yaunde	Yaoundé
+Malabo	Malabo
+Libarwil	Libreville
+Bangi	Bangui (Centraal-Afrikaanse Republiek)
+Kinshasa	Kinshasa
+Brasawil	Brazzaville
+Bujumbura	Bujumbura
+Kigali	Kigali (stad)
+Dodoma	Dodoma (stad)
+Nairobi	Nairobi
+Lilongwe	Lilongwe (stad)
+Lusaka	Lusaka (stad)
+Maputo	Maputo (stad)
+Kampala	Kampala
+Luanda	Luanda (stad)
+Moroni	Moroni (Comoren)
+Antananariwo	Antananarivo (stad)
+Arare	Harare
+Wiktoria (Seysel)	Victoria (Seychellen)
+Kër	Huis (woning)
+Lonkoyoon	Kaart (cartografie)
+Dex	Rivier
+Osasco	Osasco (Brazilië)
+Curitiba	Curitiba (gemeente)
+Sowwu Afrig	West-Afrika
+Confucius	Confucius
+Corbin Bleu	Corbin Bleu
+Wàll:Xayma	Categorie:Wiskunde
+Duni Faarow	Faeröer
+Géej gu Diggu	Middellandse Zee
+Gox	Continent
+Monzón	Monzón
+Weer	Maand
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Almazán	Almazán (gemeente)
+Jimbulang	Encyclopedie
+Xët wu njëkk	Hoofdpagina
+Dëgërlukaay	Weerstand (component)
+Fattalukaay(mbëj)	Condensator
+Tugalasi	Eurazië
+Babilon	Babylon (stad)
+Dunu Aland	Åland
+Betleyem	Bethlehem
+Duni Kanaari	Canarische Eilanden
+Xeltu	Filosofie
+Rap	Rap (muziekstijl)
+Hebe Camargo	Hebe Camargo
+Sahara gu Sowwu	Westelijke Sahara
+Atali	Antalya (stad)
+Wàll:Saytubiddiw	Categorie:Astronomie
+Saara	Sahara
+Niels Bohr	Niels Bohr
+Politig	Politiek
+Qin Shi Huang	Qin Shi Huangdi
+Penku gu Diggu	Midden-Oosten
+Réew	Staat
+Mbàmbulaan gu Bëj-saalum	Zuidelijke Oceaan
+Bët	Oog (anatomie)
+Ñay	Olifanten
+Melentaan	Mieren
+Simili	Minuut (tijd)
+Taariixu Itaali	Geschiedenis van Italië
+Mburu	Brood
+Kiswahili	Swahili
+Dereet	Bloed
+Toulouse	Toulouse (stad)
+Xam-xamu suuf si ak jawwu ji	Aardwetenschappen
+Doj	Gesteente
+Jawwu ji	Atmosfeer (astronomie)
+Koom-koom	Economie
+Yewwute gu ndefar	Industrie
+Wàll:Bulgaari	Categorie:Bulgarije
+Njàngat	Literatuur
+Wàll:Faraas	Categorie:Frankrijk
+Wàll:Woy	Categorie:Muziek
+Wàll:Njàngat	Categorie:Literatuur
+.ac	.ac
+Xay	Beschaving
+Gόor	Man (geslacht)
+Tangor	Berg (landvorm)
+Yay	Woestijn
+Ooŋ Koŋ	Hongkong
+HTML	HyperText Markup Language
+Xarefulwoon	Atoom
+Nosteg doxiin	Besturingssysteem
+Baku	Bakoe
+Mbàmbulaan	Oceaan
+Budda	Gautama Boeddha
+Premier League	Premier League
+Mohammed	Mohammed
+Dunu Falkland	Falklandeilanden
+Ronald Reagan	Ronald Reagan
+Gordon Brown	Gordon Brown
+Wàll:Benesuwela	Categorie:Venezuela
+Pitax	Duiven (vogels)
+Garab	Boom (plant)
+Wuutuloxo	Machine
+Xibaar	Informatie
+Paj	Geneeskunde
+Saarayego	Sarajevo
+Wàll:Breesil	Categorie:Brazilië
+Wàll:Romaani	Categorie:Roemenië
+Xeet	Chemisch element
+Kàttan	Energie
+Hip-hop	Hiphop
+Mbëjbijjaakon	Elektromagnetisme
+Toolu bijjaakon	Magnetisch veld
+Dooley ñoddi	Zwaartekracht
+Bijjaan	Magneet
+Yolaakon	Vloeistof
+Féex	Vacuüm
+Yaatuwaay	Oppervlakte
+Saa	Seconde
+Cuub	Schilderkunst
+Nataal	Fotografie
+Yatt	Beeldhouwkunst
+Mbëjfeppal	Elektronica
+Dawaanu mbëj	Elektrische stroom
+Baraay	Frequentie
+Soppalikaay	Transformator
+Xaralay xibaar ak jokkoo	Informatietechnologie
+Duni Virgin (us)	Amerikaanse Maagdeneilanden
+Bëj-saalum-penku Asi	Zuidoost-Azië
+Limu réewi àdduna bi	Lijst van landen in 2015
+Njëkk-taariix	Prehistorie
+Réewum ñaari dex yi	Mesopotamië
+Las Palmasu Kanaari gu Mag	Las Palmas de Gran Canaria
+Arminaat	Kalender
+Xarey jóoñe	Kruistocht
+Mbëj	Elektriciteit
+Montserrat	Montserrat (eiland)
+Ndajem Berlin	Koloniale Conferentie van Berlijn
+Adiratig	Adriatische Zee
+Ngiste	Optica
+Makaaw	Macau
+Soviet Yi Benno	Sovjet-Unie
+Queen	Queen
+Royuwaay:Lien AdQ	Sjabloon:Link FA
+Àdduna	Wereld (Aarde)
+Wikipedia:Pénc mi	Wikipedia:De kroeg
+Guam	Guam
+Samoa gu Aamerig	Amerikaans-Samoa
+Northern Mariana Islands	Noordelijke Marianen
+United States Minor Outlying Islands	Kleine afgelegen eilanden van de Verenigde Staten
+Guwaadalup	Guadeloupe
+Martinik	Martinique
+Mayoot	Mayotte
+Reiñõo	Réunion
+Turks and Caicos Islands	Turks- en Caicoseilanden
+Manchester United	Manchester United FC
+Juróom ñent	9 (getal)
+Bien Hoa	Biên Hòa (stad)
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Bukarest	Boekarest
+Louvre	Louvre
+Kureelu tembte bu Poortorikoo	Partido Independentista Puertorriqueño
+Tirana	Tirana (stad)
+Nowel	Kerstmis
+Breinigerberg	Breinigerberg
+Ségg	Tijger
+Kisinawu	Chisinau
+Xam-xamu nosukaay	Informatica
+Şalom	Şalom
+Aruba	Aruba
+Juróom ñaar	7 (getal)
+Juróom ñett	8 (getal)
+Ayubés	Week
+Ngéej	Meer (watervlakte)
+Jeexiituwaay bu Orsay	Musée d'Orsay
+Dunu Buwet	Bouveteiland
+Dun	Eiland
+Juróom benn	6 (getal)
+Moshchena	Mosjtsjena
+Paltoga	Paltoga
+Yamoo	Evenaar
+Mérida, Benesuwela	Mérida (Venezuela)
+Podgorika	Podgorica
+Baatukaay	Woordenboek
+Bermuda	Bermuda
+Palestiin	Palestina (regio)
+Waleta	Valletta
+Fukk	10 (getal)
+Tene	Jachtluipaard
+Looy	Uilen (orde)
+Angila	Anguilla (eiland)
+Waxtu	Uur
+Pichilemu	Pichilemu
+Duni Virgin (angalteer)	Britse Maagdeneilanden
+Phan Thiet	Phan Thiết
+Goxub Dottub Bëj-gànnaar	Arctis
+Ngóora (jëmm)	Vermogen (natuurkunde)
+Ndëgërlu gu mbëj	Elektrische weerstand (eigenschap)
+Dendu mbëj	Elektrische spanning
+Niccolò Cusano University	Università degli Studi Niccolò Cusano
+Mbëjtekkaaral	Elektrostatica
+Anet	Dille
+Dunu Kook	Cookeilanden
+Penku Asi	Oost-Azië
+Diggu Asi	Centraal-Azië
+Bëj-gànnaaru Afrig	Noord-Afrika
+Bëj-saalumu Afrig	Zuidelijk Afrika
+Penku Afrig	Oost-Afrika
+Diggu Afrig	Centraal-Afrika
+Bëj-saalumu Tugal	Zuid-Europa
+Penku Tugal	Oost-Europa
+Bëj-gànnaaru Tugal	Noord-Europa
+Sowwu Tugal	West-Europa
+Afritugalasi	Afrika-Eurazië
+Diggu Aamerig	Centraal-Amerika
+Maghreb	Maghreb
+Weeri wolof	Islamitische kalender
+Ecser	Ecser
+Akas	Achaz
+Polineesi gu Faraas	Frans-Polynesië
+Dunu Norfolk	Norfolk (eiland)
+Dunu Christmas	Christmaseiland
+Arabi	Arabisch Schiereiland
+Paaka	Mes (voorwerp)
+Pullaar	Fula (taal)
+Kaledooni-Gu-Bees	Nieuw-Caledonië (gebiedsdeel)
+Way-dëkk	Bevolking
+Niwe	Niue
+Tus-wu-gaar	Breedtegraad
+Wolof (làkk)	Wolof (taal)
+Gëstubiddiw	Astrologie
+Seent Eleen	Sint-Helena (eiland)
+Saint Pierre ak Miquelon	Saint-Pierre en Miquelon
+Njëkk-xaymà	Lijst van landnummers in de telefonie
+Tequixquiac	Tequixquiac
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Zuid-Georgia en de Zuidelijke Sandwicheilanden
+Dalub web	Website
+Araab	Arabieren
+Wallis ak Futuna	Wallis en Futuna
+Pitkeern	Pitcairneilanden
+Ne-ne	Materie
+Al Bayda	Al Bayda
+Gaal	Boot (vaartuig)
+Polineesi	Polynesië
+Dunu Kokos	Cocoseilanden
+Thanh Hoa	Thanh Hóa (stad in Thanh Hóa)
+Siligo	Siligo
+Tus-wu-taxaw	Lengtegraad
+Dàngin	Gorilla's
+Ben Tre	Bến Tre (stad)
+Xëtu web	Webpagina
+Tokelau	Tokelau
+Tembte	Onafhankelijkheid (staatkunde)
+Melaneesi	Melanesië
+Téeméer	100 (getal)
+Campora San Giovanni	Campora San Giovanni
+Besançon	Besançon
+Jinax	Mus (geslacht)
+Suraas	Oranje (kleur)
+Artemis	Artemis (mythologie)
+Esaas	Benzine
+Radio Studio 54 Network	Radio Studio 54 Network
+Tëriinuw nosukaay	Computerprogramma
+Jëf ya	Handelingen van de apostelen
+Bejjenu Afrig	Hoorn van Afrika
+Fatt-jawwu	Troposfeer
+Al Pacino	Al Pacino
+Doolerandu	Mechanica
+Sinemaa	Bioscoop
+Jum	Raket
+Daawuda	Koning David
+Seere	Sjahada
+Liggéey (jëmm)	Arbeid (natuurkunde)
+Gëwéel	Tropen (geografie)
+Junni	1000 (getal)
+Xaralaymbëj	Elektrotechniek
+Waañ	Keuken (ruimte)
+Andare	Andreas (apostel)
+Bartelemi	Bartolomeüs (apostel)
+Alex Ferguson	Alex Ferguson
+The Doors	The Doors
+Toolu mbëj	Elektrisch veld
+Kàttanug imbiku	Kinetische energie
+Mbootaayu Réewi Jullit yi	Organisatie van de Islamitische Samenwerking
+Penku gu Jege	Nabije Oosten
+Almasi bi	Messias
+Bànni Israyil	Israëlieten
+Aaroona	Aäron
+Anas	Annas
+Jàngoroy Ebola	Ebola
+Locri	Locri
+Monaako (péy)	Monaco-Ville
+Aset	Bord (maaltijd)
+Truong Tan Sang	Trương Tấn Sang
+Duran Duran	Duran Duran
+Safaanukaay	Alternator
+Ron-goxu End	Indisch subcontinent
+Diiwaani dott	Poolgebied
+Sahel	Sahel (landstreek)
+Aadama	Adam
+Doxalukaay bu mbëj	Elektromotor
+Ametist	Amethist
+Coronel Fabriciano	Coronel Fabriciano
+Junj	Symbool
+1 Korent	Eerste brief van Paulus aan de Korintiërs
+Furset	Vork (bestek)
+Kuddu	Lepel (bestek)
+Royan	Royan
+Lepton	Lepton (subatomair deeltje)
+Bundesliga	Bundesliga (Duitsland)
+Dencukaay	Bestand (computer)
+Cosaan	Traditie
+Jéeri ji	Lithosfeer
+Ba Don	Ba Đồn
+Lëkkalekaay	Hyperlink
+Nukleon	Nucleon
+Beril	Beril
+Xarey àdduna	Wereldoorlog
+Abdulaay Wàdd	Abdoulaye Wade
+Dëgërluwiin	Soortelijke weerstand
+Yolom-jawwu	Stratosfeer
+Melosuufug Tugal	Geografie van Europa
+Dawaan bu safaanu	Wisselstroom
+Disc jockey	Diskjockey
+2 Piyeer	Tweede brief van Petrus
+Heard Island and McDonald Islands	Heard en McDonaldeilanden
+IMMAGINE&POESIA	Immagine & Poesia
+Jurukaayu mbëj	Generator (energietechniek)
+Ndombo gu mbëj	Elektrisch netwerk
+Mamudsu	Mamoudzou
+Afrig gu bëj-saalumu-Sahara	Sub-Saharisch Afrika
+Sawara	Verbranding
+Raaya wu Senegaal	Vlag van Senegal
+Albaatar	Albast
+Leopool Sedaar Sengoor	Léopold Senghor
+Dóox	Hertogdom
+Bennoo gu Almaañ	Duitse eenwording
+Dawaan bu wéy	Gelijkstroom
+Digg bu mbëj	Elektriciteitscentrale
+Kom-kom	Economie (systeem)
+Pachuca de Soto	Pachuca
+Iyon-jawwu	Ionosfeer
+Break dancing	Breakdance
+Biti-jawwu	Exosfeer
+Asot	Asjdod
+Amiin	Amen (gebed)
+Amos	Amos (boek)
+Bunt: taariix	Portaal:Geschiedenis
+Ponki Lislaam	Vijf zuilen van de islam
+Toolu mbëjbijjaakon	Elektromagnetisch veld
+Xiirtalu	Zelfinductie
+Mbëjbijjaan	Elektromagneet
+ASP.NET	ASP.NET
+Diiwaanu Ndar	Saint-Louis (regio)
+Ayóoba	Job (persoon)
+Aakimoo jawwu ji	Ruimteonderzoek
+Dalu Archimède	Wet van Archimedes
+Imbraatóor gu Mali	Koninkrijk Mali
+Barnabas	Barnabas
+Njël	Zonsopkomst
+Bere	Berroia
+Areyopas	Areopaag
+Beelsebul	Beëlzebub
+Pël	Fulbe
+Imbraatóor gu Songaay	Songhai-rijk
+Vesoul	Vesoul
+Akayi	Achaea (Romeinse provincie)
+Alisa	Elisa (profeet)
+Imbraatóor gu Gana	Koninkrijk Ghana
+Kàttanug mbëj	Elektrische energie
+Piipa	Gewone dolfijn
+Doxalukaay bu demandoodi	Driefasige asynchrone motor
+Duusub sin	Sinusoïde
+Sudaan (diiwaan)	Soedan (regio)
+Njeexitu joule	Wet van Joule
+Yuusu Nduur	Youssou N'Dour
+Bowas	Boaz (Bijbelse naam)
+Ajara	Hagar
+Wolof (askan)	Wolof (volk)
+Amfipolis	Amphipolis
+Turu Way-Dëkk	Inwonersnaam
+Ngaté bu digen	Zwartkopzeebrasem
+Sao Tome (dun)	Sao Tomé (eiland)
+Haj	Hadj
+Arkelawus	Herodes Archelaüs
+Beer	Gorée
+Mboolaay	Maatschappij
+Ndar	Saint-Louis (Senegal)
+Yoonu Eŋaca	Via Egnatia
+Abadon	Abaddon
+Luga	Louga
+Aretas	Aretas IV
+Wommat wu mbëj	Elektrische geleidbaarheid
+Jasaan	Kleintandzaagvis
+Asaf	Asa van Juda
+Barabas	Barabbas
+Agaripa	Herodes Agrippa II
+Amon	Amon van Juda
+Ousmane Sembène	Ousmane Sembène
+Abiyatar	Abjathar
+Apolos	Apollos
+Akilas	Aquila van Sinope
+Aristobul	Aristobulus I
+Agabus	Agabus (religie)
+Bëer	Ombervis
+Aloos	Agarhout
+Bitini	Bithynië
+Toq	Tockus
+Xaaju kol-kol	Hemisfeer (aarde)
+Yolet	Violet
+Fatik	Fatick (stad)
+Arpagsàdd	Arpachshad
+Ben-yamin	Benjamin (zoon van Jakob)
+Damaris	Damaris
+Berenis	Julia Berenice
+Planoise	Planoise
+Anañas	Ananias
+Betsayda	Betsaïda
+Bisub Tabaski	Offerfeest
+Dalmasi	Dalmatië (regio)
+Max	Termieten
+Antipas	Antipas (heilige)
+Balaam	Bileam
+Diiwaanu Séeju	Sédhiou (regio)
+Baal	Baäl
+Sompat	Pomadasys perotaei
+Cees	Thiès (stad)
+Aram	Aram (persoon)
+Yoon	Yoon
+Tuubaa	Touba (Senegal)
+Antipataris	Antipatris
+Diiwaanu Luga	Louga (regio)
+Diiwaanu Koldaa	Kolda (regio)
+Séeréer	Sérères
+Asos	Assos
+Tundi Senegaal	Departementen van Senegal
+Isipt gu yàgg ga	Geschiedenis van het Oude Egypte
+Banda	Middellandsezeeknorvis
+Barag	Barak (Rechters)
+Bartime	Bartimeüs
+Beliyar	Belial
+Mandinke	Mandinka (volk)
+Diiwaanu Siggcoor	Ziguinchor (regio)
+Awa	Eva (persoon)
+Betani	Bethanië
+Kaasamaas	Casamance
+Swalbard ak Jan Mayen	Spitsbergen en Jan Mayen
+Limub njiiti Senegaal yil	Lijst van presidenten van Senegal
+Doxalukaay bu demandoo	Synchrone draaistroommotor
+Diiwaani Senegaal	Regio's van Senegal
+Diiwaanu Kawlax	Kaolack (regio)
+Kawlak	Kaolack
+Diiwaanu Cees	Thiès (regio)
+Diiwaanu Tambaakundaa	Tambacounda (regio)
+Nosteg galag	Fiscaal recht
+Diiwaanu Njaaréem	Diourbel (regio)
+Diiwaanu Ndakaaru	Dakar (regio)
+Diiwaanu Maatam	Matam (regio)
+Diiwaanu Fatik	Fatick (regio)
+Oiapoque	Oiapoque (gemeente)
+Jurbel	Diourbel
+Xolaxol	Groene langstaartglansspreeuw
+Wuutuloxo bu mbëj	Elektrische machine
+Elimas	Elymas
+Xiirtalug mbëjbijjaakon	Inductie (elektriciteit)
+Tëngéej	Rufisque (stad)
+Podoor	Podor
+Mbuur	M'bour (stad)
+Diiwaanu Kéedugu	Kédougou (regio)
+Diiwaanu Kafrin	Kaffrine (regio)
+Wersun	Zeekarper
+Maatam	Matam (stad)
+Joolaa (askan)	Diola
+Dùn	Dùn (eiland)
+Wàll:Almaañ	Categorie:Duitsland
+Wàll:Itaali	Categorie:Italië
+Wàll:Riisi	Categorie:Rusland
+Wàll:Kanadaa	Categorie:Canada
+Wàll:Nguur-Yu-Bennoo	Categorie:Verenigd Koninkrijk
+Wàll:Ispaañ	Categorie:Spanje
+Wàll:Sapoŋ	Categorie:Japan
+Wàll:Óstraali	Categorie:Australië
+Wàll:Meksik	Categorie:Mexico
+Wàll:End	Categorie:India
+Wàll:Araabi Sawdit	Categorie:Saoedi-Arabië
+Wàll:Israayil	Categorie:Israël
+Wàll:Watikaa	Categorie:Vaticaanstad
+Wàll:Tirki	Categorie:Turkije
+Wàll:Afrig gu Bëj-saalum	Categorie:Zuid-Afrika
+Wàll:Isipt	Categorie:Egypte
+Wàll:Iraan	Categorie:Iran
+Wàll:Arsantin	Categorie:Argentinië
+Balag	Balak (Bijbel)
+Abba	Ab (vader)
+Wàll:Afganistaan	Categorie:Afghanistan
+Wàll:Alseeri	Categorie:Algerije
+Wàll:Banglaades	Categorie:Bangladesh
+Wàll:Kubaa	Categorie:Cuba
+Wàll:Ecoopi	Categorie:Ethiopië
+Wàll:Endoneesi	Categorie:Indonesië
+Wàll:Iraak	Categorie:Irak
+Wàll:Niseeria	Categorie:Nigeria
+Wàll:Poloñ	Categorie:Polen
+Wàll:Portugaal	Categorie:Portugal
+Wàll:Kore gu Bëj-saalum	Categorie:Zuid-Korea
+Wàll:Sudaan	Categorie:Soedan
+Wàll:Suwis	Categorie:Zwitserland
+Wàll:Tansani	Categorie:Tanzania
+Wàll:Ukreen	Categorie:Oekraïne
+Wàll:Wiyetnaam	Categorie:Vietnam
+Wàll:Picc	Categorie:Vogel
+Wàll:Gàncax	Categorie:Plant
+Wàll:Jëmm	Categorie:Natuurkunde
+Wàll:Taariix	Categorie:Geschiedenis
+Wàll:Melosuuf	Categorie:Geografie
+Wàll:Diine	Categorie:Religie
+Wàll:Sport	Categorie:Sport
+Wàll:Xam-xam	Categorie:Wetenschap
+Wàll:Sinemaa	Categorie:Film
+Wàll:Suuf	Categorie:Aarde
+Wàll:Xibaar	Categorie:Informatie
+Alfe	Alfeüs
+Siin-Saalum	Sine-Saloum
+Njàngale	Instructief
+Aana	Anna (profetes)
+Aser	Aser (persoon)
+Mori	Slakdolf (naaldvis)
+Tamxarit	Muharram
+Wàll:Xeltu	Categorie:Filosofie
+Wàll:Lislaam	Categorie:Islam
+Aminadab	Amminadab
+Fëtt	Pseudotolithus
+Betani bu Yerusalem	Al-Eizariya
+Betfase	Bethfagé
+Ndiané	Koningskapiteinvis
+Ba Ria	Bà Rịa (stad)
+Djabar	Lutjanus agennes
+Benedicta Boccoli	Benedicta Boccoli
+Fötö	Pseudotolithus typus
+Thiékem	Galeoides decadactylus
+Wolof	Wolof
+Wàll:Junj	Categorie:Wikipedia:Beginnetje
+Wàll:Gox yi	Categorie:Continent
+Bunt:Melosuuf	Portaal:Geografie
+Mikroneesi	Micronesië
+Adaramit	Adramyttium
+Anna Rita Del Piano	Anna Rita Del Piano
+Royuwaay:M	Sjabloon:Tl
+Royuwaay:Yeneenlàkk	Sjabloon:Hoofdpagina - andere talen
+Wàll:Réew	Categorie:Land
+Wàll:Koom-koom	Categorie:Economie
+Wikipedia:Yorkat	Wikipedia:Moderator
+Wàll:Kasakistaan	Categorie:Kazachstan
+Wikipedia:Bureaucrats	Wikipedia:Bureaucraat
+Wikipedia:Bot	Wikipedia:Bots
+Wàll:Paj	Categorie:Geneeskunde
+Wàll:Politig	Categorie:Politiek
+Wàll:Fànn	Categorie:Kunst
+Isipt	Egypte (land)
+Royuwaay:Bot	Sjabloon:Bot
+Kanadaa	Canada
+Wàll:Beljik	Categorie:België
+Wàll:Ciipër	Categorie:Cyprus
+Wàll:Réewum Cek	Categorie:Tsjechië
+Wàll:Danmaark	Categorie:Denemarken
+Wàll:Estooni	Categorie:Estland
+Wàll:Finlaand	Categorie:Finland
+Wàll:Girees	Categorie:Griekenland
+Wàll:Letóoni	Categorie:Letland
+Wàll:Islaand	Categorie:IJsland
+Wàll:Luksambuur	Categorie:Luxemburg (land)
+Wàll:Lituwaani	Categorie:Litouwen
+Wàll:Malt	Categorie:Malta
+Wàll:Suweed	Categorie:Zweden
+Wàll:Eslowaaki	Categorie:Slowakije
+Wàll:Esloweeni	Categorie:Slovenië
+Wàll:Tugal	Categorie:Europa
+Wommatiinu mbëj	Soortelijke geleidbaarheid
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Categorie:Wikipedia:Babel
+Royuwaay:Softredirect	Sjabloon:Softredirect
+Royuwaay:Far	Sjabloon:Nuweg
+Wàll:Làkk	Categorie:Taal
+Wàll:Arminaat	Categorie:Kalender
+Wàll:Wikipedia	Categorie:Encyclopedie Wikipedia
+Wàll:Barab bu tolluwaay bu njëkk	Categorie:Top level domain
+Wàll:Afrig	Categorie:Afrika
+Wàll:Sulet	Categorie:Juli
+Wàll:Suwe	Categorie:Juni
+Wàll:Mbëjfeppal	Categorie:Elektronica
+Wàll:Leeral Biibël	Categorie:Bijbel
+Wàll:Weeri at mi	Categorie:Maand
+Royuwaay:Babel	Sjabloon:Babel
+Royuwaay:Commons	Sjabloon:Commons
+Royuwaay:Lien BA	Sjabloon:Link GA
+Wàll:Xaralaymbëj	Categorie:Elektrotechniek
+Royuwaay:ANG	Sjabloon:AO
+Royuwaay:Junj	Sjabloon:Beginnetje
+Royuwaay:Jëfandikukat af-1	Sjabloon:Gebruiker af-1
+Royuwaay:Jëfandikukat ar-1	Sjabloon:Gebruiker ar-1
+Royuwaay:Jëfandikukat eo-1	Sjabloon:Gebruiker eo-1
+Royuwaay:Jëfandikukat da	Sjabloon:Gebruiker da
+Royuwaay:Jëfandikukat da-1	Sjabloon:Gebruiker da-1
+Royuwaay:Jëfandikukat eo-3	Sjabloon:Gebruiker eo-3
+Royuwaay:Jëfandikukat eu	Sjabloon:Gebruiker eu
+Royuwaay:Jëfandikukat et-1	Sjabloon:Gebruiker et-1
+Royuwaay:Jëfandikukat es	Sjabloon:Gebruiker es
+Royuwaay:Jëfandikukat en-3	Sjabloon:Gebruiker en-3
+Royuwaay:Jëfandikukat el-1	Sjabloon:Gebruiker el-1
+Royuwaay:Jëfandikukat en-1	Sjabloon:Gebruiker en-1
+Royuwaay:Jëfandikukat en-2	Sjabloon:Gebruiker en-2
+Royuwaay:Jëfandikukat eo-2	Sjabloon:Gebruiker eo-2
+Royuwaay:Jëfandikukat en-4	Sjabloon:Gebruiker en-4
+Royuwaay:Jëfandikukat fi	Sjabloon:Gebruiker fi
+Royuwaay:Jëfandikukat es-4	Sjabloon:Gebruiker es-4
+Royuwaay:Jëfandikukat en	Sjabloon:Gebruiker en
+Royuwaay:Jëfandikukat es-1	Sjabloon:Gebruiker es-1
+Royuwaay:Jëfandikukat fr-1	Sjabloon:Gebruiker fr-1
+Royuwaay:Jëfandikukat ia-2	Sjabloon:Gebruiker ia-2
+Royuwaay:Jëfandikukat hi-1	Sjabloon:Gebruiker hi-1
+Royuwaay:Jëfandikukat hu	Sjabloon:Gebruiker hu
+Royuwaay:Jëfandikukat id-3	Sjabloon:Gebruiker id-3
+Royuwaay:Jëfandikukat io-3	Sjabloon:Gebruiker io-3
+Royuwaay:Jëfandikukat it-3	Sjabloon:Gebruiker it-3
+Royuwaay:Jëfandikukat ja-4	Sjabloon:Gebruiker ja-4
+Royuwaay:Jëfandikukat sk	Sjabloon:Gebruiker sk
+Royuwaay:Jëfandikukat tr	Sjabloon:Gebruiker tr
+Royuwaay:Jëfandikukat ja	Sjabloon:Gebruiker ja
+Royuwaay:Jëfandikukat ja-1	Sjabloon:Gebruiker ja-1
+Royuwaay:Jëfandikukat it-1	Sjabloon:Gebruiker it-1
+Royuwaay:Jëfandikukat fr	Sjabloon:Gebruiker fr
+Wàll:Fewirie	Categorie:Februari
+Wàll:Gunóor	Categorie:Insect
+Wàll:Moldaawi	Categorie:Moldavië
+Royuwaay:HRV	Sjabloon:CRO
+Wàll:Aserbayjaan	Categorie:Azerbeidzjan
+Wàll:Asi	Categorie:Azië
+Wàll:Ciili	Categorie:Chili
+Wàll:Lesoto	Categorie:Lesotho
+Wàll:Jëfandikukat uk	Categorie:Wikipedia:Gebruiker uk
+Wàll:Jëfandikukat uk-N	Categorie:Wikipedia:Gebruiker uk-M
+Wàll:Maleesi	Categorie:Maleisië
+Wàll:Football	Categorie:Voetbal
+Royuwaay:Mod	Sjabloon:Modulo
+Royuwaay:Jëfandikukat sv	Sjabloon:Gebruiker sv
+Royuwaay:Jëfandikukat it	Sjabloon:Gebruiker it
+Royuwaay:Jëfandikukat uk	Sjabloon:Gebruiker uk
+Royuwaay:Jëfandikukat es-2	Sjabloon:Gebruiker es-2
+Wàll:Jimbulang	Categorie:Encyclopedie
+Royuwaay:Bataaxalu dalal-jàmm	Sjabloon:Hola
+Royuwaay:Weer	Sjabloon:Navigatie maanden
+Royuwaay:USA	Sjabloon:US
+Royuwaay:ITA	Sjabloon:IT
+Royuwaay:GEO	Sjabloon:GE
+Royuwaay:BOL	Sjabloon:BO
+Royuwaay:MEX	Sjabloon:MX
+Wàll:Jëfandikukat fr-1	Categorie:Wikipedia:Gebruiker fr-1
+Royuwaay:MAR	Sjabloon:MA
+Royuwaay:MDK	Sjabloon:MG
+Royuwaay:ISBN	Sjabloon:ISBN
+Royuwaay:SVK	Sjabloon:SK
+Royuwaay:EGY	Sjabloon:EG
+Royuwaay:KGZ	Sjabloon:KG
+Royuwaay:MYT	Sjabloon:YT
+Royuwaay:Infobox Réew	Sjabloon:Infobox land
+Royuwaay:Max	Sjabloon:Max
+Royuwaay:STP	Sjabloon:ST
+Royuwaay:VEN	Sjabloon:VE
+Royuwaay:UKR	Sjabloon:UA
+Royuwaay:ROU	Sjabloon:RO
+Royuwaay:TUR	Sjabloon:TUR
+Royuwaay:JBT	Sjabloon:DJ
+Wàll:Gana	Categorie:Ghana
+Wàll:Jëfandikukat en-4	Categorie:Wikipedia:Gebruiker en-4
+Wàll:Togóo	Categorie:Togo
+Wàll:Jëfandikukat en	Categorie:Wikipedia:Gebruiker en
+Wàll:Jëfandikukat zh	Categorie:Wikipedia:Gebruiker zh
+Wàll:Korwaasi	Categorie:Kroatië
+Wàll:Jëfandikukat zh-N	Categorie:Wikipedia:Gebruiker zh-M
+Wàll:Jëfandikukat en-2	Categorie:Wikipedia:Gebruiker en-2
+Royuwaay:Jëfandikukat zh	Sjabloon:Gebruiker zh
+Royuwaay:Jëfandikukat ru-4	Sjabloon:Gebruiker ru-4
+Royuwaay:Coord/URL	Sjabloon:MapsServer
+Royuwaay:Jëfandikukat nl-1	Sjabloon:Gebruiker nl-1
+Royuwaay:Jëfandikukat nl-2	Sjabloon:Gebruiker nl-2
+Wàll:Jëfandikukat hi	Categorie:Wikipedia:Gebruiker hi
+Royuwaay:Jëfandikukat ru	Sjabloon:Gebruiker ru
+Wàll:Aamerig	Categorie:Amerika
+Royuwaay:Boyutu Babel N	Sjabloon:BabelM
+Royuwaay:Boyutu Babel 1	Sjabloon:Babel1
+Royuwaay:KPW	Sjabloon:CV
+Royuwaay:Jëfandikukat pt-1	Sjabloon:Gebruiker pt-1
+Wàll:Samwie	Categorie:Januari
+Royuwaay:Jëfandikukat pl	Sjabloon:Gebruiker pl
+Royuwaay:Jëfandikukat nl	Sjabloon:Gebruiker nl
+Royuwaay:TJK	Sjabloon:TJ
+Royuwaay:Jëfandikukat no-2	Sjabloon:Gebruiker no-2
+Royuwaay:Coord	Sjabloon:Coor title dms
+Royuwaay:GAN	Sjabloon:GH
+Royuwaay:GAM	Sjabloon:GM
+Royuwaay:IDN	Sjabloon:ID
+Royuwaay:AFB	Sjabloon:ZA
+Royuwaay:CcTLD	Sjabloon:Navigatie landelijke topleveldomeinen
+Royuwaay:POL	Sjabloon:PL
+Royuwaay:BOA	Sjabloon:BW
+Royuwaay:URY	Sjabloon:UY
+Royuwaay:CUB	Sjabloon:CU
+Royuwaay:KMR	Sjabloon:CM
+Royuwaay:KOS	Sjabloon:CD
+Royuwaay:BIH	Sjabloon:BA
+Royuwaay:GIN	Sjabloon:GN
+Royuwaay:FIN	Sjabloon:FI
+Wàll:Cuub	Categorie:Schilderkunst
+Royuwaay:CAN	Sjabloon:CA
+Royuwaay:DNK	Sjabloon:DK
+Royuwaay:Jëfandikukat	Sjabloon:Gebruikerspagina
+Royuwaay:DEU	Sjabloon:DE
+Royuwaay:BEN	Sjabloon:BJ
+Royuwaay:SWE	Sjabloon:SE
+Royuwaay:Boyutu Babel 4	Sjabloon:Babel4
+Royuwaay:Jëfandikukat pl-1	Sjabloon:Gebruiker pl-1
+Royuwaay:Jëfandikukat fr-3	Sjabloon:Gebruiker fr-3
+Wàll:Tiniisi	Categorie:Tunesië
+Royuwaay:JPN	Sjabloon:JP
+Royuwaay:SOM	Sjabloon:SO
+Royuwaay:VAT	Sjabloon:VA
+Royuwaay:SWL	Sjabloon:SZ
+Wàll:Suti	Categorie:Apparatuur
+Royuwaay:ISL	Sjabloon:IS
+Royuwaay:MOR	Sjabloon:MU
+Royuwaay:COL	Sjabloon:CO
+Royuwaay:GIB	Sjabloon:GW
+Royuwaay:ERT	Sjabloon:ER
+Royuwaay:GAR	Sjabloon:MR
+Royuwaay:GAB	Sjabloon:GA
+Royuwaay:IRN	Sjabloon:IR
+Royuwaay:MAL	Sjabloon:ML
+Royuwaay:SUD	Sjabloon:SD
+Royuwaay:NAM	Sjabloon:NA
+Royuwaay:RDA	Sjabloon:CF
+Royuwaay:MKD	Sjabloon:MK
+Royuwaay:GNY	Sjabloon:GQ
+Royuwaay:KOM	Sjabloon:KM
+Royuwaay:SAM	Sjabloon:ZM
+Royuwaay:MLW	Sjabloon:MW
+Royuwaay:TAN	Sjabloon:TZ
+Royuwaay:KAZ	Sjabloon:KZ
+Royuwaay:NIS	Sjabloon:NE
+Royuwaay:KON	Sjabloon:CG
+Royuwaay:SMR	Sjabloon:SM
+Royuwaay:PER	Sjabloon:PE
+Royuwaay:MOS	Sjabloon:MZ
+Royuwaay:GUY	Sjabloon:GY
+Royuwaay:ECP	Sjabloon:ET
+Royuwaay:NIA	Sjabloon:NG
+Royuwaay:SRB	Sjabloon:RS
+Royuwaay:NIC	Sjabloon:NI
+Royuwaay:LIA	Sjabloon:LR
+Royuwaay:TKM	Sjabloon:TM
+Royuwaay:LIB	Sjabloon:LY
+Royuwaay:LES	Sjabloon:LS
+Royuwaay:BUK	Sjabloon:BF
+Royuwaay:CAD	Sjabloon:TD
+Royuwaay:PRY	Sjabloon:PY
+Royuwaay:ECU	Sjabloon:EC
+Royuwaay:SEY	Sjabloon:SC
+Royuwaay:SIR	Sjabloon:SL
+Royuwaay:LTU	Sjabloon:LT
+Royuwaay:IND	Sjabloon:IN
+Royuwaay:Jëfandikukat is-1	Sjabloon:Gebruiker is-1
+Royuwaay:Jëfandikukat en-5	Sjabloon:Gebruiker en-5
+Wàll:Poortorikoo	Categorie:Puerto Rico
+Wàll:Jëfandikukat ja-N	Categorie:Wikipedia:Gebruiker ja-M
+Wàll:Royuwaay jëfëndikookat	Categorie:Wikipedia:Sjablonen Wikipedia-gebruikers
+Royuwaay:CHE	Sjabloon:CH
+Wàll:Suwaasilaand	Categorie:Swaziland
+Wàll:Infobox	Categorie:Wikipedia:Sjablonen infobox
+Royuwaay:Jëfandikukat yi-2	Sjabloon:Gebruiker yi-2
+Royuwaay:ATG	Sjabloon:AG
+Royuwaay:GRC	Sjabloon:GR
+Royuwaay:PRT	Sjabloon:PT
+Royuwaay:SIM	Sjabloon:ZW
+Royuwaay:Jëfandikukat ksh	Sjabloon:Gebruiker ksh
+Royuwaay:CZE	Sjabloon:CZ
+Royuwaay:LVA	Sjabloon:LV
+Royuwaay:AZE	Sjabloon:AZ
+Royuwaay:MNE	Sjabloon:ME
+Royuwaay:NLD	Sjabloon:NL
+Royuwaay:GBR	Sjabloon:GB
+Royuwaay:LIE	Sjabloon:LI
+Royuwaay:MDA	Sjabloon:MD
+Royuwaay:Boyutu Babel 3	Sjabloon:Babel3
+Royuwaay:KOR	Sjabloon:KR
+Royuwaay:Jëfandikukat it-2	Sjabloon:Gebruiker it-2
+Royuwaay:SVN	Sjabloon:SI
+Royuwaay:LBN	Sjabloon:LB
+Royuwaay:FRA	Sjabloon:FR
+Wàll:Mongoli	Categorie:Mongolië
+Royuwaay:Gox	Sjabloon:Navigatie continenten en regio's van de wereld
+Royuwaay:Jëfandikukat pt-3	Sjabloon:Gebruiker pt-3
+Royuwaay:Jëfandikukat pt-2	Sjabloon:Gebruiker pt-2
+Royuwaay:Jëfandikukat lb-1	Sjabloon:Gebruiker lb-1
+Royuwaay:Jëfandikukat fr-4	Sjabloon:Gebruiker fr-4
+Royuwaay:Jëfandikukat lv	Sjabloon:Gebruiker lv
+Royuwaay:Jëfandikukat la-1	Sjabloon:Gebruiker la-1
+Wàll:Réewum Maseduwaan	Categorie:Macedonië (land)
+Wàll:Jëfandikukat sk	Categorie:Wikipedia:Gebruiker sk
+Wàll:Jëfandikukat eo	Categorie:Wikipedia:Gebruiker eo
+Wàll:Jëfandikukat et	Categorie:Wikipedia:Gebruiker et
+Wàll:Jëfandikukat fr	Categorie:Wikipedia:Gebruiker fr
+Wàll:Jëfandikukat hu-N	Categorie:Wikipedia:Gebruiker hu-M
+Wàll:Jëfandikukat id	Categorie:Wikipedia:Gebruiker id
+Wàll:Jëfandikukat ia	Categorie:Wikipedia:Gebruiker ia
+Wàll:Jëfandikukat ja	Categorie:Wikipedia:Gebruiker ja
+Wàll:Jëfandikukat la	Categorie:Wikipedia:Gebruiker la
+Wàll:Jëfandikukat li	Categorie:Wikipedia:Gebruiker li
+Wàll:Jëfandikukat pt	Categorie:Wikipedia:Gebruiker pt
+Wàll:Jëfandikukat ro	Categorie:Wikipedia:Gebruiker ro
+Wàll:Jëfandikukat sv	Categorie:Wikipedia:Gebruiker sv
+Wàll:Jëfandikukat sw	Categorie:Wikipedia:Gebruiker sw
+Wàll:Jëfandikukat vo	Categorie:Wikipedia:Gebruiker vo
+Wàll:Jëfandikukat fr-3	Categorie:Wikipedia:Gebruiker fr-3
+Wàll:Jëfandikukat it-3	Categorie:Wikipedia:Gebruiker it-3
+Wàll:Jëfandikukat da-1	Categorie:Wikipedia:Gebruiker da-1
+Wàll:Jëfandikukat et-1	Categorie:Wikipedia:Gebruiker et-1
+Wàll:Jëfandikukat hi-1	Categorie:Wikipedia:Gebruiker hi-1
+Wàll:Jëfandikukat li-1	Categorie:Wikipedia:Gebruiker li-1
+Wàll:Jëfandikukat nl-1	Categorie:Wikipedia:Gebruiker nl-1
+Wàll:Jëfandikukat pl-1	Categorie:Wikipedia:Gebruiker pl-1
+Wàll:Jëfandikukat vo-1	Categorie:Wikipedia:Gebruiker vo-1
+Wàll:Jëfandikukat ar-1	Categorie:Wikipedia:Gebruiker ar-1
+Wàll:Jëfandikukat fr-4	Categorie:Wikipedia:Gebruiker fr-4
+Wàll:Jëfandikukat it-4	Categorie:Wikipedia:Gebruiker it-4
+Wàll:Jëfandikukat ar-4	Categorie:Wikipedia:Gebruiker ar-4
+Wàll:Jëfandikukat fr-2	Categorie:Wikipedia:Gebruiker fr-2
+Wàll:Jëfandikukat ia-2	Categorie:Wikipedia:Gebruiker ia-2
+Wàll:Jëfandikukat it-2	Categorie:Wikipedia:Gebruiker it-2
+Wàll:Jëfandikukat la-2	Categorie:Wikipedia:Gebruiker la-2
+Wàll:Jëfandikukat nl-2	Categorie:Wikipedia:Gebruiker nl-2
+Wàll:Jëfandikukat cs-N	Categorie:Wikipedia:Gebruiker cs-M
+Wàll:Jëfandikukat fr-N	Categorie:Wikipedia:Gebruiker fr-M
+Wàll:Jëfandikukat it-N	Categorie:Wikipedia:Gebruiker it-M
+Wàll:Jëfandikukat lv-N	Categorie:Wikipedia:Gebruiker lv-M
+Wàll:Jëfandikukat li-N	Categorie:Wikipedia:Gebruiker li-M
+Wàll:Jëfandikukat nl-N	Categorie:Wikipedia:Gebruiker nl-M
+Wàll:Jëfandikukat ru-N	Categorie:Wikipedia:Gebruiker ru-M
+Wàll:Jëfandikukat sw-N	Categorie:Wikipedia:Gebruiker sw-M
+Wàll:Jëfandikukat fr-5	Categorie:Wikipedia:Gebruiker fr-5
+Wàll:Jëfandikukat eu-N	Categorie:Wikipedia:Gebruiker eu-M
+Wàll:Jëfandikukat af	Categorie:Wikipedia:Gebruiker af
+Wàll:Jëfandikukat af-1	Categorie:Wikipedia:Gebruiker af-1
+Wàll:Jëfandikukat ar	Categorie:Wikipedia:Gebruiker ar
+Wàll:Jëfandikukat bm	Categorie:Wikipedia:Gebruiker bm
+Wàll:Jëfandikukat bm-1	Categorie:Wikipedia:Gebruiker bm-1
+Wàll:Jëfandikukat ca	Categorie:Wikipedia:Gebruiker ca
+Wàll:Jëfandikukat cs	Categorie:Wikipedia:Gebruiker cs
+Wàll:Jëfandikukat da	Categorie:Wikipedia:Gebruiker da
+Wàll:Jëfandikukat sk-N	Categorie:Wikipedia:Gebruiker sk-M
+Wàll:Jëfandikukat de	Categorie:Wikipedia:Gebruiker de
+Wàll:Jëfandikukat de-2	Categorie:Wikipedia:Gebruiker de-2
+Wàll:Jëfandikukat de-3	Categorie:Wikipedia:Gebruiker de-3
+Wàll:Jëfandikukat de-4	Categorie:Wikipedia:Gebruiker de-4
+Wàll:Jëfandikukat de-N	Categorie:Wikipedia:Gebruiker de-M
+Wàll:Jëfandikukat el	Categorie:Wikipedia:Gebruiker el
+Wàll:Jëfandikukat el-1	Categorie:Wikipedia:Gebruiker el-1
+Wàll:Jëfandikukat en-3	Categorie:Wikipedia:Gebruiker en-3
+Wàll:Jëfandikukat en-5	Categorie:Wikipedia:Gebruiker en-5
+Wàll:Jëfandikukat en-N	Categorie:Wikipedia:Gebruiker en-M
+Wàll:Jëfandikukat eo-1	Categorie:Wikipedia:Gebruiker eo-1
+Wàll:Jëfandikukat eo-2	Categorie:Wikipedia:Gebruiker eo-2
+Wàll:Jëfandikukat eo-3	Categorie:Wikipedia:Gebruiker eo-3
+Wàll:Jëfandikukat es	Categorie:Wikipedia:Gebruiker es
+Wàll:Jëfandikukat es-1	Categorie:Wikipedia:Gebruiker es-1
+Wàll:Jëfandikukat es-2	Categorie:Wikipedia:Gebruiker es-2
+Wàll:Jëfandikukat es-3	Categorie:Wikipedia:Gebruiker es-3
+Wàll:Jëfandikukat es-4	Categorie:Wikipedia:Gebruiker es-4
+Wàll:Jëfandikukat es-N	Categorie:Wikipedia:Gebruiker es-M
+Wàll:Jëfandikukat eu	Categorie:Wikipedia:Gebruiker eu
+Wàll:Jëfandikukat fi	Categorie:Wikipedia:Gebruiker fi
+Wàll:Jëfandikukat fi-N	Categorie:Wikipedia:Gebruiker fi-M
+Wàll:Jëfandikukat hu	Categorie:Wikipedia:Gebruiker hu
+Wàll:Jëfandikukat id-3	Categorie:Wikipedia:Gebruiker id-3
+Wàll:Jëfandikukat io	Categorie:Wikipedia:Gebruiker io
+Wàll:Jëfandikukat io-1	Categorie:Wikipedia:Gebruiker io-1
+Wàll:Jëfandikukat io-3	Categorie:Wikipedia:Gebruiker io-3
+Wàll:Jëfandikukat is	Categorie:Wikipedia:Gebruiker is
+Wàll:Jëfandikukat is-1	Categorie:Wikipedia:Gebruiker is-1
+Royuwaay:Jëfandikukat la-3	Sjabloon:Gebruiker la-3
+Wàll:Jëfandikukat pt-3	Categorie:Wikipedia:Gebruiker pt-3
+Wàll:Yonenti Lislaam	Categorie:Profeet uit de Koran
+Wàll:Jëfandikukat pl-N	Categorie:Wikipedia:Gebruiker pl-M
+Wàll:Jëfandikukat pt-1	Categorie:Wikipedia:Gebruiker pt-1
+Wàll:Jëfandikukat ka-1	Categorie:Wikipedia:Gebruiker ka-1
+Wàll:Jëfandikukat it	Categorie:Wikipedia:Gebruiker it
+Wàll:Jëfandikukat it-1	Categorie:Wikipedia:Gebruiker it-1
+Wàll:Jëfandikukat ja-1	Categorie:Wikipedia:Gebruiker ja-1
+Wàll:Jëfandikukat ka	Categorie:Wikipedia:Gebruiker ka
+Wàll:Jëfandikukat ko	Categorie:Wikipedia:Gebruiker ko
+Wàll:Jëfandikukat ko-3	Categorie:Wikipedia:Gebruiker ko-3
+Wàll:Jëfandikukat ksh	Categorie:Wikipedia:Gebruiker ksh
+Wàll:Jëfandikukat ksh-N	Categorie:Wikipedia:Gebruiker ksh-M
+Wàll:Jëfandikukat la-1	Categorie:Wikipedia:Gebruiker la-1
+Wàll:Jëfandikukat la-3	Categorie:Wikipedia:Gebruiker la-3
+Wàll:Jëfandikukat lb	Categorie:Wikipedia:Gebruiker lb
+Wàll:Jëfandikukat lb-1	Categorie:Wikipedia:Gebruiker lb-1
+Royuwaay:NOR	Sjabloon:NO
+Royuwaay:BRA	Sjabloon:BR
+Wàll:Nowembar	Categorie:November
+Wàll:Jëfandikukat ru-1	Categorie:Wikipedia:Gebruiker ru-1
+Royuwaay:Jëfandikukat sv-1	Sjabloon:Gebruiker sv-1
+Wàll:Maars	Categorie:Maart
+Wàll:Sattumbar	Categorie:September
+Wàll:Jëfandikukat lv	Categorie:Wikipedia:Gebruiker lv
+Royuwaay:TNI	Sjabloon:TN
+Wàll:Oktoobar	Categorie:Oktober
+Royuwaay:Boyutu Babel 2	Sjabloon:Babel2
+Wàll:Xam-xamu nosukaay	Categorie:Informatiewetenschap
+Wàll:Géej	Categorie:Zee
+Wàll:Disambar	Categorie:December
+Wàll:Ut	Categorie:Augustus
+Wàll:Mee	Categorie:Mei
+Wàll:Awril	Categorie:April
+Wàll:Angila	Categorie:Anguilla
+Royuwaay:LUX	Sjabloon:LU
+Wàll:Endustri	Categorie:Industrie
+Wàll:Ndox	Categorie:Water
+Wàll:Taariixu Aamerig	Categorie:Geschiedenis van Amerika
+Bunt:Diine	Portaal:Religie
+Wàll:Belaarus	Categorie:Wit-Rusland
+Royuwaay:MCO	Sjabloon:MC
+Royuwaay:Jëfandikukat pt-4	Sjabloon:Gebruiker pt-4
+Royuwaay:Jëfandikukat cs	Sjabloon:Gebruiker cs
+Royuwaay:Jëfandikukat ru-2	Sjabloon:Gebruiker ru-2
+Royuwaay:Jëfandikukat es-3	Sjabloon:Gebruiker es-3
+Royuwaay:Jëfandikukat ko-3	Sjabloon:Gebruiker ko-3
+Wàll:Jëfandikukat pt-2	Categorie:Wikipedia:Gebruiker pt-2
+Wàll:Jëfandikukat pt-4	Categorie:Wikipedia:Gebruiker pt-4
+Wàll:Jëfandikukat pt-N	Categorie:Wikipedia:Gebruiker pt-M
+Wàll:Jëfandikukat ro-2	Categorie:Wikipedia:Gebruiker ro-2
+Wàll:Jëfandikukat ru	Categorie:Wikipedia:Gebruiker ru
+Wàll:Jëfandikukat ru-2	Categorie:Wikipedia:Gebruiker ru-2
+Wàll:Jëfandikukat ru-4	Categorie:Wikipedia:Gebruiker ru-4
+Wàll:Jëfandikukat sk-1	Categorie:Wikipedia:Gebruiker sk-1
+Wàll:Jëfandikukat sv-1	Categorie:Wikipedia:Gebruiker sv-1
+Wàll:Jëfandikukat sv-N	Categorie:Wikipedia:Gebruiker sv-M
+Wàll:Jëfandikukat tr	Categorie:Wikipedia:Gebruiker tr
+Wàll:Jëfandikukat tr-N	Categorie:Wikipedia:Gebruiker tr-M
+Wàll:Jëfandikukat yi	Categorie:Wikipedia:Gebruiker yi
+Wàll:Jëfandikukat yi-2	Categorie:Wikipedia:Gebruiker yi-2
+Royuwaay:IRL	Sjabloon:IE
+Royuwaay:ALB	Sjabloon:AL
+Royuwaay:AND	Sjabloon:AD
+Royuwaay:ARG	Sjabloon:AR
+Royuwaay:ARM	Sjabloon:AM
+Royuwaay:Jëfandikukat ca	Sjabloon:Gebruiker ca
+Royuwaay:BUR	Sjabloon:BI
+Royuwaay:BGR	Sjabloon:BG
+Royuwaay:BHS	Sjabloon:BS
+Royuwaay:BLR	Sjabloon:BY
+Royuwaay:KOD	Sjabloon:CI
+Royuwaay:CYP	Sjabloon:CY
+Wàll:Melosuufug Tugal	Categorie:Geografie van Europa
+Royuwaay:Xóotal	Sjabloon:Zie hoofdartikel
+Royuwaay:EST	Sjabloon:EE
+Royuwaay:RUS	Sjabloon:RU
+Royuwaay:TOG	Sjabloon:TG
+Royuwaay:AUT	Sjabloon:AT
+Royuwaay:CHL	Sjabloon:CL
+Royuwaay:CHN	Sjabloon:CN
+Wàll:Angolaa	Categorie:Angola
+Wàll:Bene	Categorie:Benin
+Wàll:Botswana	Categorie:Botswana
+Wàll:Burkinaa Faaso	Categorie:Burkina Faso
+Wàll:Buruundi	Categorie:Burundi
+Wàll:Jibuti	Categorie:Djibouti
+Wàll:Gineg yamoo	Categorie:Equatoriaal-Guinea
+Wàll:Eritere	Categorie:Eritrea
+Wàll:Gaboŋ	Categorie:Gabon
+Wàll:Gàmbi	Categorie:Gambia
+Wàll:Kamerun	Categorie:Kameroen
+Wàll:Keeñaa	Categorie:Kenia
+Wàll:Komoor	Categorie:Comoren
+Wàll:Libi	Categorie:Libië
+Wàll:Madagaskaar	Categorie:Madagaskar
+Wàll:Malawi	Categorie:Malawi
+Wàll:Marok	Categorie:Marokko
+Wàll:Gànnaar	Categorie:Mauritanië
+Wàll:Mosambik	Categorie:Mozambique
+Wàll:Namibi	Categorie:Namibië
+Wàll:Ruwandaa	Categorie:Rwanda
+Royuwaay:IRQ	Sjabloon:IQ
+Wàll:Taariixu senegaal	Categorie:Geschiedenis van Senegal
+Wàll:Diiney Senegaal	Categorie:Religie in Senegal
+Wàll:Melosuufug Afrig gu Bëj-saalum	Categorie:Geografie van Zuid-Afrika
+Royuwaay:Jëfandikukat ar-4	Sjabloon:Gebruiker ar-4
+Wàll:Melosuufug Alseeri	Categorie:Geografie van Algerije
+Royuwaay:Jëfandikukat la-2	Sjabloon:Gebruiker la-2
+Royuwaay:Jëfandikukat li-1	Sjabloon:Gebruiker li-1
+Royuwaay:Jëfandikukat pt	Sjabloon:Gebruiker pt
+Royuwaay:Jëfandikukat ro-2	Sjabloon:Gebruiker ro-2
+Royuwaay:Jëfandikukat ru-1	Sjabloon:Gebruiker ru-1
+Royuwaay:Jëfandikukat sk-1	Sjabloon:Gebruiker sk-1
+Royuwaay:Jëfandikukat zh-1	Sjabloon:Gebruiker zh-1
+Royuwaay:Jëfandikukat zh-2	Sjabloon:Gebruiker zh-2
+Royuwaay:Jëfandikukat zh-4	Sjabloon:Gebruiker zh-4
+Wàll:Saambi	Categorie:Zambia
+Wàll:Senegaal	Categorie:Senegal
+Wàll:Seysel	Categorie:Seychellen
+Wàll:Simbaawee	Categorie:Zimbabwe
+Wàll:Melosuufug Kamerun	Categorie:Geografie van Kameroen
+Wàll:Somali	Categorie:Somalië
+Wàll:Cadd	Categorie:Tsjaad
+Wàll:Ugandaa	Categorie:Oeganda
+Wàll:Réewum Diggu Afrig	Categorie:Centraal-Afrikaanse Republiek
+Wàll:Filipiin	Categorie:Filipijnen
+Wàll:Jëfandikukat nl	Categorie:Wikipedia:Gebruiker nl
+Wàll:Jëfandikukat no-2	Categorie:Wikipedia:Gebruiker no-2
+Wàll:Jëfandikukat no	Categorie:Wikipedia:Gebruiker no
+Wàll:Jëfandikukat zh-1	Categorie:Wikipedia:Gebruiker zh-1
+Wàll:Jëfandikukat zh-4	Categorie:Wikipedia:Gebruiker zh-4
+Wàll:Jëfandikukat zh-2	Categorie:Wikipedia:Gebruiker zh-2
+Wàll:Doolerandu	Categorie:Mechanica
+Wàll:Armeeni	Categorie:Armenië
+Wàll:Bahrayni	Categorie:Bahrein
+Wàll:Siri	Categorie:Syrië
+Wàll:Melosuufug Senegaal	Categorie:Geografie van Senegal
+Wàll:Jeoorji	Categorie:Georgië
+Wàll:Jamayka	Categorie:Jamaica
+Wàll:Kataar	Categorie:Qatar
+Wàll:Maldiif	Categorie:Maldiven
+Wàll:Nepaal	Categorie:Nepal
+Wàll:Omaan	Categorie:Oman
+Wàll:Usbekistaan	Categorie:Oezbekistan
+Wàll:Taariixu Tugal	Categorie:Geschiedenis van Europa
+Wàll:San Marino	Categorie:San Marino
+Wàll:Jordaani	Categorie:Jordanië
+Wàll:Nikaraaguwa	Categorie:Nicaragua
+Wàll:Bosni	Categorie:Bosnië en Herzegovina
+Wàll:Noorwees	Categorie:Noorwegen
+Wàll:Paraguwaay	Categorie:Paraguay
+Wàll:Liechtenstein	Categorie:Liechtenstein
+Wàll:Onduras	Categorie:Honduras
+Wàll:Uruguwaay	Categorie:Uruguay
+Wàll:Andoor	Categorie:Andorra
+Wàll:Seerbi	Categorie:Servië
+Wàll:Salbadoor	Categorie:El Salvador
+Wàll:Ayiti	Categorie:Haïti
+Wàll:Ekwadoor	Categorie:Ecuador
+Wàll:Yaman	Categorie:Jemen
+Wàll:Peru	Categorie:Peru
+Wàll:Boliibi	Categorie:Bolivia
+Wàll:Albaani	Categorie:Albanië
+Wàll:Monaako	Categorie:Monaco
+Wàll:Jén	Categorie:Vis
+Wàll:Làkki Afrig	Categorie:Taal in Afrika
+Wàll:Dëkki Benesuwela	Categorie:Stad in Venezuela
+Royuwaay:ESP	Sjabloon:ES
+Wàll:Rab	Categorie:Dierenrijk
+Wàll:Nauru	Categorie:Nauru
+Wàll:Antigua ak Barbuda	Categorie:Antigua en Barbuda
+Wàll:Guyaana	Categorie:Guyana
+Wàll:Koloombi	Categorie:Colombia
+Wàll:Hip Hop	Categorie:Hiphop
+Wàll:Alxuraan	Categorie:Koran
+Wàll:Mbëj	Categorie:Elektriciteit
+Wàll:Jëfandikukat pl	Categorie:Wikipedia:Gebruiker pl
+Wàll:Weeri wolof	Categorie:Islamitische kalender
+Wàll:Oseyaani	Categorie:Oceanië
+Wàll:Montenegro	Categorie:Montenegro
+Wàll:Moto	Categorie:Vervoermiddel
+Wàll:Dëkki Senegaal	Categorie:Plaats in Senegal
+Wàll:Làkki senegaal	Categorie:Taal in Senegal
+Wàll:Adduna	Categorie:Wereld
+Ngelaw	Lucht
+Royuwaay:UGA	Sjabloon:UG
+Royuwaay:UZB	Sjabloon:UZ
+Trojany	Trojany (Mazovië)
+Wàll:Njiiti Senegaal	Categorie:President van Senegal
+Royuwaay:Jëfandikukat sw	Sjabloon:Gebruiker sw
+Royuwaay:Jëfandikukat it-4	Sjabloon:Gebruiker it-4
+Royuwaay:Jëfandikukat io-1	Sjabloon:Gebruiker io-1
+Royuwaay:RUW	Sjabloon:RW
+Royuwaay:MLT	Sjabloon:MT
+Royuwaay:Kña	Sjabloon:KE
+Royuwaay:JAM	Sjabloon:JM
+Wàll:Wallis ak Futuna	Categorie:Wallis en Futuna
+Wàll:Bés	Categorie:Dag
+Wàll:Mbëjbijjaakon	Categorie:Elektromagnetisme
+Wàll:Kàttan	Categorie:Energie
+Wàll:Waañ	Categorie:Keuken
+Royuwaay:MNG	Sjabloon:MN
+Royuwaay:BEL	Sjabloon:BE
+Wàll:Melo	Categorie:Kleur
+Wàll:Jamono	Categorie:Tijdseenheid
+Wàll:Nit ñi ci Téere Linjiil	Categorie:Persoon uit het Nieuwe Testament
+Wàll:Làkki Niseer-Cóngoo	Categorie:Niger-Congo-taalfamilie
+Wàll:Njëkk-taariix	Categorie:Prehistorie
+Wàll:Saari alxuraan	Categorie:Soera
+Wàll:Jëfandikukat nl-0	Categorie:Wikipedia:Gebruiker nl-0
+Royuwaay:HUN	Sjabloon:HU
+Wàll:Jëfandikukat en-1	Categorie:Wikipedia:Gebruiker en-1
+Wàll:Jëfandikukat de-1	Categorie:Wikipedia:Gebruiker de-1
+Wàll:Jëfandikukat da-N	Categorie:Wikipedia:Gebruiker da-M
+Wàll:Taariixu Afrig	Categorie:Geschiedenis van Afrika
+Royuwaay:Jëfandikukat li	Sjabloon:Gebruiker li
+Fajar	Dageraad
+Tan	Aegypiinae
+Royuwaay:Style/IPA	Sjabloon:Style/IPA
+Royuwaay:Style/yid	Sjabloon:Style/yid
+Coreca	Coreca
+Jagleel:Coppite yu mujj	Speciaal:RecenteWijzigingen
+Wàll:Jëfandikukat ja-4	Categorie:Wikipedia:Gebruiker ja-4

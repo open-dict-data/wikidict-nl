@@ -1,0 +1,5417 @@
+非洲	Afrika
+日本	Japan
+南美洲	Zuid-Amerika
+挪威	Noorwegen
+愛爾蘭	Ierland (land)
+西班牙	Spanje
+美國	Verenigde Staten
+地球	Aarde (planeet)
+過世	Dood
+人	Mens
+幸福	Geluk (emotie)
+喬治·華盛頓	George Washington
+芬蘭	Finland
+瑞典	Zweden
+丹麥	Denemarken
+波蘭	Polen
+意大利	Italië
+希臘	Griekenland
+土耳其	Turkije
+啤酒	Bier
+歐洲	Europa (werelddeel)
+亞洲	Azië
+北美洲	Noord-Amerika
+南極洲	Antarctica
+維基百科	Wikipedia
+荷蘭	Nederland
+卵	Penis
+紐約市	New York City
+華盛頓哥倫比亞特區	Washington D.C.
+舊金山	San Francisco
+柏林	Berlijn
+洛杉磯	Los Angeles
+電腦	Computer
+互聯網	Internet
+奧巴馬	Barack Obama
+倫敦	Londen
+蘋果	Appel (plant)
+巴黎	Parijs
+亞伯拉罕·林肯	Abraham Lincoln
+Google	Google Inc.
+墨西哥	Mexico (land)
+大西洋	Atlantische Oceaan
+太平洋	Grote Oceaan
+加利福尼亞州	Californië
+波士頓	Boston
+禮拜一	Maandag
+一月	Januari
+二月	Februari
+三月	Maart
+火星	Mars (planeet)
+埃塞俄比亞	Ethiopië
+4月	April
+5月	Mei
+六月	Juni
+七月	Juli
+八月	Augustus (maand)
+九月	September
+十月	Oktober
+十一月	November
+十二月	December
+禮拜二	Dinsdag
+禮拜三	Woensdag
+禮拜四	Donderdag
+禮拜五	Vrijdag
+禮拜六	Zaterdag
+禮拜天	Zondag
+法國	Frankrijk
+狗	Hond
+英國	Verenigd Koninkrijk
+貓	Kat (dier)
+中華人民共和國	Volksrepubliek China
+法語	Frans
+魚	Vissen (dieren)
+酒	Alcoholische drank
+巴西	Brazilië
+俄羅斯	Rusland
+方形	Vierkant (meetkunde)
+海	Zee
+黑海	Zwarte Zee
+圓周率	Pi (wiskunde)
+阿拉巴馬州	Alabama
+聖保羅	São Paulo (stad)
+德國	Duitsland
+德語	Duits
+土星	Saturnus (planeet)
+飛行器	Vliegtuig
+打仗	Oorlog
+1	1 (getal)
+2	2 (getal)
+3	3 (getal)
+4	4 (getal)
+5	5 (getal)
+無限	Oneindigheid
+烏克蘭	Oekraïne
+羅馬	Rome (stad)
+克罗地亚	Kroatië
+古巴	Cuba (land)
+印度尼西亞	Indonesië
+莫扎特	Wolfgang Amadeus Mozart
+貝多芬	Ludwig van Beethoven
+南非	Zuid-Afrika
+維基文庫	Wikisource
+葡萄酒	Wijn
+水	Water
+木	Hout
+電視	Televisie
+冰島語	IJslands
+摩內	Claude Monet
+韋拿克	Diego Velázquez (kunstschilder)
+智利	Chili
+耶穌	Jezus (traditioneel-christelijk)
+貓王	Elvis Presley
+伽利略	Galileo Galilei
+水星	Mercurius (planeet)
+歷史	Geschiedenis
+金星	Venus (planeet)
+語言	Taal
+愛	Liefde
+木星	Jupiter (planeet)
+天王星	Uranus (planeet)
+海王星	Neptunus (planeet)
+天文學	Astronomie
+新加坡	Singapore
+科學	Wetenschap
+運動	Sport
+希特勒	Adolf Hitler
+Facebook	Facebook
+第一次世界大戰	Eerste Wereldoorlog
+第二次世界大戰	Tweede Wereldoorlog
+鐘	Klok (tijd)
+數學	Wiskunde
+拉丁語	Latijn
+月光	Maan
+伊斯坦布爾	Istanboel
+澳大利亞	Australië (land)
+物理學	Natuurkunde
+阿根廷	Argentinië
+電信	Telecommunicatie
+朝鮮民主主義人民共和國	Noord-Korea
+柬埔寨	Cambodja
+恐龍	Dinosauriërs
+駄	Wiel (voortbeweging)
+狄德羅	Denis Diderot
+心智	Geest
+萬維網	Wereldwijd web
+女人	Vrouw
+詩	Poëzie
+脇胛	Oksel
+檸檬	Citroen (vrucht)
+香蕉	Banaan (vrucht)
+666年	666
+花	Bloem (plant)
+珠穆朗瑪峰	Mount Everest
+城市	Stad
+拿破崙	Napoleon Bonaparte
+太陽	Zon
+光年	Lichtjaar
+雨果	Victor Hugo
+大洋洲	Oceanië
+田徑	Atletiek
+太陽系	Zonnestelsel
+地獄	Hel (mythologie)
+書	Boek (document)
+日	Dag
+年	Jaar
+哥白尼	Nicolaas Copernicus
+可利俄捌拿七世	Cleopatra VII
+音樂	Muziek
+莫斯科	Moskou
+意大利語	Italiaans (taal)
+北	Noord (windstreek)
+南	Zuid
+印度	India
+散文	Proza
+鐵	IJzer (element)
+西	West
+東	Oost (windstreek)
+莫里哀	Molière (schrijver)
+莎士比亞	William Shakespeare
+國際象棋	Schaken
+成吉思汗	Dzjengis Khan
+馬	Paard (dier)
+武器	Gevechtswapen
+動物	Dierenrijk
+藝術	Kunst
+哥倫比亞	Colombia
+佛教	Boeddhisme
+植物	Planten
+達芬奇	Leonardo da Vinci
+雞	Kip (vogel)
+北冰洋	Noordelijke IJszee
+伊朗	Iran
+伊拉克	Irak
+阿拉斯加州	Alaska
+以色列	Israël
+亞利桑那州	Arizona (staat)
+老撾	Laos
+美洲	Amerika (continent)
+馬來西亞	Maleisië
+緬甸	Myanmar
+巴基斯坦	Pakistan
+網球	Tennis
+沙特阿拉伯	Saoedi-Arabië
+斯大林	Jozef Stalin
+柏拉圖	Plato
+中華民國	Taiwan
+亞里斯多德	Aristoteles
+泰國	Thailand
+火車	Trein
+無線電	Radio
+越南	Vietnam
+韓國	Zuid-Korea
+金	Goud
+蘇伊士運河	Suezkanaal
+孟加拉	Bangladesh
+卡夫卡	Franz Kafka
+蘇格拉底	Socrates (filosoof)
+羅德·阿門森	Roald Amundsen
+菲律賓	Filipijnen
+南極點	Zuidpool
+北極點	Noordpool
+牛頓	Isaac Newton
+愛因斯坦	Albert Einstein
+黃	Geel (kleur)
+北京	Peking
+剛果民主共和國	Congo-Kinshasa
+聖安東尼奧 (德克薩斯州)	San Antonio (Texas)
+多托頁夫斯基	Fjodor Dostojevski
+毛伢子	Baby
+甘地	Mohandas Karamchand Gandhi
+人骨子頭畫	Stripverhaal
+尼日利亞	Nigeria
+達爾文	Charles Darwin
+卡爾·林奈	Carolus Linnaeus
+凱撒大帝	Julius Caesar
+聯合國	Verenigde Naties
+但丁	Dante Alighieri
+地理學	Aardrijkskunde
+色	Kleur
+藍	Blauw (kleur)
+銀	Zilver
+電	Elektrische lading
+耶路撒冷	Jeruzalem
+印度洋	Indische Oceaan
+科索沃	Kosovo
+蕭邦	Frédéric Chopin
+分類:總類	Categorie:Alles
+阿爾卑斯山	Alpen
+帕斯卡	Blaise Pascal
+西洋跳棋	Dammen
+芝加哥	Chicago
+披頭士	The Beatles
+西班牙語	Spaans
+巴赫	Johann Sebastian Bach
+歌劇	Opera (muziek)
+費城	Philadelphia (Pennsylvania)
+德里	Delhi (stad)
+水果	Vrucht (plant)
+錢	Geld
+列寧	Vladimir Lenin
+衛吉	Vergilius
+屋大維	Imperator Caesar Augustus
+汽車	Auto
+東京	Tokio
+麥哲倫	Ferdinand Magellaan
+華格納	Richard Wagner
+雅典	Athene (stad)
+世界標準時間	UTC
+印地語	Hindi
+阿肯色州	Arkansas (staat)
+韻文	Vers (gedicht)
+瑪當娜	Madonna (zangeres)
+路易·暗式將	Louis Armstrong
+法蘭克福	Frankfurt am Main
+聖經	Bijbel (christendom)
+胡志明市	Ho Chi Minhstad
+真耶穌教會	Ware Jezuskerk
+英語	Engels
+同海市	Đồng Hới
+孔斯科沃拉	Końskowola
+2000年	2000
+2003年	2003
+2002年	2002
+2001年	2001
+2012年	2012
+2011年	2011
+2010年	2010
+2009年	2009
+2013年	2013
+2014年	2014
+2015年	2015
+2008年	2008
+2004年	2004
+2005年	2005
+2006年	2006
+2007年	2007
+1900年	1900
+1901年	1901
+戴高樂	Charles de Gaulle
+1902年	1902
+1903年	1903
+1904年	1904
+1905年	1905
+1907年	1907
+1906年	1906
+1908年	1908
+1909年	1909
+1992年	1992
+1991年	1991
+1990年	1990
+1993年	1993
+1994年	1994
+1995年	1995
+1996年	1996
+1910年	1910
+1911年	1911
+1912年	1912
+1913年	1913
+1914年	1914
+1915年	1915
+1916年	1916
+1997年	1997
+1998年	1998
+1999年	1999
+1917年	1917
+1918年	1918
+喫嗰	Voedsel
+1月1號	1 januari
+1月2號	2 januari
+1920年	1920
+1月3號	3 januari
+1919年	1919
+1921年	1921
+1922年	1922
+1月4號	4 januari
+1923年	1923
+1924年	1924
+1月5號	5 januari
+1月6號	6 januari
+1月7號	7 januari
+1月8號	8 januari
+1月9號	9 januari
+1月10號	10 januari
+1月11號	11 januari
+1月12號	12 januari
+1月13號	13 januari
+1月14號	14 januari
+1月15號	15 januari
+1月16號	16 januari
+1月17號	17 januari
+1月18號	18 januari
+1月19號	19 januari
+1月20號	20 januari
+工業革命	Industriële revolutie
+1月21號	21 januari
+1月22號	22 januari
+1月23號	23 januari
+羅馬帝國	Romeinse Keizerrijk
+1月24號	24 januari
+1月25號	25 januari
+1月26號	26 januari
+微軟	Microsoft
+1月27號	27 januari
+1月28號	28 januari
+1月29號	29 januari
+1月30號	30 januari
+1月31號	31 januari
+12月2號	2 december
+12月1號	1 december
+12月3號	3 december
+12月7號	7 december
+12月5號	5 december
+12月8號	8 december
+12月10號	10 december
+12月6號	6 december
+12月9號	9 december
+12月4號	4 december
+2月1號	1 februari
+2月2號	2 februari
+2月3號	3 februari
+庫魯夫市	Kurów (powiat Puławski)
+2月4號	4 februari
+2月5號	5 februari
+2月6號	6 februari
+2月7號	7 februari
+2月8號	8 februari
+2月9號	9 februari
+2月10號	10 februari
+化學	Scheikunde
+2月14號	14 februari
+2月13號	13 februari
+2月15號	15 februari
+2月11號	11 februari
+2月12號	12 februari
+2月19號	19 februari
+2月17號	17 februari
+2月16號	16 februari
+2月18號	18 februari
+2月20號	20 februari
+2月21號	21 februari
+2月22號	22 februari
+2月23號	23 februari
+2月24號	24 februari
+2月25號	25 februari
+2月26號	26 februari
+27年	27
+2月27號	27 februari
+2月28號	28 februari
+12月11號	11 december
+2月29號	29 februari
+12月12號	12 december
+12月13號	13 december
+12月14號	14 december
+12月15號	15 december
+3月2號	2 maart
+3月3號	3 maart
+3月5號	5 maart
+3月1號	1 maart
+3月7號	7 maart
+3月8號	8 maart
+3月4號	4 maart
+3月10號	10 maart
+3月11號	11 maart
+3月6號	6 maart
+3月13號	13 maart
+3月9號	9 maart
+3月12號	12 maart
+3月15號	15 maart
+3月14號	14 maart
+C++	C++
+12月16號	16 december
+12月17號	17 december
+3月16號	16 maart
+3月17號	17 maart
+3月18號	18 maart
+3月19號	19 maart
+1989年	1989
+1988年	1988
+3月20號	20 maart
+1987年	1987
+1986年	1986
+1985年	1985
+1984年	1984
+3月21號	21 maart
+1983年	1983
+3月22號	22 maart
+1982年	1982
+1981年	1981
+12月18號	18 december
+1980年	1980
+3月23號	23 maart
+12月19號	19 december
+3月24號	24 maart
+3月25號	25 maart
+12月20號	20 december
+3月26號	26 maart
+3月27號	27 maart
+3月28號	28 maart
+3月29號	29 maart
+3月30號	30 maart
+3月31號	31 maart
+1970年	1970
+1971年	1971
+1972年	1972
+1973年	1973
+1974年	1974
+1975年	1975
+1976年	1976
+1977年	1977
+1978年	1978
+1979年	1979
+1969年	1969
+4月15號	15 april
+4月13號	13 april
+4月12號	12 april
+4月14號	14 april
+4月11號	11 april
+4月10號	10 april
+4月8號	8 april
+4月9號	9 april
+4月7號	7 april
+4月6號	6 april
+4月5號	5 april
+4月4號	4 april
+4月3號	3 april
+4月1號	1 april
+4月2號	2 april
+夏寶太空望遠鏡	Ruimtetelescoop Hubble
+4月16號	16 april
+4月17號	17 april
+4月18號	18 april
+4月19號	19 april
+4月20號	20 april
+4月21號	21 april
+4月22號	22 april
+4月23號	23 april
+4月24號	24 april
+4月25號	25 april
+4月26號	26 april
+4月27號	27 april
+4月28號	28 april
+4月29號	29 april
+4月30號	30 april
+天然衛星	Natuurlijke maan
+5月1號	1 mei
+5月2號	2 mei
+5月3號	3 mei
+5月4號	4 mei
+5月5號	5 mei
+5月6號	6 mei
+5月7號	7 mei
+5月8號	8 mei
+5月9號	9 mei
+5月10號	10 mei
+5月11號	11 mei
+5月12號	12 mei
+5月13號	13 mei
+5月14號	14 mei
+5月15號	15 mei
+5月16號	16 mei
+5月17號	17 mei
+5月18號	18 mei
+5月19號	19 mei
+5月20號	20 mei
+5月21號	21 mei
+5月22號	22 mei
+5月23號	23 mei
+5月24號	24 mei
+5月25號	25 mei
+5月26號	26 mei
+5月27號	27 mei
+5月28號	28 mei
+5月29號	29 mei
+5月30號	30 mei
+5月31號	31 mei
+12月21號	21 december
+6月14號	14 juni
+6月15號	15 juni
+6月13號	13 juni
+6月10號	10 juni
+6月7號	7 juni
+6月11號	11 juni
+6月9號	9 juni
+6月12號	12 juni
+6月6號	6 juni
+6月8號	8 juni
+6月5號	5 juni
+6月3號	3 juni
+6月2號	2 juni
+6月1號	1 juni
+6月4號	4 juni
+12月22號	22 december
+1968年	1968
+1967年	1967
+1966年	1966
+1965年	1965
+1964年	1964
+6月16號	16 juni
+6月30號	30 juni
+6月29號	29 juni
+6月28號	28 juni
+6月26號	26 juni
+6月25號	25 juni
+6月22號	22 juni
+6月27號	27 juni
+6月24號	24 juni
+6月20號	20 juni
+6月23號	23 juni
+6月19號	19 juni
+6月18號	18 juni
+6月21號	21 juni
+6月17號	17 juni
+12月23號	23 december
+7月15號	15 juli
+7月13號	13 juli
+7月12號	12 juli
+7月10號	10 juli
+7月9號	9 juli
+7月14號	14 juli
+7月8號	8 juli
+7月7號	7 juli
+7月6號	6 juli
+7月5號	5 juli
+7月2號	2 juli
+7月4號	4 juli
+7月3號	3 juli
+7月1號	1 juli
+7月11號	11 juli
+12月24號	24 december
+7月31號	31 juli
+7月30號	30 juli
+7月29號	29 juli
+7月28號	28 juli
+7月27號	27 juli
+7月25號	25 juli
+7月24號	24 juli
+7月23號	23 juli
+7月26號	26 juli
+7月22號	22 juli
+7月19號	19 juli
+7月21號	21 juli
+7月20號	20 juli
+7月17號	17 juli
+7月18號	18 juli
+7月16號	16 juli
+腳球	Voetbal
+音樂劇	Musical
+12月25號	25 december
+1963年	1963
+12月26號	26 december
+1962年	1962
+8月14號	14 augustus
+8月15號	15 augustus
+8月13號	13 augustus
+8月12號	12 augustus
+8月11號	11 augustus
+8月10號	10 augustus
+8月8號	8 augustus
+8月7號	7 augustus
+8月9號	9 augustus
+8月5號	5 augustus
+8月4號	4 augustus
+8月2號	2 augustus
+8月3號	3 augustus
+8月6號	6 augustus
+8月1號	1 augustus
+12月27號	27 december
+潛水艇	Onderzeeboot
+8月16號	16 augustus
+8月29號	29 augustus
+8月28號	28 augustus
+8月30號	30 augustus
+8月25號	25 augustus
+8月26號	26 augustus
+8月23號	23 augustus
+8月27號	27 augustus
+8月21號	21 augustus
+8月20號	20 augustus
+8月24號	24 augustus
+8月18號	18 augustus
+8月17號	17 augustus
+8月22號	22 augustus
+8月19號	19 augustus
+8月31號	31 augustus
+麥可·傑克遜	Michael Jackson
+12月28號	28 december
+9月15號	15 september
+9月14號	14 september
+9月13號	13 september
+9月12號	12 september
+9月8號	8 september
+9月11號	11 september
+9月7號	7 september
+9月10號	10 september
+9月5號	5 september
+9月4號	4 september
+9月9號	9 september
+9月2號	2 september
+9月6號	6 september
+9月1號	1 september
+9月3號	3 september
+12月29號	29 december
+9月30號	30 september
+9月29號	29 september
+9月28號	28 september
+9月27號	27 september
+9月26號	26 september
+9月25號	25 september
+9月23號	23 september
+9月22號	22 september
+9月24號	24 september
+9月21號	21 september
+9月20號	20 september
+9月18號	18 september
+9月17號	17 september
+9月19號	19 september
+9月16號	16 september
+12月30號	30 december
+12月31號	31 december
+10月1號	1 oktober
+10月15號	15 oktober
+10月12號	12 oktober
+10月10號	10 oktober
+10月14號	14 oktober
+10月9號	9 oktober
+10月8號	8 oktober
+10月13號	13 oktober
+10月7號	7 oktober
+10月11號	11 oktober
+10月6號	6 oktober
+10月4號	4 oktober
+10月5號	5 oktober
+10月3號	3 oktober
+10月2號	2 oktober
+10月31號	31 oktober
+10月30號	30 oktober
+10月29號	29 oktober
+10月28號	28 oktober
+10月26號	26 oktober
+10月25號	25 oktober
+10月24號	24 oktober
+10月27號	27 oktober
+10月22號	22 oktober
+10月23號	23 oktober
+10月20號	20 oktober
+10月21號	21 oktober
+10月19號	19 oktober
+10月17號	17 oktober
+10月16號	16 oktober
+10月18號	18 oktober
+11月15號	15 november
+11月14號	14 november
+11月13號	13 november
+11月12號	12 november
+11月11號	11 november
+11月10號	10 november
+11月7號	7 november
+11月8號	8 november
+11月9號	9 november
+11月6號	6 november
+11月5號	5 november
+11月4號	4 november
+11月3號	3 november
+11月2號	2 november
+11月1號	1 november
+男仔子	Jongen
+11月30號	30 november
+11月29號	29 november
+11月28號	28 november
+11月27號	27 november
+11月26號	26 november
+11月25號	25 november
+11月23號	23 november
+11月24號	24 november
+11月21號	21 november
+11月20號	20 november
+11月22號	22 november
+11月19號	19 november
+11月18號	18 november
+11月17號	17 november
+11月16號	16 november
+女仔子	Meisje
+沙利門大帝	Karel de Grote
+紅色	Rood (kleur)
+火	Vuur
+尼羅河	Nijl
+1961年	1961
+1960年	1960
+亞馬孫河	Amazone (rivier)
+天狗喫日頭	Zonsverduistering
+大學	Universiteit
+Wikipedia:沙盤	Wikipedia:Zandbak
+屋	Huis (woning)
+代數	Algebra
+地圖	Kaart (cartografie)
+江	Rivier
+俄舍斯科	Osasco (Brazilië)
+同海機場	Luchthaven Đồng Hới
+太空	Ruimte (astronomie)
+望遠鏡	Telescoop (optica)
+森林	Bos (vegetatie)
+分類:1888年	Categorie:1888
+濟酋余化盧	Zichyújfalu
+孔子	Confucius
+科賓·布魯	Corbin Bleu
+分類:數學	Categorie:Wiskunde
+1488年	1488
+歐元	Euro
+美金	Amerikaanse dollar
+地中海	Middellandse Zee
+基督教	Christendom
+1004年	1004
+西雅圖	Seattle
+禾	Rijst
+大洲	Continent
+葡萄牙語	Portugees
+慕斯他化·克麥·阿塔突	Mustafa Kemal Atatürk
+1948年	1948
+1949年	1949
+1956年	1956
+1200年	1200
+1201年	1201
+1202年	1202
+1203年	1203
+1204年	1204
+1205年	1205
+1206年	1206
+1941年	1941
+1207年	1207
+1208年	1208
+1945年	1945
+1209年	1209
+1210年	1210
+1211年	1211
+1958年	1958
+1212年	1212
+1926年	1926
+1213年	1213
+1947年	1947
+1944年	1944
+1952年	1952
+日语	Japans
+百科全書	Encyclopedie
+封面	Hoofdpagina
+1959年	1959
+1957年	1957
+電容	Condensator
+晶體管	Transistor
+1214年	1214
+1215年	1215
+1216年	1216
+1217年	1217
+1218年	1218
+1219年	1219
+1220年	1220
+1221年	1221
+1222年	1222
+1223年	1223
+1224年	1224
+1225年	1225
+1226年	1226
+1227年	1227
+1228年	1228
+1229年	1229
+1230年	1230
+長江	Jangtsekiang
+1231年	1231
+1232年	1232
+1233年	1233
+1234年	1234
+1235年	1235
+1236年	1236
+1237年	1237
+1238年	1238
+1239年	1239
+1240年	1240
+1241年	1241
+1242年	1242
+1243年	1243
+1244年	1244
+1245年	1245
+1246年	1246
+喜馬拉雅山脈	Himalaya
+安底斯山脈	Andes
+1247年	1247
+1248年	1248
+裡海	Kaspische Zee
+1249年	1249
+1250年	1250
+1251年	1251
+1252年	1252
+1254年	1254
+1255年	1255
+1256年	1256
+1257年	1257
+1258年	1258
+1259年	1259
+1260年	1260
+1261年	1261
+1262年	1262
+1263年	1263
+1264年	1264
+1265年	1265
+1266年	1266
+1267年	1267
+1268年	1268
+1269年	1269
+1270年	1270
+1271年	1271
+1272年	1272
+1273年	1273
+1274年	1274
+1275年	1275
+1276年	1276
+1277年	1277
+1278年	1278
+1279年	1279
+1280年	1280
+1281年	1281
+1282年	1282
+1283年	1283
+1284年	1284
+1285年	1285
+1286年	1286
+1287年	1287
+1288年	1288
+1289年	1289
+1290年	1290
+1291年	1291
+1292年	1292
+1293年	1293
+1294年	1294
+1295年	1295
+1296年	1296
+1297年	1297
+1298年	1298
+1299年	1299
+答利	Salvador Dalí
+梵高	Vincent van Gogh
+葛飾北齋	Katsushika Hokusai
+米開朗琪羅	Michelangelo Buonarroti
+畢加索	Pablo Picasso
+藍郎特	Rembrandt van Rijn
+1300年	1300
+1301年	1301
+1302年	1302
+1303年	1303
+1304年	1304
+1305年	1305
+安徒生	Hans Christian Andersen
+拜倫	Lord Byron
+塞萬提斯	Miguel de Cervantes
+1306年	1306
+1307年	1307
+1308年	1308
+1309年	1309
+1310年	1310
+1311年	1311
+1312年	1312
+1313年	1313
+1314年	1314
+1315年	1315
+1316年	1316
+1317年	1317
+1318年	1318
+1319年	1319
+1320年	1320
+1321年	1321
+1322年	1322
+1323年	1323
+1324年	1324
+1325年	1325
+1326年	1326
+1327年	1327
+1328年	1328
+麥加	Mekka
+毛澤東	Mao Zedong
+西安	Xi'an
+被服	Deken (beddengoed)
+歌德	Johann Wolfgang von Goethe
+屄	Vagina
+V·禍·魂得他	V for Vendetta (film)
+哲學	Filosofie
+1329年	1329
+分類:快速刪吥	Categorie:Wikipedia:Nuweg
+1330年	1330
+1331年	1331
+1332年	1332
+1333年	1333
+1334年	1334
+1335年	1335
+1336年	1336
+1337年	1337
+1338年	1338
+1339年	1339
+1340年	1340
+1341年	1341
+1342年	1342
+1343年	1343
+1344年	1344
+1345年	1345
+1346年	1346
+1347年	1347
+1348年	1348
+1349年	1349
+1350年	1350
+茶	Thee (drank)
+馬可·波羅	Marco Polo
+1351年	1351
+波特蘭 (奧勒岡州)	Portland (Oregon)
+1400年	1400
+1401年	1401
+1352年	1352
+1402年	1402
+1353年	1353
+1403年	1403
+1354年	1354
+1404年	1404
+1355年	1355
+1405年	1405
+1500年	1500
+1406年	1406
+1356年	1356
+1501年	1501
+1407年	1407
+1357年	1357
+1502年	1502
+1408年	1408
+1358年	1358
+1503年	1503
+1359年	1359
+1409年	1409
+1504年	1504
+1360年	1360
+1410年	1410
+1505年	1505
+1506年	1506
+1411年	1411
+1361年	1361
+1507年	1507
+1412年	1412
+1362年	1362
+1413年	1413
+1508年	1508
+1363年	1363
+1509年	1509
+1414年	1414
+1510年	1510
+1415年	1415
+1364年	1364
+共產主義	Communisme
+1511年	1511
+1416年	1416
+1365年	1365
+1512年	1512
+1417年	1417
+1366年	1366
+1513年	1513
+1418年	1418
+1367年	1367
+1514年	1514
+1419年	1419
+資本主義	Kapitalisme
+1368年	1368
+1515年	1515
+1420年	1420
+1369年	1369
+1516年	1516
+1421年	1421
+1370年	1370
+1371年	1371
+國家	Land (geografie)
+1372年	1372
+1373年	1373
+1422年	1422
+1517年	1517
+1423年	1423
+1518年	1518
+1374年	1374
+1424年	1424
+1375年	1375
+1519年	1519
+1376年	1376
+1425年	1425
+1520年	1520
+1521年	1521
+1377年	1377
+1426年	1426
+1522年	1522
+1523年	1523
+1427年	1427
+1378年	1378
+1524年	1524
+1525年	1525
+1428年	1428
+1379年	1379
+1526年	1526
+1429年	1429
+1380年	1380
+1381年	1381
+1382年	1382
+1383年	1383
+1430年	1430
+1431年	1431
+印第安納波利斯	Indianapolis
+1384年	1384
+1432年	1432
+1385年	1385
+1386年	1386
+1433年	1433
+1387年	1387
+1434年	1434
+1435年	1435
+1388年	1388
+1436年	1436
+1389年	1389
+1437年	1437
+1390年	1390
+1438年	1438
+1391年	1391
+1439年	1439
+1392年	1392
+1440年	1440
+1393年	1393
+1394年	1394
+1395年	1395
+1441年	1441
+1396年	1396
+1397年	1397
+1442年	1442
+1527年	1527
+1528年	1528
+1398年	1398
+1443年	1443
+1444年	1444
+1529年	1529
+1399年	1399
+1445年	1445
+1530年	1530
+1446年	1446
+1531年	1531
+1447年	1447
+1532年	1532
+1448年	1448
+蒙彼利埃	Montpellier
+1533年	1533
+1449年	1449
+1534年	1534
+1450年	1450
+1535年	1535
+1451年	1451
+1536年	1536
+1452年	1452
+1537年	1537
+1453年	1453
+1538年	1538
+1454年	1454
+1539年	1539
+1455年	1455
+1540年	1540
+睗著嗰惠尼根	Finnegans Wake
+分類:天文	Categorie:Astronomie
+尤利西斯	Ulysses (boek)
+1541年	1541
+1456年	1456
+1457年	1457
+1542年	1542
+1458年	1458
+1543年	1543
+1459年	1459
+1544年	1544
+1460年	1460
+1545年	1545
+1461年	1461
+1546年	1546
+1462年	1462
+1547年	1547
+1463年	1463
+1548年	1548
+1464年	1464
+1549年	1549
+1465年	1465
+1550年	1550
+1466年	1466
+1551年	1551
+1467年	1467
+1468年	1468
+1552年	1552
+1469年	1469
+1553年	1553
+1470年	1470
+1554年	1554
+1471年	1471
+1555年	1555
+撒哈拉沙漠	Sahara
+1472年	1472
+1556年	1556
+1473年	1473
+1557年	1557
+1474年	1474
+1558年	1558
+1475年	1475
+1559年	1559
+1476年	1476
+1560年	1560
+1477年	1477
+1478年	1478
+1561年	1561
+1479年	1479
+1562年	1562
+1480年	1480
+1563年	1563
+1481年	1481
+1564年	1564
+1482年	1482
+1565年	1565
+1483年	1483
+1566年	1566
+1484年	1484
+1567年	1567
+1485年	1485
+1486年	1486
+1568年	1568
+1487年	1487
+1569年	1569
+1570年	1570
+1489年	1489
+1571年	1571
+1490年	1490
+1572年	1572
+1491年	1491
+1573年	1573
+1492年	1492
+1574年	1574
+1493年	1493
+1575年	1575
+荷馬	Homerus
+1494年	1494
+1495年	1495
+1496年	1496
+1576年	1576
+1497年	1497
+1577年	1577
+1498年	1498
+1578年	1578
+1499年	1499
+1579年	1579
+1580年	1580
+1581年	1581
+1582年	1582
+1600年	1600
+高斯	Carl Friedrich Gauss
+1601年	1601
+1583年	1583
+1602年	1602
+1584年	1584
+1603年	1603
+1585年	1585
+1604年	1604
+1586年	1586
+1605年	1605
+1587年	1587
+1606年	1606
+1607年	1607
+1588年	1588
+1608年	1608
+1589年	1589
+1609年	1609
+1590年	1590
+1610年	1610
+1591年	1591
+1611年	1611
+1592年	1592
+1612年	1612
+1593年	1593
+1613年	1613
+1594年	1594
+1614年	1614
+1595年	1595
+1615年	1615
+1596年	1596
+1616年	1616
+1597年	1597
+1617年	1617
+1598年	1598
+1618年	1618
+1599年	1599
+1619年	1619
+1620年	1620
+1621年	1621
+1700年	1700
+1701年	1701
+1622年	1622
+1623年	1623
+1702年	1702
+1624年	1624
+1703年	1703
+1704年	1704
+1625年	1625
+1705年	1705
+1626年	1626
+1627年	1627
+1706年	1706
+1628年	1628
+1707年	1707
+1708年	1708
+1629年	1629
+1630年	1630
+1709年	1709
+1631年	1631
+1710年	1710
+1632年	1632
+1711年	1711
+1633年	1633
+1712年	1712
+1634年	1634
+1713年	1713
+1800年	1800
+1801年	1801
+1714年	1714
+1635年	1635
+詹姆斯·喬伊斯	James Joyce
+1802年	1802
+1715年	1715
+1636年	1636
+1803年	1803
+1637年	1637
+1716年	1716
+1638年	1638
+1804年	1804
+1717年	1717
+1639年	1639
+1805年	1805
+1718年	1718
+1640年	1640
+1719年	1719
+1806年	1806
+1641年	1641
+1720年	1720
+1807年	1807
+1642年	1642
+1721年	1721
+1808年	1808
+1643年	1643
+1722年	1722
+1809年	1809
+1644年	1644
+1723年	1723
+1810年	1810
+1645年	1645
+1724年	1724
+20世紀	20e eeuw
+1811年	1811
+1646年	1646
+1725年	1725
+1812年	1812
+1647年	1647
+1726年	1726
+1813年	1813
+21世紀	21e eeuw
+1648年	1648
+1727年	1727
+1814年	1814
+1649年	1649
+1728年	1728
+1815年	1815
+1650年	1650
+1729年	1729
+1816年	1816
+19世紀	19e eeuw
+1651年	1651
+1730年	1730
+1817年	1817
+1652年	1652
+1731年	1731
+1818年	1818
+1653年	1653
+1732年	1732
+1819年	1819
+1654年	1654
+1733年	1733
+1820年	1820
+1655年	1655
+1821年	1821
+1734年	1734
+1656年	1656
+1822年	1822
+1735年	1735
+1657年	1657
+1823年	1823
+1736年	1736
+1658年	1658
+1737年	1737
+1824年	1824
+1659年	1659
+1738年	1738
+1825年	1825
+1660年	1660
+1739年	1739
+1826年	1826
+1661年	1661
+1740年	1740
+1827年	1827
+18世紀	18e eeuw
+17世紀	17e eeuw
+16世紀	16e eeuw
+15世紀	15e eeuw
+14世紀	14e eeuw
+13世紀	13e eeuw
+12世紀	12e eeuw
+11世紀	11e eeuw
+享樂主義	Hedonisme
+李白	Li Bai
+圖書館	Bibliotheek (algemeen)
+唯物主義	Materialisme (filosofie)
+玻爾	Niels Bohr
+意識	Bewustzijn
+生物技術	Biotechnologie
+秦	Qin-dynastie
+北大西洋公約組織	Noord-Atlantische Verdragsorganisatie
+居里夫人	Marie Curie
+諾貝爾獎	Nobelprijs
+秦始皇	Qin Shi Huangdi
+中東	Midden-Oosten
+伊麗莎白一世	Elizabeth I van Engeland
+漢	Han-dynastie
+劉徹	Han Wudi
+聖女貞德	Jeanne d'Arc
+所霍利茲	Sophocles (tragicus)
+托爾斯泰	Leo Tolstoj
+圖靈	Alan Turing
+馬克思主義	Marxisme
+凍嘴	Zoen
+元	Yuan-dynastie
+伊戈·式査溫斯基	Igor Stravinsky
+朱澤魄·渥帝	Giuseppe Verdi
+拿可·卡帖	Jacques Cartier
+哥倫布	Christoffel Columbus
+庫克船長	James Cook
+伊本·巴杜他	Ibn Battuta
+鄭和	Zheng He
+大堡礁	Groot Barrièrerif
+巴拿馬運河	Panamakanaal
+晉	Jin-dynastie (265-420)
+南冰洋	Zuidelijke Oceaan
+耳刀	Oor
+鼻公	Neus
+眼睛	Oog (anatomie)
+羊	Schaap (dier)
+象	Olifanten
+隋	Sui-dynastie
+宋	Song-dynastie
+忽必烈	Koeblai Khan
+娘	Moeder
+雪	Sneeuw
+爺	Vaderschap
+細伢子	Kind (leeftijdsgroep)
+1828年	1828
+1829年	1829
+1741年	1741
+1662年	1662
+1742年	1742
+1830年	1830
+1663年	1663
+1831年	1831
+1743年	1743
+1664年	1664
+1665年	1665
+1744年	1744
+1832年	1832
+1666年	1666
+1745年	1745
+1833年	1833
+1667年	1667
+1746年	1746
+運輸	Vervoer
+1834年	1834
+1668年	1668
+1747年	1747
+1835年	1835
+1748年	1748
+1836年	1836
+1669年	1669
+歐拉	Leonhard Euler
+1670年	1670
+1749年	1749
+1837年	1837
+1671年	1671
+1750年	1750
+1838年	1838
+1672年	1672
+1751年	1751
+1839年	1839
+1673年	1673
+1752年	1752
+1840年	1840
+1674年	1674
+1753年	1753
+1841年	1841
+1754年	1754
+1675年	1675
+1842年	1842
+1755年	1755
+1676年	1676
+1843年	1843
+1677年	1677
+1756年	1756
+1844年	1844
+1678年	1678
+1757年	1757
+1845年	1845
+1679年	1679
+1758年	1758
+1846年	1846
+1680年	1680
+1759年	1759
+1847年	1847
+1681年	1681
+1760年	1760
+1848年	1848
+1682年	1682
+1761年	1761
+1849年	1849
+1683年	1683
+1762年	1762
+1850年	1850
+1684年	1684
+1763年	1763
+1851年	1851
+1764年	1764
+1685年	1685
+1852年	1852
+1686年	1686
+1765年	1765
+1853年	1853
+1687年	1687
+1766年	1766
+1854年	1854
+1688年	1688
+1767年	1767
+1855年	1855
+1689年	1689
+1768年	1768
+1856年	1856
+1690年	1690
+1769年	1769
+1857年	1857
+1691年	1691
+1770年	1770
+1858年	1858
+1692年	1692
+1771年	1771
+1859年	1859
+1693年	1693
+1772年	1772
+1860年	1860
+1773年	1773
+1861年	1861
+1694年	1694
+1695年	1695
+1774年	1774
+1862年	1862
+1696年	1696
+1775年	1775
+1863年	1863
+1697年	1697
+1776年	1776
+1864年	1864
+1698年	1698
+1865年	1865
+1777年	1777
+1699年	1699
+1866年	1866
+1778年	1778
+1779年	1779
+1867年	1867
+1780年	1780
+1868年	1868
+1781年	1781
+1869年	1869
+紐約地鐵	Metro van New York
+俄語	Russisch
+1782年	1782
+1870年	1870
+屋裡	Thuis (woning)
+1783年	1783
+1871年	1871
+弗拉基米尔·弗拉基米罗维奇·普京	Vladimir Poetin
+1784年	1784
+1872年	1872
+數學分析	Analyse (wiskunde)
+1785年	1785
+1873年	1873
+1786年	1786
+1874年	1874
+1787年	1787
+1875年	1875
+1788年	1788
+1876年	1876
+1789年	1789
+1877年	1877
+1790年	1790
+1878年	1878
+1879年	1879
+1791年	1791
+歐洲嗰歷史	Geschiedenis van Europa
+麵包	Brood
+1792年	1792
+1880年	1880
+1793年	1793
+1881年	1881
+1794年	1794
+1882年	1882
+1795年	1795
+1883年	1883
+1796年	1796
+1884年	1884
+1797年	1797
+1885年	1885
+1886年	1886
+1798年	1798
+1887年	1887
+1799年	1799
+1888年	1888
+1889年	1889
+1890年	1890
+1891年	1891
+1892年	1892
+1893年	1893
+1894年	1894
+1895年	1895
+1896年	1896
+1897年	1897
+1898年	1898
+漢語	Chinese talen
+1899年	1899
+白開水	Drinkwater
+雨	Regen (neerslag)
+地震	Aardbeving
+真理	Waarheid
+伊本·西那	Avicenna
+邱吉爾	Winston Churchill
+馬丁·路德·金	Martin Luther King
+10世紀	10e eeuw
+水澇	Overstroming
+海嘯	Tsunami
+火山	Vulkaan
+邏輯學	Logica
+9世紀	9e eeuw
+三角學	Goniometrie
+8世紀	8e eeuw
+幾何學	Meetkunde
+7世紀	7e eeuw
+6世紀	6e eeuw
+文法	Grammatica
+5世紀	5e eeuw
+4世紀	4e eeuw
+3世紀	3e eeuw
+2世紀	2e eeuw
+1世紀	1e eeuw
+經濟學	Economie
+詞	Woord
+阿拉伯字母	Arabisch alfabet
+字	Hanzi
+西里爾字母	Cyrillisch alfabet
+朝鮮字母	Hangul
+拉丁字母	Latijns alfabet
+文學	Literatuur
+分類:法國	Categorie:Frankrijk
+分類:音樂	Categorie:Muziek
+分類:文學	Categorie:Literatuur
+長篇小說	Roman (literatuur)
+分類:詩	Categorie:Dichtkunst
+漫畫	Manga (strip)
+爵士樂	Jazz
+亞歷山大大帝	Alexander de Grote
+居魯士大帝	Cyrus II de Grote
+文明	Beschaving
+家庭	Familie (verwanten)
+男人	Man (geslacht)
+婚姻	Huwelijk
+蘇萊曼一世	Süleyman I
+咖啡	Koffie
+奶	Melk (drank)
+山	Berg (landvorm)
+沙漠	Woestijn
+孫中山	Sun Yat-sen
+西曼·卜利滑	Simón Bolívar
+香港	Hongkong
+邁阿密 (佛羅裡達州)	Miami
+冷戰	Koude Oorlog
+首爾	Seoel
+上海	Shanghai
+明治維新	Meiji-restauratie
+清	Qing-dynastie
+阿基米德	Archimedes
+愛迪生	Thomas Edison
+歐几里得	Euclides van Alexandrië
+暗號學	Cryptografie
+瑞典語	Zweeds
+尼哥拉·特斯拉	Nikola Tesla
+哈嗱嗞咪	Al-Chwarizmi
+臘尼茲	Gottfried Wilhelm Leibniz
+馬克思	Karl Marx
+摩西	Mozes
+知識	Kennis
+印度教	Hindoeïsme
+麦斯韦	James Clerk Maxwell
+門捷列夫	Dmitri Mendelejev
+光	Licht
+希臘語	Grieks
+電郵	E-mail
+波斯語	Perzisch
+宗教	Religie
+朝鮮話	Koreaans
+阿卜拿咸	Abraham
+笛卡兒	René Descartes
+普通話	Mandarijn (taal)
+聖·保羅	Paulus (apostel)
+自由女神像	Vrijheidsbeeld (New York)
+弗洛伊德	Sigmund Freud
+希伯來語	Hebreeuws
+伊本·客敦	Ibn Khaldun
+康德	Immanuel Kant
+老子	Laozi
+約翰·洛	John Locke (filosoof)
+尼采	Friedrich Nietzsche
+韋伯	Max Weber (socioloog)
+朱熹	Zhu Xi
+忍者	Ninja
+感情	Emotie
+思想	Denken
+大洋	Oceaan
+托馬·阿奎那	Thomas van Aquino
+釋迦牟尼	Gautama Boeddha
+穆罕默德	Mohammed
+倫理學	Ethiek
+知識論	Kennistheorie
+自由意志	Vrije wil
+機率	Kans (statistiek)
+馬丁·路德	Maarten Luther
+儒家	Confucianisme
+道教	Taoïsme
+孟加拉語	Bengaals
+舌頭	Tong (anatomie)
+A	A (letter)
+唐	Tang-dynastie
+戴安娜王妃	Diana Spencer
+B	B (letter)
+古典音樂	Klassieke muziek
+G	G (letter)
+U	U (letter)
+Z	Z (letter)
+F	F (letter)
+J	J (letter)
+字母	Alfabet
+拼音字	Letter
+T	T (letter)
+C	C (letter)
+R	R (letter)
+D	D (letter)
+I	I (letter)
+明	Ming-dynastie
+E	E (letter)
+H	H (letter)
+K	K (letter)
+L	L (letter)
+M	M (letter)
+N	N (letter)
+O	O (letter)
+P	P (letter)
+Q	Q (letter)
+S	S (letter)
+V	V (letter)
+W	W (letter)
+X	X (letter)
+Y	Y (letter)
+畢達哥拉斯	Pythagoras
+1100年	1100
+金正日	Kim Jong-il
+元素週期表	Periodiek systeem
+豬	Echte zwijnen
+九一一事件	Aanslagen op 11 september 2001
+樹	Boom (plant)
+奶酪	Kaas
+肉	Vlees
+土豆	Aardappel
+菜	Groente
+黃豆	Sojaboon
+機械人	Robot
+技術	Technologie
+工學	Engineering
+報	Krant
+印刷	Boekdrukkunst
+電話	Telefoontoestel
+梵語	Sanskriet
+老人痴呆症	Ziekte van Alzheimer
+對數	Logaritme
+算術	Rekenen
+座標	Coördinatenstelsel
+微分方程	Differentiaalvergelijking
+百分率	Procent
+Windows XP	Windows XP
+分類:巴西	Categorie:Brazilië
+方程	Vergelijking (wiskunde)
+函數	Functie (wiskunde)
+角	Hoek (meetkunde)
+搖滾樂	Rock
+嘻哈音樂	Hiphop
+力	Kracht
+玩具	Spel
+圍棋	Go (bordspel)
+賭博	Kansspel
+質量	Massa (natuurkunde)
+電影	Film (cinematografie)
+金屬	Metaal
+腳踏車	Fiets
+船	Schip (transportmiddel)
+半導體	Halfgeleider (vastestoffysica)
+衣裳	Kleding
+聲氣	Geluid
+冶金學	Metallurgie
+紙	Papier
+塑料	Plastic
+面積	Oppervlakte
+數學證明	Wiskundig bewijs
+數	Getal (wiskunde)
+複數	Complex getal
+公斤	Kilogram
+米	Meter
+秒	Seconde
+粟米	Mais
+公升	Liter
+畫畫	Schilderkunst
+拍相	Fotografie
+雕刻	Beeldhouwkunst
+表演	Theater (kunstvorm)
+舞蹈	Dans
+陶器	Pottenbakken
+電子學	Elektronica
+二極管	Diode
+人工智能	Kunstmatige intelligentie
+IT	Informatietechnologie
+美利堅合眾國憲法	Grondwet van de Verenigde Staten
+東南亞	Zuidoost-Azië
+重慶	Chongqing
+天津	Tianjin
+武汉	Wuhan
+史前時代	Prehistorie
+石器時代	Steentijd
+青銅器時代	Bronstijd
+鐵器時代	IJzertijd
+美索不達米亞	Mesopotamië
+古埃及	Oude Egypte
+古希臘	Oude Griekenland
+熊	Beren
+粉紅色嗰一生	La Vie en rose (lied)
+1101年	1101
+1102年	1102
+癌	Kanker
+燕麥	Haver
+小麥	Tarwe
+2040年	2040
+2039年	2039
+穀	Graan
+2038年	2038
+2036年	2036
+2035年	2035
+曆法	Kalender
+病	Ziekte
+艾滋病	Aids
+麻將	Mahjong
+建築學	Architectuur
+圓拱	Boog (bouwkunde)
+橋	Brug (bouwwerk)
+運河	Kanaal (waterweg)
+壩	Dam (waterkering)
+牛 (單位)	Newton (eenheid)
+度量	Meten
+國際單位系統	SI-stelsel
+數論	Getaltheorie
+統計學	Statistiek
+1103年	1103
+1104年	1104
+圓頂	Koepel (bouwkunst)
+長城	Chinese Muur
+整數	Geheel getal
+球面	Bol (lichaam)
+三峽大壩	Drieklovendam
+金字塔	Piramide (bouwwerk)
+中世紀	Middeleeuwen
+拉丁美洲	Latijns-Amerika
+電氣	Elektriciteit
+核能	Kernenergie
+2032年	2032
+劍	Zwaard (wapen)
+槍	Vuurwapen
+2030年	2030
+機關槍	Machinegeweer
+核武器	Kernwapen
+2029年	2029
+算盤	Abacus (rekentuig)
+2028年	2028
+2027年	2027
+火藥	Buskruit
+炸藥	Explosief
+坦克車	Tank (voertuig)
+實數	Reëel getal
+1105年	1105
+阿拉伯語	Arabisch
+李明博	Lee Myung-bak
+朴正熙	Park Chung-hee
+全斗煥	Chun Doo-hwan
+磨硌牯子	Kiezelsteen
+家具	Meubilair
+檯	Tafel (meubilair)
+香港地鐵	Metro van Hongkong
+澳門	Macau
+校椅	Stoel
+胡錦濤	Hu Jintao
+習近平	Xi Jinping
+長頸鹿	Giraffe (dier)
+廣東	Guangdong
+廣西	Guangxi
+蘇聯	Sovjet-Unie
+相機	Fotocamera
+壁蛇子	Gekkonidae
+艾美·環校詩	Amy Winehouse
+肩	Schouder
+Wikipedia:全靚文章	Wikipedia:Etalage
+模板:Link FA	Sjabloon:Link FA
+聖地牙哥 (加利福尼亞州)	San Diego (Californië)
+聖荷西 (加利福尼亞州)	San Jose (Californië)
+丹佛	Denver
+休斯頓	Houston
+鳳凰城 (亞利桑那州)	Phoenix (Arizona)
+達拉斯	Dallas (Texas)
+奧斯汀	Austin (Texas)
+孟菲斯 (田納西州)	Memphis (Tennessee)
+哥倫布 (俄亥俄州)	Columbus (Ohio)
+廣州	Kanton (stad)
+蔣中正	Chiang Kai-shek
+江澤民	Jiang Zemin
+溫家寶	Wen Jiabao
+南京	Nanking
+艾都加·阿蘭·薄	Edgar Allan Poe
+病院	Ziekenhuis
+東德	Duitse Democratische Republiek
+江蘇	Jiangsu
+浙江	Zhejiang
+鄧小平	Deng Xiaoping
+羅馬共和國	Romeinse Republiek
+西藏	Tibetaanse Autonome Regio
+圓形	Cirkel
+平面	Vlak (meetkunde)
+丹增嘉措	Tenzin Gyatso (dalai lama)
+中國共產黨	Communistische Partij van China
+手機	Mobiele telefoon
+鴕鳥	Struisvogel
+阿灵顿 (得克萨斯州)	Arlington (Texas)
+沙加緬度 (加利福尼亞州)	Sacramento (Californië)
+1925年	1925
+1927年	1927
+高行健	Gao Xingjian
+1000年	1000
+999年	999
+隱喻	Metafoor
+球	Bal (voorwerp)
+1955年	1955
+1954年	1954
+1953年	1953
+1951年	1951
+1950年	1950
+1946年	1946
+1943年	1943
+1942年	1942
+1940年	1940
+1939年	1939
+1938年	1938
+1937年	1937
+1936年	1936
+1935年	1935
+1934年	1934
+1933年	1933
+1932年	1932
+1931年	1931
+1930年	1930
+1929年	1929
+GPS	Global positioning system
+奧斯卡金像獎	Oscar (filmprijs)
+2010年代	2010-2019
+9	9 (getal)
+剪人蟲	Schorpioenen (orde)
+黑龍江	Heilongjiang
+馬英九	Ma Ying-jeou
+1001年	1001
+1002年	1002
+1003年	1003
+1005年	1005
+1006年	1006
+1007年	1007
+1008年	1008
+1009年	1009
+1010年	1010
+1011年	1011
+1012年	1012
+1013年	1013
+1014年	1014
+1015年	1015
+1016年	1016
+1017年	1017
+1018年	1018
+1019年	1019
+1020年	1020
+1021年	1021
+1022年	1022
+1023年	1023
+1024年	1024
+1025年	1025
+1026年	1026
+1027年	1027
+1028年	1028
+1029年	1029
+1030年	1030
+1031年	1031
+1032年	1032
+1033年	1033
+1034年	1034
+1035年	1035
+1036年	1036
+1037年	1037
+1038年	1038
+1039年	1039
+1040年	1040
+1041年	1041
+1042年	1042
+1043年	1043
+1044年	1044
+1045年	1045
+1046年	1046
+1047年	1047
+1048年	1048
+1049年	1049
+1050年	1050
+1051年	1051
+1052年	1052
+1053年	1053
+1054年	1054
+1055年	1055
+1056年	1056
+1057年	1057
+1058年	1058
+1059年	1059
+1060年	1060
+1061年	1061
+1062年	1062
+1063年	1063
+1064年	1064
+1065年	1065
+1066年	1066
+1067年	1067
+1068年	1068
+1069年	1069
+1070年	1070
+1071年	1071
+1072年	1072
+1073年	1073
+1074年	1074
+1075年	1075
+1076年	1076
+1077年	1077
+1078年	1078
+1079年	1079
+1080年	1080
+1081年	1081
+1082年	1082
+1083年	1083
+1084年	1084
+1085年	1085
+1086年	1086
+1087年	1087
+1088年	1088
+1089年	1089
+1090年	1090
+1091年	1091
+1092年	1092
+1093年	1093
+1094年	1094
+1095年	1095
+1096年	1096
+1097年	1097
+1098年	1098
+1099年	1099
+1106年	1106
+1107年	1107
+1108年	1108
+1109年	1109
+1110年	1110
+1111年	1111
+1112年	1112
+1113年	1113
+1114年	1114
+1115年	1115
+1116年	1116
+1117年	1117
+1118年	1118
+1119年	1119
+1120年	1120
+1130年	1130
+1131年	1131
+1132年	1132
+1133年	1133
+1134年	1134
+1135年	1135
+1136年	1136
+1137年	1137
+1138年	1138
+1139年	1139
+5年	5
+1140年	1140
+1141年	1141
+1142年	1142
+1143年	1143
+1144年	1144
+4年	4
+1145年	1145
+1146年	1146
+1147年	1147
+1148年	1148
+3年	3
+1149年	1149
+1150年	1150
+1151年	1151
+1152年	1152
+1153年	1153
+2年	2
+1154年	1154
+1155年	1155
+1156年	1156
+1157年	1157
+1158年	1158
+1159年	1159
+1160年	1160
+1161年	1161
+1162年	1162
+1163年	1163
+1164年	1164
+1165年	1165
+1166年	1166
+1167年	1167
+1168年	1168
+1169年	1169
+1170年	1170
+1171年	1171
+1172年	1172
+1173年	1173
+1174年	1174
+1175年	1175
+1176年	1176
+1177年	1177
+1178年	1178
+1179年	1179
+1180年	1180
+1181年	1181
+1182年	1182
+1928年	1928
+1183年	1183
+1184年	1184
+1185年	1185
+1186年	1186
+1187年	1187
+1188年	1188
+1189年	1189
+1190年	1190
+1191年	1191
+1192年	1192
+1193年	1193
+1194年	1194
+1195年	1195
+1196年	1196
+1197年	1197
+1198年	1198
+1199年	1199
+四川	Sichuan
+6年	6
+活霍站	Watford (metrostation)
+三角形	Driehoek (meetkunde)
+閏年	Schrikkeljaar
+蕾蒂嘉嘉	Lady Gaga
+印歐語系	Indo-Europese talen
+美絕波利頓線	Metropolitan Line
+北柯露線	Bakerloo Line
+老虎	Tijger
+倫敦地鐵	Metro van Londen
+鐘擺	Slinger (natuurkunde)
+自然數	Natuurlijk getal
+日耳曼語族	Germaanse talen
+社會學	Sociologie
+國際音標	Internationaal Fonetisch Alfabet
+河北	Hebei
+紐約	New York
+石油	Aardolie
+鐵路	Spoorweg
+1年	1
+魯迅	Lu Xun (schrijver)
+10年	10
+20年	20
+30年	30
+40年	40
+9年	9
+7年	7
+8年	8
+7	7 (getal)
+8	8 (getal)
+12年	12
+禮拜	Week
+湖	Meer (watervlakte)
+930年	930
+13年	13
+985年	985
+1122年	1122
+981年	981
+939年	939
+簕瓜	Cucumis sativus
+51年	51
+島	Eiland
+白	Wit
+烏	Zwart (kleur)
+814年	814
+678年	678
+950年	950
+679年	679
+996年	996
+680年	680
+37年	37
+980年	980
+900年	900
+1129年	1129
+843年	843
+690年	690
+691年	691
+988年	988
+692年	692
+476年	476
+693年	693
+694年	694
+695年	695
+696年	696
+6	6 (getal)
+697年	697
+698年	698
+699年	699
+700年	700
+701年	701
+702年	702
+703年	703
+番茄	Tomaat
+704年	704
+705年	705
+706年	706
+68年	68
+89年	89
+707年	707
+708年	708
+峰牙己榜國家公園	Nationaal park Phong Nha-Kẻ Bàng
+709年	709
+11年	11
+710年	710
+711年	711
+712年	712
+713年	713
+714年	714
+715年	715
+716年	716
+717年	717
+廣平省	Quảng Bình (provincie)
+718年	718
+719年	719
+720年	720
+721年	721
+722年	722
+723年	723
+724年	724
+725年	725
+726年	726
+亞特蘭大	Atlanta
+727年	727
+728年	728
+729年	729
+963年	963
+730年	730
+731年	731
+962年	962
+732年	732
+733年	733
+997年	997
+734年	734
+972年	972
+735年	735
+955年	955
+901年	901
+736年	736
+737年	737
+936年	936
+738年	738
+953年	953
+902年	902
+739年	739
+15年	15
+740年	740
+14年	14
+741年	741
+742年	742
+17年	17
+743年	743
+958年	958
+744年	744
+500年	500
+745年	745
+150年	150
+746年	746
+880年	880
+747年	747
+748年	748
+749年	749
+870年	870
+903年	903
+750年	750
+751年	751
+752年	752
+753年	753
+987年	987
+754年	754
+965年	965
+755年	755
+924年	924
+951年	951
+932年	932
+23年	23
+800年	800
+120年	120
+42年	42
+967年	967
+989年	989
+960年	960
+969年	969
+957年	957
+1124年	1124
+971年	971
+方向	Windstreek
+937年	937
+992年	992
+990年	990
+899年	899
+975年	975
+942年	942
+966年	966
+1128年	1128
+959年	959
+973年	973
+18年	18
+19年	19
+16年	16
+拉斯維加斯	Las Vegas (Nevada)
+21年	21
+26年	26
+41年	41
+32年	32
+33年	33
+982年	982
+974年	974
+976年	976
+979年	979
+986年	986
+919年	919
+998年	998
+995年	995
+977年	977
+1125年	1125
+934年	934
+10	10 (getal)
+200年	200
+876年	876
+875年	875
+810年	810
+929年	929
+882年	882
+1127年	1127
+940年	940
+889年	889
+844年	844
+912年	912
+838年	838
+984年	984
+874年	874
+38年	38
+43年	43
+127年	127
+954年	954
+39年	39
+輅䡐	Draaitol
+24年	24
+79年	79
+61年	61
+104年	104
+29年	29
+102年	102
+866年	866
+839年	839
+622年	622
+918年	918
+100年	100
+利拉 唐斯	Lila Downs
+961年	961
+570年	570
+632年	632
+946年	946
+835年	835
+884年	884
+859年	859
+832年	832
+849年	849
+877年	877
+878年	878
+861年	861
+869年	869
+968年	968
+983年	983
+964年	964
+1121年	1121
+1123年	1123
+933年	933
+915年	915
+970年	970
+911年	911
+993年	993
+991年	991
+994年	994
+898年	898
+944年	944
+907年	907
+943年	943
+945年	945
+922年	922
+905年	905
+941年	941
+925年	925
+928年	928
+948年	948
+947年	947
+949年	949
+926年	926
+126年	126
+101年	101
+105年	105
+108年	108
+117年	117
+115年	115
+22年	22
+46年	46
+25年	25
+153年	153
+156年	156
+31年	31
+825年	825
+301年	301
+116年	116
+886年	886
+330年	330
+860年	860
+842年	842
+165年	165
+871年	871
+893年	893
+203年	203
+909年	909
+222年	222
+931年	931
+938年	938
+917年	917
+160年	160
+28年	28
+85年	85
+88年	88
+76年	76
+54年	54
+477年	477
+914年	914
+920年	920
+913年	913
+935年	935
+841年	841
+820年	820
+906年	906
+916年	916
+885年	885
+168年	168
+60年	60
+47年	47
+836年	836
+112年	112
+854年	854
+862年	862
+879年	879
+887年	887
+770年	770
+817年	817
+864年	864
+863年	863
+868年	868
+855年	855
+818年	818
+837年	837
+845年	845
+166年	166
+瓦	Watt (eenheid)
+2016年	2016
+伏	Volt (eenheid)
+降水	Neerslag (atmosfeer)
+552年	552
+攝氏	Celsius
+國際太空站	Internationaal ruimtestation ISS
+安	Ampère (eenheid)
+2019年	2019
+重量	Gewicht
+2017年	2017
+2018年	2018
+甴巴子	Kakkerlakken
+北極	Arctis
+2020年	2020
+鱷魚	Krokodilachtigen
+戲	Drama (genre)
+夜火蟲	Glimwormen
+600年	600
+400年	400
+300年	300
+太空站	Ruimtestation
+皮卡第利所庫斯站	Piccadilly Circus (metrostation)
+1040年代	1040-1049
+衛星	Kunstmaan
+日本海	Japanse Zee
+東亞	Oost-Azië
+唱歌	Zangkunst
+琉球國	Koninkrijk Riukiu
+度 (角度)	Booggraad
+簷老鼠	Vleermuizen
+36年	36
+布	Textiel
+韓非	Han Fei
+黃帝	Huang Di
+朱諾 (阿拉斯加州)	Juneau (Alaska)
+釣魚臺	Senkaku-eilanden
+中國	China
+815年	815
+816年	816
+822年	822
+840年	840
+823年	823
+811年	811
+771年	771
+888年	888
+768年	768
+851年	851
+205年	205
+159年	159
+107年	107
+162年	162
+103年	103
+802年	802
+804年	804
+119年	119
+118年	118
+801年	801
+807年	807
+806年	806
+152年	152
+240年	240
+218年	218
+655年	655
+496年	496
+238年	238
+197年	197
+451年	451
+775年	775
+489年	489
+784年	784
+661年	661
+625年	625
+653年	653
+904年	904
+921年	921
+923年	923
+1126年	1126
+668年	668
+636年	636
+408年	408
+464年	464
+410年	410
+956年	956
+952年	952
+658年	658
+650年	650
+518年	518
+70年	70
+81年	81
+69年	69
+87年	87
+65年	65
+66年	66
+67年	67
+55年	55
+34年	34
+44年	44
+35年	35
+64年	64
+504年	504
+453年	453
+161年	161
+169年	169
+481年	481
+151年	151
+155年	155
+128年	128
+129年	129
+463年	463
+193年	193
+674年	674
+687年	687
+251年	251
+337年	337
+786年	786
+660年	660
+50年	50
+260年	260
+501年	501
+45年	45
+491年	491
+49年	49
+978年	978
+221年	221
+543年	543
+536年	536
+230年	230
+762年	762
+610年	610
+787年	787
+480年	480
+209年	209
+202年	202
+192年	192
+681年	681
+819年	819
+173年	173
+867年	867
+865年	865
+827年	827
+824年	824
+847年	847
+883年	883
+829年	829
+813年	813
+910年	910
+850年	850
+808年	808
+853年	853
+872年	872
+873年	873
+856年	856
+858年	858
+831年	831
+857年	857
+828年	828
+826年	826
+833年	833
+848年	848
+834年	834
+881年	881
+852年	852
+163年	163
+154年	154
+201年	201
+803年	803
+805年	805
+52年	52
+532年	532
+82年	82
+84年	84
+73年	73
+72年	72
+62年	62
+71年	71
+75年	75
+74年	74
+83年	83
+78年	78
+77年	77
+90年	90
+80年	80
+627年	627
+456年	456
+91年	91
+190年	190
+109年	109
+53年	53
+270年	270
+688年	688
+452年	452
+795年	795
+465年	465
+778年	778
+846年	846
+830年	830
+404年	404
+總統	President
+908年	908
+896年	896
+897年	897
+927年	927
+63年	63
+555年	555
+571年	571
+86年	86
+401年	401
+890年	890
+533年	533
+264年	264
+戈爾巴喬夫	Michail Gorbatsjov
+99年	99
+415年	415
+483年	483
+469年	469
+462年	462
+459年	459
+466年	466
+402年	402
+761年	761
+780年	780
+675年	675
+689年	689
+774年	774
+759年	759
+758年	758
+350年	350
+德蘭修女	Moeder Teresa
+782年	782
+760年	760
+785年	785
+783年	783
+767年	767
+766年	766
+211年	211
+232年	232
+204年	204
+188年	188
+98年	98
+894年	894
+891年	891
+602年	602
+628年	628
+892年	892
+601年	601
+672年	672
+682年	682
+821年	821
+648年	648
+686年	686
+664年	664
+677年	677
+640年	640
+110年	110
+111年	111
+137年	137
+138年	138
+122年	122
+140年	140
+809年	809
+167年	167
+665年	665
+776年	776
+763年	763
+769年	769
+667年	667
+529年	529
+777年	777
+788年	788
+671年	671
+772年	772
+432年	432
+231年	231
+237年	237
+239年	239
+130年	130
+226年	226
+207年	207
+475年	475
+454年	454
+495年	495
+206年	206
+468年	468
+461年	461
+460年	460
+194年	194
+210年	210
+225年	225
+311年	311
+220年	220
+541年	541
+642年	642
+390年代	390-399
+313年	313
+180年	180
+794年	794
+587年	587
+530年	530
+609年	609
+497年	497
+540年	540
+428年	428
+548年	548
+422年	422
+549年	549
+457年	457
+478年	478
+253年	253
+467年	467
+458年	458
+350年代	350-359
+158年	158
+157年	157
+164年	164
+124年	124
+113年	113
+121年	121
+106年	106
+551年	551
+494年	494
+320年	320
+242年	242
+291年	291
+48年	48
+97年	97
+56年	56
+93年	93
+57年	57
+503年	503
+510年	510
+509年	509
+474年	474
+484年	484
+576年	576
+493年	493
+479年	479
+287年	287
+407年	407
+485年	485
+547年	547
+546年	546
+544年	544
+537年	537
+535年	535
+502年	502
+527年	527
+508年	508
+525年	525
+613年	613
+618年	618
+617年	617
+608年	608
+645年	645
+621年	621
+606年	606
+623年	623
+604年	604
+603年	603
+626年	626
+619年	619
+634年	634
+630年	630
+614年	614
+505年	505
+446年	446
+791年	791
+557年	557
+電子算數器	Rekenmachine
+656年	656
+657年	657
+659年	659
+651年	651
+676年	676
+670年	670
+652年	652
+673年	673
+654年	654
+647年	647
+中國國民黨	Kwomintang
+812年	812
+669年	669
+792年	792
+649年	649
+93	93 (getal)
+895年	895
+756年	756
+663年	663
+779年	779
+662年	662
+684年	684
+773年	773
+757年	757
+435年	435
+790年	790
+437年	437
+433年	433
+764年	764
+426年	426
+781年	781
+425年	425
+429年	429
+423年	423
+765年	765
+235年	235
+233年	233
+223年	223
+224年	224
+216年	216
+219年	219
+254年	254
+272年	272
+208年	208
+175年	175
+170年	170
+171年	171
+172年	172
+58年	58
+59年	59
+139年	139
+114年	114
+134年	134
+135年	135
+179年	179
+142年	142
+96年	96
+181年	181
+146年	146
+145年	145
+183年	183
+182年	182
+184年	184
+324年	324
+589年	589
+521年	521
+92年	92
+597年	597
+329年	329
+133年	133
+413年	413
+258年	258
+259年	259
+196年	196
+236年	236
+789年	789
+332年	332
+631年	631
+487年	487
+638年	638
+473年	473
+176年	176
+143年	143
+643年	643
+523年	523
+215年	215
+148年	148
+247年	247
+424年	424
+641年	641
+492年	492
+639年	639
+256年	256
+441年	441
+131年	131
+191年	191
+450年	450
+612年	612
+635年	635
+611年	611
+534年	534
+488年	488
+607年	607
+524年	524
+282年	282
+472年	472
+471年	471
+490年	490
+316年	316
+797年	797
+511年	511
+295年	295
+598年	598
+303年	303
+250年	250
+515年	515
+512年	512
+418年	418
+333年	333
+294年	294
+217年	217
+277年	277
+578年	578
+312年	312
+加法	Optellen
+284年	284
+283年	283
+241年	241
+243年	243
+262年	262
+498年	498
+336年	336
+334年	334
+266年	266
+261年	261
+470年	470
+349年	349
+271年	271
+275年	275
+292年	292
+296年	296
+345年	345
+431年	431
+380年代	380-389
+304年	304
+550年	550
+586年	586
+588年	588
+554年	554
+229年	229
+583年	583
+265年	265
+263年	263
+585年	585
+582年	582
+556年	556
+420年	420
+280年	280
+581年	581
+558年	558
+302年	302
+309年	309
+353年	353
+335年	335
+367年	367
+344年	344
+245年	245
+290年	290
+449年	449
+308年	308
+255年	255
+439年	439
+319年	319
+318年	318
+299年	299
+419年	419
+416年	416
+338年	338
+310年	310
+315年	315
+359年	359
+360年	360
+273年	273
+286年	286
+刀	Mes (voorwerp)
+288年	288
+278年	278
+455年	455
+577年	577
+575年	575
+482年	482
+486年	486
+580年	580
+567年	567
+564年	564
+561年	561
+328年	328
+325年	325
+317年	317
+574年	574
+566年	566
+249年	249
+348年	348
+442年	442
+443年	443
+267年	267
+244年	244
+248年	248
+343年	343
+562年	562
+417年	417
+268年	268
+590年	590
+269年	269
+499年	499
+409年	409
+405年	405
+國立臺灣大學	Nationale universiteit van Taiwan
+406年	406
+403年	403
+414年	414
+411年	411
+412年	412
+560年	560
+592年	592
+276年	276
+314年	314
+323年	323
+366年	366
+362年	362
+545年	545
+531年	531
+514年	514
+513年	513
+539年	539
+538年	538
+519年	519
+516年	516
+520年	520
+522年	522
+528年	528
+506年	506
+526年	526
+507年	507
+214年	214
+213年	213
+212年	212
+228年	228
+227年	227
+149年	149
+174年	174
+189年	189
+199年	199
+141年	141
+132年	132
+125年	125
+123年	123
+147年	147
+144年	144
+198年	198
+178年	178
+177年	177
+187年	187
+195年	195
+186年	186
+347年	347
+620年	620
+624年	624
+605年	605
+629年	629
+616年	616
+615年	615
+644年	644
+646年	646
+633年	633
+637年	637
+436年	436
+434年	434
+293年	293
+427年	427
+185年	185
+360年代	360-369
+321年	321
+客家話	Hakka (taal)
+327年	327
+430年	430
+447年	447
+小石城 (阿肯色州)	Little Rock (Arkansas)
+北寧省	Bắc Ninh (provincie)
+569年	569
+568年	568
+444年	444
+唯心主義	Idealisme
+796年	796
+冪	Machtsverheffen
+798年	798
+793年	793
+贛語	Ganyu
+685年	685
+799年	799
+683年	683
+博物館	Museum
+274年	274
+579年	579
+281年	281
+306年	306
+438年	438
+297年	297
+421年	421
+298年	298
+351年	351
+352年	352
+355年	355
+熊貓	Reuzenpanda
+95年	95
+94年	94
+594年	594
+542年	542
+448年	448
+445年	445
+305年	305
+234年	234
+565年	565
+381年	381
+弧度	Radiaal (wiskunde)
+385年	385
+553年	553
+307年	307
+584年	584
+346年	346
+257年	257
+霍閃	Bliksem
+285年	285
+591年	591
+289年	289
+手	Hand
+杜甫	Du Fu
+563年	563
+252年	252
+595年	595
+246年	246
+596年	596
+593年	593
+357年	357
+573年	573
+559年	559
+599年	599
+326年	326
+341年	341
+322年	322
+386年	386
+374年	374
+380年	380
+帕部羅·尼努達	Pablo Neruda
+136年	136
+吳語	Wuyu
+370年代	370-379
+樂器	Muziekinstrument
+景德鎮	Jingdezhen
+直升機	Helikopter
+摩托車	Motorfiets
+視頻	Video
+382年	382
+342年	342
+373年	373
+372年	372
+1980年代	1980-1989
+1990年代	1990-1999
+羅盤	Kompas
+X光	Röntgenstraling
+新疆	Sinkiang
+375年	375
+1970年代	1970-1979
+2000年代	2000-2009
+周	Zhou-dynastie
+形而上學	Metafysica
+387年	387
+蘇美爾	Soemer
+警察	Politie
+保羅·塞尚	Paul Cézanne
+諾貝爾和平獎	Nobelprijs voor de Vrede
+冰川	Gletsjer
+1930年代	1930-1939
+1960年代	1960-1969
+1920年代	1920-1929
+議會	Parlement
+左羅阿斯特	Zarathustra
+睏覺	Slaap (rust)
+美學	Esthetica
+胡志明	Hồ Chí Minh
+和平省	Hòa Bình (provincie)
+集合	Verzameling (wiskunde)
+1950年代	1950-1959
+眠夢	Droom
+漢謨拉比	Hammurabi
+萊州省	Lai Châu (provincie)
+河南省 (越南)	Hà Nam
+1940年代	1940-1949
+1900年代	1900-1909
+1910年代	1910-1919
+視覺藝術	Beeldende kunst
+壯人	Zhuang (volk)
+阿第拉	Attila de Hun
+潮州話	Chaozhouhua
+利婭娜	Rihanna
+指甲	Nagel (anatomie)
+奠邊省	Điện Biên (provincie)
+12	12 (getal)
+三船敏郎	Toshiro Mifune
+面	Gelaat
+文言文	Klassiek Chinees
+浪漫主義	Romantiek (stroming)
+流行音樂	Popmuziek
+南丁格爾	Florence Nightingale
+線	Lijn (meetkunde)
+331年	331
+11	11 (getal)
+365年	365
+13	13 (getal)
+子彈	Patroon (munitie)
+379年	379
+書寫	Schrijven
+達賴喇嘛	Dalai lama
+100	100 (getal)
+胠膝	Knie (anatomie)
+史詩	Epos
+眼鏡	Bril
+南海	Zuid-Chinese Zee
+俳句	Haiku (dichtvorm)
+奧克蘭文理學校	Auckland Grammar School
+冰櫃	Koelkast
+密爾沃基	Milwaukee
+巴洛克式	Barok (stijlperiode)
+薯	Zoete aardappel
+存在主義	Existentialisme
+1840年代	1840-1849
+14	14 (getal)
+1880年代	1880-1889
+燶菜	Koken (voedsel)
+15	15 (getal)
+18	18 (getal)
+重金属音乐	Heavy metal
+激光	Laser (licht)
+巴比嵌站	Barbican (metrostation)
+歌文嘉登站	Covent Garden (metrostation)
+騒斯沃站	Southwark (metrostation)
+1890年代	1890-1899
+皇帝	Keizer
+人民幣	Chinese renminbi
+富士山	Fuji (vulkaan)
+體積	Inhoud (volume)
+1830年代	1830-1839
+汽油	Benzine
+1800年代	1800-1809
+昂鐸顏·拉艾節	Antoine Lavoisier
+谷	Dal (aardrijkskunde)
+1860年代	1860-1869
+1870年代	1870-1879
+19	19 (getal)
+太陽能	Zonne-energie
+17	17 (getal)
+酸雨	Zure regen
+1810年代	1810-1819
+16	16 (getal)
+乘法	Vermenigvuldigen
+20	20 (getal)
+牢監	Gevangenis
+減法	Aftrekken (wiskunde)
+喜劇	Komedie
+維吉尼野·烏爾芙	Virginia Woolf
+尿	Urine
+1850年代	1850-1859
+安徽	Anhui
+天門	Voorhoofd
+內蒙古	Binnen-Mongolië
+亞述	Assyrische Rijk
+Sony	Sony Corporation
+零毫子	Munt (betaalmiddel)
+道爾頓	John Dalton
+火箭	Raket
+哥德	Kurt Gödel
+米科·佐登	Michael Jordan
+芭蕾	Ballet
+咸勒	Hamlet
+侯勃	David Hilbert
+芫茜	Koriander
+福建	Fujian (China)
+堪薩斯城 (密蘇里州)	Kansas City (Missouri)
+轉喻	Metonymie
+戈壁	Gobi
+屁督	Bil (anatomie)
+海南	Hainan
+40	40 (getal)
+錐形	Kegel (ruimtelijke figuur)
+世界母語日	Internationale Moedertaaldag
+甘肅	Gansu
+Björk	Björk
+古印度	Indusbeschaving
+倒踭	Elleboog
+漢人	Han-Chinezen
+鬍子	Baard (haargroei)
+30	30 (getal)
+前201年	201 v.Chr.
+前202年	202 v.Chr.
+壁	Muur (bouwsel)
+拓撲學	Topologie
+1600年代	1600-1609
+管弦樂團	Orkest
+乾旱	Droogte
+底厄勒斯	Diocletianus
+前110年	110 v.Chr.
+雲南	Yunnan
+風力	Windenergie
+民間音樂	Folk
+努眉	Jalal ad-Din Rumi
+1700年代	1700-1709
+山東	Shandong
+胛股	Arm (ledemaat)
+婁溫學	Antoni van Leeuwenhoek
+河南	Henan (China)
+1740年代	1740-1749
+1500年代	1500-1509
+前206年	206 v.Chr.
+前203年	203 v.Chr.
+存在論	Ontologie (filosofie)
+行列	Matrix (wiskunde)
+博弈論	Speltheorie
+著嚇	Angst
+1820年代	1820-1829
+前209年	209 v.Chr.
+1770年代	1770-1779
+點	Punt (wiskunde)
+扎·艾弗欒	Zac Efron
+可可·榭乃爾	Coco Chanel
+前112年	112 v.Chr.
+餲屑	Afval (vuilnis)
+湖南	Hunan
+水族館	Aquarium
+青海	Qinghai
+箭	Pijl (wapen)
+北京人	Pekingmens
+柏威夏寺	Preah Vihear (tempel)
+1680年代	1680-1689
+1610年代	1610-1619
+人文主義	Humanisme
+1510年代	1510-1519
+弓	Boog (wapen)
+打字機	Schrijfmachine
+前176年	176 v.Chr.
+話筒	Microfoon
+哥特式	Gotiek
+湖北	Hubei
+山西	Shanxi
+令子	Raadsel
+歐	Ohm (eenheid)
+貴州	Guizhou
+紙票子	Bankbiljet
+河	Beek (watergang)
+雷達	Radar
+燈泡	Gloeilamp
+後現代主義	Postmodernisme
+撲克	Speelkaart
+339年	339
+340年	340
+宮城縣	Miyagi (prefectuur)
+354年	354
+356年	356
+358年	358
+361年	361
+363年	363
+364年	364
+陝西	Shaanxi
+368年	368
+369年	369
+370年	370
+371年	371
+376年	376
+377年	377
+378年	378
+1780年代	1780-1789
+383年	383
+384年	384
+388年	388
+389年	389
+390年	390
+391年	391
+392年	392
+1730年代	1730-1739
+393年	393
+394年	394
+395年	395
+396年	396
+397年	397
+398年	398
+399年	399
+1540年代	1540-1549
+性別	Gender (sekse)
+岩手县	Iwate (prefectuur)
+美利堅合眾國憲法嗰第五條	Artikel 5 van de grondwet van de Verenigde Staten
+美利堅合眾國憲法嗰第七條	Artikel 7 van de grondwet van de Verenigde Staten
+1750年代	1750-1759
+1580年代	1580-1589
+1590年代	1590-1599
+質數	Priemgetal
+短篇小說	Kort verhaal
+279年	279
+440年	440
+517年	517
+572年	572
+2026年	2026
+2024年	2024
+2023年	2023
+2022年	2022
+2021年	2021
+2041年	2041
+2042年	2042
+2043年	2043
+2044年	2044
+2045年	2045
+2046年	2046
+2047年	2047
+2048年	2048
+2049年	2049
+2059年	2059
+變量	Variabele
+巴黎地鐵	Metro van Parijs
+中東嗰歷史	Geschiedenis van het Midden-Oosten
+模板:Taxobox	Sjabloon:Taxobox
+蝦蟆	Kikkers
+百家姓	Baijiaxing
+閩語	Minyu
+江西	Jiangxi
+叭嘶哣消毒法	Pasteuriseren
+科科尼諾縣 (亞利桑那州)	Coconino County
+希拉縣 (亞利桑那州)	Gila County
+污染	Milieuverontreiniging
+阿帕奇縣 (亞利桑那州)	Apache County
+科奇斯縣 (亞利桑那州)	Cochise County
+1150年代	1150-1159
+1030年代	1030-1039
+1050年代	1050-1059
+阿什利縣 (阿肯色州)	Ashley County
+巴克斯特縣 (阿肯色州)	Baxter County
+阿肯色縣 (阿肯色州)	Arkansas County
+炮	Artillerie
+分數	Breuk (wiskunde)
+咸寧	Xianning
+青森縣	Aomori (prefectuur)
+福岛县	Fukushima (prefectuur)
+1370年代	1370-1379
+鐸斯頓·惠布然	Thorstein Veblen
+組合數學	Combinatoriek
+卡·拿格浮多	Karl Lagerfeld
+庫勞爹·唽呋	Claudia Schiffer
+蠟燭	Kaars
+1230年代	1230-1239
+心電圖	Elektrocardiogram
+930年代	930-939
+1390年代	1390-1399
+著氣	Woede
+1130年代	1130-1139
+1360年代	1360-1369
+1270年代	1270-1279
+25	25 (getal)
+24	24 (getal)
+60	60 (getal)
+十四行詩	Sonnet
+紫禁城	Verboden Stad
+帝拿密	Dynamiet
+960年代	960-969
+990年代	990-999
+890年代	890-899
+1190年代	1190-1199
+1180年代	1180-1189
+日晷	Zonnewijzer
+集成電路	Geïntegreerde schakeling
+悲劇	Tragedie (toneel)
+虛無主義	Nihilisme (filosofie)
+大人	Volwassene
+般加黑	Henri Poincaré
+950年代	950-959
+1020年代	1020-1029
+1060年代	1060-1069
+丕平三世	Pepijn de Korte
+1210年代	1210-1219
+1350年代	1350-1359
+1310年代	1310-1319
+1260年代	1260-1269
+1220年代	1220-1229
+1010年代	1010-1019
+970年代	970-979
+1420年代	1420-1429
+秋田县	Akita (prefectuur)
+瓢羹	Lepel (bestek)
+吉茨	John Keats
+920年代	920-929
+1170年代	1170-1179
+980年代	980-989
+1080年代	1080-1089
+1000年代	1000-1009
+1300年代	1300-1309
+1330年代	1330-1339
+南投	Nantou (xiàn)
+E (數學常數)	E (wiskunde)
+線性代數	Lineaire algebra
+的士	Taxi (vervoer)
+地門	Kin (lichaamsdeel)
+1090年代	1090-1099
+1380年代	1380-1389
+1240年代	1240-1249
+1290年代	1290-1299
+中國嗰歷史	Geschiedenis van China
+數字	Cijfer
+1450年代	1450-1459
+1110年代	1110-1119
+1160年代	1160-1169
+940年代	940-949
+1250年代	1250-1259
+26	26 (getal)
+160年代	160-169
+雷	Donder
+固奴·那那庫·答夫	Goeroe Nanak
+1340年代	1340-1349
+1320年代	1320-1329
+1070年代	1070-1079
+1200年代	1200-1209
+1280年代	1280-1289
+經驗主義	Empirisme
+1140年代	1140-1149
+1440年代	1440-1449
+羅斯阿段站	North Acton (metrostation)
+蜇蟆蚣子	Caelifera
+模板:Cite book	Sjabloon:Citeer boek
+素描	Tekening
+記錄片	Documentaire
+雪利	Percy Bysshe Shelley
+工程學	Werktuigbouwkunde
+姓氏箋釋	Achternaam
+屙尿	Urineren
+櫥	Kast
+康特拉科斯塔縣 (加利福尼亞州)	Contra Costa County
+索諾馬縣 (加利福尼亞州)	Sonoma County
+索拉諾縣 (加利福尼亞州)	Solano County
+馬林縣 (加利福尼亞州)	Marin County
+納帕縣 (加利福尼亞州)	Napa County
+聖地牙哥縣 (加利福尼亞州)	San Diego County
+內華達縣 (加利福尼亞州)	Nevada County (Californië)
+詞尾音消失	Apocope
+瑟札·理茲	César Ritz
+布利庫斯端站	Brixton (metrostation)
+世界自然基金會	World Wide Fund for Nature
+大峽谷	Grand Canyon
+鄰舍	Buurt
+來福槍	Geweer
+寒螼子	Lumbricina
+山形县	Yamagata (prefectuur)
+太極旗	Vlag van Zuid-Korea
+道格拉斯 麦克阿瑟	Douglas MacArthur
+卑武利·希爾茲	Beverly Hills
+焰火	Vuurwerk
+地熱能源	Aardwarmte
+商	Shang-dynastie
+麥北斯	Macbeth (toneelstuk)
+日本嗰歷史	Geschiedenis van Japan
+借落子	Zangcicaden
+麻醉	Anesthesie
+流行文化	Popcultuur
+Vim	Vim (teksteditor)
+棋	Bordspel
+咭嚌	Kitsch
+後生	Adolescentie
+橡膠	Rubber
+電梯	Lift (transport)
+腳	Been (ledemaat)
+印度嗰歷史	Geschiedenis van Zuid-Azië
+聲納	Sonar
+黃曆	Chinese kalender
+平方根	Vierkantswortel
+畫像	Portret
+貴族	Adel
+切閃站	Chesham (metrostation)
+臺南市	Tainan (stad)
+自由詩	Vrij vers
+卡拉·布魯尼	Carla Bruni
+印刷機	Drukpers
+非洲嗰歷史	Geschiedenis van Afrika
+績紹·本詹	Gisele Bündchen
+李斯	Li Si
+雲林	Yunlin
+莫諾縣 (加利福尼亞州)	Mono County
+呼應	Anafoor (taalkunde)
+佐俧俄·阿瑪尼	Giorgio Armani
+維維嫣·韋斯托屋多	Vivienne Westwood
+基因工程	Genetische technologie
+柯里斯殿·帝俄	Christian Dior
+捺扣	Knoop (kleding)
+李安	Ang Lee
+核磁共振成相	MRI-scanner
+翼𦑃	Vleugel (vogel)
+A型H1N1流行性感冒病毒	H1N1
+戲面殼子	Masker
+中	Central
+學士	Bachelor
+主語	Onderwerp (taalkunde)
+華爾街日報	The Wall Street Journal
+100年代	100-109
+三稜鏡	Prisma (optica)
+混沌理論	Chaostheorie
+借彪	Jabir ibn Hayyan
+蝦蟆仁子	Ontwikkeling van kikvorsachtigen
+著火	Brand (vuur)
+1100年代	1100-1109
+水力	Waterkracht
+級數	Reeks (wiskunde)
+中國抗日戰爭	Tweede Chinees-Japanse Oorlog
+110年代	110-119
+龍樹	Nagarjuna
+伊夫·聖·羅倫	Yves Saint Laurent
+李承晩	Syngman Rhee
+南昌	Nanchang
+矇矇躲躲	Verstoppertje
+120年代	120-129
+池袋站	Station Ikebukuro
+阿披實	Abhisit Vejjajiva
+厘米	Centimeter
+韋斯杜芬濟利站	West Finchley
+極限	Limiet
+170年代	170-179
+腡	Vingerafdruk
+Gucci	Gucci
+插圖	Illustratie
+甲午戰爭	Eerste Chinees-Japanse Oorlog
+韻	Rijm (stijlfiguur)
+俄打	Ode (dichtkunst)
+謂語	Gezegde (taalkunde)
+亞歷山德拉·柯倫泰	Aleksandra Kollontaj
+新宿區	Shinjuku
+塑像	Standbeeld
+牙骹	Kaak (anatomie)
+新石器革命	Neolithische revolutie
+曼婁主義	Monroedoctrine
+𩭽頭	Alopecia androgenetica
+高雄市	Kaohsiung
+艾列則·本曳乎打	Eliëzer Ben-Jehoeda
+普理鐸廉尼	Praetoriaanse garde
+史丹·李	Stan Lee (stripauteur)
+南極圈	Zuidpoolcirkel
+巴剌	Ballad
+簡·愛	Jane Eyre
+130年代	130-139
+碩士	Master (graad)
+黸	Roest (metaal)
+舞臺藝術	Podiumkunsten
+娛樂	Recreatie
+三國	Drie Koninkrijken (China)
+亨利·曼齊尼	Henry Mancini
+數學常數	Wiskundige constante
+膏子	Pap (voedsel)
+褯片	Luier
+德拿留斯	Denarius
+天皇	Lijst van keizers van Japan
+1400年代	1400-1409
+壽歲	Levensverwachting
+140年代	140-149
+1410年代	1410-1419
+1430年代	1430-1439
+艾米里俄·阿圭那多	Emilio Aguinaldo
+1460年代	1460-1469
+引喻	Synecdoche
+港區 (東京都)	Minato
+1470年代	1470-1479
+1480年代	1480-1489
+辛亥革命	Xinhai-revolutie
+1490年代	1490-1499
+類韻	Halfrijm
+噸	Ton (massa)
+LV	Louis Vuitton (merk)
+150年代	150-159
+尹潽善	Yun Bo-seon
+南京大屠殺	Bloedbad van Nanking
+豆漿	Sojamelk
+1520年代	1520-1529
+我有一隻夢	I Have a Dream (Martin Luther King)
+手㡤	Zakdoek
+1530年代	1530-1539
+韻律	Metrum
+Prada	Prada
+1550年代	1550-1559
+1560年代	1560-1569
+澀谷區	Shibuya
+1570年代	1570-1579
+屏東	Pingtung (xiàn)
+1620年代	1620-1629
+1630年代	1630-1639
+1640年代	1640-1649
+1650年代	1650-1659
+顯微鏡	Microscoop
+1660年代	1660-1669
+1670年代	1670-1679
+肋𩩍骨	Rib (anatomie)
+1690年代	1690-1699
+張道陵	Zhang Daoling
+中秋餅	Maancake
+1710年代	1710-1719
+1720年代	1720-1729
+娜娥媚·監孛	Naomi Campbell
+塔	Pagode
+1760年代	1760-1769
+明喻	Vergelijking (beeldspraak)
+土狗	Veenmollen
+1790年代	1790-1799
+中醫	Traditionele Chinese geneeskunde
+世界嗰歷史	Geschiedenis van de wereld
+180年代	180-189
+Notting Hill	Notting Hill (film)
+珠江	Parelrivier
+咆哮山莊	Woeste hoogten
+韋庫拖里阿線	Victoria Line
+跨句	Enjambement
+叫銛子	Scheidsrechtersfluit
+笙卓線	Central Line
+190年代	190-199
+奧林達 (加利福尼亞州)	Orinda
+資興	Zixing
+弱強格	Jambe
+必卡底利線	Piccadilly Line
+鄱陽湖	Poyangmeer
+武夷山	Wuyigebergte
+禾特露實第線	Waterloo & City Line
+正旋舞歌	Strofe
+阿歷山德·麥琨	Alexander McQueen
+形	Vorm (fysiek)
+色斯特州斯	Sestertie
+作爆	Walging
+鑊	Wok
+強弱格	Trochee
+中國足球協會超級聯賽	Chinese Football Association Super League
+所科線	Circle Line (Londen)
+的斯集庫杜線	District Line
+咸摩斯密史&實第線	Hammersmith & City Line
+200年代	200-209
+焦尼·阿利得	Johnny Hallyday
+楷棏·茉蕬	Kate Moss
+強弱弱格	Dactylus
+中央區 (東京都)	Chuo (Tokio)
+文京區	Bunkyo
+舊金山灣區	San Francisco Bay Area
+足立區	Adachi (Tokio)
+210年代	210-219
+千代田區	Chiyoda
+江戶川區	Edogawa (wijk)
+金奎植	Kim Kyu-sik
+Dolce & Gabbana	Dolce & Gabbana
+220年代	220-229
+八頂段站	Station London Paddington
+羅笙線	Northern Line (Londen)
+等號	Gelijkteken
+卡文·可蘭	Calvin Klein
+潑水節	Songkran
+江東區 (東京都)	Koto (Tokio)
+龍	Chinese draak
+金九	Kim Gu
+230年代	230-239
+九江	Jiujiang
+240年代	240-249
+情節	Plot
+大田區	Ota (Tokio)
+250年代	250-259
+嘉羅希·拿華頁	Galeries Lafayette
+五行	Wu Xing
+260年代	260-269
+270年代	270-279
+扁頭風	Echte cobra's
+280年代	280-289
+290年代	290-299
+清水寺	Kiyomizu-dera
+300年代	300-309
+310年代	310-319
+320年代	320-329
+330年代	330-339
+羅漢 (佛教)	Arahant
+340年代	340-349
+醬油	Sojasaus
+繞口令	Tongbreker
+所利都斯	Solidus (munt)
+400年代	400-409
+世田谷區	Setagaya
+公制	Metriek stelsel
+410年代	410-419
+荒川區	Arakawa (Tokio)
+葛飾區	Katsushika
+杉並區	Suginami
+板橋區 (日本)	Itabashi
+台東區	Taito (Tokio)
+練馬區	Nerima
+420年代	420-429
+利瑪竇	Matteo Ricci
+品川區	Shinagawa
+共產黨	Communistische partij
+430年代	430-439
+蕭戊·安德森	Sherwood Anderson
+目黑區	Meguro (Tokio)
+中野區	Nakano (Tokio)
+440年代	440-449
+450年代	450-459
+北區 (東京都)	Kita (Tokio)
+墨田區	Sumida (Tokio)
+460年代	460-469
+470年代	470-479
+豐島區	Toshima (Tokio)
+480年代	480-489
+490年代	490-499
+牛	Bos (geslacht)
+90	90 (getal)
+500年代	500-509
+58	58 (getal)
+510年代	510-519
+520年代	520-529
+郎波羅·哥疊	Jean Paul Gaultier
+530年代	530-539
+540年代	540-549
+索馬里内戰	Somalische Burgeroorlog
+550年代	550-559
+72	72 (getal)
+560年代	560-569
+帝他·黃·第斯	Dita Von Teese
+570年代	570-579
+580年代	580-589
+590年代	590-599
+臺中市	Taichung
+600年代	600-609
+610年代	610-619
+上海申鑫足球俱乐部	Shanghai Shenxin
+祠堂	Citang
+620年代	620-629
+800年代	800-809
+630年代	630-639
+640年代	640-649
+650年代	650-659
+時裝週	Modeweek
+660年代	660-669
+670年代	670-679
+衫袖	Mouw
+690年代	690-699
+700年代	700-709
+法隆寺	Horyu-ji
+70年代	70-79
+710年代	710-719
+阿森納站	Arsenal (metrostation)
+720年代	720-729
+730年代	730-739
+基阿尼·沃薩濟	Gianni Versace
+750年代	750-759
+電池	Batterij (elektrisch)
+2010年冰島火山嗰噴發	Vulkaanuitbarsting onder de Eyjafjallajökull 2010
+790年代	790-799
+80年代	80-89
+810年代	810-819
+820年代	820-829
+840年代	840-849
+茣菜	Waterspinazie
+討飯教子	Bedelen
+東吳	Koninkrijk Wu
+啑呢	Chutney
+900年代	900-909
+90年代	90-99
+910年代	910-919
+92	92 (getal)
+84	84 (getal)
+96	96 (getal)
+匹茲堡 (加利福尼亞州)	Pittsburg (Californië)
+43	43 (getal)
+指示詞	Aanwijzend voornaamwoord
+青年沙利門	Karel de Jongere
+東京站	Station Tokio
+布辣乎賴爾站	Station London Blackfriars
+拉斐特 (加利福尼亞州)	Lafayette (Californië)
+87	87 (getal)
+語體	Register (taalkunde)
+騒斯革站	Southgate (metrostation)
+54	54 (getal)
+哥都學婁都站	Goldhawk Road (metrostation)
+丕平四世	Pepijn de Gebochelde
+美國國家公園管理局	National Park Service
+張國榮	Leslie Cheung
+威廉·詹姆士·西迪斯	William James Sidis
+安達斯·波尼斯奧	Andrés Bonifacio
+傽·賈利阿羅	John Galliano
+瀨尿	Enuresis nocturna
+阿波里納里奧·馬比尼	Apolinario Mabini
+王安石	Wang Anshi
+炙日頭	Zonnebaden
+鹿野苑	Sarnath
+嘩哱嘞蛋	Fabergé-ei
+夏羅資	Harrods
+朴憲永	Pak Hon-yong
+李瑈	Sejo van Joseon
+金枓奉	Kim Tubong
+溜溜板	Glijbaan
+指示	Deixis
+八卦	Trigram (I Tjing)
+88	88 (getal)
+阿段塘站	Acton Town (metrostation)
+稻荷町站	Inaricho (metrostation)
+福澤諭吉	Fukuzawa Yukichi
+萍鄉	Pingxiang
+新喻	Xinyu
+鷹潭	Yingtan
+贛州	Ganzhou
+吉安	Ji'an (Jiangxi)
+宜春	Yichun (Jiangxi)
+撫州	Fuzhou (Jiangxi)
+上饒	Shangrao
+漆器	Lakwerk
+腳魚	Weekschildpadden
+阿斯	As (munteenheid)
+華倫蒂羅·嘉拿華尼	Valentino Garavani
+崔庸健	Choi Jong Kun
+蔣·波羅	Joan Blaeu
+敘事學	Narratologie
+和單	Laken (beddengoed)
+幫助:搣	Mie
+俄沃站	Oval (metrostation)
+85	85 (getal)
+澀谷站	Station Shibuya
+27	27 (getal)
+35	35 (getal)
+64	64 (getal)
+99	99 (getal)
+蘇姓	Sū
+都柏林人	Dubliners
+美利堅峽穀 (加利福尼亞州)	American Canyon
+多娜·卡蘭	Donna Karan
+崇禮門	Sungnyemun
+技術嗰歷史	Geschiedenis van de technologie
+一隻後生藝術家嗰畫像	A Portrait of the Artist as a Young Man
+弱弱強格	Anapest
+瑪麗·哲浮姿	Mary Travers
+梅沒濕斯	Mimesis
+存在	Bestaan
+許政	Heo Jeong
+廳下	Woonkamer
+奧婁斯	Aureus
+雷斯立瑪諾站	Ruislip Manor (metrostation)
+燈塔之行	To the Lighthouse
+理性主義	Rationalisme
+聖保羅地鐵	Metro van São Paulo
+陀螺儀	Gyroscoop
+和服	Kimono
+頭韻法	Alliteratie
+韓國嗰國寶	Nationale schatten van Zuid-Korea
+古世界嗰七大奇跡	Zeven wereldwonderen van de antieke wereld
+核桃溪 (加利福尼亞州)	Walnut Creek
+着落月球	Maanlanding
+獨立門	Donkrimmun
+迎恩門	Yeongeunmun
+馬丁內斯 (加利福尼亞州)	Martinez (Californië)
+嘆咸固玲站	Turnham Green (metrostation)
+56	56 (getal)
+飯	Nasi (voedingsmiddel)
+瑪算·迪可算線	Mason-Dixonlijn
+安卓站	Angel (metrostation)
+胸肌	Musculus pectoralis major
+89	89 (getal)
+芬茲布利白站	Station Finsbury Park
+Cartier	Cartier (juweliershuis)
+76	76 (getal)
+29	29 (getal)
+清湯	Wantan
+蒙古	Mongoolse Hoogvlakte
+希凌端站	Hillingdon (metrostation)
+四行詩	Kwatrijn
+常寧	Changning (stad)
+文天祥	Wen Tianxiang
+孛咸站	Station Balham
+招兵	Dienstplicht
+71	71 (getal)
+28	28 (getal)
+爆竹	Rotje
+可黑宣	Cohesie (taalkunde)
+59	59 (getal)
+62	62 (getal)
+莫拉加 (加利福尼亞州)	Moraga
+95	95 (getal)
+濟圭爾站	Chigwell (metrostation)
+雀范站	Chalk Farm (metrostation)
+安鐸尼年努斯	Antoninianus
+38	38 (getal)
+75	75 (getal)
+北塞茲白站	Belsize Park (metrostation)
+聖拉蒙 (加利福尼亞州)	San Ramon (Californië)
+懷杜且泊站	Station Whitechapel
+可洛斯利站	Croxley (metrostation)
+大沙丘國家公園	Great Sand Dunes National Park and Preserve
+蒲圻	Chibi (China)
+荷蘭白站	Holland Park (metrostation)
+北可斯集杜站	Baker Street (metrostation)
+諧革站	Highgate (metrostation)
+詞頭音消失	Eferesis
+Wikipedia:捷徑	Wikipedia:Verwijzing
+廬山	Lushan
+心經	Hartsoetra
+45	45 (getal)
+皮諾爾 (加利福尼亞州)	Pinole
+烏霍站	Woodford (metrostation)
+羅斯屋站	Northwood (metrostation)
+諧斯集杜肯成段站	High Street Kensington (metrostation)
+Armani	Armani
+阿濟威站	Archway (metrostation)
+肯第西塘站	Station Kentish Town
+65	65 (getal)
+羅斯夏婁站	North Harrow (metrostation)
+古然祭侯站	Grange Hill (metrostation)
+群茲韋站	Queensway (metrostation)
+瑪麗勒般站	Station London Marylebone
+Valentino	Valentino (merk)
+音節省略	Elisie
+俄斯多利站	Osterley (metrostation)
+夏婁安哲侯站	Harrow-on-the-Hill (metrostation)
+理茲酒店 (巴黎)	Hôtel Ritz (Parijs)
+68	68 (getal)
+汪茲得站	Wanstead (metrostation)
+禾庫斯何站	Station Vauxhall
+諧巴熱站	High Barnet (metrostation)
+97	97 (getal)
+渥庫斯霍都所庫斯站	Oxford Circus (metrostation)
+大數	Chinese cijfers
+南京大學	Universiteit van Nanking
+94	94 (getal)
+杜町布羅威站	Tooting Broadway
+輔仁大學	Universitas Catholica Fu Jen
+李姓	Li (李)
+55	55 (getal)
+91	91 (getal)
+Versace	Versace (merk)
+阿羅茲固羅戶站	Arnos Grove (metrostation)
+韓服	Hanbok
+葉姓	Ye
+終戰詔書	Gyokuon-hoso
+80	80 (getal)
+21	21 (getal)
+22	22 (getal)
+70	70 (getal)
+50	50 (getal)
+41	41 (getal)
+34	34 (getal)
+33	33 (getal)
+47	47 (getal)
+31	31 (getal)
+32	32 (getal)
+44	44 (getal)
+46	46 (getal)
+49	49 (getal)
+48	48 (getal)
+37	37 (getal)
+39	39 (getal)
+36	36 (getal)
+53	53 (getal)
+81	81 (getal)
+66	66 (getal)
+63	63 (getal)
+52	52 (getal)
+69	69 (getal)
+73	73 (getal)
+57	57 (getal)
+74	74 (getal)
+79	79 (getal)
+67	67 (getal)
+77	77 (getal)
+83	83 (getal)
+82	82 (getal)
+86	86 (getal)
+78	78 (getal)
+98	98 (getal)
+袁姓	Yuan (袁)
+羅姓	Luó
+宋姓	Sòng
+琴	Guqin
+艾祭韋爾站	Edgware (metrostation)
+益肯咸站	Ickenham (metrostation)
+羅斯溫布利站	Station North Wembley
+畬人	She (volk)
+拿第摩婁都站	Latimer Road (metrostation)
+紐巴雷白站	Newbury Park (metrostation)
+叭呔語	Patois
+固祭斯集杜站	Goodge Street (metrostation)
+可黑能斯	Coherentie (taalkunde)
+妲諾維夫人	Mrs. Dalloway
+東洋生態區	Oriëntaals gebied
+Givenchy	Givenchy
+希斯羅拖美拿1,2,3站	Heathrow Terminals 1,2,3 (metrostation)
+羅斯浮茲站	Northfields (metrostation)
+拿芬斯可杜白站	Ravenscourt Park (metrostation)
+透鏡	Lens (optica)
+61	61 (getal)
+俄都革站	Aldgate (metrostation)
+茂恩都站	Mile End (metrostation)
+瑪波阿濟站	Marble Arch (metrostation)
+借凌庫羅思站	Charing Cross (metrostation)
+阿摩閃站	Amersham (metrostation)
+淺草站	Station Asakusa
+百慶站	Station Barking
+布辣何斯婁都站	Station Blackhorse Road
+加拿大禾多站	Station Canada Water
+科能斯集杜站	Station London Cannon Street
+借芳拿第摩站	Station Chalfont & Latimer
+絕利屋站	Station Chorleywood
+依凌布羅威站	Station Ealing Broadway
+惠比壽站	Station Ebisu
+華凌端站	Farringdon (metrostation)
+固玲霍站	Station Greenford
+甲諾斯巴雷站	Station Gunnersbury
+夏勒斯登站	Station Harlesden
+夏婁沃茲端站	Station Harrow & Wealdstone
+希斯羅拖美拿5站	Station Heathrow Terminal 5
+諧布利艾凌段站	Station Highbury & Islington
+肯索固玲站	Station Kensal Green
+丘嘉登茲站	Station Kew Gardens
+肯段站	Station Kenton
+肯成段俄林劈站	Station Kensington (Olympia)
+利物浦斯集杜站	Station London Liverpool Street
+倫敦布利祭站	Station London Bridge
+摩革站	Station Moorgate
+荻窪站	Station Ogikubo
+俄都斯集杜站	Station Old Street
+群茲白站	Station Queen's Park (Londen)
+歷紋斯禾斯站	Station Rickmansworth
+雷濟滿站	Station Richmond (Londen)
+色文實斯拖茲站	Station Seven Sisters
+新宿站	Station Shinjuku
+騒斯肯段站	Station South Kenton
+騒斯雷斯立站	Station South Ruislip
+斯端布利祭白站	Station Stonebridge Park
+斯哲霍站	Station Stratford
+高田馬場站	Station Takadanobaba
+托騰咸侯站	Station Tottenham Hale
+鴨敏斯拖站	Station Upminster
+上野站	Station Ueno
+沃咸斯兜笙卓站	Station Walthamstow Central
+溫布利笙卓站	Station Wembley Central
+韋斯杜布南段站	Station West Brompton
+韋斯杜咸站	Station West Ham
+韋斯杜雷斯立站	Station West Ruislip
+永保端站	Station Wimbledon
+沃茲登將庫遜站	Station Willesden Junction
+趙姓	Zhao (achternaam)
+張姓	Zhang (张)
+王姓	Wáng
+劉姓	Liu
+陳姓	Chen (naam)
+板庫-黙紐紋杜站	Bank / Monument (metrostation)
+百京賽都站	Barkingside (metrostation)
+巴巒科杜站	Barons Court (metrostation)
+拜茲禾多站	Bayswater (metrostation)
+立方體	Kubus (ruimtelijke figuur)
+42	42 (getal)
+比康濟站	Becontree (metrostation)
+黑人	Zwarten
+波孟都賽站	Bermondsey (metrostation)
+京斯可羅斯聖潘可拿斯站	King's Cross St. Pancras
+北斯諾固玲站	Bethnal Green (metrostation)
+湯姓	Tāng (achternaam)
+都伯林 (加利福尼亞州)	Dublin (Californië)
+Hermès	Hermès
+2061年	2061
+楊姓	Yang (杨)
+黃姓	Huang
+周姓	Zhou
+吳姓	Wú
+音樂史	Muziekgeschiedenis
+聯合市 (加利福尼亞州)	Union City (Californië)
+中華民國國歌	Lied der drie principes van het volk
+佢俚先頭攻擊…	Toen de nazi's de communisten arresteerden
+呫·呵嘍法	Jim Crow-wetten
+三清山	Nationaal park Sanqingshan
+貝特魯大屠殺	Peterloo-bloedbad
+粥	Rijstepap
+現代主義	Modernisme
+邦茲集杜站	Bond Street (metrostation)
+斤	Kati (gewichtsmaat)
+孛勞站	Borough (metrostation)
+波斯段瑪諾站	Boston Manor (metrostation)
+崩茲固玲站	Bounds Green (metrostation)
+保婁都站	Bow Road (metrostation)
+51	51 (getal)
+本杜厄站	Burnt Oak (metrostation)
+延曆寺	Enryaku-ji
+金文	Jinwen (inscripties)
+Fendi	Fendi
+布南利拜保站	Bromley-by-Bow (metrostation)
+南舊金山 (加利福尼亞州)	South San Francisco
+韋斯杜肯成段站	West Kensington (metrostation)
+屋固玲站	Wood Green (metrostation)
+騒斯夏婁站	South Harrow (metrostation)
+固勒潑蘭斯集杜站	Great Portland Street (metrostation)
+及本白站	Kilburn Park (metrostation)
+奧克利 (加利福尼亞州)	Oakley (Californië)
+普萊森特希爾 (加利福尼亞州)	Pleasant Hill (Californië)
+古羅馬嗰貨幣	Romeinse munteenheid
+溫布利白站	Wembley Park (metrostation)
+酒比利線	Jubilee Line
+東京地鐵	Metro van Tokio
+瑞士科他祭站	Swiss Cottage (metrostation)
+騒斯肯成段站	South Kensington (metrostation)
+行斯婁韋斯杜站	Hounslow West (metrostation)
+半月灣 (加利福尼亞州)	Half Moon Bay
+聖巴布羅 (加利福尼亞州)	San Pablo (Californië)
+韋庫拖里阿站	Station London Victoria
+百何斯杜侯站	Buckhurst Hill (metrostation)
+臨湘	Linxiang
+瀏陽	Liuyang (stad)
+邵武	Shaowu
+寇多年婁都站	Caledonian Road (metrostation)
+監登塘站	Camden Town (metrostation)
+卡拿雷沃乎站	Canary Wharf (metrostation)
+卡寧塘站	Canning Town (metrostation)
+科能茲白站	Canons Park (metrostation)
+髮色	Haarkleur
+槍斯利然站	Chancery Lane (metrostation)
+頌聖歌	Phleng Sansasoen Phra Barami
+西漢	Westelijke Han-dynastie
+濟斯韋庫白站	Chiswick Park
+吳城文化	Wucheng
+庫臘范可紋站	Clapham Common (metrostation)
+庫臘范羅斯站	Clapham North (metrostation)
+庫臘范騒斯站	Clapham South (metrostation)
+殼霍斯多茲站	Cockfosters (metrostation)
+可凌兜站	Colindale (metrostation)
+可列屋站	Colliers Wood (metrostation)
+都潘州斯	Dupondius
+文姓	Wen (文)
+胡姓	Hu (achternaam)
+陸姓	Lu (陆)
+中華蘇維埃共和國	Jiangxi Sovjet
+眯睎眼	Amandelogen
+韋斯杜敏斯拖站	Westminster (metrostation)
+霍利斯	Follis (munt)
+詞中音消失	Syncope (taalkunde)
+東漢	Oostelijke Han-dynastie
+舍利子	Śarīra
+打艮咸依斯杜站	Dagenham East (metrostation)
+打艮咸希斯威站	Dagenham Heathway (metrostation)
+大冶	Daye
+德布登站	Debden (metrostation)
+族譜	Genealogieboek
+田原町站	Tawaramachi (metrostation)
+夏段可羅斯站	Hatton Cross (metrostation)
+南朝	Zuidelijke Dynastieën
+德興	Dexing
+瑞昌	Ruichang
+周璇	Zhou Xuan
+明日	Morgen (de volgende dag)
+協浮茲布西站	Shepherd's Bush (metrostation)
+波	The Waves
+除法	Delen
+高安	Gao'an
+多利斯侯站	Dollis Hill (metrostation)
+有理數	Rationaal getal
+卡䋎斯	Quadrans (munt)
+奎那留斯	Quinarius
+雷珍字白站	Regent's Park (metrostation)
+依斯杜咸站	East Ham (metrostation)
+羅斯依凌站	North Ealing (metrostation)
+渥·因·浮羅孌·索達	Voor een verloren soldaat (film)
+依凌可紋站	Ealing Common (metrostation)
+爾斯可杜站	Earl's Court (metrostation)
+依斯杜阿段站	East Acton (metrostation)
+依斯杜芬濟利站	East Finchley (metrostation)
+依斯杜孛尼站	East Putney (metrostation)
+依斯杜渴站	Eastcote (metrostation)
+諧都白可諾站	Hyde Park Corner (metrostation)
+60年代	60-69
+50年代	50-59
+40年代	40-49
+30年代	30-39
+雷斯立站	Ruislip (metrostation)
+勞段站	Loughton (metrostation)
+芬濟利婁都站	Finchley Road (metrostation)
+閑椒然站	Hanger Lane (metrostation)
+恒端笙卓站	Hendon Central (metrostation)
+羅斯合站	Northolt (metrostation)
+敘事	Verhaal
+步賴斯兜站	Plaistow (metrostation)
+暗白站	Elm Park (metrostation)
+音班庫紋杜站	Embankment (metrostation)
+斯探佛布魯庫站	Stamford Brook (metrostation)
+襠袋	Braguette
+艾祭韋爾婁都站	Edgware Road (Bakerloo Line)
+邑屏站	Epping (metrostation)
+度 (溫度)	Graad (temperatuur)
+韋斯杜阿段站	West Acton
+禾然斯集杜站	Warren Street (metrostation)
+優斯端斯怪爾站	Euston Square (metrostation)
+固玲白站	Green Park (metrostation)
+江南	Jiangnan
+神主牌	Shenzhupai
+盧叟斯怪爾站	Russell Square (metrostation)
+佛羅部站	Fairlop (metrostation)
+巴部第斯杜·茄比科尼	Baptiste Giabiconi
+分類:德國	Categorie:Duitsland
+分類:意大利	Categorie:Italië
+分類:美國	Categorie:Verenigde Staten
+分類:俄羅斯	Categorie:Rusland
+分類:加拿大	Categorie:Canada
+分類:英國	Categorie:Verenigd Koninkrijk
+分類:中國	Categorie:China
+分類:日本	Categorie:Japan
+分類:澳大利亞	Categorie:Australië
+分類:印度	Categorie:India
+分類:沙特阿拉伯	Categorie:Saoedi-Arabië
+分類:以色列	Categorie:Israël
+分類:土耳其	Categorie:Turkije
+分類:埃及	Categorie:Egypte
+辣布羅庫固羅戶站	Ladbroke Grove (metrostation)
+20年代	20-29
+芬濟利笙卓站	Finchley Central (metrostation)
+杜町百站	Tooting Bec (metrostation)
+然卡斯拖革站	Lancaster Gate (metrostation)
+俄都革依斯杜站	Aldgate East (metrostation)
+鄧波站	Temple (metrostation Londen)
+聖波茲站	St. Paul's (metrostation)
+固羅實斯特婁都站	Gloucester Road (metrostation)
+托騰咸可杜婁都站	Tottenham Court Road (metrostation)
+合邦站	Holborn (metrostation)
+屑端播依站	Theydon Bois (metrostation)
+吉齊熱陸軍	Kitchener's army
+行斯婁笙卓站	Hounslow Central (metrostation)
+1120年代	1120-1129
+680年代	680-689
+摩白站	Moor Park (metrostation)
+分類:荷蘭	Categorie:Nederland
+分類:波蘭	Categorie:Polen
+分類:泰國	Categorie:Thailand
+分類:越南	Categorie:Vietnam
+分類:植物	Categorie:Plant
+分類:物理學	Categorie:Natuurkunde
+分類:生物學	Categorie:Biologie
+分類:化學	Categorie:Scheikunde
+分類:歷史	Categorie:Geschiedenis
+分類:地理	Categorie:Geografie
+分類:社會	Categorie:Mens en maatschappij
+拔森固玲站	Parsons Green (metrostation)
+分類:宗教	Categorie:Religie
+分類:科學	Categorie:Wetenschap
+分類:地球	Categorie:Aarde
+福咸布羅威站	Fulham Broadway (metrostation)
+品利可站	Pimlico (metrostation)
+桃兒侯站	Tower Hill (metrostation)
+孟遜孝斯站	Mansion House (metrostation)
+維曼默宮	Vimanmekpaleis
+理茲酒店 (倫敦)	The Ritz
+艾勒芳卡斯托站	Elephant & Castle (metrostation)
+禾維庫阿夫紐站	Warwick Avenue (metrostation)
+俄波段站	Alperton (metrostation)
+鴨敏斯拖布利祭站	Upminster Bridge (metrostation)
+艮自侯站	Gants Hill (metrostation)
+斯郎斯怪爾站	Sloane Square (metrostation)
+聖將茲屋站	St. John's Wood (metrostation)
+斯鐸沃站	Stockwell (metrostation)
+瑪諾孝斯站	Manor House (metrostation)
+藍北斯羅斯站	Lambeth North (metrostation)
+群茲巴雷站	Queensbury (metrostation)
+聖詹實斯白站	St. James's Park (metrostation)
+諧諾站	Hainault (metrostation)
+咸部斯得站	Hampstead (metrostation)
+照應	Katafoor
+希斯羅拖美拿4站	Heathrow Terminal 4 (metrostation)
+何羅威婁都站	Holloway Road (metrostation)
+杭絕栖站	Hornchurch (metrostation)
+行斯婁依斯杜站	Hounslow East (metrostation)
+鴨段白站	Upton Park (metrostation)
+部雷浮站	Perivale (metrostation)
+白羅夭站	Park Royal (metrostation)
+苗侯依斯杜站	Mill Hill East (metrostation)
+分類:2012年過世	Categorie:Lijsten van personen overleden in 2012
+雷斯立嘉登茲站	Ruislip Gardens (metrostation)
+黎段站	Leyton (metrostation)
+肯寧段站	Kennington (metrostation)
+及本站	Kilburn (metrostation)
+京茲巴雷站	Kingsbury (metrostation)
+詩節	Stanza
+團敗庫然站	Turnpike Lane (metrostation)
+斯丹摩站	Stanmore (metrostation)
+羅夭厄站	Royal Oak (metrostation)
+奈杜布利祭站	Knightsbridge (metrostation)
+屋斯布利祭站	Uxbridge (metrostation)
+羅斯固玲威濟站	North Greenwich (metrostation)
+鴨尼站	Upney (metrostation)
+舍布利塘站	Sudbury Town (metrostation)
+杜戶婁白站	Tufnell Park (metrostation)
+羅町侯革站	Notting Hill Gate (metrostation)
+黎段斯端站	Leytonstone (metrostation)
+布然杜可羅斯站	Brent Cross (metrostation)
+尼斯登站	Neasden (metrostation)
+韋斯杜咸部斯得站	West Hampstead (metrostation)
+禾茲登固玲站	Willesden Green (metrostation)
+厄屋站	Oakwood (metrostation)
+協浮茲布西瑪乞站	Shepherd's Bush Market (metrostation)
+韋斯杜邦白站	Westbourne Park (metrostation)
+黑池電車	Blackpool Tramway
+買打薇爾站	Maida Vale (metrostation)
+摩寧段庫利笙站	Mornington Crescent (metrostation)
+斯答尼固玲站	Stepney Green (metrostation)
+南昌城隍廟	Chenghuangtempel van Nanchang
+并諾站	Pinner (metrostation)
+戴姓	Dai (achternaam)
+呂姓	Lü (familienaam)
+廖姓	Liao
+馬姓	Mǎ
+摩登站	Morden (metrostation)
+姜姓	Jiāng (姜)
+粘粘蟲	Naaktslakken
+熱布里祭站	Redbridge (metrostation)
+韋斯杜夏婁站	West Harrow (metrostation)
+羅斯維庫白站	Northwick Park (metrostation)
+騒斯永保端站	South Wimbledon (metrostation)
+部熱斯段婁都站	Preston Road (metrostation)
+屋塞白站	Woodside Park (metrostation)
+永保端白站	Wimbledon Park (metrostation)
+騒斯浮茲站	Southfields (metrostation)
+孛尼布利祭站	Putney Bridge (metrostation)
+分類:奧運會	Categorie:Olympische Spelen
+分類:哲學	Categorie:Filosofie
+分類:佛教	Categorie:Boeddhisme
+分類:伊斯蘭教	Categorie:Islam
+分類:猶太教	Categorie:Jodendom
+羅斯屋侯茲站	Northwood Hills (metrostation)
+托利祭韋茨端站	Totteridge and Whetstone
+To Autumn	To Autumn
+雷諾茲然站	Rayners Lane (metrostation)
+懷杜實第站	White City (metrostation)
+斯奈茲布魯庫站	Snaresbrook (metrostation)
+騒斯烏霍站	South Woodford (metrostation)
+舍布利侯站	Sudbury Hill (metrostation)
+羅町佛里站	Roding Valley (metrostation)
+哥多茲固玲站	Golders Green (metrostation)
+雷姓	Lei (achternaam)
+視覺韻	Oogrijm
+工藝	Ambacht (handwerk)
+屋然站	Wood Lane (metrostation)
+唐姓	Táng (achternaam)
+黎姓	Li (黎)
+常姓	Chang (naam)
+陳述	Stemexpressie
+賴姓	Lai (achternaam)
+騒斯依凌站	South Ealing (metrostation)
+結點性	Teliciteit
+宋氏宗譜	Genealogieboek van de familie Song
+譚姓	Tan (谭)
+美利堅合眾國憲法嗰前言	Preambule van de grondwet van de Verenigde Staten
+利色斯拖斯怪爾站	Leicester Square (metrostation)
+錢姓	Qian
+鄧姓	Deng (achternaam)
+八行詩	Octaaf (versvorm)
+分類:行星	Categorie:Planeet
+分類:文化	Categorie:Cultuur
+分類:洲	Categorie:Continent
+天師世家	Lijst van Hemelse Meesters
+何姓	He (achternaam)
+10年代	10-19
+袁隆平	Yuan Longping
+Wikipedia:許年今日	Wikipedia:Dag uit de geschiedenis
+押韻結構	Rijmschema
+出世	Geboorte (leven)
+江姓	Jiāng (江)
+汗	Zweten
+孫姓	Sun (achternaam)
+鴨	Eenden
+Wikipedia:放膽修改	Wikipedia:Voel je vrij en ga je gang
+分類:德國人	Categorie:Duits persoon
+分類:美國人	Categorie:Amerikaans persoon
+分類:奧地利人	Categorie:Oostenrijks persoon
+分類:荷蘭人	Categorie:Nederlands persoon
+分類:英國人	Categorie:Brits persoon
+分類:法國人	Categorie:Frans persoon
+分類:意大利人	Categorie:Italiaans persoon
+模板:Tl	Sjabloon:Tl
+模板:Userbox	Sjabloon:Gebruikersbox
+分類:法律	Categorie:Recht
+分類:國家	Categorie:Land
+分類:經濟	Categorie:Economie
+分類:人物	Categorie:Persoon
+Wikipedia:申請做管理員	Wikipedia:Aanmelding moderatoren
+分類:自然	Categorie:Natuur
+分類:貨幣	Categorie:Geld
+分類:政治	Categorie:Politiek
+分類:教育	Categorie:Onderwijs
+分類:光學	Categorie:Optica
+分類:藝術	Categorie:Kunst
+會計學	Boekhouding
+埃及	Egypte (land)
+郭姓	Guo
+分類:2013年	Categorie:2013
+模板:Bot	Sjabloon:Bot
+加拿大	Canada
+分類:捷克	Categorie:Tsjechië
+分類:丹麥	Categorie:Denemarken
+分類:希臘	Categorie:Griekenland
+分類:瑞典	Categorie:Zweden
+維度	Dimensie (algemeen)
+分類:歐洲國家	Categorie:Land in Europa
+分類:歐洲	Categorie:Europa
+Wikipedia:新出嗰事	Portaal:In het nieuws
+模板:Documentation	Sjabloon:Sjabdoc
+博士	Doctor
+Wikipedia:贛語本字	Wikipedia:Wees duidelijk en concreet
+模板:Softredirect	Sjabloon:Softredirect
+模板:Delete	Sjabloon:Nuweg
+分類:語言	Categorie:Taal
+分類:維基百科	Categorie:Encyclopedie Wikipedia
+Wikipedia:免責聲明	Wikipedia:Vrijwaringsclausule
+分類:冇做索引嗰頁面	Categorie:Wikipedia:Niet te indexeren pagina's
+分類:檔案連結損壞的頁面	Categorie:Wikipedia:Pagina's met onjuiste bestandsverwijzingen
+Portal:歐洲	Portaal:Europa
+模板:Navbox	Sjabloon:Navigatie
+模板:Shortcut	Sjabloon:Verwijzing
+模板:Tnavbar	Sjabloon:Tnavbar
+模板:Unicode	Sjabloon:Unicode
+模板:Clear	Sjabloon:Clearboth
+模板:Nowrap	Sjabloon:Nowrap
+模板:Bots	Sjabloon:Bots
+分類:非洲	Categorie:Afrika
+分類:書	Categorie:Boek
+分類:月份	Categorie:Maand
+模板:Wikisource	Sjabloon:Wikisource
+模板:Babel	Sjabloon:Babel
+模板:Commons	Sjabloon:Commons
+模板:Link GA	Sjabloon:Link GA
+模板:Reflist	Sjabloon:References
+模板:Stub	Sjabloon:Beginnetje
+模板:User de	Sjabloon:Gebruiker de
+模板:User en-3	Sjabloon:Gebruiker en-3
+模板:User en-1	Sjabloon:Gebruiker en-1
+模板:User en-2	Sjabloon:Gebruiker en-2
+模板:User en-4	Sjabloon:Gebruiker en-4
+模板:User ja-1	Sjabloon:Gebruiker ja-1
+模板:Unsigned	Sjabloon:Afzender
+分類:1957年	Categorie:1957
+分類:1949年	Categorie:1949
+分類:1927年	Categorie:1927
+分類:1919年	Categorie:1919
+模板:Location map/Info	Sjabloon:Positiekaart/info
+分類:昆蟲	Categorie:Insect
+分類:亞洲	Categorie:Azië
+分類:智利	Categorie:Chili
+分類:21世紀	Categorie:21e eeuw
+分類:南美洲	Categorie:Zuid-Amerika
+分類:1930年	Categorie:1930
+分類:1936年	Categorie:1936
+分類:1947年	Categorie:1947
+分類:1937年	Categorie:1937
+分類:1940年	Categorie:1940
+分類:1934年	Categorie:1934
+分類:1960年	Categorie:1960
+分類:1943年	Categorie:1943
+分類:1951年	Categorie:1951
+分類:1942年	Categorie:1942
+分類:1959年	Categorie:1959
+分類:1938年	Categorie:1938
+分類:1928年	Categorie:1928
+分類:1913年	Categorie:1913
+分類:1918年	Categorie:1918
+分類:1954年	Categorie:1954
+分類:1941年	Categorie:1941
+分類:1955年	Categorie:1955
+分類:1950年	Categorie:1950
+分類:1921年	Categorie:1921
+分類:1977年	Categorie:1977
+分類:1946年	Categorie:1946
+分類:1948年	Categorie:1948
+分類:1932年	Categorie:1932
+分類:1945年	Categorie:1945
+模板:Mod	Sjabloon:Modulo
+分類:1923年	Categorie:1923
+分類:1935年	Categorie:1935
+分類:1910年	Categorie:1910
+分類:1917年	Categorie:1917
+分類:1904年	Categorie:1904
+分類:1926年	Categorie:1926
+分類:1907年	Categorie:1907
+分類:1914年	Categorie:1914
+分類:1929年	Categorie:1929
+分類:1920年	Categorie:1920
+分類:1925年	Categorie:1925
+分類:1905年	Categorie:1905
+分類:1915年	Categorie:1915
+分類:1908年	Categorie:1908
+模板:歡迎	Sjabloon:Hola
+分類:1901年	Categorie:1901
+分類:1903年	Categorie:1903
+分類:1902年	Categorie:1902
+分類:1900年	Categorie:1900
+分類:1933年	Categorie:1933
+分類:1912年	Categorie:1912
+分類:1952年	Categorie:1952
+模板:USA	Sjabloon:US
+分類:語言學	Categorie:Taalkunde
+分類:1911年	Categorie:1911
+分類:1922年	Categorie:1922
+模板:ITA	Sjabloon:IT
+分類:1924年	Categorie:1924
+分類:1906年	Categorie:1906
+模板:Wikiquote	Sjabloon:Wikiquote
+模板:Image label	Sjabloon:Afbeelding label
+模板:Es	Sjabloon:Es
+模板:Infobox Music genre	Sjabloon:Infobox muziekgenre
+分類:美國嗰歷史	Categorie:Geschiedenis van de Verenigde Staten
+模板:Infobox Country	Sjabloon:Infobox land
+模板:Audio	Sjabloon:Audio
+模板:Cite journal	Sjabloon:Citeer journal
+模板:Infobox Company	Sjabloon:Infobox bedrijf
+模板:靚文	Sjabloon:Etalage
+分類:巴黎	Categorie:Parijs
+模板:Infobox	Sjabloon:Infobox generiek
+模板:User zh	Sjabloon:Gebruiker zh
+Wikipedia:許年今日/九月二十三號	Sjabloon:Geschiedenis 23 september
+Wikipedia:許年今日/二月四號	Sjabloon:Geschiedenis 4 februari
+Wikipedia:許年今日/九月二十二號	Sjabloon:Geschiedenis 22 september
+Wikipedia:許年今日/十一月三十號	Sjabloon:Geschiedenis 30 november
+Wikipedia:許年今日/二月十八號	Sjabloon:Geschiedenis 18 februari
+Wikipedia:許年今日/元月二十八號	Sjabloon:Geschiedenis 28 januari
+Wikipedia:許年今日/十一月二十三號	Sjabloon:Geschiedenis 23 november
+模板:Legend	Sjabloon:Legenda
+Wikipedia:許年今日/元月十四號	Sjabloon:Geschiedenis 14 januari
+Wikipedia:許年今日/二月二十五號	Sjabloon:Geschiedenis 25 februari
+Wikipedia:許年今日/八月十號	Sjabloon:Geschiedenis 10 augustus
+Wikipedia:許年今日/九月十七號	Sjabloon:Geschiedenis 17 september
+Wikipedia:許年今日/10月15號	Sjabloon:Geschiedenis 15 oktober
+Wikipedia:許年今日/十二月二十八號	Sjabloon:Geschiedenis 28 december
+Wikipedia:許年今日/十二月三號	Sjabloon:Geschiedenis 3 december
+Wikipedia:許年今日/十二月七號	Sjabloon:Geschiedenis 7 december
+Wikipedia:許年今日/8月31號	Sjabloon:Geschiedenis 31 augustus
+Wikipedia:許年今日/十月二十六號	Sjabloon:Geschiedenis 26 oktober
+Wikipedia:許年今日/十一月十二號	Sjabloon:Geschiedenis 12 november
+Wikipedia:許年今日/七月三十號	Sjabloon:Geschiedenis 30 juli
+Wikipedia:許年今日/八月三號	Sjabloon:Geschiedenis 3 augustus
+Wikipedia:許年今日/8月27號	Sjabloon:Geschiedenis 27 augustus
+模板:Cite web	Sjabloon:Citeer web
+Wikipedia:許年今日/元月二十一號	Sjabloon:Geschiedenis 21 januari
+模板:Infobox Bridge	Sjabloon:Infobox brug
+Wikipedia:許年今日/二月八號	Sjabloon:Geschiedenis 8 februari
+Wikipedia:許年今日/元月二十號	Sjabloon:Geschiedenis 20 januari
+Wikipedia:許年今日/元月二十三號	Sjabloon:Geschiedenis 23 januari
+Wikipedia:許年今日/9月28號	Sjabloon:Geschiedenis 28 september
+Wikipedia:許年今日/十二月三十一號	Sjabloon:Geschiedenis 31 december
+Wikipedia:許年今日/二月一號	Sjabloon:Geschiedenis 1 februari
+Wikipedia:許年今日/十月二十二號	Sjabloon:Geschiedenis 22 oktober
+Wikipedia:許年今日/十一月二號	Sjabloon:Geschiedenis 2 november
+Wikipedia:許年今日/十二月十四號	Sjabloon:Geschiedenis 14 december
+Wikipedia:許年今日/元月二十五號	Sjabloon:Geschiedenis 25 januari
+Wikipedia:許年今日/八月六號	Sjabloon:Geschiedenis 6 augustus
+Wikipedia:許年今日/八月二十四號	Sjabloon:Geschiedenis 24 augustus
+Wikipedia:許年今日/十一月九號	Sjabloon:Geschiedenis 9 november
+Wikipedia:許年今日/元月十八號	Sjabloon:Geschiedenis 18 januari
+Wikipedia:許年今日/八月十七號	Sjabloon:Geschiedenis 17 augustus
+Wikipedia:許年今日/七月二十七號	Sjabloon:Geschiedenis 27 juli
+Wikipedia:許年今日/八月二十號	Sjabloon:Geschiedenis 20 augustus
+Wikipedia:許年今日/10月1號	Sjabloon:Geschiedenis 1 oktober
+Wikipedia:許年今日/10月5號	Sjabloon:Geschiedenis 5 oktober
+Wikipedia:許年今日/十月八號	Sjabloon:Geschiedenis 8 oktober
+Wikipedia:許年今日/二月十五號	Sjabloon:Geschiedenis 15 februari
+分類:飲食	Categorie:Voeding
+模板:方位	Sjabloon:Navigatie windstreken
+模板:Wiktionary	Sjabloon:Wikt
+模板:Languageicon	Sjabloon:Taalaanduiding
+Wikipedia:許年今日/十一月二十六號	Sjabloon:Geschiedenis 26 november
+Wikipedia:許年今日/六月二十五號	Sjabloon:Geschiedenis 25 juni
+Wikipedia:許年今日/五月二十一號	Sjabloon:Geschiedenis 21 mei
+Wikipedia:許年今日/四月十五號	Sjabloon:Geschiedenis 15 april
+Wikipedia:許年今日/八月二十六號	Sjabloon:Geschiedenis 26 augustus
+Wikipedia:許年今日/四月二十號	Sjabloon:Geschiedenis 20 april
+Wikipedia:許年今日/十二月十二號	Sjabloon:Geschiedenis 12 december
+Wikipedia:許年今日/十二月二十五號	Sjabloon:Geschiedenis 25 december
+Wikipedia:許年今日/四月三十號	Sjabloon:Geschiedenis 30 april
+Wikipedia:許年今日/元月十號	Sjabloon:Geschiedenis 10 januari
+Wikipedia:許年今日/四月十二號	Sjabloon:Geschiedenis 12 april
+Wikipedia:許年今日/元月三十一號	Sjabloon:Geschiedenis 31 januari
+Wikipedia:許年今日/10月6號	Sjabloon:Geschiedenis 6 oktober
+Wikipedia:許年今日/三月六號	Sjabloon:Geschiedenis 6 maart
+Wikipedia:許年今日/五月十六號	Sjabloon:Geschiedenis 16 mei
+Wikipedia:許年今日/四月二十二號	Sjabloon:Geschiedenis 22 april
+Wikipedia:許年今日/五月三十號	Sjabloon:Geschiedenis 30 mei
+Wikipedia:許年今日/三月十八號	Sjabloon:Geschiedenis 18 maart
+Wikipedia:許年今日/十月十七號	Sjabloon:Geschiedenis 17 oktober
+Wikipedia:許年今日/三月二十七號	Sjabloon:Geschiedenis 27 maart
+Wikipedia:許年今日/三月十九號	Sjabloon:Geschiedenis 19 maart
+Wikipedia:許年今日/10月2號	Sjabloon:Geschiedenis 2 oktober
+Wikipedia:許年今日/五月三十一號	Sjabloon:Geschiedenis 31 mei
+Wikipedia:許年今日/七月二號	Sjabloon:Geschiedenis 2 juli
+Wikipedia:許年今日/五月三號	Sjabloon:Geschiedenis 3 mei
+Wikipedia:許年今日/三月十號	Sjabloon:Geschiedenis 10 maart
+Wikipedia:許年今日/四月八號	Sjabloon:Geschiedenis 8 april
+Wikipedia:許年今日/四月三號	Sjabloon:Geschiedenis 3 april
+Wikipedia:許年今日/四月一號	Sjabloon:Geschiedenis 1 april
+Wikipedia:許年今日/七月三十一號	Sjabloon:Geschiedenis 31 juli
+Wikipedia:許年今日/八月十二號	Sjabloon:Geschiedenis 12 augustus
+Wikipedia:許年今日/六月十六號	Sjabloon:Geschiedenis 16 juni
+Wikipedia:許年今日/二月二十六號	Sjabloon:Geschiedenis 26 februari
+Wikipedia:許年今日/四月十九號	Sjabloon:Geschiedenis 19 april
+Wikipedia:許年今日/七月十七號	Sjabloon:Geschiedenis 17 juli
+Wikipedia:許年今日/十二月九號	Sjabloon:Geschiedenis 9 december
+Wikipedia:許年今日/八月五號	Sjabloon:Geschiedenis 5 augustus
+Wikipedia:許年今日/九月十六號	Sjabloon:Geschiedenis 16 september
+Wikipedia:許年今日/六月四號	Sjabloon:Geschiedenis 4 juni
+Wikipedia:許年今日/十月三十一號	Sjabloon:Geschiedenis 31 oktober
+Wikipedia:許年今日/二月十二號	Sjabloon:Geschiedenis 12 februari
+Wikipedia:許年今日/1月15號	Sjabloon:Geschiedenis 15 januari
+Wikipedia:許年今日/九月十九號	Sjabloon:Geschiedenis 19 september
+Wikipedia:許年今日/元月十六號	Sjabloon:Geschiedenis 16 januari
+Wikipedia:許年今日/七月十三號	Sjabloon:Geschiedenis 13 juli
+Wikipedia:許年今日/1月2號	Sjabloon:Geschiedenis 2 januari
+Wikipedia:許年今日/七月九號	Sjabloon:Geschiedenis 9 juli
+Wikipedia:許年今日/二月十號	Sjabloon:Geschiedenis 10 februari
+Wikipedia:許年今日/三月五號	Sjabloon:Geschiedenis 5 maart
+Wikipedia:許年今日/六月二十九號	Sjabloon:Geschiedenis 29 juni
+Wikipedia:許年今日/十一月十四號	Sjabloon:Geschiedenis 14 november
+Wikipedia:許年今日/元月六號	Sjabloon:Geschiedenis 6 januari
+Wikipedia:許年今日/七月十八號	Sjabloon:Geschiedenis 18 juli
+Wikipedia:許年今日/七月二十三號	Sjabloon:Geschiedenis 23 juli
+Wikipedia:許年今日/四月十六號	Sjabloon:Geschiedenis 16 april
+Wikipedia:許年今日/十二月二號	Sjabloon:Geschiedenis 2 december
+Wikipedia:許年今日/七月一號	Sjabloon:Geschiedenis 1 juli
+Wikipedia:許年今日/六月十八號	Sjabloon:Geschiedenis 18 juni
+Wikipedia:許年今日/十一月十五號	Sjabloon:Geschiedenis 15 november
+Wikipedia:許年今日/十二月二十號	Sjabloon:Geschiedenis 20 december
+Wikipedia:許年今日/8月30號	Sjabloon:Geschiedenis 30 augustus
+Wikipedia:許年今日/八月十一號	Sjabloon:Geschiedenis 11 augustus
+Wikipedia:許年今日/五月二十八號	Sjabloon:Geschiedenis 28 mei
+Wikipedia:許年今日/八月九號	Sjabloon:Geschiedenis 9 augustus
+Wikipedia:許年今日/元月十九號	Sjabloon:Geschiedenis 19 januari
+Wikipedia:許年今日/十一月二十九號	Sjabloon:Geschiedenis 29 november
+Wikipedia:許年今日/十一月十六號	Sjabloon:Geschiedenis 16 november
+Wikipedia:許年今日/四月二十三號	Sjabloon:Geschiedenis 23 april
+Wikipedia:許年今日/四月二號	Sjabloon:Geschiedenis 2 april
+Wikipedia:許年今日/十月二十五號	Sjabloon:Geschiedenis 25 oktober
+Wikipedia:許年今日/十月二十七號	Sjabloon:Geschiedenis 27 oktober
+Wikipedia:許年今日/十一月十七號	Sjabloon:Geschiedenis 17 november
+Wikipedia:許年今日/七月十二號	Sjabloon:Geschiedenis 12 juli
+Wikipedia:許年今日/十一月十號	Sjabloon:Geschiedenis 10 november
+Wikipedia:許年今日/四月十八號	Sjabloon:Geschiedenis 18 april
+Wikipedia:許年今日/五月二十號	Sjabloon:Geschiedenis 20 mei
+Wikipedia:許年今日/五月六號	Sjabloon:Geschiedenis 6 mei
+Wikipedia:許年今日/8月29號	Sjabloon:Geschiedenis 29 augustus
+Wikipedia:許年今日/五月二號	Sjabloon:Geschiedenis 2 mei
+Wikipedia:許年今日/六月二十四號	Sjabloon:Geschiedenis 24 juni
+Wikipedia:許年今日/十一月二十五號	Sjabloon:Geschiedenis 25 november
+Wikipedia:許年今日/八月二十一號	Sjabloon:Geschiedenis 21 augustus
+Wikipedia:許年今日/七月二十九號	Sjabloon:Geschiedenis 29 juli
+Wikipedia:許年今日/十二月二十四號	Sjabloon:Geschiedenis 24 december
+Wikipedia:許年今日/五月十七號	Sjabloon:Geschiedenis 17 mei
+Wikipedia:許年今日/五月十二號	Sjabloon:Geschiedenis 12 mei
+Wikipedia:許年今日/元月二十九號	Sjabloon:Geschiedenis 29 januari
+Wikipedia:許年今日/十二月五號	Sjabloon:Geschiedenis 5 december
+Wikipedia:許年今日/三月二十五號	Sjabloon:Geschiedenis 25 maart
+Wikipedia:許年今日/五月二十六號	Sjabloon:Geschiedenis 26 mei
+Wikipedia:許年今日/三月二十二號	Sjabloon:Geschiedenis 22 maart
+Wikipedia:許年今日/三月九號	Sjabloon:Geschiedenis 9 maart
+Wikipedia:許年今日/四月二十九號	Sjabloon:Geschiedenis 29 april
+Wikipedia:許年今日/三月十二號	Sjabloon:Geschiedenis 12 maart
+Wikipedia:許年今日/六月三號	Sjabloon:Geschiedenis 3 juni
+Wikipedia:許年今日/三月十一號	Sjabloon:Geschiedenis 11 maart
+Wikipedia:許年今日/十二月十九號	Sjabloon:Geschiedenis 19 december
+Wikipedia:許年今日/五月十八號	Sjabloon:Geschiedenis 18 mei
+Wikipedia:許年今日/十月二十一號	Sjabloon:Geschiedenis 21 oktober
+Wikipedia:許年今日/五月十四號	Sjabloon:Geschiedenis 14 mei
+Wikipedia:許年今日/二月二十四號	Sjabloon:Geschiedenis 24 februari
+Wikipedia:許年今日/五月五號	Sjabloon:Geschiedenis 5 mei
+Wikipedia:許年今日/二月十三號	Sjabloon:Geschiedenis 13 februari
+Wikipedia:許年今日/五月八號	Sjabloon:Geschiedenis 8 mei
+Wikipedia:許年今日/二月二十號	Sjabloon:Geschiedenis 20 februari
+Wikipedia:許年今日/四月十號	Sjabloon:Geschiedenis 10 april
+Wikipedia:許年今日/元月五號	Sjabloon:Geschiedenis 5 januari
+Wikipedia:許年今日/元月二十六號	Sjabloon:Geschiedenis 26 januari
+Wikipedia:許年今日/四月二十四號	Sjabloon:Geschiedenis 24 april
+Wikipedia:許年今日/四月二十一號	Sjabloon:Geschiedenis 21 april
+Wikipedia:許年今日/三月十五號	Sjabloon:Geschiedenis 15 maart
+Wikipedia:許年今日/二月二十三號	Sjabloon:Geschiedenis 23 februari
+Wikipedia:許年今日/三月十三號	Sjabloon:Geschiedenis 13 maart
+Wikipedia:許年今日/九月十五號	Sjabloon:Geschiedenis 15 september
+Wikipedia:許年今日/十二月十五號	Sjabloon:Geschiedenis 15 december
+Wikipedia:許年今日/9月4號	Sjabloon:Geschiedenis 4 september
+Wikipedia:許年今日/九月八號	Sjabloon:Geschiedenis 8 september
+Wikipedia:許年今日/十二月十八號	Sjabloon:Geschiedenis 18 december
+Wikipedia:許年今日/三月四號	Sjabloon:Geschiedenis 4 maart
+Wikipedia:許年今日/10月4號	Sjabloon:Geschiedenis 4 oktober
+Wikipedia:許年今日/十一月二十一號	Sjabloon:Geschiedenis 21 november
+Wikipedia:許年今日/9月1號	Sjabloon:Geschiedenis 1 september
+Wikipedia:許年今日/六月十二號	Sjabloon:Geschiedenis 12 juni
+Wikipedia:許年今日/六月十號	Sjabloon:Geschiedenis 10 juni
+Wikipedia:許年今日/六月十九號	Sjabloon:Geschiedenis 19 juni
+Wikipedia:許年今日/七月三號	Sjabloon:Geschiedenis 3 juli
+Wikipedia:許年今日/七月四號	Sjabloon:Geschiedenis 4 juli
+Wikipedia:許年今日/六月二十七號	Sjabloon:Geschiedenis 27 juni
+Wikipedia:許年今日/六月十三號	Sjabloon:Geschiedenis 13 juni
+Wikipedia:許年今日/七月五號	Sjabloon:Geschiedenis 5 juli
+Wikipedia:許年今日/六月二號	Sjabloon:Geschiedenis 2 juni
+Wikipedia:許年今日/元月十三號	Sjabloon:Geschiedenis 13 januari
+Wikipedia:許年今日/六月二十八號	Sjabloon:Geschiedenis 28 juni
+Wikipedia:許年今日/六月七號	Sjabloon:Geschiedenis 7 juni
+Wikipedia:許年今日/九月六號	Sjabloon:Geschiedenis 6 september
+Wikipedia:許年今日/六月二十六號	Sjabloon:Geschiedenis 26 juni
+Wikipedia:許年今日/九月二十五號	Sjabloon:Geschiedenis 25 september
+Wikipedia:許年今日/元月二十七號	Sjabloon:Geschiedenis 27 januari
+Wikipedia:許年今日/七月六號	Sjabloon:Geschiedenis 6 juli
+Wikipedia:許年今日/七月十五號	Sjabloon:Geschiedenis 15 juli
+Wikipedia:許年今日/九月十號	Sjabloon:Geschiedenis 10 september
+Wikipedia:許年今日/9月26號	Sjabloon:Geschiedenis 26 september
+Wikipedia:許年今日/九月二十號	Sjabloon:Geschiedenis 20 september
+Wikipedia:許年今日/十一月二十七號	Sjabloon:Geschiedenis 27 november
+Wikipedia:許年今日/七月十六號	Sjabloon:Geschiedenis 16 juli
+Wikipedia:許年今日/十一月二十四號	Sjabloon:Geschiedenis 24 november
+Wikipedia:許年今日/四月九號	Sjabloon:Geschiedenis 9 april
+Wikipedia:許年今日/七月十四號	Sjabloon:Geschiedenis 14 juli
+Wikipedia:許年今日/七月二十五號	Sjabloon:Geschiedenis 25 juli
+Wikipedia:許年今日/元月十二號	Sjabloon:Geschiedenis 12 januari
+Wikipedia:許年今日/八月二十三號	Sjabloon:Geschiedenis 23 augustus
+Wikipedia:許年今日/六月二十二號	Sjabloon:Geschiedenis 22 juni
+Wikipedia:許年今日/八月十六號	Sjabloon:Geschiedenis 16 augustus
+Wikipedia:許年今日/十二月三十號	Sjabloon:Geschiedenis 30 december
+Wikipedia:許年今日/十一月四號	Sjabloon:Geschiedenis 4 november
+Wikipedia:許年今日/1月3號	Sjabloon:Geschiedenis 3 januari
+Wikipedia:許年今日/9月30號	Sjabloon:Geschiedenis 30 september
+Wikipedia:許年今日/元月八號	Sjabloon:Geschiedenis 8 januari
+Wikipedia:許年今日/五月十三號	Sjabloon:Geschiedenis 13 mei
+Wikipedia:許年今日/三月一號	Sjabloon:Geschiedenis 1 maart
+Wikipedia:許年今日/二月十四號	Sjabloon:Geschiedenis 14 februari
+Wikipedia:許年今日/10月7號	Sjabloon:Geschiedenis 7 oktober
+Wikipedia:許年今日/二月十九號	Sjabloon:Geschiedenis 19 februari
+Wikipedia:許年今日/三月二十八號	Sjabloon:Geschiedenis 28 maart
+Wikipedia:許年今日/十月十九號	Sjabloon:Geschiedenis 19 oktober
+Wikipedia:許年今日/三月二十號	Sjabloon:Geschiedenis 20 maart
+Wikipedia:許年今日/二月六號	Sjabloon:Geschiedenis 6 februari
+Wikipedia:許年今日/二月七號	Sjabloon:Geschiedenis 7 februari
+Wikipedia:許年今日/二月二十一號	Sjabloon:Geschiedenis 21 februari
+Wikipedia:許年今日/八月一號	Sjabloon:Geschiedenis 1 augustus
+Wikipedia:許年今日/五月一號	Sjabloon:Geschiedenis 1 mei
+Wikipedia:許年今日/三月十四號	Sjabloon:Geschiedenis 14 maart
+Wikipedia:許年今日/二月二十八號	Sjabloon:Geschiedenis 28 februari
+Wikipedia:許年今日/五月二十三號	Sjabloon:Geschiedenis 23 mei
+Wikipedia:許年今日/五月二十九號	Sjabloon:Geschiedenis 29 mei
+Wikipedia:許年今日/五月九號	Sjabloon:Geschiedenis 9 mei
+Wikipedia:許年今日/十二月二十六號	Sjabloon:Geschiedenis 26 december
+Wikipedia:許年今日/十二月二十三號	Sjabloon:Geschiedenis 23 december
+Wikipedia:許年今日/六月十五號	Sjabloon:Geschiedenis 15 juni
+Wikipedia:許年今日/9月27號	Sjabloon:Geschiedenis 27 september
+Wikipedia:許年今日/十一月十一號	Sjabloon:Geschiedenis 11 november
+Wikipedia:許年今日/七月八號	Sjabloon:Geschiedenis 8 juli
+Wikipedia:許年今日/四月二十五號	Sjabloon:Geschiedenis 25 april
+Wikipedia:許年今日/四月七號	Sjabloon:Geschiedenis 7 april
+Wikipedia:許年今日/四月十一號	Sjabloon:Geschiedenis 11 april
+Wikipedia:許年今日/四月十七號	Sjabloon:Geschiedenis 17 april
+Wikipedia:許年今日/九月十一號	Sjabloon:Geschiedenis 11 september
+Wikipedia:許年今日/七月二十二號	Sjabloon:Geschiedenis 22 juli
+Wikipedia:許年今日/十一月八號	Sjabloon:Geschiedenis 8 november
+Wikipedia:許年今日/四月六號	Sjabloon:Geschiedenis 6 april
+Wikipedia:許年今日/十一月二十號	Sjabloon:Geschiedenis 20 november
+Wikipedia:許年今日/8月28號	Sjabloon:Geschiedenis 28 augustus
+Wikipedia:許年今日/十一月一號	Sjabloon:Geschiedenis 1 november
+Wikipedia:許年今日/六月八號	Sjabloon:Geschiedenis 8 juni
+Wikipedia:許年今日/四月五號	Sjabloon:Geschiedenis 5 april
+Wikipedia:許年今日/二月二號	Sjabloon:Geschiedenis 2 februari
+Wikipedia:許年今日/十月三十號	Sjabloon:Geschiedenis 30 oktober
+Wikipedia:許年今日/十二月八號	Sjabloon:Geschiedenis 8 december
+Wikipedia:許年今日/五月十號	Sjabloon:Geschiedenis 10 mei
+Wikipedia:許年今日/八月四號	Sjabloon:Geschiedenis 4 augustus
+Wikipedia:許年今日/十一月七號	Sjabloon:Geschiedenis 7 november
+Wikipedia:許年今日/五月二十四號	Sjabloon:Geschiedenis 24 mei
+Wikipedia:許年今日/10月11號	Sjabloon:Geschiedenis 11 oktober
+Wikipedia:許年今日/四月二十七號	Sjabloon:Geschiedenis 26 april
+Wikipedia:許年今日/四月十四號	Sjabloon:Geschiedenis 14 april
+Wikipedia:許年今日/五月十九號	Sjabloon:Geschiedenis 19 mei
+Wikipedia:許年今日/十二月二十二號	Sjabloon:Geschiedenis 22 december
+Wikipedia:許年今日/五月二十二號	Sjabloon:Geschiedenis 22 mei
+Wikipedia:許年今日/十一月三號	Sjabloon:Geschiedenis 3 november
+Wikipedia:許年今日/十月二十號	Sjabloon:Geschiedenis 20 oktober
+Wikipedia:許年今日/七月二十八號	Sjabloon:Geschiedenis 28 juli
+Wikipedia:許年今日/元月十七號	Sjabloon:Geschiedenis 17 januari
+Wikipedia:許年今日/10月16號	Sjabloon:Geschiedenis 16 oktober
+Wikipedia:許年今日/二月三號	Sjabloon:Geschiedenis 3 februari
+Wikipedia:許年今日/七月七號	Sjabloon:Geschiedenis 7 juli
+Wikipedia:許年今日/七月二十四號	Sjabloon:Geschiedenis 24 juli
+Wikipedia:許年今日/七月二十一號	Sjabloon:Geschiedenis 21 juli
+Wikipedia:許年今日/三月三號	Sjabloon:Geschiedenis 3 maart
+Wikipedia:許年今日/六月六號	Sjabloon:Geschiedenis 6 juni
+Wikipedia:許年今日/六月三十號	Sjabloon:Geschiedenis 30 juni
+Wikipedia:許年今日/七月十一號	Sjabloon:Geschiedenis 11 juli
+Wikipedia:許年今日/八月八號	Sjabloon:Geschiedenis 8 augustus
+Wikipedia:許年今日/六月一號	Sjabloon:Geschiedenis 1 juni
+Wikipedia:許年今日/八月十五號	Sjabloon:Geschiedenis 15 augustus
+Wikipedia:許年今日/七月十號	Sjabloon:Geschiedenis 10 juli
+Wikipedia:許年今日/三月十六號	Sjabloon:Geschiedenis 16 maart
+Wikipedia:許年今日/十月二十八號	Sjabloon:Geschiedenis 28 oktober
+Wikipedia:許年今日/10月3號	Sjabloon:Geschiedenis 14 oktober
+Wikipedia:許年今日/三月十七號	Sjabloon:Geschiedenis 17 maart
+Wikipedia:許年今日/三月二十四號	Sjabloon:Geschiedenis 24 maart
+Wikipedia:許年今日/三月二十一號	Sjabloon:Geschiedenis 21 maart
+Wikipedia:許年今日/十月十八號	Sjabloon:Geschiedenis 18 oktober
+Wikipedia:許年今日/十月二十四號	Sjabloon:Geschiedenis 24 oktober
+Wikipedia:許年今日/二月五號	Sjabloon:Geschiedenis 5 februari
+Wikipedia:許年今日/九月七號	Sjabloon:Geschiedenis 7 september
+Wikipedia:許年今日/六月二十三號	Sjabloon:Geschiedenis 23 juni
+Wikipedia:許年今日/七月二十六號	Sjabloon:Geschiedenis 26 juli
+Wikipedia:許年今日/六月十四號	Sjabloon:Geschiedenis 14 juni
+分類:總統	Categorie:President
+分類:20世紀	Categorie:20e eeuw
+模板:IPA	Sjabloon:IPA
+分類:政治人物	Categorie:Politicus
+分類:美洲	Categorie:Amerika
+分類:漢藏語系	Categorie:Sino-Tibetaanse taalfamilie
+Wikipedia:許年今日/三月七號	Sjabloon:Geschiedenis 7 maart
+Wikipedia:許年今日/三月二十九號	Sjabloon:Geschiedenis 29 maart
+Wikipedia:許年今日/四月十三號	Sjabloon:Geschiedenis 13 april
+Wikipedia:許年今日/四月二十八號	Sjabloon:Geschiedenis 28 april
+模板:User language-N	Sjabloon:BabelM
+Wikipedia:許年今日/三月三十號	Sjabloon:Geschiedenis 30 maart
+Wikipedia:許年今日/二月二十二號	Sjabloon:Geschiedenis 22 februari
+Wikipedia:許年今日/三月三十一號	Sjabloon:Geschiedenis 31 maart
+Wikipedia:許年今日/三月二十三號	Sjabloon:Geschiedenis 23 maart
+Wikipedia:許年今日/二月十七號	Sjabloon:Geschiedenis 17 februari
+模板:Archive box	Sjabloon:Archief
+Wikipedia:許年今日/元月三十號	Sjabloon:Geschiedenis 30 januari
+Wikipedia:許年今日/二月九號	Sjabloon:Geschiedenis 9 februari
+模板:Sisterlinks	Sjabloon:Zusterproject klein
+Wikipedia:許年今日/三月八號	Sjabloon:Geschiedenis 8 maart
+Wikipedia:許年今日/二月二十九號	Sjabloon:Geschiedenis 29 februari
+模板:Border	Sjabloon:Border
+Wikipedia:許年今日/三月二號	Sjabloon:Geschiedenis 2 maart
+Wikipedia:許年今日/二月二十七號	Sjabloon:Geschiedenis 27 februari
+Wikipedia:許年今日/三月二十六號	Sjabloon:Geschiedenis 26 maart
+分類:19世紀	Categorie:19e eeuw
+分類:作家	Categorie:Schrijver
+分類:軍事	Categorie:Krijgswezen
+分類:1931年	Categorie:1931
+分類:1958年	Categorie:1958
+分類:1956年	Categorie:1956
+分類:1944年	Categorie:1944
+分類:1916年	Categorie:1916
+分類:1939年	Categorie:1939
+分類:1909年	Categorie:1909
+Wikipedia:許年今日/六月十七號	Sjabloon:Geschiedenis 17 juni
+Wikipedia:許年今日/10月12號	Sjabloon:Geschiedenis 12 oktober
+模板:Image label end	Sjabloon:Afbeelding label eind
+Wikipedia:許年今日/十月二十九號	Sjabloon:Geschiedenis 29 oktober
+Wikipedia:許年今日/二月十一號	Sjabloon:Geschiedenis 11 februari
+Wikipedia:許年今日/十一月五號	Sjabloon:Geschiedenis 5 november
+Wikipedia:許年今日/十一月十九號	Sjabloon:Geschiedenis 19 november
+Wikipedia:許年今日/元月十一號	Sjabloon:Geschiedenis 11 januari
+Wikipedia:許年今日/10月13號	Sjabloon:Geschiedenis 13 oktober
+Wikipedia:許年今日/9月3號	Sjabloon:Geschiedenis 3 september
+Wikipedia:許年今日/九月二十四號	Sjabloon:Geschiedenis 24 september
+Wikipedia:許年今日/十二月十號	Sjabloon:Geschiedenis 10 december
+模板:DNK	Sjabloon:DK
+模板:中華人民共和國嗰行政區劃	Sjabloon:Navigatie bestuurlijke indeling China
+模板:DEU	Sjabloon:DE
+模板:美國嗰國家公園	Sjabloon:Navigatie nationale parken Verenigde Staten
+Wikipedia:許年今日/十一月十八號	Sjabloon:Geschiedenis 18 november
+Wikipedia:許年今日/十二月十六號	Sjabloon:Geschiedenis 16 december
+Wikipedia:許年今日/元月九號	Sjabloon:Geschiedenis 9 januari
+Wikipedia:許年今日/元月七號	Sjabloon:Geschiedenis 7 januari
+Wikipedia:許年今日/七月十九號	Sjabloon:Geschiedenis 19 juli
+Wikipedia:許年今日/八月十三號	Sjabloon:Geschiedenis 13 augustus
+Wikipedia:許年今日/五月十五號	Sjabloon:Geschiedenis 15 mei
+Wikipedia:許年今日/九月十二號	Sjabloon:Geschiedenis 12 september
+Wikipedia:許年今日/五月十一號	Sjabloon:Geschiedenis 11 mei
+Wikipedia:許年今日/9月2號	Sjabloon:Geschiedenis 2 september
+Wikipedia:許年今日/十二月十一號	Sjabloon:Geschiedenis 11 december
+Wikipedia:許年今日/八月七號	Sjabloon:Geschiedenis 7 augustus
+Wikipedia:許年今日/四月四號	Sjabloon:Geschiedenis 4 april
+Wikipedia:許年今日/六月九號	Sjabloon:Geschiedenis 9 juni
+Wikipedia:許年今日/元月二十二號	Sjabloon:Geschiedenis 22 januari
+Wikipedia:許年今日/1月4號	Sjabloon:Geschiedenis 4 januari
+Wikipedia:許年今日/五月二十七號	Sjabloon:Geschiedenis 27 mei
+Wikipedia:許年今日/十二月二十七號	Sjabloon:Geschiedenis 27 december
+Wikipedia:許年今日/八月十九號	Sjabloon:Geschiedenis 19 augustus
+Wikipedia:許年今日/十一月六號	Sjabloon:Geschiedenis 6 november
+Wikipedia:許年今日/九月十八號	Sjabloon:Geschiedenis 18 september
+Wikipedia:許年今日/五月四號	Sjabloon:Geschiedenis 4 mei
+Wikipedia:許年今日/十月十號	Sjabloon:Geschiedenis 10 oktober
+Wikipedia:許年今日/十二月四號	Sjabloon:Geschiedenis 4 december
+Wikipedia:許年今日/八月二號	Sjabloon:Geschiedenis 2 augustus
+Wikipedia:許年今日/十二月二十一號	Sjabloon:Geschiedenis 21 december
+Wikipedia:許年今日/十月九號	Sjabloon:Geschiedenis 9 oktober
+Wikipedia:許年今日/七月二十號	Sjabloon:Geschiedenis 20 juli
+Wikipedia:許年今日/六月十一號	Sjabloon:Geschiedenis 11 juni
+Wikipedia:許年今日/八月十八號	Sjabloon:Geschiedenis 18 augustus
+Wikipedia:許年今日/元月二十四號	Sjabloon:Geschiedenis 24 januari
+Wikipedia:許年今日/十月二十三號	Sjabloon:Geschiedenis 23 oktober
+Wikipedia:許年今日/六月五號	Sjabloon:Geschiedenis 5 juni
+分類:越南機場	Categorie:Vliegveld in Vietnam
+分類:企業	Categorie:Bedrijf
+模板:Image label small	Sjabloon:Afbeelding label klein
+模板:Th icon	Sjabloon:Th
+模板:JPN	Sjabloon:JP
+模板:Mergefrom	Sjabloon:Samenvoegenvan
+模板:Wikinews	Sjabloon:Wikinews
+模板:Infobox public transit	Sjabloon:Infobox openbaar vervoer
+模板:VAT	Sjabloon:VA
+分類:電腦	Categorie:Computer
+模板:HKG	Sjabloon:HK
+模板:THA	Sjabloon:TH
+模板:SGP	Sjabloon:SG
+模板:MAC	Sjabloon:MO
+模板:User en-5	Sjabloon:Gebruiker en-5
+模板:禮拜	Sjabloon:Zijbalk weekdagen
+模板:Polytonic	Sjabloon:Polytonic
+模板:扤清楚	Sjabloon:Dp
+分類:1962年	Categorie:1962
+分類:地鐵	Categorie:Metro
+模板:GRC	Sjabloon:GR
+模板:AUS	Sjabloon:AU
+模板:越南嗰行政區劃	Sjabloon:VN
+模板:NZL	Sjabloon:NZ
+分類:建築	Categorie:Architectuur
+模板:KOR	Sjabloon:KR
+模板:De	Sjabloon:De
+模板:FRA	Sjabloon:FR
+分類:1953年	Categorie:1953
+分類:鐵路	Categorie:Spoorweg
+模板:七大洲	Sjabloon:Navigatie continenten en regio's van de wereld
+Wikipedia:許年今日/十二月二十九號	Sjabloon:Geschiedenis 29 december
+分類:東京地鐵	Categorie:Metro van Tokio
+模板:Coord	Sjabloon:Coördinaten
+模板:觀點	Sjabloon:NPOV
+Wikipedia:許年今日/九月十四號	Sjabloon:Geschiedenis 14 september
+Wikipedia:許年今日/十二月十三號	Sjabloon:Geschiedenis 13 december
+Wikipedia:許年今日/五月七號	Sjabloon:Geschiedenis 7 mei
+Wikipedia:許年今日/六月二十號	Sjabloon:Geschiedenis 20 juni
+Wikipedia:許年今日/八月二十二號	Sjabloon:Geschiedenis 22 augustus
+Wikipedia:許年今日/十一月十三號	Sjabloon:Geschiedenis 13 november
+Wikipedia:許年今日/九月九號	Sjabloon:Geschiedenis 9 september
+Wikipedia:許年今日/十一月二十八號	Sjabloon:Geschiedenis 28 november
+Wikipedia:許年今日/六月二十一號	Sjabloon:Geschiedenis 21 juni
+Wikipedia:許年今日/九月十三號	Sjabloon:Geschiedenis 13 september
+Wikipedia:許年今日/1月1號	Sjabloon:Geschiedenis 1 januari
+Wikipedia:許年今日/八月十四號	Sjabloon:Geschiedenis 14 augustus
+Wikipedia:許年今日/十二月一號	Sjabloon:Geschiedenis 1 december
+Wikipedia:許年今日/十二月六號	Sjabloon:Geschiedenis 6 december
+模板:歐洲	Sjabloon:Navigatie landen Europa
+分類:商業	Categorie:Bedrijfsleven
+分類:文字	Categorie:Schriftsysteem
+分類:道教	Categorie:Taoïsme
+分類:島	Categorie:Eiland
+分類:廣平省	Categorie:Quảng Bình
+分類:User de	Categorie:Wikipedia:Gebruiker de
+分類:1680年代	Categorie:1680-1689
+分類:朝鮮話	Categorie:Koreaans
+模板:Multiple image	Sjabloon:Afbeelding combi
+Wikipedia:許年今日/十二月十七號	Sjabloon:Geschiedenis 17 december
+分類:幾何學	Categorie:Meetkunde
+Wikipedia:許年今日/9月29號	Sjabloon:Geschiedenis 29 september
+Wikipedia:許年今日/9月5號	Sjabloon:Geschiedenis 5 september
+分類:1510年代	Categorie:1510-1519
+分類:舞者	Categorie:Danser
+模板:BRA	Sjabloon:BR
+分類:1718年	Categorie:1718
+模板:Expand list	Sjabloon:Lijstbeg
+分類:1970年代	Categorie:1970-1979
+分類:1890年代	Categorie:1890-1899
+分類:詩人	Categorie:Dichter
+模板:User language-2	Sjabloon:Babel2
+分類:海洋	Categorie:Zee
+分類:同性戀	Categorie:Homoseksualiteit
+文學史	Literatuurgeschiedenis
+Wikipedia:許年今日/十一月二十二號	Sjabloon:Geschiedenis 22 november
+分類:芭蕾舞者	Categorie:Balletdanser
+分類:太陽系	Categorie:Zonnestelsel
+分類:廣東	Categorie:Guangdong
+分類:四川	Categorie:Sichuan
+分類:貴州	Categorie:Guizhou
+分類:陝西	Categorie:Shaanxi
+分類:安徽	Categorie:Anhui
+分類:江西	Categorie:Jiangxi
+分類:福建	Categorie:Fujian
+分類:海南	Categorie:Hainan
+分類:湖北	Categorie:Hubei
+分類:飲料	Categorie:Drank
+分類:獎勵	Categorie:Prijs
+鄭姓	Zheng (achternaam)
+分類:1940年代	Categorie:1940-1949
+分類:1900年代	Categorie:1900-1909
+分類:1910年代	Categorie:1910-1919
+分類:1920年代	Categorie:1920-1929
+分類:1930年代	Categorie:1930-1939
+分類:1950年代	Categorie:1950-1959
+分類:1960年代	Categorie:1960-1969
+分類:1980年代	Categorie:1980-1989
+分類:1990年代	Categorie:1990-1999
+分類:2000年代	Categorie:2000-2009
+分類:2010年代	Categorie:2010-2019
+分類:2020年代	Categorie:2020-2029
+分類:2030年代	Categorie:2030-2039
+分類:2040年代	Categorie:2040-2049
+分類:2050年代	Categorie:2050-2059
+分類:2060年代	Categorie:2060-2069
+模板:En	Sjabloon:En
+模板:N	Sjabloon:Nee
+分類:1721年	Categorie:1721
+分類:1723年	Categorie:1723
+分類:山東	Categorie:Shandong
+分類:雲南	Categorie:Yunnan
+分類:浙江	Categorie:Zhejiang
+分類:青海	Categorie:Qinghai
+分類:河南	Categorie:Henan
+分類:湖南	Categorie:Hunan
+模板:Lang	Sjabloon:Lang
+Wikipedia:許年今日/九月二十一號	Sjabloon:Geschiedenis 21 september
+分類:得諾貝爾獎嗰人	Categorie:Nobelprijswinnaar
+模板:IRL	Sjabloon:IE
+模板:Infobox river	Sjabloon:Infobox rivier
+分類:1310年代	Categorie:1310-1319
+分類:1520年代	Categorie:1520-1529
+分類:1540年代	Categorie:1540-1549
+分類:1560年代	Categorie:1560-1569
+分類:1820年代	Categorie:1820-1829
+分類:1670年代	Categorie:1670-1679
+分類:1770年代	Categorie:1770-1779
+分類:1760年代	Categorie:1760-1769
+分類:1710年代	Categorie:1710-1719
+分類:1650年代	Categorie:1650-1659
+分類:1610年代	Categorie:1610-1619
+分類:1630年代	Categorie:1630-1639
+分類:1810年代	Categorie:1810-1819
+分類:1530年代	Categorie:1530-1539
+分類:1410年代	Categorie:1410-1419
+分類:1490年代	Categorie:1490-1499
+分類:1480年代	Categorie:1480-1489
+分類:1640年代	Categorie:1640-1649
+分類:3世紀	Categorie:3e eeuw
+分類:1850年代	Categorie:1850-1859
+分類:11世紀	Categorie:11e eeuw
+分類:17世紀	Categorie:17e eeuw
+分類:1880年代	Categorie:1880-1889
+分類:1720年代	Categorie:1720-1729
+分類:1750年代	Categorie:1750-1759
+分類:1870年代	Categorie:1870-1879
+分類:1780年代	Categorie:1780-1789
+分類:1860年代	Categorie:1860-1869
+分類:1790年代	Categorie:1790-1799
+分類:1730年代	Categorie:1730-1739
+分類:1440年代	Categorie:1440-1449
+分類:1800年代	Categorie:1800-1809
+分類:1450年代	Categorie:1450-1459
+分類:1570年代	Categorie:1570-1579
+分類:1460年代	Categorie:1460-1469
+分類:1470年代	Categorie:1470-1479
+分類:1580年代	Categorie:1580-1589
+分類:1420年代	Categorie:1420-1429
+分類:1700年代	Categorie:1700-1709
+分類:1500年代	Categorie:1500-1509
+分類:10世紀	Categorie:10e eeuw
+分類:1400年代	Categorie:1400-1409
+分類:7世紀	Categorie:7e eeuw
+分類:2014年	Categorie:2014
+分類:2015年	Categorie:2015
+分類:日本公司	Categorie:Japans bedrijf
+Wikipedia:許年今日/二月十六號	Sjabloon:Geschiedenis 16 februari
+Wikipedia:許年今日/八月二十五號	Sjabloon:Geschiedenis 25 augustus
+Wikipedia:許年今日/五月二十五號	Sjabloon:Geschiedenis 25 mei
+模板:笙卓線	Sjabloon:Navigatie Central Line Londen
+模板:PRC	Sjabloon:CN
+模板:ENG	Sjabloon:EN
+分類:2011年過世	Categorie:Lijsten van personen overleden in 2011
+分類:1741年	Categorie:1741
+分類:1830年	Categorie:1830
+分類:1836年	Categorie:1836
+分類:1838年	Categorie:1838
+分類:1839年	Categorie:1839
+分類:1858年	Categorie:1858
+分類:1863年	Categorie:1863
+分類:1870年	Categorie:1870
+分類:1871年	Categorie:1871
+分類:1872年	Categorie:1872
+分類:1874年	Categorie:1874
+分類:1875年	Categorie:1875
+分類:1876年	Categorie:1876
+分類:1877年	Categorie:1877
+分類:1879年	Categorie:1879
+分類:1880年	Categorie:1880
+分類:1881年	Categorie:1881
+分類:1882年	Categorie:1882
+分類:1883年	Categorie:1883
+分類:1884年	Categorie:1884
+分類:1885年	Categorie:1885
+分類:1886年	Categorie:1886
+分類:1887年	Categorie:1887
+分類:1889年	Categorie:1889
+分類:1890年	Categorie:1890
+分類:1891年	Categorie:1891
+分類:1892年	Categorie:1892
+分類:1893年	Categorie:1893
+分類:1894年	Categorie:1894
+分類:1895年	Categorie:1895
+分類:1897年	Categorie:1897
+分類:1899年	Categorie:1899
+分類:1961年	Categorie:1961
+分類:1964年	Categorie:1964
+分類:1965年	Categorie:1965
+分類:1966年	Categorie:1966
+分類:1967年	Categorie:1967
+分類:1969年	Categorie:1969
+分類:1970年	Categorie:1970
+分類:1972年	Categorie:1972
+分類:1973年	Categorie:1973
+分類:1974年	Categorie:1974
+分類:1975年	Categorie:1975
+分類:1976年	Categorie:1976
+分類:1978年	Categorie:1978
+分類:1979年	Categorie:1979
+分類:1980年	Categorie:1980
+分類:1981年	Categorie:1981
+分類:1982年	Categorie:1982
+分類:1983年	Categorie:1983
+分類:1984年	Categorie:1984
+分類:1985年	Categorie:1985
+分類:1986年	Categorie:1986
+分類:1987年	Categorie:1987
+分類:1988年	Categorie:1988
+分類:1989年	Categorie:1989
+分類:1990年	Categorie:1990
+分類:1991年	Categorie:1991
+分類:1992年	Categorie:1992
+分類:1993年	Categorie:1993
+分類:1994年	Categorie:1994
+分類:1995年	Categorie:1995
+分類:1996年	Categorie:1996
+分類:1997年	Categorie:1997
+分類:1999年	Categorie:1999
+分類:2000年	Categorie:2000
+分類:2001年	Categorie:2001
+分類:2002年	Categorie:2002
+分類:2004年	Categorie:2004
+分類:2005年	Categorie:2005
+分類:2006年	Categorie:2006
+分類:2007年	Categorie:2007
+分類:2008年	Categorie:2008
+分類:2009年	Categorie:2009
+分類:2010年	Categorie:2010
+分類:2011年	Categorie:2011
+分類:2016年	Categorie:2016
+分類:2017年	Categorie:2017
+分類:河	Categorie:Rivier
+分類:希臘人	Categorie:Grieks persoon
+分類:挪威人	Categorie:Noors persoon
+分類:韓國人	Categorie:Zuid-Koreaans persoon
+分類:巴西人	Categorie:Braziliaans persoon
+分類:瑞典人	Categorie:Zweeds persoon
+分類:日本人	Categorie:Japans persoon
+分類:表演	Categorie:Theater
+分類:菲律賓	Categorie:Filipijnen
+分類:1833年	Categorie:1833
+分類:1430年代	Categorie:1430-1439
+分類:1550年代	Categorie:1550-1559
+分類:1660年代	Categorie:1660-1669
+分類:1740年代	Categorie:1740-1749
+分類:1840年代	Categorie:1840-1849
+分類:1世紀	Categorie:1e eeuw
+分類:14世紀	Categorie:14e eeuw
+分類:13世紀	Categorie:13e eeuw
+分類:16世紀	Categorie:16e eeuw
+分類:12世紀	Categorie:12e eeuw
+分類:2世紀	Categorie:2e eeuw
+分類:4世紀	Categorie:4e eeuw
+分類:5世紀	Categorie:5e eeuw
+分類:18世紀	Categorie:18e eeuw
+分類:6世紀	Categorie:6e eeuw
+分類:8世紀	Categorie:8e eeuw
+分類:運河	Categorie:Kanaal
+分類:過世	Categorie:Dood
+分類:越南人	Categorie:Vietnamees persoon
+分類:整數	Categorie:Natuurlijk getal
+分類:香港人	Categorie:Hongkongs persoon
+分類:捷克人	Categorie:Tsjechisch persoon
+分類:敘事學	Categorie:Narratologie
+分類:新疆	Categorie:Sinkiang
+粵語	Kantonees
+分類:印歐語系	Categorie:Indo-Europese taalfamilie
+分類:1837年	Categorie:1837
+分類:1873年	Categorie:1873
+分類:1878年	Categorie:1878
+分類:1896年	Categorie:1896
+分類:1963年	Categorie:1963
+分類:2012年	Categorie:2012
+分類:2019年	Categorie:2019
+分類:元素	Categorie:Chemisch element
+分類:朝鮮民主主義人民共和國嗰政治家	Categorie:Noord-Koreaans politicus
+分類:諾貝爾獎	Categorie:Nobelprijs
+分類:15世紀	Categorie:15e eeuw
+分類:朝鮮民主主義人民共和國	Categorie:Noord-Korea
+分類:中國人	Categorie:Chinees persoon
+分類:1968年	Categorie:1968
+分類:中國歷史	Categorie:Geschiedenis van China
+分類:1898年	Categorie:1898
+分類:1998年	Categorie:1998
+分類:2018年	Categorie:2018
+分類:韓國	Categorie:Korea
+分類:緬甸	Categorie:Myanmar
+分類:台灣	Categorie:Taiwan
+分類:醫師	Categorie:Arts
+分類:2003年	Categorie:2003
+分類:9世紀	Categorie:9e eeuw
+分類:西班牙人	Categorie:Spaans persoon
+分類:中國嗰朝代	Categorie:Chinese dynastie
+分類:1971年	Categorie:1971
+分類:挪威	Categorie:Noorwegen
+分類:大洋洲國家	Categorie:Land in Oceanië
+分類:北美洲國家	Categorie:Land in Noord-Amerika
+分類:2021年	Categorie:2021
+分類:2024年	Categorie:2024
+分類:2022年	Categorie:2022
+分類:2020年	Categorie:2020
+分類:政黨	Categorie:Politieke partij
+分類:日語	Categorie:Japans
+分類:倫敦地鐵	Categorie:Metro van Londen
+分類:數字	Categorie:Getalsysteem
+模板:Incubator	Sjabloon:Incubator
+分類:中國文化	Categorie:Cultuur in China
+模板:Wikinewscat	Sjabloon:Wikinewscat
+分類:動物	Categorie:Dierenrijk
+分類:語系	Categorie:Taal naar indeling
+分類:氣象學	Categorie:Meteorologie
+分類:越南國家公園	Categorie:Nationaal park van Vietnam
+分類:香港	Categorie:Hongkong
+分類:廣西	Categorie:Guangxi
+分類:衣裳	Categorie:Kleding
+分類:首都	Categorie:Hoofdstad
+分類:交通	Categorie:Vervoer
+分類:舞蹈	Categorie:Dans
+分類:1590年代	Categorie:1590-1599
+分類:1620年代	Categorie:1620-1629
+分類:1600年代	Categorie:1600-1609
+分類:1690年代	Categorie:1690-1699
+分類:790年代	Categorie:790-799
+分類:知識論	Categorie:Kentheorie
+分類:阿爾泰語系	Categorie:Altaïsche taalfamilie
+分類:北美洲	Categorie:Noord-Amerika
+分類:湖	Categorie:Meer
+分類:大洋洲	Categorie:Oceanië
+分類:1830年代	Categorie:1830-1839
+分類:雕刻	Categorie:Beeldhouwkunst
+分類:災	Categorie:Natuurramp
+分類:漢語	Categorie:Chinese talen
+分類:澳門	Categorie:Macau
+分類:中華人民共和國	Categorie:Volksrepubliek China
+分類:自由意志主義者	Categorie:Libertariër
+分類:自由意志主義	Categorie:Libertarisme
+手槍	Handvuurwapen
+分類:英語	Categorie:Engels
+模板:Infobox color	Sjabloon:Infobox kleur
+分類:亞洲國家	Categorie:Land in Azië
+分類:舞臺藝術	Categorie:Podiumkunsten
+分類:江西嗰建築	Categorie:Bouwwerk in Jiangxi
+分類:重慶	Categorie:Chongqing
+分類:打仗	Categorie:Oorlog
+分類:女性主義者	Categorie:Feminist
+分類:內蒙古	Categorie:Binnen-Mongolië
+Portal:化學	Portaal:Scheikunde
+模板:BEL	Sjabloon:BE
+分類:色	Categorie:Kleur
+分類:2028年	Categorie:2028
+模板:Image label begin	Sjabloon:Afbeelding label begin
+分類:聖保羅地鐵	Categorie:Metro van São Paulo
+甲型流感病毒H7N9亞型	H7N9
+分類:生活	Categorie:Dagelijks leven
+徐姓	Xú
+程姓	Cheng (程)
+蔣姓	Jiǎng
+模板:Frac	Sjabloon:Breuk
+汪姓	Wāng
+許姓	Xǔ
+模板:江西嗰行政區劃	Sjabloon:Navigatie provincie Jiangxi
+梁姓	Liang (naam)
+朱姓	Zhu (朱)
+特別:最晏嗰改動	Speciaal:RecenteWijzigingen

@@ -1,0 +1,801 @@
+Afrịka	Afrika
+South Amerika	Zuid-Amerika
+Spain	Spanje
+Njikota Obodo Amerika	Verenigde Staten
+Àlà	Aarde (planeet)
+Mádu	Mens
+Finland	Finland
+Poland	Polen
+Turkéy	Turkije
+Obodo Békè	Europa (werelddeel)
+Asia	Azië
+Olile anyanwu Amerika	Noord-Amerika
+Antarctica	Antarctica
+Wikipedia	Wikipedia
+New York City	New York City
+Orunotu	Computer
+Intanet	Internet
+Barack Obama	Barack Obama
+MediaWiki	MediaWiki
+London	Londen
+Òrìmìlì Atlantic	Atlantische Oceaan
+Òrìmìlì Pacific	Grote Oceaan
+California	Californië
+Önwa mbu	Januari
+February	Februari
+March	Maart
+Ethiopia	Ethiopië
+Ghana	Ghana
+Önwa ànó	April
+May	Mei
+Önwa ishií	Juni
+July	Juli
+August	Augustus (maand)
+September	September
+October	Oktober
+Önwa iri na otụ	November
+Disemba	December
+Odúm	Leeuw (dier)
+Obodoézè Nà Ofú	Verenigd Koninkrijk
+Wiktionary	Wiktionary
+Brazil	Brazilië
+Mpaghara Russia	Rusland
+Wiki	Wiki
+Alabama	Alabama
+Jimmy Wales	Jimmy Wales
+Jémanị	Duitsland
+Larry Sanger	Larry Sanger
+Otu	1 (getal)
+Abụo	2 (getal)
+Atọ	3 (getal)
+Anọ	4 (getal)
+Ise	5 (getal)
+0 (Ónúọgụgụ)	0 (getal)
+Yukrain	Oekraïne
+Barbados	Barbados
+Algeria	Algerije
+Wikisource	Wikisource
+Ńkú	Hout
+Jisọs Kraịst	Jezus (traditioneel-christelijk)
+Ákíkó mbu	Geschiedenis
+Ihunanya	Liefde
+Wikipedia nke ndị bekee	Engelstalige Wikipedia
+Amamihe	Wetenschap
+Wikibooks	Wikibooks
+Wikiquote	Wikiquote
+Ubuntu	Ubuntu (Linuxdistributie)
+Ọmúmú-ónúọgụgụ	Wiskunde
+Ostraliya	Australië (land)
+Bob Marley	Bob Marley
+Physics	Natuurkunde
+Áláküba	Islam
+Lech Wałęsa	Lech Wałęsa
+Ábu	Poëzie
+Ìfulū	Bloem (plant)
+Ama ukwu	Stad
+Ogbè	Dorp
+Wikimedia Commons	Wikimedia Commons
+Chad	Tsjaad
+Ndia	India
+Mën	Maine
+Ǹkà	Kunst
+Osisi	Planten
+Hampshire Ohúrú	New Hampshire
+Jamaikạ	Jamaica
+Másáchusẹts	Massachusetts
+Kónétíkùt	Connecticut
+Hawaii	Hawaï
+Dominika	Dominica
+Arctic Ocean	Noordelijke IJszee
+Àláskà	Alaska
+Israel	Israël
+Flórídạ	Florida (staat)
+Arizona	Arizona (staat)
+Oregon	Oregon
+Amerikas	Amerika (continent)
+Yútạh	Utah
+Charlie Chaplin	Charlie Chaplin
+Angola	Angola
+Albert Einstein	Albert Einstein
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Eritrea	Eritrea
+Pope John Paul II	Paus Johannes Paulus II
+Gabon	Gabon
+Kameroon	Kameroen
+Cape Verde	Kaapverdië
+Niger	Niger (land)
+Naigeria	Nigeria
+Julius Caesar	Julius Caesar
+Sudan	Soedan
+Ọmúmú-àlà	Aardrijkskunde
+Àgwà	Kleur
+Michigan	Michigan
+Ilinoi	Illinois (staat)
+North Dakota	North Dakota
+Sawt Dakótạ	South Dakota
+Montana	Montana (staat)
+Waịómịn	Wyoming
+Jerusalem	Jeruzalem
+Idaho	Idaho
+Washington (nkeji obodo)	Washington (staat)
+Náevadạ	Nevada (staat)
+Òrìmìlì India	Indische Oceaan
+Colorado	Colorado (staat)
+Òtù:Ébé ihe nọr	Categorie:Alles
+Chicago	Chicago
+Végíníyà	Virginia (staat)
+West Virginia	West Virginia
+Nú Yọk	New York (staat)
+Àlá mmírí Rhode	Rhode Island (staat)
+Mérílạnd	Maryland
+Déláwè	Delaware
+Ohaïyo	Ohio (staat)
+Pensílvéníyạ	Pennsylvania
+Uetersen	Uetersen
+Nú Jezị	New Jersey
+Ndiánà	Indiana
+Jorjiạ	Georgia (staat)
+Texas	Texas (staat)
+Nort Kárólínạ	North Carolina
+Nleda anyanwu Kàròlina	South Carolina
+Mississippi	Mississippi (staat)
+Tennessee	Tennessee
+Nú Mézíkọ	New Mexico
+Minésótạ	Minnesota
+Coordinated Universal Time	UTC
+Wiskonsin	Wisconsin
+Áyowạ	Iowa (staat)
+Nebraska	Nebraska
+Kánzạs	Kansas (staat)
+Mizurị	Missouri (staat)
+Luwisiánà	Louisiana (staat)
+Kentórkị	Kentucky
+Arkinsọ	Arkansas (staat)
+Oklahoma	Oklahoma
+Akwụkwọ Nsọ	Bijbel (christendom)
+Ho Chi Minh City	Ho Chi Minhstad
+Ezigbo ulo uka Jesu	Ware Jezuskerk
+Asụsụ Inglish	Engels
+Đồng Hới	Đồng Hới
+Końskowola	Końskowola
+2000	2000
+2003	2003
+2001	2001
+2005	2005
+2007	2007
+1909	1909
+1991	1991
+1993	1993
+1996	1996
+1998	1998
+1999	1999
+Önwa mbu 1	1 januari
+Önwa mbu 2	2 januari
+Önwa mbu 3	3 januari
+Önwa mbu 4	4 januari
+Önwa mbu 5	5 januari
+Önwa mbu 6	6 januari
+Önwa mbu 7	7 januari
+Önwa mbu 8	8 januari
+Önwa mbu 9	9 januari
+10 Jenụwarị	10 januari
+11 Jenụwarị	11 januari
+Önwa mbu 12	12 januari
+Önwa mbu 13	13 januari
+Önwa mbu 14	14 januari
+Önwa mbu 15	15 januari
+Önwa mbu 16	16 januari
+Önwa mbu 17	17 januari
+Önwa mbu 18	18 januari
+Önwa mbu 19	19 januari
+Önwa mbu 20	20 januari
+Önwa mbu 21	21 januari
+Önwa mbu 22	22 januari
+Önwa mbu 23	23 januari
+Önwa mbu 24	24 januari
+Önwa mbu 25	25 januari
+Önwa mbu 26	26 januari
+Önwa mbu 27	27 januari
+Önwa mbu 28	28 januari
+Önwa mbu 29	29 januari
+Önwa mbu 30	30 januari
+Önwa mbu 31	31 januari
+Önwa iri na abụọ 1	1 december
+3 Disemba	3 december
+1 Febrụwarị	1 februari
+2 Febrụwarị	2 februari
+3 Febrụwarị	3 februari
+Kurów	Kurów (powiat Puławski)
+4 Febrụwarị	4 februari
+5 Febrụwarị	5 februari
+6 Febrụwarị	6 februari
+7 Febrụwarị	7 februari
+8 Febrụwarị	8 februari
+9 Febrụwarị	9 februari
+10 Febrụwarị	10 februari
+14 Febrụwarị	14 februari
+13 Febrụwarị	13 februari
+15 Febrụwarị	15 februari
+11 Febrụwarị	11 februari
+12 Febrụwarị	12 februari
+19 Febrụwarị	19 februari
+17 Febrụwarị	17 februari
+16 Febrụwarị	16 februari
+18 Febrụwarị	18 februari
+20 Febrụwarị	20 februari
+21 Febrụwarị	21 februari
+22 Febrụwarị	22 februari
+23 Febrụwarị	23 februari
+24 Febrụwarị	24 februari
+25 Febrụwarị	25 februari
+26 Febrụwarị	26 februari
+27 Febrụwarị	27 februari
+28 Febrụwarị	28 februari
+29 Febrụwarị	29 februari
+2 Maachị	2 maart
+3 Maachị	3 maart
+5 Maachị	5 maart
+1 Maachị	1 maart
+7 Maachị	7 maart
+8 Maachị	8 maart
+4 Maachị	4 maart
+10 Maachị	10 maart
+11 Maachị	11 maart
+6 Maachị	6 maart
+13 Maachị	13 maart
+9 Maachị	9 maart
+12 Maachị	12 maart
+15 Maachị	15 maart
+14 Maachị	14 maart
+16 Maachị	16 maart
+17 Maachị	17 maart
+18 Maachị	18 maart
+19 Maachị	19 maart
+20 Maachị	20 maart
+1985	1985
+21 Maachị	21 maart
+22 Maachị	22 maart
+1981	1981
+23 Maachị	23 maart
+24 Maachị	24 maart
+25 Maachị	25 maart
+20 Disemba	20 december
+26 Maachị	26 maart
+27 Maachị	27 maart
+28 Maachị	28 maart
+29 Maachị	29 maart
+30 Maachị	30 maart
+31 Maachị	31 maart
+1976	1976
+Pope Benedict XVI	Paus Benedictus XVI
+15 Eprel	15 april
+13 Eprel	13 april
+12 Eprel	12 april
+14 Eprel	14 april
+11 Eprel	11 april
+10 Eprel	10 april
+8 Eprel	8 april
+9 Eprel	9 april
+7 Eprel	7 april
+6 Eprel	6 april
+5 Eprel	5 april
+4 Eprel	4 april
+3 Eprel	3 april
+1 Eprel	1 april
+2 Eprel	2 april
+16 Eprel	16 april
+17 Eprel	17 april
+18 Eprel	18 april
+19 Eprel	19 april
+20 Eprel	20 april
+21 Eprel	21 april
+22 Eprel	22 april
+23 Eprel	23 april
+24 Eprel	24 april
+25 Eprel	25 april
+26 Eprel	26 april
+27 Eprel	27 april
+28 Eprel	28 april
+29 Eprel	29 april
+30 Eprel	30 april
+1 Mee	1 mei
+2 Mee	2 mei
+3 Mee	3 mei
+4 Mee	4 mei
+5 Mee	5 mei
+6 Mee	6 mei
+7 Mee	7 mei
+8 Mee	8 mei
+9 Mee	9 mei
+10 Mee	10 mei
+11 Mee	11 mei
+12 Mee	12 mei
+13 Mee	13 mei
+14 Mee	14 mei
+15 Mee	15 mei
+16 Mee	16 mei
+17 Mee	17 mei
+18 Mee	18 mei
+19 Mee	19 mei
+20 Mee	20 mei
+21 Mee	21 mei
+22 Mee	22 mei
+23 Mee	23 mei
+24 Mee	24 mei
+25 Mee	25 mei
+26 Mee	26 mei
+27 Mee	27 mei
+28 Mee	28 mei
+29 Mee	29 mei
+30 Mee	30 mei
+31 Mee	31 mei
+Önwa ishií 14	14 juni
+Önwa ishií 15	15 juni
+Önwa ishií 13	13 juni
+Önwa ishií 10	10 juni
+Önwa ishií 7	7 juni
+Önwa ishií 11	11 juni
+Önwa ishií 9	9 juni
+Önwa ishií 12	12 juni
+Önwa ishií 6	6 juni
+Önwa ishií 8	8 juni
+Önwa ishií 5	5 juni
+Önwa ishií 3	3 juni
+Önwa ishií 2	2 juni
+Önwa ishií 1	1 juni
+Önwa ishií 4	4 juni
+1967	1967
+Önwa ishií 16	16 juni
+Önwa ishií 30	30 juni
+Önwa ishií 29	29 juni
+Önwa ishií 28	28 juni
+Önwa ishií 26	26 juni
+Önwa ishií 25	25 juni
+Önwa ishií 22	22 juni
+Önwa ishií 27	27 juni
+Önwa ishií 24	24 juni
+Önwa ishií 20	20 juni
+Önwa ishií 23	23 juni
+Önwa ishií 19	19 juni
+Önwa ishií 18	18 juni
+Önwa ishií 21	21 juni
+Önwa ishií 17	17 juni
+15 Julaị	15 juli
+13 Julaị	13 juli
+12 Julaị	12 juli
+10 Julaị	10 juli
+9 Julaị	9 juli
+14 Julaị	14 juli
+8 Julaị	8 juli
+7 Julaị	7 juli
+6 Julaị	6 juli
+5 Julaị	5 juli
+2 Julaị	2 juli
+4 Julaị	4 juli
+3 Julaị	3 juli
+1 Julaị	1 juli
+11 Julaị	11 juli
+30 Julaị	30 juli
+29 Julaị	29 juli
+27 Julaị	27 juli
+19 Julaị	19 juli
+20 Julaị	20 juli
+17 Julaị	17 juli
+18 Julaị	18 juli
+16 Julaị	16 juli
+Footbọl	Voetbal
+3 Ọgọọst	3 augustus
+1 Ọgọọst	1 augustus
+27 Disemba	27 december
+Önwa asaa atọ 29	29 augustus
+30 Ọgọọst	30 augustus
+27 Ọgọọst	27 augustus
+20 Ọgọọst	20 augustus
+Michael Jackson	Michael Jackson
+Ịgbó	Cannabis (drug)
+1 Septemba	1 september
+3 Septemba	3 september
+29 Disemba	29 december
+30 Septemba	30 september
+29 Septemba	29 september
+27 Septemba	27 september
+20 Septemba	20 september
+30 Disemba	30 december
+1 Ọktoba	1 oktober
+3 Ọktoba	3 oktober
+30 Ọktoba	30 oktober
+29 Ọktoba	29 oktober
+27 Ọktoba	27 oktober
+20 Ọktoba	20 oktober
+11 Novemba	11 november
+3 Novemba	3 november
+1 Novemba	1 november
+30 Novemba	30 november
+29 Novemba	29 november
+27 Novemba	27 november
+20 Novemba	20 november
+Göttingen	Göttingen (stad)
+Ūfie	Rood (kleur)
+Oshimiri Orimiri	Niger (rivier)
+Addis Ababa	Addis Abeba
+Òtù:Templates	Categorie:Wikipedia:Sjablonen
+Abuja	Abuja
+Galisa	Galicië (Spanje)
+Wikipedia:Ama Egwuregwu	Wikipedia:Zandbak
+Ama	Town
+Osasco	Osasco (Brazilië)
+Curitiba	Curitiba (gemeente)
+Jonathan Winters	Jonathan Winters
+Sean Connery	Sean Connery
+Konfúkius	Confucius
+Corbin Bleu	Corbin Bleu
+Òtù:Ọmúmú-ónúọgụgụ	Categorie:Wiskunde
+Efefe Kraịst	Christendom
+Seattle	Seattle
+Oskàpà	Rijst
+Monzón	Monzón
+Almazán	Almazán (gemeente)
+Ihü Mbu	Hoofdpagina
+Vincent van Gogh	Vincent van Gogh
+Frank Lloyd Wright	Frank Lloyd Wright
+Gabriel García Márquez	Gabriel García Márquez
+Ákọ na Uche	Filosofie
+Òtù:Candidates for speedy deletion	Categorie:Wikipedia:Nuweg
+Liberalism	Liberalisme
+Égwu ahiri	Gitaar
+Conservatism	Conservatisme
+Ọchíchí nke umunna Han	Han-dynastie
+Jew	Joden
+Southern Ocean	Zuidelijke Oceaan
+Ntị	Oor
+Ányá	Oog (anatomie)
+Achicha	Brood
+Nelson Mandela	Nelson Mandela
+Martin Luther King, Jr.	Martin Luther King
+Ómárí	Logica
+Ȯgbà	Maatschappij (wereld)
+Azụ	Familie (verwanten)
+Hong Kong	Hongkong
+Lagos	Lagos (Nigeria)
+Walt Disney	Walt Disney
+José Mujica	José Mujica
+Taj Mahal	Taj Mahal
+Abram	Abraham
+Judaism	Jodendom
+Oke Òrìmìlì	Oceaan
+Muhammad	Mohammed
+Onu	Mond (orgaan)
+Ronald Reagan	Ronald Reagan
+Óshíshí	Boom (plant)
+Ńnú odẹne	Tafelsuiker
+Nka na Uzu	Technologie
+Ọrià Parkinson	Ziekte van Parkinson
+Electromagnetism	Elektromagnetisme
+Ndetu obodo	Lijst van landen in 2015
+Kevin Costner	Kevin Costner
+Google Maps	Google Maps
+Tutankhamun	Toetanchamon
+Detroit	Detroit (Michigan)
+Njè Ághá Jésu	Kruistocht
+Oche	Stoel
+Queen	Queen
+Kanyé West	Kanye West
+Àtụ:Link FA	Sjabloon:Link FA
+Vermont	Vermont
+Ulo uka	Kerkgebouw
+Nupedia	Nupedia
+Itolu	9 (getal)
+Nha Trang	Nha Trang
+Public domain	Publiek domein
+Josh Duhamel	Josh Duhamel
+Lady Gaga	Lady Gaga
+Breinigerberg	Breinigerberg
+Samsung	Samsung Group
+Vung Tau	Vũng Tàu (stad)
+GNU Free Documentation License	GNU-licentie voor vrije documentatie
+Population density	Bevolkingsdichtheid
+1	1
+Asaa	7 (getal)
+Asatọ	8 (getal)
+Taylor Lautner	Taylor Lautner
+Jeremy Renner	Jeremy Renner
+Chris Pine	Chris Pine
+Isii	6 (getal)
+Asụsụ obodo	Officiële taal
+Moshchena	Mosjtsjena
+George H. W. Bush	George H.W. Bush
+Paltoga	Paltoga
+Entrena	Entrena
+Iri	10 (getal)
+Andrew Garfield	Andrew Garfield
+Ca Mau	Cà Mau (stad)
+ISO 3166-1	ISO 3166-1
+Da Nang	Đà Nẵng (stad)
+Arktik	Arctis
+Amerikạ	Amerika
+Mahadum Niccolò Cusano	Università degli Studi Niccolò Cusano
+Owuwa Anyanwu Obodo Beke	Oost-Europa
+Mba Mmiri	Nigerdelta
+Density	Dichtheid (natuurkunde)
+Ásụ̀sụ̀ Ị̀gbò	Igbo (taal)
+Áká	Hand
+Ndi Haụsa	Hausa (volk)
+Marlon Brando	Marlon Brando
+Latitude	Breedtegraad
+Justin Bieber	Justin Bieber
+Kingston	Kingston (Jamaica)
+Ágụ	Luipaard
+Ílú	Spreekwoord
+Charles Bronson	Charles Bronson
+Beyoncé Knowles	Beyoncé Knowles
+Thanh Hoa	Thanh Hóa (stad in Thanh Hóa)
+Longitude	Lengtegraad
+Iri na abụo	12 (getal)
+Toshiro Mifune	Toshiro Mifune
+Iri na otu	11 (getal)
+Iri na atọ	13 (getal)
+Mmuo Nso	Heilige Geest
+Iri na anọ	14 (getal)
+Iri na ise	15 (getal)
+Iri na asatọ	18 (getal)
+Radio Studio 54 Network	Radio Studio 54 Network
+Iri na iteghete	19 (getal)
+Iri na asaa	17 (getal)
+Iri na isii	16 (getal)
+Iri abụo	20 (getal)
+Björk	Björk
+Johnny Cash	Johnny Cash
+Omaha, Nebraska	Omaha (Nebraska)
+Malcolm X	Malcolm X
+Nwanyi	Vrouwelijk (biologie)
+Nwoke	Mannelijk (biologie)
+The Doors	The Doors
+Clive Dunn	Clive Dunn
+Ndi áláküba	Moslim
+Idi Amin	Idi Amin
+Iri abụo na atọ	23 (getal)
+Ndi Afrika nke Amerika	Afro-Amerikanen
+Nje ọrịa Ebola	Ebola
+Goodluck Jonathan	Goodluck Jonathan
+Siegfried & Roy	Siegfried & Roy
+Iri abụo na ise	25 (getal)
+Iri abụo na anọ	24 (getal)
+Etemete mmírí	Waterkringloop
+James Dean	James Dean
+Ahà nnà	Achternaam
+Harriet Tubman	Harriet Tubman
+Donald Sutherland	Donald Sutherland
+Peter O'Toole	Peter O'Toole
+Sidney Poitier	Sidney Poitier
+Umaru Yar'Adua	Umaru Yar'Adua
+Onye Kraịst	Christen
+Òbòdò àgwè	Eilandstaat
+Joey King	Joey King
+Malcolm McDowell	Malcolm McDowell
+Ȯra Anambra	Anambra
+Dziecinów (no na Otwock County)	Dziecinów (powiat Otwocki)
+Russell Crowe	Russell Crowe
+Chinụa Achebe	Chinua Achebe
+Dammam	Dammam
+Gini coefficient	Gini-coëfficiënt
+Daniel Day-Lewis	Daniel Day-Lewis
+Ahú	Lichaam (biologie)
+Okpara	Zoon (familie)
+Bịafra	Republiek Biafra
+Nkárí asụsụ China nke óménàlà	Traditionele Chinese karakters
+Christopher Lee	Christopher Lee
+Philip Seymour Hoffman	Philip Seymour Hoffman
+Nnamdi Azikiwe	Nnamdi Azikiwe
+Ta’if	Taif
+Asafa Powell	Asafa Powell
+Forest Whitaker	Forest Whitaker
+Kano	Kano (stad)
+Ndi Yoruba	Yoruba (volk)
+Wikipedia nke ndị Norway	Noorse Wikipedia
+Nancy Reagan	Nancy Reagan
+Digimon	Digimon
+Egbughị egbu	Niet-doding
+Olusegun Obasanjo	Olusegun Obasanjo
+Abá	Aba (Nigeria)
+Ọrịa ihi ụra nke ukwuu	Slaapziekte
+Umuahia	Umuahia
+Sani Abacha	Sani Abacha
+Roger Ebert	Roger Ebert
+Adolfo Suárez	Adolfo Suárez
+David Letterman	David Letterman
+Ugwu Ọcha	Port Harcourt
+Anggun	Anggun
+Erykah Badu	Erykah Badu
+Ruby Dee	Ruby Dee
+Ndi ocha	Blanken
+Arise O Compatriots, Nigeria's Call Obey	Arise O Compatriots, Nigeria's Call Obey
+Ndị Igbo	Igbo (volk)
+Pete Seeger	Pete Seeger
+Skin Diamond	Skin Diamond
+Marcia Wallace	Marcia Wallace
+808s & Heartbreak	808s & Heartbreak
+Marcus Garvey	Marcus Garvey
+Paul Robeson	Paul Robeson
+Lacey Duvalle	Lacey Duvalle
+George Gaynes	George Gaynes
+Martin Landau	Martin Landau
+Miranda Otto	Miranda Otto
+Kelis	Kelis
+Richard Chamberlain	Richard Chamberlain
+Dorothy Height	Dorothy Height
+Ẹkẹlẹkbọ	Tweeslachtigheid
+Abakaléké	Abakaliki
+Adá	Dochter
+James Gandolfini	James Gandolfini
+Hal Holbrook	Hal Holbrook
+Richard Griffiths	Richard Griffiths
+Donald Pleasence	Donald Pleasence
+Ȯra Abia	Abia (staat)
+Richard Matheson	Richard Matheson
+Ibrahim Babangida	Ibrahim Babangida (militair)
+Stereolab	Stereolab
+Fernanda Montenegro	Fernanda Montenegro
+Ndi ojié	Negroïde
+Richard Schiff	Richard Schiff
+Marek Grechuta	Marek Grechuta
+Olaudah Equiano	Olaudah Equiano
+Chukwuemeka Odumegwu Ojukwu	Chukwuemeka Odumegwu Ojukwu
+Bob Barker	Bob Barker (presentator)
+Pope Francis	Paus Franciscus
+Akwụkwọ nke Momọn	Boek van Mormon
+Genevieve Nnaji	Genevieve Nnaji
+Stephen Root	Stephen Root
+Enúgwu	Enugu (stad)
+León Febres Cordero	León Febres-Cordero
+Coritiba Foot Ball Club	Coritiba Foot Ball Club
+Baraona	Baraona
+Medinaceli	Medinaceli
+James Avery	James Avery (acteur)
+Chris Pratt	Chris Pratt
+Ȯra Ebonyi	Ebonyi
+Coupé Décalé	Coupé Decalé
+Owẹrrẹ	Owerri
+Baskin-Robbins	Baskin-Robbins
+Asaá Göttingen	Göttinger Sieben
+Ọgụ Towton	Slag bij Towton
+Nkeji Ochíchííwu Kano	Kano (staat)
+Brandy	Brandy (zangeres)
+Iri abụo na otu	21 (getal)
+Iri abụo na abụo	22 (getal)
+Malachi Throne	Malachi Throne
+Óká	Awka
+Ȯra Lagos	Lagos (staat)
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Miño de Medinaceli	Miño de Medinaceli
+Villasayas	Villasayas
+Yelo	Yelo
+Ȯra Imo	Imo
+Onịchạ	Onitsha
+VietJet Air	VietJet Air
+Ojị	Kolanoot
+Buddy Ebsen	Buddy Ebsen
+Ikeja	Ikeja
+Afọ	Maag
+Àsàbà	Asaba
+The Pit and the Pendulum (fim 1961)	The Pit and the Pendulum (1961)
+Lólọ	Queen (doorverwijspagina)
+3 (disambiguation)	3 (doorverwijspagina)
+Michael Ansara	Michael Ansara
+Agnes Monica	Agnes Monica
+Òtù:Jémanị	Categorie:Duitsland
+Òtù:Njikota Obodo Amerika	Categorie:Verenigde Staten
+Òtù:Mpaghara Russia	Categorie:Rusland
+Òtù:Spain	Categorie:Spanje
+Òtù:Ndia	Categorie:India
+Òtù:Ethiopia	Categorie:Ethiopië
+Òtù:Naigeria	Categorie:Nigeria
+Òtù:Poland	Categorie:Polen
+Òtù:Yukrain	Categorie:Oekraïne
+Òtù:Vietnam	Categorie:Vietnam
+Òtù:Ákíkó mbu	Categorie:Geschiedenis
+Òtù:Geography	Categorie:Geografie
+Òtù:Àlà	Categorie:Aarde
+5 (disambiguation)	5 (doorverwijspagina)
+Òtù:Disambiguation	Categorie:Wikipedia:Doorverwijspagina
+9 (disambiguation)	9 (doorverwijspagina)
+Ba Ria	Bà Rịa (stad)
+Igbo	Igbo
+4 (disambiguation)	4 (doorverwijspagina)
+Ohi	Diefstal
+Conrad Bain	Conrad Bain
+1 (disambiguation)	1 (doorverwijspagina)
+7 (disambiguation)	7 (doorverwijspagina)
+Òtù:Édémédé mkpu mkpu	Categorie:Wikipedia:Beginnetje
+Òtù:Continents	Categorie:Continent
+Odòdo	Paars
+Ora no na ime Naigeria	Bestuurlijke indeling van Nigeria
+Òtù:Wikipedia bots	Categorie:Wikipedia:Bots
+Ȯra Enugu	Enugu (staat)
+Wikipedia:Administrators	Wikipedia:Moderator
+Wikipedia:Requests for adminship	Wikipedia:Aanmelding moderatoren
+Wikipedia:Bureaucrats	Wikipedia:Bureaucraat
+Wikipedia:Oversight	Wikipedia:Oversight
+Àtụ:Bot	Sjabloon:Bot
+Kánada	Canada
+Òtù:Wikipedia policies and guidelines	Categorie:Wikipedia:Beleid
+Àtụ:Documentation	Sjabloon:Sjabdoc
+Wikipedia:Nzọr ogbako	Portaal:Gebruikersportaal
+Wikipedia:Neutral point of view	Wikipedia:Neutraal standpunt
+Àtụ:Softredirect	Sjabloon:Softredirect
+Àtụ:Delete	Sjabloon:Nuweg
+Òtù:Wikipedia	Categorie:Encyclopedie Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Vrijwaringsclausule
+Wikipedia:Privacy policy	Wikipedia:Privacybeleid
+Àtụ:Ngwaọtú	Sjabloon:Navigatie
+Òtù:Redirects	Categorie:Wikipedia:Redirect
+Àtụ:Tnavbar	Sjabloon:Tnavbar
+Òtù:Formatting templates	Categorie:Wikipedia:Sjablonen opmaak
+Àtụ:Clear	Sjabloon:Clearboth
+Àtụ:Érèkọbalà	Sjabloon:Nowrap
+Òtù:Afrịka	Categorie:Afrika
+Òtù:Önwa ishií	Categorie:Juni
+Àtụ:Babel	Sjabloon:Babel
+Àtụ:References	Sjabloon:References
+Àtụ:ÉdéNtạ	Sjabloon:Beginnetje
+Àtụ:See also	Sjabloon:Zie ook
+Àtụ:User en	Sjabloon:Gebruiker en
+Àtụ:User sk	Sjabloon:Gebruiker sk
+Àtụ:User ja	Sjabloon:Gebruiker ja
+Àtụ:Mod	Sjabloon:Modulo
+Òtù:Encyclopedias	Categorie:Encyclopedie
+Àtụ:Íshí Nzọr Inglish	Sjabloon:Hola
+Àtụ:NwannenwanyiWikipedia	Sjabloon:Hoofdpagina/Projecten
+Àtụ:Íshí nke önwa	Sjabloon:Navigatie maanden
+Òtù:Coordinates templates	Categorie:Wikipedia:Sjablonen coördinaten
+Àtụ:Ala no n'ime Africa	Sjabloon:Navigatie landen Afrika
+Àtụ:Steady	Sjabloon:Stabiel
+Àtụ:Ngwómárí Obodo	Sjabloon:Infobox land
+Àtụ:Audio	Sjabloon:Audio
+Àtụ:Ngwómárí pharaoh	Sjabloon:Infobox farao Egypte
+Òtù:User en	Categorie:Wikipedia:Gebruiker en
+Àtụ:Infobox	Sjabloon:Infobox generiek
+Àtụ:TOCright	Sjabloon:Inhoud rechts
+Àtụ:Coor URL	Sjabloon:MapsServer
+Àtụ:IPA	Sjabloon:IPA
+Àtụ:Infobox Ndi mbà	Sjabloon:Infobox volk
+Àtụ:Border	Sjabloon:Border
+Àtụ:Infobox website	Sjabloon:Infobox website
+Àtụ:Coor title dms	Sjabloon:Coor title dms
+Àtụ:Documentation subpage	Sjabloon:Sjabdoc direct
+Àtụ:Tlx	Sjabloon:Tlx
+Àtụ:User	Sjabloon:Gebruikerlinks
+Àtụ:Clearright	Sjabloon:Clearright
+Àtụ:Coor	Sjabloon:Coördinaten
+Òtù:Interwiki Templates	Categorie:Wikipedia:Sjablonen zusterproject
+Òtù:User sk	Categorie:Wikipedia:Gebruiker sk
+Òtù:User sk-N	Categorie:Wikipedia:Gebruiker sk-M
+Òtù:User de	Categorie:Wikipedia:Gebruiker de
+Òtù:User de-N	Categorie:Wikipedia:Gebruiker de-M
+Òtù:User en-N	Categorie:Wikipedia:Gebruiker en-M
+Àtụ:Information	Sjabloon:Information
+Òtù:Ala no n'ime Afrịka	Categorie:Land in Afrika
+Òtù:Nebraska	Categorie:Nebraska
+Òtù:Michigan	Categorie:Michigan
+Òtù:Ora no na ime Naigeria	Categorie:Bestuurlijke indeling van Nigeria
+Òtù:1st century	Categorie:1e eeuw
+Òtù:Jamaikạ	Categorie:Jamaica
+Òtù:Dominika	Categorie:Dominica
+Òtù:Wikimedia Foundation	Categorie:Wikimedia
+Òtù:Ómárí	Categorie:Logica
+Àtụ:Infobox Language	Sjabloon:Infobox taal
+Trojany (no na Wołomin County)	Trojany (Mazovië)
+Jí	Yam
+Òtù:Akwụkwọ nke Momọn	Categorie:Boek van Mormon
+Àtụ:TOCleft	Sjabloon:Inhoud links
+Òtù:Göttingen	Categorie:Göttingen
+Òtù:President of Naigeria	Categorie:President van Nigeria
+Wikipedia:Medical disclaimer	Wikipedia:Voorbehoud bij medische informatie
+Nwanne	Broer
+Àtụ:Oscoor	Sjabloon:Oscoor
+Ihü kárírí:RecentChanges	Speciaal:RecenteWijzigingen
